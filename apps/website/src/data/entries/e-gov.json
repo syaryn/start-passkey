@@ -1,0 +1,12 @@
+{
+  "name": "e-Gov",
+  "reading": "いーがぶ",
+  "domain": "e-gov.go.jp",
+  "categories": ["government"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.e-gov.go.jp/help/guide/firstlogin.html",
+  "url": "https://www.e-gov.go.jp/",
+  "notes": "e-Govアカウント（メールアドレス＋パスワード）は初回ログイン時に、認証アプリ（Authenticator）のワンタイムコードによる2要素認証か、秘密の質問による追加認証のいずれかの設定が必須。認証アプリを選んだ場合はログインのたびにコード入力が必要。パスキーは設定できない。GビズIDやマイナンバーカード等の外部認証サービスでもログイン可能。",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://www.e-gov.go.jp/help/guide/firstlogin.html"
+}

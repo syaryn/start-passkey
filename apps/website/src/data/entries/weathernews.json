@@ -1,0 +1,12 @@
+{
+  "name": "ウェザーニュース",
+  "reading": "うぇざーにゅーす",
+  "domain": "weathernews.jp",
+  "url": "https://weathernews.jp/",
+  "categories": ["lifestyle"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://weathernews.jp/s/faq_v2/menu00.html",
+  "notes": "公式FAQではログインはウェザーニュースID（メールアドレス）＋パスワードと繰り返し案内されている。二段階認証・認証アプリ・パスキーの設定案内は公式FAQに見当たらない。キャリア決済等では端末側の認証で利用する形態もあるが、ID/パスワード以外の追加認証の設定はない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

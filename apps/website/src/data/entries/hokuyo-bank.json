@@ -1,0 +1,12 @@
+{
+  "name": "北洋銀行",
+  "reading": "ほくようぎんこう",
+  "domain": "hokuyobank.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.hokuyobank.co.jp/ib/token/h_image/token06.pdf",
+  "url": "https://www.hokuyobank.co.jp/",
+  "notes": "個人向けインターネットバンキング「北洋ダイレクト」は会員番号＋ログオンパスワードでログオンし、手続き時にスマートフォン向けソフトトークン（専用アプリが生成するワンタイムパスワード、自動入力対応）を入力する方式。法人向けにはOTPカードもある。パスキーの案内は公式情報になし",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://www.hokuyobank.co.jp/ib/token/h_image/token06.pdf"
+}

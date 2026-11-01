@@ -1,0 +1,12 @@
+{
+  "name": "IBJ（日本結婚相談所連盟）会員システム",
+  "reading": "あいびーじぇー",
+  "domain": "ibjapan.com",
+  "url": "https://www.ibjapan.com/",
+  "categories": ["lifestyle"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.ibjapan.com/kaisetu/reason/kameisystem/",
+  "notes": "加盟相談所から発行される会員IDとパスワードでログインする会員専用システム（IBJS／IBJ online）。公式情報にパスキー・認証アプリ・コードによる追加認証の設定案内はない。公式ページでは加盟相談所向け業務システムのアプリに生体認証の導入が案内されているが、会員ログイン用のパスキーではない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

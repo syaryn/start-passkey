@@ -1,0 +1,12 @@
+{
+  "name": "タイムズカーシェア",
+  "reading": "たいむずかーしぇあ",
+  "domain": "share.timescar.jp",
+  "url": "https://share.timescar.jp/",
+  "categories": ["mobility"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://share.timescar.jp/news/2026/0422/1729.html",
+  "notes": "現行名称はタイムズカー。ログイン自体は10桁の会員番号＋パスワードのみで、ログイン時に使える追加認証はない。マイページの「ご登録情報の確認」画面で登録情報を閲覧・変更する際には、登録メールアドレスまたはSMSへ認証コードを送る2段階認証がある（個人会員は2026年5月14日から順次導入）が、これはログイン後の機微操作専用の認証であり、ログイン自体には使えないため本ディレクトリの基準では数えない。アプリの生体認証は端末内に保管されたログイン情報の呼び出しでパスキーではない。ログイン時の認証アプリ・パスキーはなし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

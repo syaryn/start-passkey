@@ -1,0 +1,11 @@
+{
+  "name": "mixi",
+  "reading": "みくしぃ",
+  "domain": "mixi.jp",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://mixi.jp/help.pl?mode=item&item=1192",
+  "url": "https://mixi.jp/",
+  "notes": "ログインは登録メールアドレスとパスワードのみ（公式ヘルプ明記）で、2段階認証・パスキー・認証アプリの設定は公式ヘルプに存在しない。共通アカウント「MIXI ID」（mixi2やMIXI Mなどが利用）は2024年からFIDO2準拠のパスキーに対応しているが、SNS mixiはサービス独自のアカウント認証を採用しておりMIXI IDではログインできない（公式mixi2ヘルプ明記）ため、区別してpassword-onlyとした。",
+  "recommendation": "password-only"
+}

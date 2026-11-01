@@ -1,0 +1,12 @@
+{
+  "name": "Bandcamp",
+  "reading": "ばんどきゃんぷ",
+  "domain": "bandcamp.com",
+  "url": "https://bandcamp.com/",
+  "categories": ["music"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://get.bandcamp.help/hc/en-us",
+  "notes": "ログインはユーザー名／メールアドレス＋パスワードのみ。公式ヘルプセンターのログイン関連記事はパスワード再設定やアカウント連携のみで、二要素認証・認証アプリ・パスキーの設定案内は存在しない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

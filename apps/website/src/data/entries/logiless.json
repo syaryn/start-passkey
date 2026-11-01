@@ -1,0 +1,13 @@
+{
+  "name": "LOGILESS",
+  "reading": "ろじれす",
+  "domain": "logiless.com",
+  "url": "https://www.logiless.com/",
+  "categories": ["logistics"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.logiless.com/merchant/common-operation/2fa/",
+  "notes": "2要素認証は認証アプリ（Google Authenticator、Twilio Authy、1Password等）のワンタイムパスワード方式。ユーザー単位で有効化でき、組織設定で全ユーザーに強制も可能。2027年1月6日からは全ユーザーに2要素認証が必須化される。パスキーの案内は公式ヘルプになし",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://support.logiless.com/merchant/common-operation/2fa/"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DLsite",
+  "reading": "でぃーえるさいと",
+  "domain": "dlsite.com",
+  "url": "https://www.dlsite.com/",
+  "categories": ["hobby"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://info.eisys.co.jp/dlsite/957472154f80e60a?locale=default",
+  "notes": "アカウントはviviON IDで、2段階認証は認証アプリで確認する認証コード方式（2024年9月導入、初期設定はOFFで任意設定）。設定はCi-enなどviviON ID連携サービスにも共通して適用される。パスキーの案内は公式情報になし。詳細な設定手順はDLsiteヘルプ（cs.dlsite.com）へ案内されている。",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://info.eisys.co.jp/dlsite/957472154f80e60a?locale=default"
+}

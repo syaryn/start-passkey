@@ -1,0 +1,16 @@
+{
+  "name": "GitHub",
+  "reading": "ぎっとはぶ",
+  "domain": "github.com",
+  "categories": ["developer"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://docs.github.com/en/authentication/authenticating-with-a-passkey/about-passkeys",
+  "url": "https://github.com/",
+  "notes": "パスキーでパスワード入力なしにサインインでき、公式ドキュメント上、パスキーはパスワードと2FAの両方の要件を満たす（2FA利用時も1ステップで完了）。sudoモードやパスワードリセットにも利用可能。2FA用に登録済みの対応セキュリティキーはパスキーへアップグレードできる。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://docs.github.com/en/authentication/authenticating-with-a-passkey/about-passkeys",
+  "passkey": {
+    "passwordless": "allowed",
+    "mfa": "allowed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "PayPal",
+  "reading": "ぺいぱる",
+  "domain": "paypal.com",
+  "categories": ["payments"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.paypal.com/lu/cshelp/article/how-do-i-log-in-to-paypal-with-a-passkey-help997",
+  "url": "https://www.paypal.com/",
+  "notes": "対象アカウント向けにパスキーが利用でき、端末の生体認証や画面ロックでパスワードなしにログインできる。パスキーはパスワードの代替という位置づけで、2段階認証の方法としては案内されていない（ログイン時にOTP等の追加確認が行われる場合がある）",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.paypal.com/lu/cshelp/article/how-do-i-log-in-to-paypal-with-a-passkey-help997",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

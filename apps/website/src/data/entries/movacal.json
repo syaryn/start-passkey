@@ -1,0 +1,12 @@
+{
+  "name": "モバカル",
+  "reading": "もばかる",
+  "domain": "movacal.net",
+  "url": "https://movacal.net/",
+  "categories": ["health"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://movacal.net/clinic/security/",
+  "notes": "クラウド型電子カルテ。ログイン時の個人認証は、1ステップとしてX.509準拠の電子証明書（クライアント証明書）による端末認証を用い、ID・パスワードと併用する構成。利用端末へ証明書（client.p12）を事前にインポートしておく必要があり、正規の証明書を提示できない端末からはアクセス自体ができない。NTTグループ独自の電子証明書による機器認証を採用（NTTプレシジョンメディシン）。3省2ガイドライン準拠を掲げる",
+  "delegatedServices": [],
+  "recommendation": "none"
+}

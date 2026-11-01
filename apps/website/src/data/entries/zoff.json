@@ -1,0 +1,12 @@
+{
+  "name": "Zoff",
+  "reading": "ぞふ",
+  "domain": "zoff.co.jp",
+  "url": "https://www.zoff.co.jp/shop/default.aspx",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.zoff.co.jp/shop/t/t2129/",
+  "notes": "ログインはメールアドレス＋パスワード。公式のセキュリティ案内（2026年10月）でもパスワードの使い回し回避やフィッシング注意のみで、二段階認証、認証アプリ、パスキーの設定は案内されていない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

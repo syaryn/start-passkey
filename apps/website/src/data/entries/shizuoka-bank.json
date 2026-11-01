@@ -1,0 +1,11 @@
+{
+  "name": "静岡銀行",
+  "reading": "しずおかぎんこう",
+  "domain": "shizuokabank.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.shizuokabank.co.jp/crime/security/onetime_password.html",
+  "url": "https://www.shizuokabank.co.jp/",
+  "notes": "しずぎんダイレクト／しずぎんWebWalletのログインはログインID・ログインパスワードのみ。ワンタイムパスワード（しずぎんアプリのソフトトークン／ハードトークン）はお振り込み等を行う際に必須だが取引時専用で、ログイン自体には使えないため数えない。しずぎんアプリの生体認証ログインはPIN・登録資格情報の呼び出し式でパスキーではない",
+  "recommendation": "password-only"
+}

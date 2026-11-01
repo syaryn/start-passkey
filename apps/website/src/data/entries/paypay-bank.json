@@ -1,0 +1,15 @@
+{
+  "name": "PayPay銀行",
+  "reading": "ぺいぺいぎんこう",
+  "domain": "paypay-bank.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq.paypay-bank.co.jp/faq/show/845?site_domain=customer&openExternalBrowser=1",
+  "url": "https://www.paypay-bank.co.jp/",
+  "notes": "LINEアプリからPayPay銀行へログインする場合はパスキーが必須（未設定の場合は利用開始時に設定。パスワードの代わりに指紋・顔・PINで認証し、鍵情報はOSプラットフォームのクラウドに保存される同期型）。通常チャネルのログインはログインパスワード等を用い、取引時の追加認証はトークン（アプリ/機器）が表示するワンタイムパスワード。アプリの生体認証設定はログインパターンの呼び出し用でありパスキーとは別",
+  "recommendation": "passkey",
+  "documentationUrl": "https://faq.paypay-bank.co.jp/faq/show/845?site_domain=customer&openExternalBrowser=1",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Uber",
+  "reading": "うーばー",
+  "domain": "uber.com",
+  "url": "https://www.uber.com/",
+  "categories": ["mobility"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.uber.com/sw/ubereats/restaurants/article/utilisation-d%E2%80%99une-cl%C3%A9-didentification-pour-se-connecter?nodeId=cd50ada8-ce39-4b0c-b7c4-f14dd42abb48",
+  "notes": "公式ヘルプ「Using passkeys to sign in」により、パスキーはパスワードの代替としてサインインに使える（任意設定）。Uber for Businessでは、パスワード/ワンタイムコード入力後のMFA要素としてもパスキーが公式に案内されている。ほかにSMS・認証アプリによる2段階認証も別途ある。",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://help.uber.com/sw/ubereats/restaurants/article/utilisation-d%E2%80%99une-cl%C3%A9-didentification-pour-se-connecter?nodeId=cd50ada8-ce39-4b0c-b7c4-f14dd42abb48",
+  "passkey": {
+    "passwordless": "allowed",
+    "mfa": "allowed"
+  }
+}

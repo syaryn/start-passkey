@@ -1,0 +1,11 @@
+{
+  "name": "ポケットカード",
+  "reading": "ぽけっとかーど",
+  "domain": "pocketcard.co.jp",
+  "categories": ["payments"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.pocketcard.co.jp/netserviceguide/guide01/",
+  "url": "https://www.pocketcard.co.jp/",
+  "notes": "会員専用ネットサービスのログインはログインIDとパスワードおよび画像認証のみ。登録メールアドレスへの確認コードはログイン情報（ID・パスワード）の再設定手続きで使うもので、通常のログインでは求められない。SMSワンタイムパスワードは本人認証サービス（3Dセキュア）用。アプリのオートログイン・生体認証は入力省略機能",
+  "recommendation": "password-only"
+}

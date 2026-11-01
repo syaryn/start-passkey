@@ -1,0 +1,15 @@
+{
+  "name": "マネックス証券",
+  "reading": "まねっくすしょうけん",
+  "domain": "monex.co.jp",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://info.monex.co.jp/news/2026/20260625_01.html",
+  "url": "https://www.monex.co.jp/",
+  "notes": "ログイン用。2026年6月30日にログイン時のパスキー認証を必須化。パスキー登録後は従来のログインID・パスワードでのログインは利用できなくなり、パスキーのみでログインする設定に切り替わる。Web・スマートフォンブラウザ・マネックス証券アプリで利用可。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://info.monex.co.jp/security/authentication/passkeys.html",
+  "passkey": {
+    "passwordless": "required"
+  }
+}

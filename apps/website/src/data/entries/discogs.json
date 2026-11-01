@@ -1,0 +1,13 @@
+{
+  "name": "Discogs",
+  "reading": "でぃすこぐす",
+  "domain": "discogs.com",
+  "url": "https://www.discogs.com/",
+  "categories": ["hobby"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.discogs.com/hc/en-us/articles/4403461442317-Two-Factor-Authentication-Set-Up-Removal-Token-Generation",
+  "notes": "二要素認証は認証アプリ（TOTP）のトークンをログイン時に入力する方式で、認識できないブラウザ・端末からのログイン時に求められる。認証アプリにアクセスできない場合は、登録メールアドレス宛のワンタイムコードで代替可能。パスキーの案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://support.discogs.com/hc/en-us/articles/4403461442317-Two-Factor-Authentication-Set-Up-Removal-Token-Generation"
+}

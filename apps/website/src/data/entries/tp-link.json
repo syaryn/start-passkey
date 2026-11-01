@@ -1,0 +1,32 @@
+{
+  "name": "TP-Link ID",
+  "reading": "てぃーぴーりんくあいでぃ",
+  "domain": "tp-link.com",
+  "url": "https://www.tp-link.com/",
+  "categories": ["smart-home"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.tp-link.com/gr/support/faq/3398/",
+  "notes": "Tapo/Kasa/Deco等で共通のTP-Link ID。公式FAQによれば、2段階認証を有効化すると未信頼デバイスでのログイン時に6桁コードが必要で、コードは信頼済みデバイスへのアプリ通知または登録メールで受け取る。認証アプリ（TOTP）やパスキーの案内はない。",
+  "delegatedServices": [
+    {
+      "name": "Tapo",
+      "reading": "たぽ",
+      "sourceUrl": "https://www.tp-link.com/uk/support/faq/1439/?app=deco",
+      "sourceNote": "TP-Link公式FAQ「One account works across Tapo, Kasa, Deco, Tether, Omada, VIGI, and Aginet apps」"
+    },
+    {
+      "name": "Kasa",
+      "reading": "かさ",
+      "sourceUrl": "https://www.tp-link.com/uk/support/faq/1439/?app=deco",
+      "sourceNote": "同上（TP-Link ID共通）"
+    },
+    {
+      "name": "Deco",
+      "reading": "でこ",
+      "sourceUrl": "https://www.tp-link.com/uk/support/faq/1439/?app=deco",
+      "sourceNote": "同上（TP-Link ID共通）"
+    }
+  ],
+  "recommendation": "code",
+  "documentationUrl": "https://www.tp-link.com/gr/support/faq/3398/"
+}

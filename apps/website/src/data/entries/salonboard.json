@@ -1,0 +1,12 @@
+{
+  "name": "サロンボード",
+  "reading": "さろんぼーど",
+  "domain": "salonboard.com",
+  "url": "https://salonboard.com/",
+  "categories": ["lifestyle"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://salonboard.com/login/",
+  "notes": "Hot Pepper Beautyの加盟店向け基盤。実ブラウザで公式ログイン画面を確認したところ入力欄はIDとパスワードのみで、公式ヘルプを「認証コード」「二段階認証」で検索しても結果なし（2026-11-01確認）。ヘルプの「秘密の質問」はパスワード再発行用でログイン時の追加認証ではない。公開画面基準の判定",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

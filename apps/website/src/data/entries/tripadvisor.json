@@ -1,0 +1,12 @@
+{
+  "name": "Tripadvisor",
+  "reading": "とりっぷあどばいざー",
+  "domain": "tripadvisor.com",
+  "url": "https://www.tripadvisor.com/",
+  "categories": ["travel"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.tripadvisorsupport.com/en-US/hc/traveler/articles/510",
+  "notes": "公式ヘルプセンターではサインイン方法はGoogle連携とメールアドレス+パスワードのみが案内され、二段階認証・認証アプリ・パスキーの設定項目はない。事業者向けの電話/クレジットカードによる確認はリスティング登録時の本人確認であり、ログイン用2FAではない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

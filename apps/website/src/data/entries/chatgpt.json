@@ -1,0 +1,17 @@
+{
+  "name": "ChatGPT（OpenAIアカウント）",
+  "reading": "ちゃっとじーぴーてぃー",
+  "domain": "openai.com",
+  "url": "https://chatgpt.com/",
+  "categories": ["ai"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.openai.com/en/articles/20001039-passkeys-to-secure-your-openai-account",
+  "notes": "公式ヘルプで、パスキーをサインイン用（パスワードレス）としても、MFA（多要素認証）の要素としても使えると明記されている。アカウントの作成方法やメールアドレスの有無によっては設定項目自体が表示されない場合がある。組織のSSOで管理されるアカウントではパスキーはMFAとして機能する。任意設定のAdvanced Account Securityを有効にすると、パスキー/セキュリティキーのみでサインインする形にもできる。",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://help.openai.com/en/articles/20001039-passkeys-to-secure-your-openai-account",
+  "passkey": {
+    "passwordless": "allowed",
+    "mfa": "allowed"
+  }
+}

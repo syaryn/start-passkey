@@ -1,0 +1,16 @@
+{
+  "name": "Ring",
+  "reading": "りんぐ",
+  "domain": "ring.com",
+  "url": "https://ring.com/",
+  "categories": ["smart-home"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://ring.com/support/articles/jix7u/passwordless-sign-in-passkeys?redirect=true",
+  "notes": "公式サポートによれば、パスキーを作成すると顔/指紋/端末PINでパスワードなしにサインインできる。Ring独自のアカウント（メール+パスワード）であり、Amazonアカウントへの完全委譲ではない。別途、2段階認証が必須で、SMS/WhatsAppコード、認証アプリ（TOTP）、プッシュ承認から受取方法を選べる。パスキーはパスワードの代替として提供され、第2要素としては使われないためmfaはunsupportedとした。",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://ring.com/support/articles/jix7u/passwordless-sign-in-passkeys?redirect=true",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

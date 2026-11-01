@@ -1,0 +1,12 @@
+{
+  "name": "オッズパーク",
+  "reading": "おっずぱーく",
+  "domain": "oddspark.com",
+  "url": "https://www.oddspark.com/",
+  "categories": ["gambling"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq.oddspark.com/faq/show/163?site_domain=default",
+  "notes": "地方競馬・競輪・オートレースの投票サービス。ログインはオッズパークID＋パスワード＋4桁の暗証番号（いずれも固定の認証情報）。公式アプリの生体認証ログインは端末側でID・パスワード・暗証番号の入力を省略するものでパスキーではない。SMS/メール認証は暗証番号の再設定時のみで、ログインの二段階認証・認証アプリ・パスキーの設定はなし。JRA（即PAT）と同じ基準",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Grammarly",
+  "reading": "ぐらまーりー",
+  "domain": "grammarly.com",
+  "url": "https://www.grammarly.com/",
+  "categories": ["ai"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.grammarly.com/hc/en-us/articles/360032922091-How-to-set-up-two-step-verification",
+  "notes": "2段階認証は認証アプリ（全ユーザーが利用可）またはSMS（有料プラン向け）から選択する。パスキー/セキュリティキーをログインに使う公式案内は確認できなかった。",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://support.grammarly.com/hc/en-us/articles/360032922091-How-to-set-up-two-step-verification"
+}

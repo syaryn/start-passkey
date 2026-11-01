@@ -1,0 +1,13 @@
+{
+  "name": "資生堂オンラインストア（ワタシプラス）",
+  "reading": "しせいどうおんらいんすとあ",
+  "domain": "shiseido.co.jp",
+  "url": "https://www.shiseido.co.jp/sw/onlinestore/",
+  "categories": ["beauty"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq.wp.shiseido.co.jp/faq/show/32315?category_id=45&site_domain=support",
+  "notes": "旧ワタシプラスの公式通販。会員制度はBeauty Keyへ移行したが、ストアのログインは従来の会員ID（メールアドレス）＋パスワードを引き継ぎ、公式サポートによればログイン時に登録メールアドレス宛に送信される認証コードによる多要素認証（2段階認証）が導入されている。認証アプリ・パスキーの案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://faq.wp.shiseido.co.jp/faq/show/32315?category_id=45&site_domain=support"
+}

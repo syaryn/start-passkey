@@ -1,0 +1,26 @@
+packages:
+  - apps/*
+  - packages/*
+  - tools/*
+
+catalogMode: prefer
+
+catalog:
+  "@astrojs/sitemap": ^3.7.4
+  "@iconify-json/lucide": ^1.2.149
+  "@types/node": ^24
+  "@unocss/preset-icons": ^66.12.0
+  typescript: ^7.0.2
+  vite: npm:@voidzero-dev/vite-plus-core@1.4.0
+  vite-plus: 1.4.0
+overrides:
+  vite@*: "catalog:"
+peerDependencyRules:
+  allowAny:
+    - vite
+  allowedVersions:
+    vite: "*"
+allowBuilds:
+  esbuild: true
+  sharp: true
+  workerd: true

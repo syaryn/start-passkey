@@ -1,0 +1,11 @@
+{
+  "name": "Meetup",
+  "reading": "みーとあっぷ",
+  "domain": "meetup.com",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.meetup.com/hc/en-us/articles/4409808081421-Account-security",
+  "url": "https://www.meetup.com/",
+  "notes": "ログインはメールアドレス+パスワード（Facebook/Google/Apple連携も可）。公式ヘルプの「Account security」は強固なパスワード作成等の案内のみで、ログイン時に使える追加認証（認証アプリ・コード・パスキー）の設定案内はない。",
+  "recommendation": "password-only"
+}

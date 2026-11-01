@@ -1,0 +1,12 @@
+{
+  "name": "パソコン工房",
+  "reading": "ぱそこんこうぼう",
+  "domain": "pc-koubou.jp",
+  "url": "https://www.pc-koubou.jp/",
+  "categories": ["electronics"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.pc-koubou.jp/mypage/login.php",
+  "notes": "パソコン工房WEB会員のログインはメールアドレス（会員ID）＋パスワードのみ。二段階認証・認証アプリ・パスキーの設定案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

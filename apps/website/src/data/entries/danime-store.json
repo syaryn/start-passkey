@@ -1,0 +1,13 @@
+{
+  "name": "dアニメストア",
+  "reading": "でぃーあにめすとあ",
+  "domain": "animestore.docomo.ne.jp",
+  "url": "https://animestore.docomo.ne.jp/",
+  "categories": ["streaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://animestore.docomo.ne.jp/animestore/CQ/notice-8477",
+  "notes": "独自の認証はなく、認証はdアカウントに委譲される（登録情報の確認・変更もdアカウントサイトで行う）。2023年6月1日からログイン時およびグッズ・レンタルの購入時に2段階認証が必須となり、方式はドコモ回線のネットワーク暗証番号、登録済み連絡先携帯電話へのSMSセキュリティコード、登録メールアドレスへのセキュリティコードのいずれか（公式お知らせ）。dアカウント設定アプリのPUSH方式は一部視聴端末で2026年4月16日に終了し、メール/SMS方式でのログインに一本化された（公式お知らせ）",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://animestore.docomo.ne.jp/animestore/CQ/notice-8477"
+}

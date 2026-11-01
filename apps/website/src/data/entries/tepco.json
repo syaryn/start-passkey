@@ -1,0 +1,15 @@
+{
+  "name": "くらしTEPCO web（東京電力エナジーパートナー）",
+  "reading": "くらしてぷこ",
+  "domain": "tepco.co.jp",
+  "categories": ["utilities"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.tepco.co.jp/ep/archive/20260918.html",
+  "url": "https://www.tepco.co.jp/ep/",
+  "notes": "2026年11月上旬（予定）にログイン方法が変更され、メールアドレス（または会員ID）＋パスキー、もしくはパスワード＋認証コード（メール/電話）のいずれかが必須になる公式発表済み。確認日時点ではまだ従来のパスワードのみで、パスキーは変更実施後に利用可能になる。パスキーはパスワード代替であり多要素認証としての併用方式ではない",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.tepco.co.jp/ep/archive/20260918.html",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

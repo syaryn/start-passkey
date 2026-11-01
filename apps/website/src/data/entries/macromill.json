@@ -1,0 +1,13 @@
+{
+  "name": "マクロミル",
+  "reading": "まくろみる",
+  "domain": "macromill.com",
+  "url": "https://monitor.macromill.com/",
+  "categories": ["points"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq.macromill.com/mm03/5394",
+  "notes": "ログインはメールアドレス＋パスワード。普段と異なる端末・環境からのログインや一定期間未利用後のログインでは、登録メールアドレス宛に6桁のワンタイムコードが送られ入力が必要（公式FAQ）。ポイント交換など本人確認が必要な項目でもメールでワンタイムパスワードが送られる。登録・本人確認用には指定番号へ発信する電話認証もあり（2023年7月導入、第2パスワードは終了）。パスキー・認証アプリ（TOTP）の案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://faq.macromill.com/mm03/5394"
+}

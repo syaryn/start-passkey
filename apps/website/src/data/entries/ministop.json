@@ -1,0 +1,12 @@
+{
+  "name": "ミニストップアプリ",
+  "reading": "みにすとっぷあぷり",
+  "domain": "ministop.co.jp",
+  "url": "https://www.ministop.co.jp/service/ministop_app/",
+  "categories": ["food"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.ministop.co.jp/service/smartreceipt/",
+  "notes": "ログインは登録した携帯電話番号またはメールアドレスとパスワード（公式スマートレシート案内に明記）。メール・SMSの認証コードは新規会員登録時の本人確認用で、ログイン時の二段階認証の設定はない。WAONカード自体の会員登録はsmart WAON側の基盤。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Strava",
+  "reading": "すとらば",
+  "domain": "strava.com",
+  "url": "https://www.strava.com/",
+  "categories": ["fitness"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.strava.com/en-us/articles/15401605-how-do-i-sign-in-to-strava-with-a-one-time-code",
+  "notes": "実ブラウザで公式サポートを確認（2026-11-01）。パスワードの代わりにメールで送られるワンタイムコードでサインインできる（パスワードへの上乗せではなく代替ログイン）。パスワードの上に載る2要素認証の設定記事は公式ヘルプにない",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://support.strava.com/en-us/articles/15401605-how-do-i-sign-in-to-strava-with-a-one-time-code"
+}

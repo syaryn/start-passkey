@@ -1,0 +1,12 @@
+{
+  "name": "リサーチパネル",
+  "reading": "りさーちぱねる",
+  "domain": "research-panel.jp",
+  "url": "https://research-panel.jp/",
+  "categories": ["points"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://research-panel.jp/login/",
+  "notes": "ログインはメールアドレス＋パスワードのみ（公式ログインページ・FAQに二段階認証や認証アプリ、パスキーの案内なし）。貯まったポイントはECナビポイントとして扱われ、交換にはECナビへの登録とPeX経由の交換が必要で、認証はECナビ・PeX側の仕組みに従う",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

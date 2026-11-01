@@ -1,0 +1,23 @@
+---
+interface Props {
+  href: string;
+  label: string;
+  class?: string;
+  /** 一覧表など。false のとき label を表示（個別ページ向け） */
+  iconOnly?: boolean;
+}
+
+const { href, label, class: className, iconOnly = true } = Astro.props;
+---
+
+<a
+  href={href}
+  target="_blank"
+  rel="noopener noreferrer"
+  class:list={["dads-external-link", iconOnly ? "dads-external-link--icon-only" : "dads-external-link--with-text", className]}
+  aria-label={iconOnly ? label : undefined}
+  title={label}
+>
+  {iconOnly ? null : label}
+  <span class="i-lucide-external-link dads-icon-inline" aria-hidden="true"></span>
+</a>

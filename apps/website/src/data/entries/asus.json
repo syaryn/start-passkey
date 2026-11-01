@@ -1,0 +1,13 @@
+{
+  "name": "ASUSアカウント",
+  "reading": "えいすーすあかうんと",
+  "domain": "asus.com",
+  "url": "https://www.asus.com/",
+  "categories": ["electronics"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.asus.com/jp/support/faq/1010378/",
+  "notes": "ログイン時に登録メールアドレス宛へ「ASUSアカウントにログインするための確認メール」が送信され、メール内のリンクをクリックしてログインを完了する方式（公式FAQに明記）。認証アプリ・パスキーの公式案内はなし。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://www.asus.com/jp/support/faq/1010378/"
+}

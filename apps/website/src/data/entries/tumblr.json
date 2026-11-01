@@ -1,0 +1,12 @@
+{
+  "name": "Tumblr",
+  "reading": "たんぶらー",
+  "domain": "tumblr.com",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.tumblr.com/knowledge-base/two-factor-authentication/",
+  "url": "https://www.tumblr.com/",
+  "notes": "実ブラウザで公式ヘルプを確認（2026-11-01）。2要素認証は認証アプリ生成コードによる方式で、記事にSMS方式の記載なし。パスキーの案内なし",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://help.tumblr.com/knowledge-base/two-factor-authentication/"
+}

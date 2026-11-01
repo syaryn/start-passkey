@@ -1,0 +1,34 @@
+---
+interface Props {
+  entryId: string;
+  entryName: string;
+  note: string;
+}
+
+const { entryId, entryName, note } = Astro.props;
+const popoverId = `entry-note-${entryId}`;
+---
+
+<button
+  type="button"
+  class="dads-entry-note-trigger"
+  popovertarget={popoverId}
+  aria-label={`${entryName}の備考を表示`}
+  title="備考"
+>
+  <span class="i-lucide-info dads-icon-inline" aria-hidden="true"></span>
+</button>
+<div id={popoverId} popover="auto" class="dads-entry-note-popover">
+  <p class="dads-entry-note-popover-title">{entryName}</p>
+  <p class="dads-entry-note-popover-body">{note}</p>
+  <button
+    type="button"
+    class="dads-entry-note-close"
+    popovertarget={popoverId}
+    popovertargetaction="hide"
+    aria-label="閉じる"
+    title="閉じる"
+  >
+    <span class="i-lucide-x dads-icon-inline" aria-hidden="true"></span>
+  </button>
+</div>

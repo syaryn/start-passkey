@@ -1,0 +1,12 @@
+{
+  "name": "青森みちのく銀行",
+  "reading": "あおもりみちのくぎんこう",
+  "domain": "am-bk.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.am-bk.co.jp/kojin/tsunaidenet/faq/",
+  "url": "https://www.am-bk.co.jp/",
+  "notes": "インターネットバンキング「つないでネ！ット」のログインはログインID＋ログインパスワード（条件により秘密の質問の追加認証）。青森みちのくアプリのワンタイムパスワード機能（1分ごとに更新される使い捨てパスワード）を設定でき、スマートフォンでのログイン時や振込等の重要な取引で必要。パスキーの案内はなし。",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://www.am-bk.co.jp/kojin/tsunaidenet/onetime_password/index.html"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "eLTAX",
+  "reading": "えるたっくす",
+  "domain": "eltax.lta.go.jp",
+  "categories": ["government"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.eltax.lta.go.jp/eltax/gaiyou/",
+  "url": "https://www.eltax.lta.go.jp/",
+  "notes": "ポータルセンタへのログインは利用者IDと暗証番号のみで、ログイン時に使える追加認証（コード・認証アプリ・パスキー）は設定できない。マイナンバーカードを用いた利用者認証によるログインも選択できるが、証明書ベースの別方式のため数えていない。電子証明書は申告データ送信時の電子署名用であり、ログインの追加要素ではない。",
+  "recommendation": "password-only"
+}

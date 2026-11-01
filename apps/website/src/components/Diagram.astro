@@ -1,0 +1,20 @@
+---
+interface Props {
+  src: string;
+  alt: string;
+  caption?: string;
+}
+
+const { src, alt, caption } = Astro.props;
+---
+
+<figure>
+  <img src={src} alt={alt} class="dads-diagram" loading="lazy" decoding="async" />
+  {
+    caption ? (
+      <figcaption class="dads-std-14n-170 dads-text-secondary" style="margin-top: 0.5rem; text-align: center;">
+        {caption}
+      </figcaption>
+    ) : null
+  }
+</figure>

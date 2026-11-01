@@ -1,0 +1,12 @@
+{
+  "name": "高速バスドットコム",
+  "reading": "こうそくばすどっとこむ",
+  "domain": "kosokubus.com",
+  "url": "https://www.kosokubus.com/",
+  "categories": ["bus"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.kosokubus.com/?page=login",
+  "notes": "ログインは高速バスドットコムID（登録メールアドレス）とパスワードのみ。2025年9月にパスワードポリシーは強化されたが、公式情報に二段階認証・認証アプリ・パスキーの案内はない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

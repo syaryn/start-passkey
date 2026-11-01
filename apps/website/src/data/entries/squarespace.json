@@ -1,0 +1,16 @@
+{
+  "name": "Squarespace",
+  "reading": "すくえあすぺーす",
+  "domain": "squarespace.com",
+  "url": "https://www.squarespace.com/",
+  "categories": ["developer"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.squarespace.com/hc/articles/360000044827",
+  "notes": "パスキーは2要素認証の手段の一つとして提供され、パスワード入力後の第2要素として使う位置付けで、パスワードレス専用ログインとしては案内されていない。他の2要素認証の手段は認証アプリとSMS（SMSは米・英・加・豪・愛のみ）。",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://support.squarespace.com/hc/articles/360000044827",
+  "passkey": {
+    "mfa": "allowed"
+  }
+}

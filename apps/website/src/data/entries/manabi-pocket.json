@@ -1,0 +1,12 @@
+{
+  "name": "まなびポケット",
+  "reading": "まなびぽけっと",
+  "domain": "ntt.com",
+  "url": "https://www.ntt.com/business/services/cloud/education/edu-cloud.html",
+  "categories": ["education"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.ntt.com/about-us/press-releases/news/article/2023/0210.html",
+  "notes": "標準のログインは学校コード・ユーザーID・パスワード（他にMicrosoft 365/GoogleアカウントでのOpenIDログインも可）。自治体向けのオプション「統合認証サービス」「多要素認証サービス」を契約した場合のみ、セキュリティUSBキーや指紋認証デバイス等による多要素認証が追加できる（主に対象は統合型校務支援システムへのアクセスで、個人が認証アプリ等を設定する方式ではない）。そのため標準アカウントとしてはパスワードのみと判定した。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

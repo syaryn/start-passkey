@@ -1,0 +1,12 @@
+{
+  "name": "ドットエスティ（and ST）",
+  "reading": "どっとえすてぃ",
+  "domain": "dot-st.com",
+  "url": "https://www.dot-st.com/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.dot-st.com/hc/ja/articles/6205110725775-%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3",
+  "notes": "会員ID（登録メールアドレス）＋パスワード（半角英数混在8～12文字）でログイン。SMSはメールアドレス変更時などパスワード再設定の受け取り方法としてのみ案内されており、ログイン時の二段階認証・認証アプリ・パスキーの設定は公式ヘルプで確認できなかった。サービス名は「and ST（アンドエスティ）」に変更されている。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

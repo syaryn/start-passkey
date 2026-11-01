@@ -1,0 +1,11 @@
+{
+  "name": "マイナポータル",
+  "reading": "まいなぽーたる",
+  "domain": "myna.go.jp",
+  "categories": ["government"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://services.digital.go.jp/mynaportal/login/",
+  "url": "https://myna.go.jp/",
+  "notes": "パスワードやIDによるログインは存在せず、公的個人認証の電子証明書でのみログインする。実物のマイナンバーカード（ICカードリーダーまたはスマホで読み取り）＋利用者証明用電子証明書の暗証番号（数字4桁）、iPhoneのマイナンバーカード、Androidスマホ用電子証明書のいずれかを用い、スマホ用証明書の場合は暗証番号の代わりに端末の顔・指紋認証でもログインできる。パスキー/認証アプリ/コードのいずれにも該当しないため recommendation は none（第5区分で取り込み予定）",
+  "recommendation": "none"
+}

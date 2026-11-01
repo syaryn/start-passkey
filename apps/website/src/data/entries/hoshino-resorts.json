@@ -1,0 +1,11 @@
+{
+  "name": "星野リゾート",
+  "reading": "ほしのりぞーと",
+  "domain": "hoshinoresorts.com",
+  "categories": ["travel"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://hoshinoresorts.com/ja/sp/faq/account/",
+  "notes": "星野リゾートアカウント（グループ全施設共通）のログインは登録メールアドレス＋パスワードのみ（公式アカウントFAQで確認）。二段階認証・認証アプリ・パスキーの設定案内は公式情報になし。アカウントを持たない予約の確認は予約呼出し番号＋呼出しパスワードを使う",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

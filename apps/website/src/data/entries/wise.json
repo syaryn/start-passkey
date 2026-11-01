@@ -1,0 +1,16 @@
+{
+  "name": "Wise",
+  "reading": "わいず",
+  "domain": "wise.com",
+  "categories": ["payments"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://wise.com/help/articles/4OTG2Z93XXyaurUviZRg5O/how-can-i-use-a-passkey",
+  "url": "https://wise.com/",
+  "notes": "パスキーは「Log in with passkey」でパスワードなしログインに使えるほか、2段階認証の方法としても設定でき、設定するとデフォルトの2段階認証方法になる。2段階認証の他の選択肢としてWiseアプリの通知承認、認証アプリのコード、SMS/電話のコードもある（一部の国では利用できる方法に制限あり）",
+  "recommendation": "passkey",
+  "documentationUrl": "https://wise.com/help/articles/4OTG2Z93XXyaurUviZRg5O/how-can-i-use-a-passkey",
+  "passkey": {
+    "passwordless": "allowed",
+    "mfa": "allowed"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Humble Bundle",
+  "reading": "はんぶるばんどる",
+  "domain": "humblebundle.com",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.humblebundle.com/hc/en-us/articles/202421374-Humble-Bundle-Two-Step-Verification",
+  "url": "https://www.humblebundle.com",
+  "notes": "2段階認証は認証アプリ（Google Authenticator、TOTP）。公式記事中の「passkey」はトークンの意味でFIDOパスキーではない。2FA未設定時は新規ブラウザでのログインにメール確認コード（Humble Guard）がある。",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://support.humblebundle.com/hc/en-us/articles/202421374-Humble-Bundle-Two-Step-Verification"
+}

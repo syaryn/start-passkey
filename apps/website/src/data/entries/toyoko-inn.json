@@ -1,0 +1,12 @@
+{
+  "name": "東横イン",
+  "reading": "とうよこいん",
+  "domain": "toyoko-inn.com",
+  "url": "https://www.toyoko-inn.com/",
+  "categories": ["travel"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.toyoko-inn.com/faq/cat?facility_cd=toyoko-inn-qa&cd=12&member_id=a3a9982a-1557-64be-f535-662efe7f86a2&lang=ja&h=&cd=20",
+  "notes": "公式サイト・アプリのアカウントログインは登録メールアドレス＋パスワードのみ（公式FAQで確認）。東横INNクラブカード会員も同じアカウント基盤を使う。二段階認証・認証アプリ・パスキーの設定案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

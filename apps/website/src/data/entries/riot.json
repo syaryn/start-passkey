@@ -1,0 +1,12 @@
+{
+  "name": "Riotアカウント",
+  "reading": "らいおっとあかうんと",
+  "domain": "riotgames.com",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.riotgames.com/en-us/riot/rewards/multi-factor-authentication-in-game-rewards",
+  "url": "https://www.riotgames.com/",
+  "notes": "多要素認証（MFA）は新規ログイン時の確認に使われ、方式はRiot Mobileアプリの通知承認、認証アプリ（Google/Microsoft Authenticator、Duo等のTOTP）、メールで届く6桁コードの3つ。一部地域・ランク帯や共有アカウントではMFAが必須化されている。パスキーの公式案内はなし",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://support.riotgames.com/en-us/riot/rewards/multi-factor-authentication-in-game-rewards"
+}

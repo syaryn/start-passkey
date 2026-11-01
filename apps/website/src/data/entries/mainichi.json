@@ -1,0 +1,12 @@
+{
+  "name": "毎日ID（毎日新聞デジタル）",
+  "reading": "まいにちあいでぃー",
+  "domain": "mainichi.jp",
+  "url": "https://mainichi.jp/",
+  "categories": ["media"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq.mainichi.jp/faq_detail.html?category=&page=1&id=219",
+  "notes": "公式お客様サポート（FAQ）ではログインはメールアドレスとパスワードで行うものとされており、パスキーや二段階認証の設定項目は見当たらない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

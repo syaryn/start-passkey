@@ -1,0 +1,12 @@
+{
+  "name": "マイナビ転職",
+  "reading": "まいなびてんしょく",
+  "domain": "tenshoku.mynavi.jp",
+  "url": "https://tenshoku.mynavi.jp/",
+  "categories": ["jobs"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://tenshoku.mynavi.jp/help/member/002/",
+  "notes": "ログインは会員ID（メールアドレス）＋パスワードのみで、ログイン画面にはreCAPTCHAがある。二段階認証・認証アプリ・パスキーの設定案内は公式ヘルプになし。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

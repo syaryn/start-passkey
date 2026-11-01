@@ -1,0 +1,13 @@
+{
+  "name": "Sansan",
+  "reading": "さんさん",
+  "domain": "sansan.com",
+  "url": "https://jp.sansan.com/",
+  "categories": ["business"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://jp.sansan.com/user-guide/",
+  "notes": "パスワード設定後の初回ログイン時に二要素認証の設定が必要になる。方式は認証アプリ（Google Authenticator、Twilio Authy等のTOTP方式）またはメールで届く認証コードから選択可能。管理者が全ユーザーへの二要素認証必須化も設定できる。SAML SSO利用時は二要素認証は使えない。パスキーの案内はない",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://jp.sansan.com/user-guide/"
+}

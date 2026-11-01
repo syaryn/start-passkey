@@ -1,0 +1,16 @@
+{
+  "name": "Dropbox",
+  "reading": "どろっぷぼっくす",
+  "domain": "dropbox.com",
+  "url": "https://www.dropbox.com/",
+  "categories": ["storage"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.dropbox.com/account-access/passkey-log-in",
+  "notes": "パスキーでパスワードなしにログイン可能。パスキーでのログイン時は、設定済みの2段階認証（認証アプリ/SMS）の入力をバイパスし、第2要素を満たしたものとして扱われる。チーム管理者がSSOを必須としている場合はパスキーを作成・利用できない",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://help.dropbox.com/account-access/passkey-log-in",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

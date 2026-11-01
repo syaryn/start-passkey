@@ -1,0 +1,15 @@
+{
+  "name": "SMBC日興証券",
+  "reading": "えすえむびーしーにっこうしょうけん",
+  "domain": "smbcnikko.co.jp",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.smbcnikko.co.jp/security/passkey.html",
+  "url": "https://www.smbcnikko.co.jp/",
+  "notes": "ログイン用（FIDO2）。日興イージートレード、SMBC日興証券アプリ、日興フロッギー等で2026年1月30日に導入し、2026年4月下旬より顧客ごとに順次必須化。必須化後に従来の二要素認証（パスワード＋ワンタイムパスワード）でログインした場合は取引・出金等の一部機能が利用できず、それらの利用にはパスキーでのログインが必要。パスキーの初回設定時にはマイナンバーカードまたは運転免許証によるオンライン本人確認が必要（2026年8月21日以降）。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.smbcnikko.co.jp/security/passkey.html",
+  "passkey": {
+    "passwordless": "required"
+  }
+}

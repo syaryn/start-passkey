@@ -1,0 +1,12 @@
+{
+  "name": "ETC利用照会サービス",
+  "reading": "いーてぃーしーりようしょうかいさーびす",
+  "domain": "etc-meisai.jp",
+  "url": "https://www.etc-meisai.jp/",
+  "categories": ["transport"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www2.etc-meisai.jp/etc/R?funccode=1013000000&nextfunc=1013000000",
+  "notes": "高速道路会社各社が提供するETC利用明細の照会サービス。公式ログイン画面の入力項目はユーザーIDとパスワードのみで、二段階認証・認証アプリ・パスキーの案内はない。パスワード再設定時の秘密の質問は知識情報であり追加要素として数えていない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

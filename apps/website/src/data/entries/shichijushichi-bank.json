@@ -1,0 +1,12 @@
+{
+  "name": "七十七銀行",
+  "reading": "しちじゅうしちぎんこう",
+  "domain": "77bank.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.77bank.co.jp/inb/qa/",
+  "url": "https://www.77bank.co.jp/",
+  "notes": "インターネットバンキングのログインはログインパスワード等。七十七銀行アプリのワンタイムパスワード機能（60秒ごとに変わる8桁の使い捨てパスワード）を設定でき、スマートフォンでのログイン時や振込等で入力が必要。ソフトウェアトークン取引認証方式（アプリ上で取引内容を確認・承認）もあるが取引時用。アプリの生体認証はワンタイムパスワード機能内のログイン用で、パスキー（FIDO）の案内はなし。",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://www.77bank.co.jp/inb/qa/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ねんきんネット",
+  "reading": "ねんきんねっと",
+  "domain": "nenkin.go.jp",
+  "categories": ["government"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.nenkin.go.jp/denshibenri_kojin/n_net/utilization/login.html",
+  "url": "https://www.nenkin.go.jp/n_net/",
+  "notes": "ログインはユーザID＋パスワード、またはマイナポータル経由の連携（カード認証はマイナポータル側で実施）の2通り。二要素認証・パスキー・認証アプリの設定はない。メールへのワンタイムパスワードはマイナポータル連携の初回登録時のみで、ログイン時の2要素認証ではない。",
+  "recommendation": "password-only"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "LastPass",
+  "reading": "らすとぱす",
+  "domain": "lastpass.com",
+  "categories": ["security"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.lastpass.com/features/passwordless-authentication",
+  "url": "https://www.lastpass.com/",
+  "notes": "アカウント（ボールト）自体へのログインが対象。FIDO2認証器（LastPass Authenticatorアプリ、生体認証、YubiKey等のハードウェアキー）でマスターパスワードを置き換えるパスワードレスログインが可能。MFAとしては認証アプリやSMS等が用意されるが、パスキー自体を第2要素として使う公式案内は確認できなかったためmfaはunknown。他サイト向けのパスキー保存機能とは別。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.lastpass.com/features/passwordless-authentication",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

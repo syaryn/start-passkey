@@ -1,0 +1,12 @@
+{
+  "name": "Peach Aviation",
+  "reading": "ぴーちあびえーしょん",
+  "domain": "flypeach.com",
+  "url": "https://www.flypeach.com/",
+  "categories": ["aviation"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.flypeach.com/ap/booking/peach_profile",
+  "notes": "PeachアカウントのログインはユーザーID（メールアドレス）とパスワードのみ。公式情報に二段階認証・認証アプリ・パスキーの案内はない。アプリの自動ログインはログイン状態の保持であり追加認証ではない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

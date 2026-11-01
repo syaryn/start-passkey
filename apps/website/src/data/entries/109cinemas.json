@@ -1,0 +1,12 @@
+{
+  "name": "109シネマズ",
+  "reading": "いちまるきゅうしねまず",
+  "domain": "109cinemas.net",
+  "url": "https://109cinemas.net/",
+  "categories": ["cinema"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://109cinemas.net/news/9045.html",
+  "notes": "シネマポイント会員のログインは会員番号・ログインID・メールアドレスのいずれか＋パスワードのみ。二段階認証・認証アプリ・パスキーの設定は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

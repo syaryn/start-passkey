@@ -1,0 +1,13 @@
+{
+  "name": "小説家になろう",
+  "reading": "しょうせつかになろう",
+  "domain": "syosetu.com",
+  "url": "https://syosetu.com/",
+  "categories": ["hobby"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://blog.syosetu.com/article/view/article_id/5279/",
+  "notes": "二段階認証は全アカウントに必須化済み。登録メールアドレスへのコード送信のほか、Google Authenticator等の認証アプリ（TOTP）が利用可能で公式が設定を推奨。パスキーの案内はなし。",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://syosetu.com/helpcenter/helppage/helppageid/188"
+}

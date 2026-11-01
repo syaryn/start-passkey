@@ -1,0 +1,25 @@
+{
+  "name": "iAEON（iAEON会員）",
+  "reading": "あいいおん",
+  "domain": "aeon.com",
+  "url": "https://www.aeon.com/aeonapp/member/about/",
+  "categories": ["food"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.aeon.com/aeonapp/member/faq/",
+  "notes": "イオングループの各オンラインサービス共通の会員ID基盤。ログインはiAEON ID（携帯電話番号またはメールアドレス）＋パスワードのみ。SMS認証コードは新規登録時の本人確認用で、ログイン時の二段階認証として設定する仕組みは公式FAQにない。パスキー・認証アプリの案内もなし。イオンスクエアメンバー（AEON Pay ID）とは別基盤で、対象オンラインサービスは2026年2月にiAEON会員への切替えが完了した",
+  "delegatedServices": [
+    {
+      "name": "イオンネットスーパー",
+      "reading": "いおんねっとすーぱー",
+      "sourceUrl": "https://shop.aeon.com/netsuper/01050000063030/helpcenter_01",
+      "sourceNote": "公式ガイド「イオンネットスーパーをご利用いただくにはiAEONの会員登録が必要です」"
+    },
+    {
+      "name": "イオンショップ",
+      "reading": "いおんしょっぷ",
+      "sourceUrl": "https://aeonshop.com/pages/guide_aeonsquare",
+      "sourceNote": "公式ガイド「イオンショップのご利用にはiAEON会員の登録が必要」"
+    }
+  ],
+  "recommendation": "password-only"
+}

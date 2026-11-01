@@ -1,0 +1,16 @@
+{
+  "name": "三井住友海上",
+  "reading": "みついすみともかいじょう",
+  "domain": "ms-ins.com",
+  "url": "https://www.ms-ins.com/",
+  "categories": ["insurance"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq2.ms-ins.com/faq/show/5188?back=front%2Fcategory%3Ashow&category_id=97&page=1&site_domain=default&sort=sort_access&sort_order=desc",
+  "notes": "ご契約者さま専用ページでは、生体認証を登録した端末からID・パスワード入力なしでログインできる（生体認証情報は端末側で処理され同社は保持しない、端末ごとに登録する方式）。公式資料にFIDO/WebAuthnの明記は確認できなかったが、端末登録型の生体認証ログインであるため、構造からパスキーと判定する方針で確定（2026-11-01決定）。このほかログイン時にはSMSパスコード/メール確認コード（ワンタイムパスワード）も使われる",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://faq2.ms-ins.com/faq/show/5191?site_domain=default",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

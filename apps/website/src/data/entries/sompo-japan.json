@@ -1,0 +1,13 @@
+{
+  "name": "損保ジャパン",
+  "reading": "そんぽじゃぱん",
+  "domain": "sompo-japan.co.jp",
+  "url": "https://www.sompo-japan.co.jp/",
+  "categories": ["insurance"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq.sompo-japan.jp/mypage/faq_detail.html?id=60370",
+  "notes": "マイページのログインはメールアドレス（ID）＋パスワードに加え、登録メールアドレス宛に送られるワンタイムパスワードの入力が必要（信頼できるデバイスとして登録すると次回以降省略可）。認証アプリ・パスキーの案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://faq.sompo-japan.jp/mypage/faq_detail.html?id=60370"
+}

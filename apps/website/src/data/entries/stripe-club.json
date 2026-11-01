@@ -1,0 +1,12 @@
+{
+  "name": "STRIPE CLUB（ストライプクラブ）",
+  "reading": "すとらいぷくらぶ",
+  "domain": "stripe-club.com",
+  "url": "https://stripe-club.com/",
+  "categories": ["retail"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://stripe-club.com/guide/agreement.html",
+  "notes": "ログインは会員ID（メールアドレス）＋パスワードのみ。メールアドレス認証は会員登録時の手続きであり、ログイン時の二段階認証・認証アプリ・パスキーの案内は公式情報にない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

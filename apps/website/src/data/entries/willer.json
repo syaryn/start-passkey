@@ -1,0 +1,12 @@
+{
+  "name": "WILLER TRAVEL",
+  "reading": "うぃらーとらべる",
+  "domain": "travel.willer.co.jp",
+  "url": "https://travel.willer.co.jp/",
+  "categories": ["travel"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq.willer.co.jp/s/article/1368",
+  "notes": "WILLER会員のマイページログインは登録メールアドレスとパスワードのみ（会員規約第5条もメールアドレスとパスワードの一致で認証する旨を規定）。公式FAQに二段階認証・認証アプリ・パスキーの案内はない。LINE ID連携もメールアドレスとパスワードの入力による。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

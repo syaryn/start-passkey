@@ -1,0 +1,13 @@
+{
+  "name": "Hotels.com",
+  "reading": "ほてるずどっとこむ",
+  "domain": "hotels.com",
+  "url": "https://www.hotels.com/",
+  "categories": ["travel"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://forever.travel-assets.com/flex/flexmanager/mediaasset/1386167-0_2-Hcom_KR_en_20260119_Privacy_Statement.pdf",
+  "notes": "Expedia Groupの共通アカウント基盤で、Expedia/Vrboと同一のログイン資格情報を使う。公式プライバシーステートメントに、セキュリティ上必要な場合にメールまたはSMSでワンタイムパスコードを送信する多要素認証プロセスの記載があり、ログイン時のコード認証はリスクベースで実施される。利用者が任意に設定する二段階認証の案内や、パスキー・認証アプリ（TOTP）の公式ヘルプ案内は確認できなかった（根拠はプライバシーステートメントの記載）。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://forever.travel-assets.com/flex/flexmanager/mediaasset/1386167-0_2-Hcom_KR_en_20260119_Privacy_Statement.pdf"
+}

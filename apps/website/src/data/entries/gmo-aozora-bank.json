@@ -1,0 +1,15 @@
+{
+  "name": "GMOあおぞらネット銀行",
+  "reading": "じーえむおーあおぞらねっとぎんこう",
+  "domain": "gmo-aozora.com",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://gmo-aozora.com/security/passkey.html",
+  "url": "https://gmo-aozora.com/",
+  "notes": "2026年7月22日にパスキー認証を開始。FIDO準拠で、ID・パスワードを入力せずにログインできるパスワードレス方式（登録は最大3台まで）。パスキーログイン時は取引時の通常認証が一部省略される。別途、ワンタイムパスワード（アプリトークン/メールトークン）や取引アプリの生体認証ログイン（保存したID・パスワードの呼び出し）もあるが、パスキーのMFA利用は案内されていない",
+  "recommendation": "passkey",
+  "documentationUrl": "https://gmo-aozora.com/security/passkey.html",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "ワールド プレミアムクラブ",
+  "reading": "わーるどぷれみあむくらぶ",
+  "domain": "store.world.co.jp",
+  "url": "https://store.world.co.jp/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://store.world.co.jp/help/wpc/guide01.html",
+  "notes": "株式会社ワールドの会員・ポイント基盤（運営は子会社のファッション・コ・ラボ）。ワールド オンラインストアやワールドグループの店舗、公式アプリで共通に使われる。ログインは登録メールアドレス（ログインメールアドレス）＋パスワードのみで、公式ご利用案内（会員登録・マイページの「ログイン・パスワードについて」等）に二段階認証・認証アプリ・パスキーの設定案内はない。登録時はメール記載URLによる手続き完了、LINE連携による会員登録も可能だが、いずれもログイン時の追加認証ではない",
+  "delegatedServices": [
+    {
+      "name": "ワールド オンラインストア",
+      "reading": "わーるどおんらいんすとあ",
+      "sourceUrl": "https://store.world.co.jp/s/campaign/off/261009/",
+      "sourceNote": "ワールド オンラインストア公式ページ「クーポンのご利用には、ワールド プレミアムクラブへの会員登録･ログインが必要です」"
+    }
+  ],
+  "recommendation": "password-only"
+}

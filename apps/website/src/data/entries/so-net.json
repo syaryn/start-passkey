@@ -1,0 +1,10 @@
+{
+  "name": "So-net",
+  "reading": "そねっと",
+  "domain": "so-net.ne.jp",
+  "categories": ["utilities"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.so-net.ne.jp/support/faq/000009257/",
+  "notes": "マイページ等のログインはユーザーID＋ユーザーIDパスワードのみ。SMS・電話発信・メールによる本人認証はユーザーID確認やパスワード再設定の手続き用であり、ログイン時の2段階認証ではない。ログイン用の二要素認証・認証アプリ・パスキーの設定案内は公式情報になし",
+  "recommendation": "password-only"
+}

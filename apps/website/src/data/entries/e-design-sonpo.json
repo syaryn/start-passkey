@@ -1,0 +1,13 @@
+{
+  "name": "イーデザイン損保（東京海上ダイレクト）",
+  "reading": "いーでざいんそんぽ",
+  "domain": "e-design.net",
+  "url": "https://www.e-design.net/",
+  "categories": ["insurance"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.e-design.net/faq/category/3943e7df-623e-4778-b327-6ef4963bbaed/",
+  "notes": "公式FAQの「ログイン方法」カテゴリでSMS認証コードによるログインを案内（自動音声通話での受信も可、コード有効期限30分）。コードがパスワードの後段か単独かはFAQ文面では断定できない。2025年10月に東京海上ダイレクトへ社名変更",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://www.e-design.net/faq/answer/62982d466b61b26b9e7312b9/"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ワコールウェブストア",
+  "reading": "わこーるうぇぶすとあ",
+  "domain": "store.wacoal.jp",
+  "url": "https://store.wacoal.jp/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://store.wacoal.jp/rf/guide/guide03.html",
+  "notes": "会員サービス「WACOAL MEMBERS」の登録メールアドレスとパスワードでログインする（ログイン時にパズル認証＝CAPTCHAあり）。新規会員登録時にメールで認証コードが送られるが、これは登録時のメールアドレス確認用であり、ログイン時の二段階認証・認証アプリ・パスキーを設定する機能は公式ガイドに案内がない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

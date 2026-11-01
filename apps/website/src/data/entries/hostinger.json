@@ -1,0 +1,12 @@
+{
+  "name": "Hostinger",
+  "reading": "ほすてぃんがー",
+  "domain": "hostinger.com",
+  "categories": ["developer"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.hostinger.com/support/4888148-how-to-set-up-two-factor-authentication-on-your-hostinger-account/",
+  "url": "https://www.hostinger.com/",
+  "notes": "アカウントの2要素認証は認証アプリ（TOTP）またはメールコードのいずれか一方のみ有効化できる（公式サポート記事）。パスキー/セキュリティキーの案内はなし。",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://www.hostinger.com/support/4888148-how-to-set-up-two-factor-authentication-on-your-hostinger-account/"
+}

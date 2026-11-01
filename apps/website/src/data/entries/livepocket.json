@@ -1,0 +1,13 @@
+{
+  "name": "LivePocket",
+  "reading": "らいぶぽけっと",
+  "domain": "livepocket.jp",
+  "url": "https://livepocket.jp/",
+  "categories": ["tickets"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://livepocket.jp/help/about.html",
+  "notes": "ログインはメールアドレス＋パスワードで、場合により登録メール宛に届く認証コードの入力画面が表示される。チケットの購入・分配には別途、携帯電話番号認証（SMSまたは電話発信）が必要。パスキー・認証アプリの案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://livepocket.jp/help/about.html"
+}

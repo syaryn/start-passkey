@@ -1,0 +1,12 @@
+{
+  "name": "近鉄百貨店ネットショップ",
+  "reading": "きんてつひゃっかてんねっとしょっぷ",
+  "domain": "shop.d-kintetsu.co.jp",
+  "url": "https://shop.d-kintetsu.co.jp/",
+  "categories": ["department"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://shop.d-kintetsu.co.jp/shop/pages/shopguide003.aspx",
+  "notes": "ログインはログインID（メールアドレスまたは任意のID）＋パスワードのみ。新規会員登録時にはメールで届く6桁のワンタイムパスワードによる認証があるが、これは登録時の確認でありログイン時の二段階認証ではない。パスキー・認証アプリ・ログイン時コード認証の設定は公式情報で確認できなかった。近鉄グループの鉄道系共通ID「Kintetsu-ID」とは別の独自会員基盤。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

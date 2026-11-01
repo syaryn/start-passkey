@@ -1,0 +1,16 @@
+{
+  "name": "Target",
+  "reading": "たーげっと",
+  "domain": "target.com",
+  "url": "https://www.target.com/",
+  "categories": ["marketplace"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://corporate.target.com/news-features/article/2023/11/safe-shopping-tips",
+  "notes": "パスキーはパスワードの代替として指紋・顔・PINでログインでき、アカウント作成時にも選択可能（公式ヘルプ）。別途、メールまたは電話（SMS）でPINを受け取る多要素認証（Two Factor Verification）を任意で有効化でき、パスワード入力後の追加要素になる。認証アプリ（TOTP）の公式案内は確認できなかった。",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://security.target.com/two-factor-auth/",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

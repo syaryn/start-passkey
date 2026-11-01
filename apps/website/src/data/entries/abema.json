@@ -1,0 +1,13 @@
+{
+  "name": "ABEMA",
+  "reading": "あべま",
+  "domain": "abema.tv",
+  "url": "https://abema.tv/",
+  "categories": ["streaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.abema.tv/hc/ja/articles/28570588900377-ABEMA%E3%81%AE%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E5%88%A5%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E3%81%AB%E5%85%B1%E6%9C%89%E3%81%99%E3%82%8B",
+  "notes": "別デバイスへのログイン（アカウント切り替え）は、登録メールアドレス宛に送られる認証コードの入力、またはログイン中の端末で発行するワンタイムパスワード＋アカウントIDが公式ヘルプで案内される方式。メールアドレス＋パスワードの設定も可能。パスキー・認証アプリの案内は公式ヘルプになし",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://help.abema.tv/hc/ja/articles/28570588900377-ABEMA%E3%81%AE%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E5%88%A5%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E3%81%AB%E5%85%B1%E6%9C%89%E3%81%99%E3%82%8B"
+}

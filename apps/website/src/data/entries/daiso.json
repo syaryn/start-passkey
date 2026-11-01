@@ -1,0 +1,12 @@
+{
+  "name": "ダイソーネットストア",
+  "reading": "だいそーねっとすとあ",
+  "domain": "jp.daisonet.com",
+  "url": "https://jp.daisonet.com/",
+  "categories": ["home"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://jp.daisonet.com/pages/faq",
+  "notes": "ログインはメールアドレス＋パスワードのみ。公式FAQに二段階認証・認証アプリ・パスキーの設定案内はない。メールアドレス変更時に新しいアドレス宛の認証コード入力があるが、これは変更先アドレスの到達確認でありログインの追加認証ではない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

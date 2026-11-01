@@ -1,0 +1,15 @@
+{
+  "name": "My SoftBank",
+  "reading": "まいそふとばんく",
+  "domain": "softbank.jp",
+  "categories": ["utilities"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.softbank.jp/support/faq/view/196500",
+  "url": "https://www.softbank.jp/mysoftbank/",
+  "notes": "パスキー認証は2026年5月25日導入。利用できるのはスマートフォン向けWebブラウザ版のMy SoftBank（およびMy Y!mobile、My Menu）のログインのみで、アプリ版等は対象外。パスワードの代わりに使う方式で、多要素認証としての併用ではない。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.softbank.jp/support/faq/view/196500",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

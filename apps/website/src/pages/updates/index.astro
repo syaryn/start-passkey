@@ -1,0 +1,48 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { SITE_LAST_UPDATED } from "../../data/navigation.ts";
+
+const entries = [
+  {
+    date: "2026-11-01",
+    title: "掲載データ684件・一覧UIの拡充",
+    body: "CSV からエントリ JSON を取り込み、委譲名の検索、カテゴリ表からの詳細ページ、トップの区分別集計、表内の外部リンク／備考アイコン、OS 設定に追従するダークモードを反映しました。",
+  },
+  {
+    date: "2026-11-01",
+    title: "ガイド・FAQ・ポリシーページを公開",
+    body: "SEO 用の解説ページ、サイトマップ、robots.txt、sitemap.xml を追加しました。",
+  },
+  {
+    date: "2026-10-31",
+    title: "サイト初版",
+    body: "パスキー・二段階認証の対応一覧（トップ、カテゴリ、about）を公開。掲載データは空の状態から開始。",
+  },
+];
+---
+
+<BaseLayout
+  title="更新履歴｜そしてパスキーへ"
+  description="サイト構成や掲載方針の主な変更を記録します。"
+>
+  <h1 class="dads-std-28b-150" style="margin: 0 0 0.5rem;">更新履歴</h1>
+  <p class="dads-std-14n-170 dads-text-secondary" style="margin: 0 0 2rem;">
+    最終更新: {SITE_LAST_UPDATED}
+  </p>
+
+  <ol class="dads-updates-list">
+    {
+      entries.map((entry) => (
+        <li>
+          <time datetime={entry.date}>{entry.date}</time>
+          <h2>{entry.title}</h2>
+          <p>{entry.body}</p>
+        </li>
+      ))
+    }
+  </ol>
+
+  <p style="margin-top: 2.5rem;">
+    <a href="/">← トップへ</a>
+  </p>
+</BaseLayout>

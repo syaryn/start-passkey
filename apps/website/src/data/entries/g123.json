@@ -1,0 +1,15 @@
+{
+  "name": "G123",
+  "reading": "じーいちにさん",
+  "domain": "g123.jp",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://g123.jp/faq?lang=ja",
+  "url": "https://g123.jp/",
+  "notes": "アカウントはゲーム開始時に自動作成され、Passkeyはデータ連携・ログイン手段としてゲーム内の設定から登録できる（顔・指紋・端末パスコード等）。パスワード入力後の第2要素としてではなく、パスワードレスのログイン手段として提供されている。SNS/SMS連携によるログインも併用可",
+  "recommendation": "passkey",
+  "documentationUrl": "https://g123.jp/news/article/233132?lang=ja",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

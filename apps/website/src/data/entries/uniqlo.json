@@ -1,0 +1,20 @@
+{
+  "name": "ユニクロ",
+  "reading": "ゆにくろ",
+  "domain": "uniqlo.com",
+  "url": "https://www.uniqlo.com/jp/ja/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq.uniqlo.com/articles/Knowledge/100001665",
+  "notes": "公式FAQの「2段階認証」で認証コード送付先の携帯電話番号を登録でき、ログイン時やパスワード再設定時に必要に応じてSMSで6桁の認証コードが送られる。電話番号未登録の場合は登録メールアドレス宛に送信される。パスキー・認証アプリ（TOTP）はなし。ジーユーと共通のアカウント。",
+  "delegatedServices": [
+    {
+      "name": "GU",
+      "reading": "じーゆー",
+      "sourceUrl": "https://faq.uniqlo.com/articles/FAQ/100001981",
+      "sourceNote": "ユニクロ公式「ユニクロとジーユーの会員登録は共通して利用できます。同じメールアドレスとパスワードでログインできます」"
+    }
+  ],
+  "recommendation": "code",
+  "documentationUrl": "https://faq.uniqlo.com/articles/Knowledge/100001665"
+}

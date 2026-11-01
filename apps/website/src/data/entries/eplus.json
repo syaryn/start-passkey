@@ -1,0 +1,12 @@
+{
+  "name": "イープラス",
+  "reading": "いーぷらす",
+  "domain": "eplus.jp",
+  "url": "https://eplus.jp/",
+  "categories": ["tickets"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://eplus.jp/sf/customer/rule",
+  "notes": "ログインはID（メールアドレス・携帯電話番号）＋パスワードのみ。会員登録時にメール確認とSMS認証が必須だが、これは登録時の本人確認であり、ログイン時の二段階認証・認証アプリ・パスキーは設定できない。決済時の3Dセキュアはカード発行会社の認証",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

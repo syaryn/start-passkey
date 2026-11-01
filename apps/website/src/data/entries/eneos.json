@@ -1,0 +1,12 @@
+{
+  "name": "ENEOSカード",
+  "reading": "えねおすかーど",
+  "domain": "eneos.co.jp",
+  "categories": ["payments", "transport"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq.toyota-finance.co.jp/faq/show/18244?site_domain=eneos",
+  "url": "https://www.eneos.co.jp/",
+  "notes": "ENEOSカード（C・P・S）の会員サイト「MY TS CUBIC」（トヨタファイナンス）では、2022年9月からログイン時の二段階認証が必須で解除不可。認証コードは登録メールアドレス宛、届かない場合は登録携帯電話番号へのSMSで送られる。発行会社により会員サイトが異なり、NICOS発行分はNEWSプラス、JCB発行分はMyJCBを使う。ENEOS公式アプリ（SSアプリ）のログインはメールアドレス＋パスワード（他にLINE・Apple ID認証）",
+  "recommendation": "code",
+  "documentationUrl": "https://faq.toyota-finance.co.jp/faq/show/18244?site_domain=eneos"
+}

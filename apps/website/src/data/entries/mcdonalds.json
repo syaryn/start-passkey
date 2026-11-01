@@ -1,0 +1,13 @@
+{
+  "name": "マクドナルド公式アプリ",
+  "reading": "まくどなるど",
+  "domain": "mcdonalds.co.jp",
+  "url": "https://www.mcdonalds.co.jp/",
+  "categories": ["food"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.mcdonalds.co.jp/privacy/security/",
+  "notes": "公式アプリ・Web版マックデリバリーサービスに2段階認証を導入。メールアドレス＋パスワードに加え、登録メールアドレス宛に送信されるセキュリティコードで本人認証を行う。パスキー・認証アプリ（TOTP）の案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://www.mcdonalds.co.jp/privacy/security/"
+}

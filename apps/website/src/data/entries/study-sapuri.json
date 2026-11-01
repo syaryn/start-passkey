@@ -1,0 +1,12 @@
+{
+  "name": "スタディサプリ",
+  "reading": "すたでぃさぷり",
+  "domain": "studysapuri.jp",
+  "url": "https://studysapuri.jp/",
+  "categories": ["education"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://studysapuri-school.jp/studentfaq/s/article/000001739",
+  "notes": "ログインはユーザー名（団体会員コード）とパスワードのみ。学校利用ではGoogle/Microsoft/Appleアカウントとの連携ログインも可能だが外部ID側の認証。公式FAQに二要素認証・認証アプリ・パスキーの設定案内は見当たらない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

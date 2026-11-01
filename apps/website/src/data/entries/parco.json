@@ -1,0 +1,12 @@
+{
+  "name": "PARCOメンバーズ（パルコ）",
+  "reading": "ぱるこめんばーず",
+  "domain": "parco.jp",
+  "url": "https://members.parco.jp/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq.parco.jp/faq/show/1868?category_id=70&site_domain=default",
+  "notes": "パルコの共通ID「PARCO ID」（PARCOメンバーズ）でログインはID（メールアドレス）＋パスワードのみ。マイページの設定項目はパスワード変更等で、二段階認証・認証アプリ・パスキーの設定は公式情報で確認できなかった。ポケパル払いは登録時にSMSワンタイムパスコード、利用時にパスコード/生体認証を使うが、これは決済時の確認でありログイン認証ではないため数えていない。ONLINE PARCOは2027年2月終了予定だが会員基盤は継続。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

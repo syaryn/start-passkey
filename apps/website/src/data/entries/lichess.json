@@ -1,0 +1,12 @@
+{
+  "name": "Lichess",
+  "reading": "りーちぇす",
+  "domain": "lichess.org",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://lichess.org/@/lichess/blog/account-safety-on-lichess-and-beyond/X663WxUA",
+  "url": "https://lichess.org/",
+  "notes": "ログイン時の2要素認証として認証アプリ（TOTP、30秒コード）が利用可能。メールでコードを受け取る方式も選択できる。パスキー/セキュリティキーの案内は公式情報になし。配信者など一部ユーザーには2FAが必須とされる。",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://lichess.org/account/twofactor"
+}

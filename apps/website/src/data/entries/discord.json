@@ -1,0 +1,16 @@
+{
+  "name": "Discord",
+  "reading": "でぃすこーど",
+  "domain": "discord.com",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://discord.com/blog/keeping-discord-safe-and-sound",
+  "url": "https://discord.com/",
+  "notes": "パスキーは1アカウントに最大16個まで登録可能で、公式ブログではパスキーのみでのログインと、多要素認証としての利用の両方が案内されている。認証アプリ（TOTP）やSMSバックアップ認証も併用でき、新規ログイン時のメール確認もある",
+  "recommendation": "passkey",
+  "documentationUrl": "https://discord.com/blog/keeping-discord-safe-and-sound",
+  "passkey": {
+    "passwordless": "allowed",
+    "mfa": "allowed"
+  }
+}

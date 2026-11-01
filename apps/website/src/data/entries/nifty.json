@@ -1,0 +1,12 @@
+{
+  "name": "@nifty",
+  "reading": "あっとにふてぃ",
+  "domain": "nifty.com",
+  "categories": ["utilities"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://sso.nifty.com/qa/login/index.htm",
+  "url": "https://www.nifty.com/",
+  "notes": "@nifty IDのログインで「ワンタイムパスワード認証」が設定でき、登録メールアドレス宛のメールまたはSMSで届く認証コードを入力してログインする方式（パスワード入力の代わりに使う）。認証アプリ（TOTP）・パスキーの案内なし",
+  "recommendation": "code",
+  "documentationUrl": "https://sso.nifty.com/qa/login/index.htm"
+}

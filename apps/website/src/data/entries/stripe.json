@@ -1,0 +1,16 @@
+{
+  "name": "Stripe",
+  "reading": "すとらいぷ",
+  "domain": "stripe.com",
+  "categories": ["payments"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.stripe.com/questions/enable-two-step-authentication",
+  "url": "https://stripe.com/",
+  "notes": "ダッシュボードアカウント向け。パスキーはパスワードを入力せずに生体認証やハードウェアキーでサインインできるほか、公式サポートで二段階認証の方法の筆頭（最も安全）にも位置づけられており、両用途で使える。そのほかセキュリティキー、Touch ID／Windows Hello、認証アプリ、SMSも二段階認証に利用可能。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://support.stripe.com/questions/enable-two-step-authentication",
+  "passkey": {
+    "passwordless": "allowed",
+    "mfa": "allowed"
+  }
+}

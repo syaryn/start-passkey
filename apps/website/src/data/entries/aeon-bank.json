@@ -1,0 +1,15 @@
+{
+  "name": "イオン銀行",
+  "reading": "いおんぎんこう",
+  "domain": "aeonbank.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.aeonbank.co.jp/security/fido/login/",
+  "url": "https://www.aeonbank.co.jp/",
+  "notes": "「スマホ認証（FIDO認証）」を通帳アプリで登録すると、インターネットバンキングのログイン時にパスワード入力が不要となり、契約者ID入力後に画面のQRコードを通帳アプリで読み取って認証する。FIDO準拠だが通帳アプリ内蔵型で、一般的なパスキーマネージャーへ同期するタイプではない。取引内容によってはソフトトークンのワンタイムパスワード等が併用される",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.aeonbank.co.jp/security/fido/login/",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

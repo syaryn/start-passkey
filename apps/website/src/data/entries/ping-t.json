@@ -1,0 +1,12 @@
+{
+  "name": "Ping-t",
+  "reading": "ぴんぐてぃー",
+  "domain": "ping-t.com",
+  "url": "https://mondai.ping-t.com/g/",
+  "categories": ["points"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://mondai.ping-t.com/g/contents/corporate_faq",
+  "notes": "公式法人FAQでは、受講者はユーザー名とパスワードの2つでログインすると明記されている。公式FAQにも、パスキー、認証アプリ、コードによる追加認証を設定する案内はなし。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

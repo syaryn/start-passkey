@@ -1,0 +1,12 @@
+{
+  "name": "オートバックス",
+  "reading": "おーとばっくす",
+  "domain": "autobacs.com",
+  "url": "https://www.autobacs.com/",
+  "categories": ["home"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.autobacs.co.jp/ja/news/news-202010191400/main/00/teaserItems1/0/linkList/0/link/AB7news_202010191400.pdf",
+  "notes": "ログインはAB ID（会員カード番号）＋パスワード。Yahoo! JAPAN ID等の外部ID連携ログインもあるが、サービス自体に二段階認証、認証アプリ、パスキーの設定は公式情報にない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

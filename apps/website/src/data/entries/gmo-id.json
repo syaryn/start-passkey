@@ -1,0 +1,29 @@
+{
+  "name": "GMO ID",
+  "reading": "じーえむおーあいでぃー",
+  "domain": "id.gmo.jp",
+  "url": "https://id.gmo.jp/",
+  "categories": ["points"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://id.gmo.jp/gui/webauthn/index",
+  "notes": "GMOインターネットグループの共通IDで、ゲソてん byGMO・ポイントタウン等がログインをこの基盤に委譲する。公式は「パスキー」とは称さず「生体認証」と呼ぶが、設定ページがWebAuthn用ページ（/gui/webauthn/）であり、端末を登録してパスワード入力なしに生体認証/画面ロックでログインする方式のためパスキー相当と判定。利用はスマートフォンからのログインのみ（PCは非対応）、設定もスマホからのみ。パスワード後の第2要素としては使われない（2段階認証と併用設定時は生体認証が優先される）ため mfa は unsupported。別途、パスワードログイン向けにメールまたは認証アプリの確認コードによる2段階認証（毎回/信頼できないデバイス時のみ）も設定できる。",
+  "delegatedServices": [
+    {
+      "name": "ゲソてん byGMO",
+      "reading": "げそてんばいじーえむおー",
+      "sourceUrl": "https://gesoten.com/login",
+      "sourceNote": "公式ログインページに「メールアドレス( GMO ID )でログイン」と表示（実ブラウザで確認）。GMO ID公式サイトの関連サービス一覧にもゲソてんが掲載"
+    },
+    {
+      "name": "ポイントタウン",
+      "reading": "ぽいんとたうん",
+      "sourceUrl": "https://www.pointtown.com/information/429",
+      "sourceNote": "ポイントタウン公式お知らせ「『GMO IDでログインする』からログインすると…」と明記"
+    }
+  ],
+  "recommendation": "passkey",
+  "documentationUrl": "https://faq.point.gmo.jp/hc/ja/articles/4404196162457-%E7%94%9F%E4%BD%93%E8%AA%8D%E8%A8%BC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

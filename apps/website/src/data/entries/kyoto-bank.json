@@ -1,0 +1,12 @@
+{
+  "name": "京都銀行",
+  "reading": "きょうとぎんこう",
+  "domain": "kyotobank.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.kyotobank.co.jp/kojin/directb/security/onetimepass.html",
+  "url": "https://www.kyotobank.co.jp/",
+  "notes": "京銀ダイレクトバンキングは、スマートフォン利用時にログイン時にもワンタイムパスワード（京銀アプリ/ワンタイムパスワードアプリの60秒更新ソフトトークン）の入力が必要。PCログインはパスワードのみで、OTPは重要な取引時にも使用。アプリの生体認証ログインはOTPアプリ側の認証であり、FIDOパスキーの案内はない。",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://www.kyotobank.co.jp/kojin/directb/security/onetimepass.html"
+}

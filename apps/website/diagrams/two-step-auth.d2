@@ -1,0 +1,58 @@
+# 利用者向け: 二段階認証のしくみ
+direction: down
+
+title: "二段階認証・二要素認証のイメージ" {
+  near: top-center
+  style.font-size: 22
+}
+
+first: "1つ目: 知っていること" {
+  style.fill: "#f5f5f5"
+  style.stroke: "#525252"
+  password: "パスワード\n（覚えた文字列）"
+}
+
+second: "2つ目: 本人だけができる確認" {
+  style.fill: "#fafafa"
+  style.stroke: "#737373"
+}
+
+app: "認証アプリ\n6桁コード（TOTP）" {
+  style.fill: "#e0f2fe"
+  style.stroke: "#0284c7"
+}
+
+sms: "SMS・メール\n届くコード" {
+  style.fill: "#fef3c7"
+  style.stroke: "#d97706"
+}
+
+passkey_mfa: "パスキー\n指紋・顔・画面ロック" {
+  style.fill: "#d1fae5"
+  style.stroke: "#059669"
+}
+
+first.password -> second: "両方そろうと\nログイン"
+second -> app
+second -> sms
+second -> passkey_mfa
+
+passwordless: "パスワードレスのパスキー" {
+  style.fill: "#ecfdf5"
+  style.stroke: "#059669"
+  body: "パスワードを打たず\n端末で承認だけ"
+}
+
+benefit: "偽サイトに\nパスワードを\n渡しにくい" {
+  near: passwordless.body
+  style.font-size: 14
+}
+
+passwordless.body -> benefit: {
+  style.stroke-dash: 3
+}
+
+note: "サービスによって\n使える方式は\n1種類だけのことも" {
+  near: sms
+  style.font-size: 14
+}

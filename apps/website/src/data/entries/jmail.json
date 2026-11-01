@@ -1,0 +1,11 @@
+{
+  "name": "Jメール",
+  "reading": "じぇーめーる",
+  "domain": "mintj.com",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://mintj.com/msm/guide/faq/",
+  "url": "https://mintj.com/",
+  "notes": "ログインは会員ID/電話番号/メールアドレス＋パスワードのみ（公式ログイン画面・FAQで確認）。二段階認証の案内はない。年齢確認の書類提出はログイン認証ではない",
+  "recommendation": "password-only"
+}

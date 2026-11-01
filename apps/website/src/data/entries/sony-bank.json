@@ -1,0 +1,11 @@
+{
+  "name": "ソニー銀行",
+  "reading": "そにーぎんこう",
+  "domain": "sonybank.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://sonybank.jp/guide/support/howtologin/",
+  "url": "https://sonybank.jp/",
+  "notes": "ウェブサイトのログインは店番号・口座番号・ログインパスワードのみ。トークンまたはソニー銀行アプリのワンタイムパスワード、合い言葉はいずれも「重要なお取引」の際の認証専用で、ログイン自体には使えないため数えない。パスキーの案内なし",
+  "recommendation": "password-only"
+}

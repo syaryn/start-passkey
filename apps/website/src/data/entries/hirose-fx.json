@@ -1,0 +1,15 @@
+{
+  "name": "ヒロセ通商（LION FX）",
+  "reading": "ひろせつうしょう",
+  "domain": "hirose-fx.co.jp",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://hirose-fx.co.jp/landing/lp_passkey/",
+  "url": "https://hirose-fx.co.jp/",
+  "notes": "2026年8月にパスキー認証ログインに対応（パスワードを使わず顔・指紋・端末PINでログイン）。パスキー利用時はログイン2段階認証が不要になる方式で、パスワードへの追加要素としての提供ではないため mfa は unsupported。別途、ログイン2段階認証（認証アプリまたはメールのPINコード）も設定可能。2026年12月末頃にログイン2段階認証の必須化とパスキー認証の必須化を予定。公式サイトの直接取得が403だったため、公式ドメインの検索結果に表示された公式ページ本文で確認",
+  "recommendation": "passkey",
+  "documentationUrl": "https://hirose-fx.co.jp/landing/lp_passkey/",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

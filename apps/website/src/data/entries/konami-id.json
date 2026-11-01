@@ -1,0 +1,23 @@
+{
+  "name": "KONAMI ID",
+  "reading": "こなみあいでぃー",
+  "domain": "my.konami.net",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://ja-support1.konami.com/hc/ja/articles/38853855338905-Q-%E4%BA%8C%E6%AE%B5%E9%9A%8E%E8%AA%8D%E8%A8%BC%E3%81%A8%E3%83%91%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%92%E5%90%8C%E6%99%82%E3%81%AB%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B-KONAMI-ID",
+  "url": "https://my.konami.net/",
+  "notes": "コナミグループの共通IDで、e-amusement、eFootball、遊戯王カードゲームネットワーク、PASELI、コナミスタイル等のログイン基盤。パスキーはMy KONAMIのセキュリティ設定で登録でき、ログイン時に端末のロック解除（生体認証・PIN等）で認証するパスワード代替方式で、パスワード入力後の第2要素としては使われない。メール確認コードによる二段階認証とは同時設定できず（排他的）、パスキーが使えない場合はKONAMI ID/メールアドレス入力後に送られるメール確認コードでログインする。パスキー未設定時はパスワード＋メール確認コードの二段階認証を設定可能（信頼した端末では180日間省略可）。旧「コナミワンタイムパスワードサービス」（専用トークン）は2025年7月1日に終了しており、汎用の認証アプリ（TOTP）の案内はない",
+  "recommendation": "passkey",
+  "documentationUrl": "https://my.konami.net/support/passkey",
+  "passkey": {
+    "passwordless": "allowed"
+  },
+  "delegatedServices": [
+    {
+      "name": "e-amusement",
+      "reading": "いーあみゅーずめんと",
+      "sourceUrl": "https://ja-support1.konami.com/hc/ja/articles/900004806546-Q-e-amusement-pass-%E4%BB%AE%E6%83%B3-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-e-amusement-pass",
+      "sourceNote": "KONAMI公式サポートFAQに「KONAMI IDで e-amusementサイト にログインする」と明記"
+    }
+  ]
+}

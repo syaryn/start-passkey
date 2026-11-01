@@ -1,0 +1,20 @@
+{
+  "name": "7iD",
+  "reading": "せぶんあいでぃ",
+  "domain": "7id.omni7.jp",
+  "url": "https://account.7id.omni7.jp/top",
+  "categories": ["retail"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.7net.omni7.jp/hc/ja/articles/5473428521743-%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3",
+  "notes": "二要素認証は登録電話番号へのSMSまたは音声通話によるワンタイムパスワード。ログイン時の利用は任意設定、ログイン情報・会員情報の変更時は必須。電話番号未登録の場合はメールでの追加認証を求められることがある",
+  "delegatedServices": [
+    {
+      "name": "セブン‐イレブンアプリ",
+      "reading": "せぶんいれぶんあぷり",
+      "sourceUrl": "https://faq.sej.co.jp/article/?knowledge_id=cidqbqkvr0h8m5o3ug50",
+      "sourceNote": "公式FAQ「登録済の7iD（メールアドレス）とパスワードを入力し、ログイン」"
+    }
+  ],
+  "recommendation": "code",
+  "documentationUrl": "https://iyec.itoyokado.co.jp/shop/pages/guide_detail31.aspx"
+}

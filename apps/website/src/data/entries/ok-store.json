@@ -1,0 +1,12 @@
+{
+  "name": "オーケークラブ会員カードアプリ",
+  "reading": "おーけーくらぶかいいんかーどあぷり",
+  "domain": "ok-corporation.jp",
+  "url": "https://ok-corporation.jp/feature/okclub_app.html",
+  "categories": ["food"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://ok-corporation.jp/feature/okclub_app.html",
+  "notes": "公式ページに、アプリとネットスーパー共通で登録メールアドレスとパスワードによりログインすると明記。ログイン時の二段階認証・認証アプリ・パスキーの設定案内なし。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

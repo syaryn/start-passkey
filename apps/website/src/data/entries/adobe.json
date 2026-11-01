@@ -1,0 +1,16 @@
+{
+  "name": "Adobe ID（Adobeアカウント）",
+  "reading": "あどびあいでぃー",
+  "domain": "adobe.com",
+  "url": "https://account.adobe.com",
+  "categories": ["design"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://helpx.adobe.com/account/individual/sign-in-and-security/sign-in-methods/use-passkeys-signing-in-to-adobe-account.html",
+  "notes": "パスキーでパスワードなしにサインイン可能（複数登録可、USBセキュリティキーへの保存も可）。パスキーは2段階認証の要素としては使われず、認証アプリ・メール・電話を使う2段階認証が別途提供される。",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://helpx.adobe.com/account/individual/sign-in-and-security/sign-in-methods/use-passkeys-signing-in-to-adobe-account.html",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Hulu",
+  "reading": "ふーるー",
+  "domain": "hulu.jp",
+  "url": "https://www.hulu.jp/",
+  "categories": ["streaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.hulu.jp/hc/ja/articles/33594884022937-Hulu%E3%81%AB%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%99%E3%82%8B",
+  "notes": "日本版Hulu（HJホールディングス運営）。ログインはEメールアドレス＋パスワードのみで、公式ヘルプに二要素認証・認証アプリ・パスキーの設定案内はない。新規登録時にメールで送られる確認コードは登録手続き用であり、ログイン時の追加認証ではない。連携済みの各種外部IDでのログインも可能（その場合は外部ID側の認証に従う）",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

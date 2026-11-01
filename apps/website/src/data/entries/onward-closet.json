@@ -1,0 +1,12 @@
+{
+  "name": "オンワードクローゼット",
+  "reading": "おんわーどくろーぜっと",
+  "domain": "crosset.onward.co.jp",
+  "url": "https://crosset.onward.co.jp/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://crosset.onward.co.jp/guide/member",
+  "notes": "会員基盤はオンワードメンバーズで、ログインはログインID（メールアドレス）＋パスワードのみ。SMSはパスワード再設定時の送付手段として案内されるのみで、ログイン時の二段階認証・認証アプリ・パスキーの設定は公式ガイドにない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

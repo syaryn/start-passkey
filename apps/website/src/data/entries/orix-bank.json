@@ -1,0 +1,11 @@
+{
+  "name": "オリックス銀行",
+  "reading": "おりっくすぎんこう",
+  "domain": "orixbank.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.orixbank.co.jp/personal/deposit/edirect/flow02-01.html",
+  "url": "https://www.orixbank.co.jp/",
+  "notes": "eダイレクト預金のお客さま専用ページへのログインは口座番号＋パスワードのみ。スマートフォン認証サービスは公式に「振り込みの認証専用」と明記されておりログインには使えない。オリックス銀行アプリの生体認証・パスコードログインは登録したパスワードを呼び出す方式で、パスキーではない",
+  "recommendation": "password-only"
+}

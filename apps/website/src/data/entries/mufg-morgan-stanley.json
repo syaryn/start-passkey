@@ -1,0 +1,15 @@
+{
+  "name": "三菱UFJモルガン・スタンレー証券",
+  "reading": "みつびしゆーえふじぇーもるがんすたんれーしょうけん",
+  "domain": "sc.mufg.jp",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq.sc.mufg.jp/faq/show/4790?back=front%2Fcategory%3Ashow&category_id=1&faq_id=5088&keyword=%E5%8F%A3%E5%BA%A7&page=9&site_domain=default&sort=sort_keyword&sort_order=asc",
+  "url": "https://www.sc.mufg.jp/",
+  "notes": "ログインは口座番号＋ログインパスワード入力の後にパスキー認証（FIDO2）が必須となる多要素型で、パスワードレスではない。2026年5月11日に全顧客のログイン認証をパスキーへ切替完了し、メールによるワンタイムパスワードでのログインは廃止。出金時・株式取引時にもパスキー認証を導入",
+  "recommendation": "passkey",
+  "documentationUrl": "https://faq.sc.mufg.jp/faq/show/4790?back=front%2Fcategory%3Ashow&category_id=1&faq_id=5088&keyword=%E5%8F%A3%E5%BA%A7&page=9&site_domain=default&sort=sort_keyword&sort_order=asc",
+  "passkey": {
+    "mfa": "required"
+  }
+}

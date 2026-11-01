@@ -1,0 +1,13 @@
+{
+  "name": "Arlo",
+  "reading": "あーろ",
+  "domain": "arlo.com",
+  "url": "https://www.arlo.com/",
+  "categories": ["smart-home"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://kb.arlo.com/000062288/What-is-two-step-verification-and-how-do-I-set-it-up-with-Arlo",
+  "notes": "公式KBによれば、全アカウントで2段階認証が必須。方式は信頼済みデバイスへのプッシュ承認、SMSコード、メールコードのみで、認証アプリ（TOTP）やパスキーは使えない。アプリの顔/指紋認証は端末ロック解除でありパスキーではない。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://kb.arlo.com/000062288/What-is-two-step-verification-and-how-do-I-set-it-up-with-Arlo"
+}

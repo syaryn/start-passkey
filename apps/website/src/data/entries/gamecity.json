@@ -1,0 +1,11 @@
+{
+  "name": "GAMECITY",
+  "reading": "げーむしてぃ",
+  "domain": "gamecity.ne.jp",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.gamecity.ne.jp/support/info/qa_member.html",
+  "url": "https://www.gamecity.ne.jp/",
+  "notes": "実ブラウザで確認（2026-11-01）。現行のmy GAMECITYアカウントはメールアドレス＋パスワードのみ、旧市民ログインも市民ID＋パスワードのみで、旧トークン型認証に関する現行案内は公式Q&A・ログイン画面に確認できない。Facebook連携はあるが追加認証ではない",
+  "recommendation": "password-only"
+}

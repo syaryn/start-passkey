@@ -1,0 +1,12 @@
+{
+  "name": "ビックカメラ",
+  "reading": "びっくかめら",
+  "domain": "biccamera.com",
+  "url": "https://www.biccamera.com/",
+  "categories": ["electronics"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.biccamera.com/bc/c/info/menu/howtologin.jsp",
+  "notes": "ログインはメールアドレス＋パスワードのみ（ログイン画面の画像タップはボット対策）。公式案内にパスキー・二要素認証・認証アプリの設定はない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

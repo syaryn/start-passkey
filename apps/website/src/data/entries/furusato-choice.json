@@ -1,0 +1,13 @@
+{
+  "name": "ふるさとチョイス",
+  "reading": "ふるさとちょいす",
+  "domain": "furusato-tax.jp",
+  "url": "https://www.furusato-tax.jp/",
+  "categories": ["lifestyle"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.faq-choice.furusato-tax.jp/%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E8%AA%8D%E8%A8%BC%E3%82%B3%E3%83%BC%E3%83%89-66c77aca8aceb8001ccfe559",
+  "notes": "ログイン認証コードは登録メールアドレス宛に届く6桁コード（有効期限10分）。マイページで任意に設定可能だが、利用状況によっては未設定でも入力を求められることがある。SNSアカウント連携によるログインも可能",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://www.faq-choice.furusato-tax.jp/%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E8%AA%8D%E8%A8%BC%E3%82%B3%E3%83%BC%E3%83%89-66c77aca8aceb8001ccfe559"
+}

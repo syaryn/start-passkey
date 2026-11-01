@@ -1,0 +1,11 @@
+{
+  "name": "セゾンカード（Netアンサー）",
+  "reading": "せぞんかーど",
+  "domain": "saisoncard.co.jp",
+  "categories": ["payments"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.saisoncard.co.jp/credictionary/card/article330.html",
+  "url": "https://www.saisoncard.co.jp/",
+  "notes": "ログインはNetアンサーIDとパスワードのみ。ワンタイムパスコード認証や電話認証は新規登録時の本人確認用であり、ログイン時の追加認証ではない。ワンタイムパスワードは本人認証サービス（3Dセキュア）用で、ログインには使えない",
+  "recommendation": "password-only"
+}

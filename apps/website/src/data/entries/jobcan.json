@@ -1,0 +1,13 @@
+{
+  "name": "ジョブカン",
+  "reading": "じょぶかん",
+  "domain": "jobcan.ne.jp",
+  "url": "https://all.jobcan.ne.jp/",
+  "categories": ["backoffice"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://all.jobcan.ne.jp/info/press/2164",
+  "notes": "共通IDログインで2要素認証に対応。パスワード入力後、認証アプリに登録した認証コード、またはメール宛の認証コードを入力する。有効/無効は管理画面で設定する（管理者設定に依存）。SAMLによるSSOにも対応。パスキーの案内は公式情報になし。",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://all.jobcan.ne.jp/info/press/2164"
+}

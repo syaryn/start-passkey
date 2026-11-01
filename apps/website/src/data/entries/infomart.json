@@ -1,0 +1,13 @@
+{
+  "name": "インフォマート（BtoBプラットフォーム）",
+  "reading": "いんふぉまーと",
+  "domain": "infomart.co.jp",
+  "url": "https://www.infomart.co.jp/",
+  "categories": ["business"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.infomart.co.jp/security/index.asp",
+  "notes": "セキュリティ強化オプションとして、ID/パスワード認証後にSMSまたはメールで送信されるワンタイムパスワードによる2要素認証を追加できる（利用中のサービスにより設定できない場合あり）。認証アプリ（TOTP）やパスキーの案内は公式情報になし。SAML/OpenID ConnectによるSSOにも対応するが、認証方式は連携先IdP側に従う",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://www.infomart.co.jp/security/index.asp"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "MyKomon",
+  "reading": "まいこもん",
+  "domain": "mykomon.com",
+  "url": "https://www.mykomon.com/MyKomon/",
+  "categories": ["backoffice"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://info.mykomon.com/seminar/qa-pw/",
+  "notes": "ログインはユーザーID＋パスワードのみ。SMS認証番号は所長IDのパスワード再設定時と初回のID通知書発行時に使うもので、ログイン時の二要素認証ではない。アクセス端末制限はあるが、認証アプリ・パスキーの設定案内はなし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

@@ -1,0 +1,97 @@
+delegated_service,reading,base_slug,base_name,base_recommendation,note,source_url,source_note
+UQ mobile,ゆーきゅーもばいる,au-id,au ID,code,,https://www.uqwimax.jp/mobile/support/faq/pages/pg00002881.html,公式FAQ「My UQ mobileにログインする際はau IDをつかいます」と明記
+ブックパス,ぶっくぱす,au-id,au ID,code,,https://bookpass.auone.jp/help/faq,公式FAQで利用にはau IDが必要・購入書籍は同じau IDでログインして閲覧と案内（403のため検索インデックスで確認、利用規約にもau ID登録必須の定め）
+ポンタ,ぽんた,au-id,au ID,code,リクルートIDからもログイン可（併用）,https://faq.ponta.jp/answer/64183ea4196b84c190a492a4/,公式FAQ: PontaアプリはPontaWebまたはau IDでログインできると案内
+ポンタ,ぽんた,recruit-id,リクルートID,passkey,au IDからもログイン可（併用）,https://faq.ponta.jp/answer/641958b4bb8a5cfdb0e9c87b/,公式FAQ「リクルートIDとパスワードを入力することで、PontaWebへログインいただけます」
+ahamo,あはも,d-account,dアカウント,passkey,,https://faq.ahamo.com/faq/show/2065?category_id=13&site_domain=default,公式FAQ「ahamoアプリへのログインには、申し込み時に登録したdアカウント、または4桁のネットワーク暗証番号が必要です」
+Lemino,れみの,d-account,dアカウント,passkey,,https://lemino.docomo.ne.jp/leminonews/articles/1081763596741902337,公式サイトのログイン手順で「dアカウントでログイン」と明記
+スゴ得コンテンツ,すごとくこんてんつ,d-account,dアカウント,passkey,2026-03-01に「d Value Pass」へ改称,https://www.sugotoku.docomo.ne.jp/cs/faq.html,公式FAQで「別のdアカウントでログインする」とログインが案内されている（現・dバリューパス）
+楽天モバイル,らくてんもばいる,rakuten-id,楽天ID,passkey,,https://network.mobile.rakuten.co.jp/information/news/service/3610/,公式お知らせ「楽天IDとパスワードによるログインも引き続きご利用いただけます」
+楽天ラクマ,らくてんらくま,rakuten-id,楽天ID,passkey,,https://faq.fril.jp/hc/ja/articles/39007691316493-%E9%80%A3%E6%90%BA%E3%81%97%E3%81%9F%E6%A5%BD%E5%A4%A9ID%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93,公式ガイドで「連携した楽天IDでログイン」を案内
+西友,せいゆう,rakuten-id,楽天ID,passkey,ネットスーパー等は楽天IDでログイン,https://netsuper.rakuten.co.jp/seiyu/info/guide/,公式ガイド「西友ネットスーパーのご利用には楽天会員登録と楽天全国スーパー利用登録が必要です」
+ebookjapan,いーぶっくじゃぱん,yahoo-japan-id,Yahoo! JAPAN ID,passkey,,https://support.yahoo-net.jp/SccEbookjapan/s/article/H000012792,Yahoo!公式ヘルプ「電子書籍の購入や閲覧にはYahoo! JAPANへのログインが必要です」
+Yahoo!フリマ,やふーふりま,yahoo-japan-id,Yahoo! JAPAN ID,passkey,旧PayPayフリマ,https://support.yahoo-net.jp/SccPaypayfleamarket/s/article/H000011705,Yahoo!公式ヘルプで利用登録に必要な準備の第一項目が「Yahoo! JAPAN IDでのログイン」
+Yahoo!オークション,やふーおーくしょん,yahoo-japan-id,Yahoo! JAPAN ID,passkey,,https://support.yahoo-net.jp/SccAuctions/s/article/H000010099,Yahoo!公式ヘルプ「ご利用のYahoo! JAPAN IDでログインしてください」
+みんカラ,みんから,yahoo-japan-id,Yahoo! JAPAN ID,passkey,2025-06-24にYahoo! JAPAN IDへ統一,https://support.yahoo-net.jp/PccMinkara/s/article/H000014605,Yahoo!公式ヘルプ「みんカラは、Yahoo! JAPAN IDでログインする方式に統一しました」
+戦国IXA,せんごくいつくさ,yahoo-japan-id,Yahoo! JAPAN ID,passkey,主基盤。他にスクウェア・エニックス アカウント/DMM版もあり,https://www.sengokuixa.jp/,公式サイト（Yahoo!ゲーム版）がゲーム開始にYahoo! JAPAN IDを案内
+BOOTH,ぶーす,pixiv,pixiv,passkey,,https://booth.pixiv.help/hc/ja/categories/115000250593-%E5%85%A8%E4%BD%93%E5%90%91%E3%81%91,BOOTH公式ヘルプの登録・ログインカテゴリに「pixivアカウントでログイン」「pixivアカウント連携」記事群
+pixivFANBOX,ぴくしぶふぁんぼっくす,pixiv,pixiv,passkey,,https://fanbox.pixiv.help/hc/ja/articles/4423931453593-%E6%94%AF%E6%8F%B4%E3%81%97%E3%81%A4%E3%81%84%E3%82%8B%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AB%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93,公式ヘルプに「登録にはpixivアカウントが必要」と明記
+ホットペッパービューティー,ほっとぺっぱーびゅーてぃー,recruit-id,リクルートID,passkey,,https://beauty.hotpepper.jp/doc/onlinePay/info/information_security.html?ctm=c_all_info_05,公式ページ「リクルートIDを登録いただいた会員の方がHot Pepper Beautyにログイン」と説明
+タウンワーク,たうんわーく,recruit-id,リクルートID,passkey,,https://help.townwork.net/s/article/000025083,公式ヘルプ「会員の種類について」で会員基盤がリクルートIDと案内
+フロムエー,ふろむえー,recruit-id,リクルートID,passkey,,https://point.recruit.co.jp/recruitid/doc/policy/service.html,リクルートID公式の利用サービス一覧にフロム・エーナビが掲載
+一番くじオンライン,いちばんくじおんらいん,bandai-namco-id,バンダイナムコID,passkey,,https://on-line.1kuji.com/Form/Login.aspx,公式ログインページに「バンダイナムコIDをお持ちの方はこちらからログイン」
+一番くじ倶楽部,いちばんくじくらぶ,bandai-namco-id,バンダイナムコID,passkey,,https://1kuji.com/home/membership,公式登録案内「一番くじ倶楽部新規会員登録にはバンダイナムコIDが必要」
+ガンダムVS.モバイル,がんだむばーさすもばいる,bandai-namco-id,バンダイナムコID,passkey,,https://web.vsmobile.jp/exvs2ib/help/mobile/regist/main/index,公式ヘルプ「会員登録にはバンダイナムコIDの登録が必須」
+セブン‐イレブンアプリ,せぶんいれぶんあぷり,7id,7iD,code,,https://faq.sej.co.jp/article/?knowledge_id=cidqbqkvr0h8m5o3ug50,公式FAQ「登録済の7iD（メールアドレス）とパスワードを入力し、ログイン」
+ディズニーストア,でぃずにーすとあ,tokyo-disney-resort,ディズニーアカウント（MyDisney）,code,,https://store.disney.co.jp/others/terms-of-use.html,公式利用規約にMyDisneyアカウント登録のうえ本サイトで利用と明記
+Disney+,でぃずにーぷらす,tokyo-disney-resort,ディズニーアカウント（MyDisney）,code,,https://www.disney.co.jp/onlinehelp/membership,公式ヘルプ「MyDisneyアカウントはディズニーの各種サービスのご利用に必要」でDisney+を列挙
+Amebaマンガ,あめーばまんが,ameba,Ameba,code,,https://ameba-manga.zendesk.com/hc/ja/articles/900004335886-%E7%99%BB%E9%8C%B2%E6%96%B9%E6%B3%95,公式ヘルプ「Ameba会員の方は『アメーバIDでログイン』ボタンを押してください」
+はてなブックマーク,はてなぶっくまーく,hatena,はてなID,passkey,,https://b.hatena.ne.jp/help/entry/faq,公式ヘルプFAQ「はてなブックマークを利用するにははてなのユーザーアカウントが必要です」
+ファイナルファンタジーXIV,ふぁいなるふぁんたじーふぉーてぃーん,square-enix-account,スクウェア・エニックス アカウント,authenticator,,https://support.jp.square-enix.com/faqarticle.php?kid=67426&id=450,公式サポートFAQがFFXIVへのログインをスクウェア・エニックス アカウント前提に案内
+ドリランド,どりらんど,gree,GREE,authenticator,,https://www.gree.co.jp/jp/ja/news/press/2012/0118-01.html,グリー公式リリース「探検ドリランド ※ゲームを遊ぶには会員登録が必要」（GREE基盤）。App Store公式説明文に「GREEへの登録およびログインが必要」と明示
+城姫クエスト,しろひめくえすと,gree,GREE,authenticator,,https://hd.gree.net/jp/ja/news/press/2014/0815-01.html,グリー公式リリース「城姫クエスト ※ゲームを遊ぶには『GREE』への会員登録が必要」
+Tモール,てぃーもーる,vpoint,Vポイント,passkey,現「Vポイントモール」,https://privacy.vpoint.co.jp/terms/mall/,Vポイントモール公式利用規約: V会員（ネット登録会員）が指定IDで利用（現行TモールはVポイントモール）
+阪急百貨店,はんきゅうひゃっかてん,h2o-id,H2O ID,code,,https://www.hankyu-hanshin-dept.co.jp/app/faq.html,公式ガイド「H2O IDに登録しているメールアドレスとパスワードを入力してログイン」「アプリのご利用にはH2O IDのご登録が必要です」
+GU,じーゆー,uniqlo,ユニクロ,code,ファーストリテイリング共通会員基盤,https://faq.uniqlo.com/articles/FAQ/100001981,ユニクロ公式「ユニクロとジーユーの会員登録は共通して利用できます。同じメールアドレスとパスワードでログインできます」
+Threads,すれっず,instagram,Instagram,passkey,Metaアカウント基盤,https://help.instagram.com/1747515265645443/?helpref=uf_permalink&parent_cms_id=179980294969821&locale=ja_JP,Instagram公式ヘルプ「Threadsプロフィールを作成するには、InstagramまたはFacebookアカウントでログインする必要があります」（実ブラウザで本文確認）
+エールフランス,えーるふらんす,flying-blue,Flying Blue,code,,https://wwws.airfrance.co.jp/ja/information/flyingblue,エールフランス日本公式「フライング・ブルーはエールフランス航空のロイヤルティプログラム」でマイアカウントへ案内
+KLMオランダ航空,けーえるえむおらんだこうくう,flying-blue,Flying Blue,code,,https://www.klm.co.jp/information/flying-blue,KLM公式「フライング・ブルーは当社のロイヤルティプログラム」でアカウントへのログインへ案内
+Hotels.com,ほてるずどっとこむ,expedia,Expedia,code,Expedia Group基盤,https://jp.hotels.com/lp/b/terms-of-service,公式利用規約2条: アカウントはExpedia・Vrbo等でも同じログイン情報でアクセス可能な「Expedia Groupアカウント」と定義
+かんぽ生命マイページ,かんぽせいめいまいぺーじ,yu-id,ゆうID,passkey,2026年3月にゆうIDへ移行,https://www.jp-life.japanpost.jp/mypage/jpid/index.html,かんぽ生命公式「マイページのご利用にはゆうIDへのログインが必要です」（2026-03-23よりゆうIDへ変更）
+島忠ホームズ,しまちゅうほーむず,nitori,ニトリメンバーズ,code,ニトリ会員基盤,https://www.nitori-net.jp/ec/userguide/memberscardpoint/,ニトリ公式「ニトリメンバーズはニトリ・デコホーム・N+・島忠ホームズ、シマホネットで利用可能」
+トヨタレンタカー,とよたれんたかー,my-toyota,TOYOTAアカウント,passkey,,https://rent.toyota.co.jp/login/,公式ログイン画面「2025年1月より、トヨタレンタカーはTOYOTAアカウントにてご利用いただけるようになりました」
+mineo,まいねお,eoid,eoID,passkey,,https://support.mineo.jp/usqa/apply/apply/eoid/4206847_8866.html,mineo公式サポート「eoID・eoIDパスワードとは、マイページやmineoアプリなどへログインする際に必要なIDとパスワード」
+eo光,いーおーひかり,eoid,eoID,passkey,,https://eonet.jp/eoid/,オプテージ公式「eoIDログインガイド」: eo光のeoマイページのログインにeoIDが必要と案内
+イオンネットスーパー,いおんねっとすーぱー,iaeon,iAEON（iAEON会員）,password-only,,https://shop.aeon.com/netsuper/01050000063030/helpcenter_01,公式ガイド「イオンネットスーパーをご利用いただくにはiAEONの会員登録が必要です」
+グランブルーファンタジー,ぐらんぶるーふぁんたじー,mobage,モバゲー,password-only,アプリ版の主基盤。ブラウザ版はGREE/DMM/Yahoo! JAPAN IDもあり,https://www.cygames.co.jp/news/id-16084/,Cygames公式リリース「iOS版等のご利用にあたってはMobageへの会員登録が必要です」
+LINE MUSIC,らいんみゅーじっく,line,LINEアカウント,passkey,,https://help2.line.me/LINEMusic/web/categoryId/200000156/3/pc?lang=ja,LINE MUSIC公式ヘルプ「LINE MUSICはLINEアカウントでログインが可能です」
+にじさんじオフィシャルストア,にじさんじおふぃしゃるすとあ,anycolor-id,ANYCOLOR ID,code,,https://shop.nijisanji.jp/guide.html,ストア公式ガイド「ANYCOLOR IDの登録を行う必要があります」
+にじさんじFAN CLUB,にじさんじふぁんくらぶ,anycolor-id,ANYCOLOR ID,code,,https://www.nijisanji.jp/fanclub-help,公式ヘルプ「ANYCOLOR IDを利用してログインすることができます」
+イオンショップ,いおんしょっぷ,iaeon,iAEON（iAEON会員）,password-only,,https://aeonshop.com/pages/guide_aeonsquare,公式ガイド「イオンショップのご利用にはiAEON会員の登録が必要」
+dアニメストア,でぃーあにめすとあ,d-account,dアカウント,passkey,,https://animestore.docomo.ne.jp/animestore/tp_pc,公式トップに「dアカウントでログイン」の導線を明示
+プレミアムバンダイ,ぷれみあむばんだい,bandai-namco-id,バンダイナムコID,passkey,,https://www.bandainamcoid.com/portal/serviceSearch,バンダイナムコID公式の対応サービス一覧にプレミアムバンダイが掲載
+バナパスポート,ばなぱすぽーと,bandai-namco-id,バンダイナムコID,passkey,,https://www.bandainamcoid.com/banapassport/en/faq,公式FAQ「A BandaiNamcoID is required to use the Bandai Namco Passport service」
+Calooペット,かるーぺっと,caloo,Caloo,password-only,,https://caloo.jp/users/regist,Caloo公式登録ページ「アカウントはCaloo / Calooペット共通です」
+SUUMO,すーも,recruit-id,リクルートID,passkey,,https://point.recruit.co.jp/recruitid/doc/policy/service.html,リクルートID公式の利用サービス一覧にSUUMOが掲載
+ココロートパーク,こころーとぱーく,rohto,ロート製薬オンライン,password-only,,https://coco.rohto.com/faq/,公式FAQ「ロートIDは『ココロートパーク』と『ロート製薬オンラインショップ』で共通にご利用いただける会員IDです」
+GMT,じーえむてぃー,mapcamera,マップカメラ,password-only,,https://www.mapcamera.com/html/pointprogram/index.html,マップカメラ公式: シュッピン運営ECの共通ポイント/会員基盤（公式リリースでMap Camera・GMT・BRILLER・KINGDOM NOTE・CROWN GEARSを専門店群として一体に案内）。同一IDログインの一文での明示はない
+KINGDOMNOTE,きんぐだむのーと,mapcamera,マップカメラ,password-only,,https://www.mapcamera.com/html/pointprogram/index.html,同上（シュッピン共通基盤）
+CROWNGEARS,くらうんぎあーず,mapcamera,マップカメラ,password-only,,https://www.mapcamera.com/html/pointprogram/index.html,同上（シュッピン共通基盤）
+BRILLER,ぶりえ,mapcamera,マップカメラ,password-only,,https://www.mapcamera.com/html/pointprogram/index.html,同上（シュッピン共通基盤）
+まちうまアプリ,まちうまあぷり,h2o-id,H2O ID,code,,https://www.excite.co.jp/news/article/Prtimes_2026-10-05-152319-36/,運営会社（エイチ・ツー・オー ネクスト）の公式プレスリリース（PR TIMES配信）「まちうまは、グループ共通ID『H2O ID』を実装した初めてのサービス」。公式ドメイン上の同一記述は未確認
+オフモール,おふもーる,hardoff,ハードオフ,password-only,,https://www.hardoff.app/faq,公式アプリFAQ「オフモール・オファー買取と共通のハードオフIDが使えます」
+Swarm,すわーむ,foursquare,Foursquare,code,,https://support.foursquare.com/hc/en-us/articles/21163034380956-Deleting-or-Recovering-Foursquare-Account,Foursquare公式サポートがSwarmのアカウントをFoursquareアカウントとして扱う（同一基盤）
+アベイル,あべいる,shimamura,しまむら,password-only,,https://www.shimamura.gr.jp/shimamura/featured/shimamurapark/,しまむら公式「しまむらパーク」: しまむら/アベイル/バースデイ/シャンブル/ディバロ共通の統合ストア・アプリ（公式リリースにも5ブランド共通会員サービスと明記）
+バースデイ,ばーすでい,shimamura,しまむら,password-only,,https://www.shimamura.gr.jp/shimamura/featured/shimamurapark/,同上（5ブランド共通会員）
+シャンブル,しゃんぶる,shimamura,しまむら,password-only,,https://www.shimamura.gr.jp/shimamura/featured/shimamurapark/,同上（5ブランド共通会員）
+ディバロ,でぃばろ,shimamura,しまむら,password-only,,https://www.shimamura.gr.jp/shimamura/featured/shimamurapark/,同上（5ブランド共通会員）
+ファイナルファンタジーXI,ふぁいなるふぁんたじーいれぶん,square-enix-account,スクウェア・エニックス アカウント,authenticator,,https://support.eu.square-enix.com/faqarticle.php?kid=60224&id=455&la=2&ret=faq&pv=10&page=0&c=4&sc=0&so=0,公式サポートFAQ「you will need a Square Enix account in order to play FINAL FANTASY XI」
+ドラゴンクエストX,どらごんくえすとてん,square-enix-account,スクウェア・エニックス アカウント,authenticator,,https://hiroba.dqx.jp/sc/public/playguide/wintrial_1/,DQX公式ガイド「スクウェア・エニックス アカウントを入力してログインしてください」
+Tapo,たぽ,tp-link,TP-Link ID,code,,https://www.tp-link.com/uk/support/faq/1439/?app=deco,"TP-Link公式FAQ「One account works across Tapo, Kasa, Deco, Tether, Omada, VIGI, and Aginet apps」"
+Kasa,かさ,tp-link,TP-Link ID,code,,https://www.tp-link.com/uk/support/faq/1439/?app=deco,同上（TP-Link ID共通）
+Deco,でこ,tp-link,TP-Link ID,code,,https://www.tp-link.com/uk/support/faq/1439/?app=deco,同上（TP-Link ID共通）
+るるぶトラベル,るるぶとらべる,jtb,JTB（JTBトラベルメンバー）,password-only,,https://www.rurubu.travel/theme/pointup/,るるぶトラベル公式「JTBトラベルポイントの獲得には『JTBトラベルメンバー』への会員登録が必要（ログインを前提）」
+ゲソてん byGMO,げそてんばいじーえむおー,gmo-id,GMO ID,passkey,,https://gesoten.com/login,公式ログインページに「メールアドレス( GMO ID )でログイン」と表示（実ブラウザで確認）。GMO ID公式サイトの関連サービス一覧にもゲソてんが掲載
+ポイントタウン,ぽいんとたうん,gmo-id,GMO ID,passkey,,https://www.pointtown.com/information/429,ポイントタウン公式お知らせ「『GMO IDでログインする』からログインすると…」と明記
+えきねっと,えきねっと,jre-id,JRE ID,passkey,,https://www.jreast.co.jp/es/ticketless/assets/page/top/pdf/ekinet_guide.pdf,JR東日本公式のえきねっと案内資料「会員登録にはJRE IDが必要となります」
+JRE POINT,じぇいあーるいーぽいんと,jre-id,JRE ID,passkey,,https://media.jreast.co.jp/articles/5679,JR東日本公式メディア「JRE POINT WEBサイトの新規登録には『JRE ID』が必要です」
+モバイルSuica,もばいるすいか,jre-id,JRE ID,passkey,,http://www.jreast.co.jp/press/2024/20241217_ho01.pdf,JR東日本公式プレスリリース: JRE IDの対象サービスとしてモバイルSuicaを挙げ「対象サービスの新規登録時、必ずJRE IDをご利用いただく必要があります」
+e5489,いーごーよんはちきゅー,wester-id,WESTER ID,passkey,,https://support-faq.westjr.co.jp/westjr/category/show/69?page=13&site_domain=default&sort=sort_access&sort_order=desc,JR西日本公式FAQ「お持ちのWESTER ID（旧J-WEST ID）とパスワードで、テキスト版のe5489をご利用いただけます」
+e-amusement,いーあみゅーずめんと,konami-id,KONAMI ID,passkey,,https://ja-support1.konami.com/hc/ja/articles/900004806546-Q-e-amusement-pass-%E4%BB%AE%E6%83%B3-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-e-amusement-pass,KONAMI公式サポートFAQに「KONAMI IDで e-amusementサイト にログインする」と明記
+DLsite,でぃーえるさいと,vivion-id,viviON ID,authenticator,,https://vivion.jp/news/293,viviON公式お知らせ: DLsiteアカウントは2025年4月にviviON IDへ名称変更（同一基盤）
+Ci-en,しーえん,vivion-id,viviON ID,authenticator,,https://vivion.jp/news/293,viviON公式お知らせ（DLsiteアカウント→viviON ID）およびエイシス公式情報: Ci-enはviviON ID連携サービスで、2段階認証設定は連携サービス共通
+セカンドストリート,せかんどすとりーと,geo-id,GEO ID,password-only,,https://www.2ndstreet.jp/guide/members,セカンドストリート公式ガイド「オンラインサービスはGEO IDを利用しています。GEO IDはゲオグループのオンラインサービスを共通でご利用頂ける共通IDです」
+デジマート,でじまーと,ritto-id,リットーID,password-only,,https://id.rittor-music.co.jp/faq,リットーID公式FAQ: 旧デジマートIDはリットーIDに統合済み（運営会社のプレスリリースでも「デジマート（リットーID）への会員登録が必須」と明記）
+バイトル,ばいとる,dip-id,dipID,code,,https://id.baitoru.com/help,dipID公式ヘルプ: dipIDはバイトル・バイトルNEXT・バイトルPRO等の共通アカウントIDと明記
+阪急電鉄 PRiVACE,はんきゅうでんてつぷりばーちぇ,hh-cross-id,HH cross ID,password-only,,https://privace.hankyu.co.jp/regist/index.html?language=en,PRiVACE公式の会員利用規約: ログインは共通ID（HH cross IDを含む）とパスワードによる、と定義
+宝塚歌劇,たからづかかげき,hh-cross-id,HH cross ID,password-only,,https://www.hankyu-hotel.com/members/memberplan,阪急阪神第一ホテルグループ公式: 「HH cross ID（または宝塚歌劇共通ID）」はグループ共通IDと説明（同一基盤）
+ローチケ,ろーちけ,lawson-web-member,ローソンWEB会員,code,,https://do.l-tike.com/faq/,ローチケ公式FAQ「ローソンWEB会員でログインしてエントリー…」と明記（ローソンチケット系のログイン基盤）
+HMV&BOOKS online,えいちえむぶいあんどぶっくすおんらいん,lawson-web-member,ローソンWEB会員,code,,https://www.hmv.co.jp/news/article/260831197/,HMV公式ページに「ローソンWEB会員登録（登録無料）」「ローソンWEB会員限定」と明記
+Trello,とれろ,atlassian,Atlassianアカウント,passkey,,https://support.atlassian.com/trello/docs/troubleshooting-two-factor-authentication/,Atlassian公式サポート「Nearly all Trello users will use their Atlassian account … to access Trello」
+WAKU+,わくぷらす,wakuwaku-mail,ワクワクメール,passkey,,https://550909.com/faq/result?id=1155,ワクワクメール公式FAQ: WAKU+は姉妹SNSで同一アカウントを使う旨を確認（基盤エントリ作成時に確認）
+タカチケット,たかちけっと,hawks-member,ホークス会員アカウント,password-only,,http://www.softbankhawks.co.jp/news/detail/202601109078.html,ホークス公式「タカチケットご利用の際は、タカポイント会員（無料）への登録が必要です」
+オンワードクローゼット,おんわーどくろーぜっと,onward-members,オンワードメンバーズ,password-only,,https://crosset.onward.co.jp/login,オンワードクローゼット公式ログインページの見出しが「オンワードメンバーズにご登録済みの方」
+サンリオオンラインショップ,さんりおおんらいんしょっぷ,sanrio-plus,Sanrio＋,password-only,,https://contact.sanrio.co.jp/hc/ja/articles/55964104204569-Sanrio-%E3%81%A7%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%AF%E3%81%A9%E3%82%93%E3%81%AA%E3%82%82%E3%81%AE%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B,サンリオ公式ヘルプ「Sanrio＋でログインできるサービス」記事の連携サービス一覧に「サンリオオンラインショップ本店」が明記
+Sanrio Baby ONLINE SHOP,さんりおべびーおんらいんしょっぷ,sanrio-plus,Sanrio＋,password-only,,https://contact.sanrio.co.jp/hc/ja/articles/55964104204569-Sanrio-%E3%81%A7%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%AF%E3%81%A9%E3%82%93%E3%81%AA%E3%82%82%E3%81%AE%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B,同上。連携サービス一覧に「Sanrio Baby ONLINE SHOP」が明記
+サンリオピューロランド,さんりおぴゅーろらんど,sanrio-plus,Sanrio＋,password-only,,https://contact.sanrio.co.jp/hc/ja/articles/55964104204569-Sanrio-%E3%81%A7%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%AF%E3%81%A9%E3%82%93%E3%81%AA%E3%82%82%E3%81%AE%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B,同上。連携サービス一覧に「サンリオピューロランド」が明記
+ワールド オンラインストア,わーるどおんらいんすとあ,world-premium-club,ワールド プレミアムクラブ,password-only,,https://store.world.co.jp/s/campaign/off/261009/,ワールド オンラインストア公式ページ「クーポンのご利用には、ワールド プレミアムクラブへの会員登録･ログインが必要です」

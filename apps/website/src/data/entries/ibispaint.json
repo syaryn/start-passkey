@@ -1,0 +1,12 @@
+{
+  "name": "アイビスペイント",
+  "reading": "あいびすぺいんと",
+  "domain": "ibispaint.com",
+  "url": "https://ibispaint.com/",
+  "categories": ["hobby"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://ibispaint.com/lecture/index.jsp?no=204",
+  "notes": "ログインはibisアカウント（メールアドレス＋パスワード）または外部アカウント（X・Facebook・Apple）連携のみ。公式チュートリアル・FAQに二段階認証・認証アプリ・パスキーの設定案内はなし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

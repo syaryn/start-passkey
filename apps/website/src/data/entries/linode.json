@@ -1,0 +1,12 @@
+{
+  "name": "Linode",
+  "reading": "りのーど",
+  "domain": "linode.com",
+  "categories": ["developer", "cloud"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://techdocs.akamai.com/linode-api/reference/post-tfa-enable",
+  "url": "https://www.linode.com/",
+  "notes": "2FAはサードパーティ認証アプリ（TOTP）のみ。シークレットキーを認証アプリに登録して有効化し、信頼できないコンピュータからのログイン時にOTP入力が必要になる方式。公式ドキュメントにパスキー/WebAuthnの案内はない。",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://techdocs.akamai.com/linode-api/reference/post-tfa-enable"
+}

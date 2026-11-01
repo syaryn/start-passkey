@@ -1,0 +1,12 @@
+{
+  "name": "CNプレイガイド",
+  "reading": "しーえぬぷれいがいど",
+  "domain": "cnplayguide.com",
+  "url": "https://www.cnplayguide.com/",
+  "categories": ["tickets"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.cnplayguide.com/mem/sigin.aspx",
+  "notes": "ログイン（サインイン）はユーザーID＋パスワードのみ。電話番号認証（登録番号から発信する着信認証）は会員登録・電話番号変更時の本人確認で必須だが、ログイン時の二段階認証ではなく、電話番号を変更しない限り再認証も不要。他サービスアカウント（LINE・Google等）でのログイン連携も可。パスキー・認証アプリの案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

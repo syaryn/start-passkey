@@ -1,0 +1,12 @@
+{
+  "name": "Khan Academy",
+  "reading": "かーんあかでみー",
+  "domain": "khanacademy.org",
+  "url": "https://www.khanacademy.org/",
+  "categories": ["education"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.khanacademy.org/hc/en-us/articles/360031102971-Quick-start-guide-Student-login-account-and-password-instructions-for-teachers",
+  "notes": "ログインはメールアドレス＋パスワード、またはGoogle・Facebook・Apple・Microsoft・CleverのSSO。アカウント設定にログイン用2要素認証の設定項目はなく、公式ヘルプセンターのコミュニティでは2FA追加が機能リクエストとして扱われている（公式のセキュリティ実践の記事で言及される多要素認証は従業員向けのもの）。カテゴリは教育のため「その他」とした。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

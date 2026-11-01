@@ -1,0 +1,13 @@
+{
+  "name": "コミックシーモア",
+  "reading": "こみっくしーもあ",
+  "domain": "cmoa.jp",
+  "url": "https://www.cmoa.jp/",
+  "categories": ["hobby"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.cmoa.jp/faq/299/",
+  "notes": "ログインはシーモア会員ID（メールアドレス）＋パスワード、他サービスID連携（LINE・X・Yahoo! JAPAN ID・Google・Facebook・Apple ID）、dアカウント。通常ログインに加え、一定期間アクセスがない場合などに登録メール宛の認証メール（本文URLをクリック）による本人確認が必要になる。利用者が任意に設定する二段階認証ではなく、パスキー・認証アプリの案内は公式ヘルプにない",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://www.cmoa.jp/faq/299/"
+}

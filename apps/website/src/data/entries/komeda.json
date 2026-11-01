@@ -1,0 +1,12 @@
+{
+  "name": "コメダ珈琲店公式アプリ",
+  "reading": "こめだこーひーてんこうしきあぷり",
+  "domain": "komeda.co.jp",
+  "url": "https://www.komeda.co.jp/new_app/",
+  "categories": ["food"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.komeda.co.jp/pdf/komeca_faq.pdf",
+  "notes": "会員ログインは登録時のメールアドレス＋パスワード（公式FAQに明記）。KOMECA（コメカ）の残高・履歴確認ページはカード番号＋PINでもログイン可。二段階認証やパスキーの設定案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

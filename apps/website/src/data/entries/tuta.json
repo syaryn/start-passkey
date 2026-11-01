@@ -1,0 +1,15 @@
+{
+  "name": "Tuta",
+  "reading": "とぅーた",
+  "domain": "tuta.com",
+  "categories": ["email"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://tuta.com/blog/why-u2f-is-important",
+  "url": "https://tuta.com",
+  "notes": "第2要素としてTOTP認証アプリとU2Fセキュリティキー（複数登録可）が利用可能。U2Fキーはパスワードの代替ではなく追加要素であり、パスワードレスなパスキーログインはない。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://tuta.com/blog/why-u2f-is-important",
+  "passkey": {
+    "mfa": "allowed"
+  }
+}

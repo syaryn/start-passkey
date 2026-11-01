@@ -1,0 +1,12 @@
+{
+  "name": "ホットヨガスタジオLAVA",
+  "reading": "ほっとよがすたじお らば",
+  "domain": "yoga-lava.com",
+  "url": "https://yoga-lava.com/",
+  "categories": ["fitness"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://yoga-lava.com/news/all-topics-20260428-otp.html",
+  "notes": "マイページのログインは会員番号＋パスワードのみ。2026年5月27日導入のワンタイムパスワード認証は登録情報確認・配送先・クレジットカード規約等の機微ページ専用で、公式FAQにも「ログイン時はこれまでどおり」と明記されており、ログイン基準では数えない。認証アプリ・パスキーの案内なし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "ニトリメンバーズ",
+  "reading": "にとりめんばーず",
+  "domain": "nitori-net.jp",
+  "url": "https://www.nitori-net.jp/",
+  "categories": ["home"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.faq.nitori-net.jp/question/01j733qd80j8294sbj76xxrfy9",
+  "notes": "公式FAQによれば、ログイン時に登録メールアドレスまたはSMSへ認証コードが送信される場合がある。ユーザーが任意に設定・解除する方式かどうかは公式情報で明示されていない。パスキー・認証アプリ（TOTP）はなし。",
+  "delegatedServices": [
+    {
+      "name": "島忠ホームズ",
+      "reading": "しまちゅうほーむず",
+      "sourceUrl": "https://www.nitori-net.jp/ec/userguide/memberscardpoint/",
+      "sourceNote": "ニトリ公式「ニトリメンバーズはニトリ・デコホーム・N+・島忠ホームズ、シマホネットで利用可能」"
+    }
+  ],
+  "recommendation": "code",
+  "documentationUrl": "https://www.faq.nitori-net.jp/question/01j733qd80j8294sbj76xxrfy9"
+}

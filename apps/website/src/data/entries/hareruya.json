@@ -1,0 +1,12 @@
+{
+  "name": "晴れる屋",
+  "reading": "はれるや",
+  "domain": "hareruyamtg.com",
+  "url": "https://www.hareruyamtg.com/",
+  "categories": ["hobby"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.hareruyamtg.com/ja/user_data/hareruya_faq",
+  "notes": "ログインはメールアドレス＋パスワードのみ。公式FAQに二段階認証・認証アプリ・パスキーの案内なし。買取時のオンライン本人確認はログイン認証ではない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

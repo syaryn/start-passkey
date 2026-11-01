@@ -1,0 +1,12 @@
+{
+  "name": "セブン銀行",
+  "reading": "せぶんぎんこう",
+  "domain": "sevenbank.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.sevenbank.co.jp/personal/netbank/services/app-authentication/",
+  "url": "https://www.sevenbank.co.jp/",
+  "notes": "ダイレクトバンキングのログオン自体にMyセブン銀行アプリによるアプリ認証が必須で、ログオンID・ログオンパスワードの入力後、アプリに届く承認依頼を承認しないとログオンが完了しない（取引時にも使用）。2026年8月24日にキャッシュカード裏面の確認番号による認証方式を廃止し、アプリ認証へ一本化された。そのため本ディレクトリのログイン基準でもauthenticatorに該当する。パスキー（FIDO/WebAuthn）の提供は公式情報で確認できない",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://www.sevenbank.co.jp/personal/netbank/services/app-authentication/"
+}

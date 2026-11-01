@@ -1,0 +1,12 @@
+{
+  "name": "Chess.com",
+  "reading": "ちぇすどっとこむ",
+  "domain": "chess.com",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.chess.com/en/articles/8615124-how-can-i-stay-secure-on-chess-com",
+  "url": "https://www.chess.com/",
+  "notes": "「Extra Security」を有効化すると、不審なログイン（未知の端末・場所、失敗の繰り返し等）の際に登録メールへ6桁のワンタイムコードが送られ、ログイン時にその入力が必要になる（リスクベース）。認証アプリ（TOTP）やパスキーの設定は公式ヘルプになく、常時必須の2要素認証ではない。",
+  "recommendation": "code",
+  "documentationUrl": "https://support.chess.com/en/articles/8615124-how-can-i-stay-secure-on-chess-com"
+}

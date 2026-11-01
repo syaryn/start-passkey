@@ -1,0 +1,12 @@
+{
+  "name": "eufy",
+  "reading": "ゆーふぃ",
+  "domain": "eufy.com",
+  "categories": ["smart-home"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://service.eufy.com/article-description/Unlock-the-Power-of-eufy-Ensuring-Account-Security",
+  "notes": "Ankerのスマートホームブランド。公式サポートによれば、2要素認証を有効化すると新しいデバイスでのログイン時に、信頼済みデバイス上に表示される認証コード、または登録した電話番号/メールへ送られるコードの入力が必要。認証アプリ（TOTP）やパスキーの案内はない。アプリのTouch ID/Face IDによる自動ログインは生体認証ロックでありパスキーではない。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://service.eufy.com/article-description/Unlock-the-Power-of-eufy-Ensuring-Account-Security"
+}

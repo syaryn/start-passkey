@@ -1,0 +1,12 @@
+{
+  "name": "Vodafone（英国）",
+  "reading": "ぼだふぉん",
+  "domain": "vodafone.co.uk",
+  "categories": ["utilities"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.vodafone.co.uk/help/account/im-having-trouble-accessing-my-vodafone-with-my-security-code",
+  "url": "https://www.vodafone.co.uk/",
+  "notes": "My Vodafoneへのログインでは、登録した携帯電話番号（代替連絡先番号も可）宛に送られるセキュリティコードの入力が求められる（コードの有効期限は20分）。認証アプリ（TOTP）やパスキーの公式案内はない。",
+  "recommendation": "code",
+  "documentationUrl": "https://www.vodafone.co.uk/help/account/im-having-trouble-accessing-my-vodafone-with-my-security-code"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "NEXON ID",
+  "reading": "ねくそんあいでぃー",
+  "domain": "jp.nexon.com",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://jp.nexon.com/security/passkey",
+  "url": "https://jp.nexon.com/",
+  "notes": "パスキーはパスワード代替のログイン方式（生体認証）。「パスキーのみでログイン」への限定設定も可能。設定後もID＋パスワードでのログインは併用できるが、その場合は登録メールアドレスや携帯電話による追加認証が必要。別途、認証アプリ（Google Authenticator）によるワンタイムパスワードも設定可能",
+  "recommendation": "passkey",
+  "documentationUrl": "https://jp.nexon.com/security/passkey",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

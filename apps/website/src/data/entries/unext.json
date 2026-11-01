@@ -1,0 +1,12 @@
+{
+  "name": "U-NEXT",
+  "reading": "ゆーねくすと",
+  "domain": "unext.jp",
+  "url": "https://video.unext.jp/",
+  "categories": ["streaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.unext.jp/guide/detail/use-u-next-safely",
+  "notes": "ログインはログインIDとパスワードのみ。公式ヘルプ「アカウントの安全を高める方法」でも案内はパスワードや登録メールアドレスの管理、デバイス管理などで、二段階認証・認証アプリ・パスキーの設定はなし（2026-11-01確認）。ファミリーアカウント用のセキュリティコードは購入制限などに使うPINであり、ログインの追加認証ではない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DigitalOcean",
+  "reading": "でじたるおーしゃん",
+  "domain": "digitalocean.com",
+  "url": "https://www.digitalocean.com/",
+  "categories": ["developer"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "http://docs.digitalocean.com/platform/accounts/2fa/",
+  "notes": "公式ドキュメント上、2FAの第2要素は認証アプリ（TOTP）またはSMSのみで、WebAuthn/パスキーには未対応（公式要望掲示板でもFIDO2対応は未実装）。2FA未設定でも新しい端末・場所からのログイン時にはメールで認可コードが送られる。Google/GitHubログイン時は2FAはそちら側で管理される。",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "http://docs.digitalocean.com/platform/accounts/2fa/"
+}

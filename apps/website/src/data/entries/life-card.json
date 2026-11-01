@@ -1,0 +1,12 @@
+{
+  "name": "ライフカード（LIFE-Web Desk）",
+  "reading": "らいふかーど",
+  "domain": "lifecard.co.jp",
+  "categories": ["payments"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.lifecard.co.jp/howto/lwd/authentication.html",
+  "url": "https://www.lifecard.co.jp/",
+  "notes": "ログイン時にID・パスワードに加え、登録メールアドレスに送信される認証コード（ワンタイムパスワード）の入力による認証を行う（同一端末では次回以降省略する設定が可能）。SMSや専用アプリのワンタイムパスワードは本人認証サービス（3Dセキュア）用で、ログイン用ではない",
+  "recommendation": "code",
+  "documentationUrl": "https://www.lifecard.co.jp/howto/lwd/authentication.html"
+}

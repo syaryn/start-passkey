@@ -1,0 +1,15 @@
+{
+  "name": "Chase",
+  "reading": "ちぇいす",
+  "domain": "chase.com",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.chase.com/digital/resources/privacy-security/security/how-you-can-protect",
+  "url": "https://www.chase.com/",
+  "notes": "公式セキュリティセンターが「Add a passkey for more secure sign-in」としてパスキー追加を案内。顔・指紋・端末パスコードでサインインするパスワード代替型で、第2要素としての利用は案内されていない。別途、ワンタイムコードによる2-step verification（ブラウザでは毎回要求に設定可）も用意されている",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.chase.com/digital/resources/privacy-security/security/how-you-can-protect",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

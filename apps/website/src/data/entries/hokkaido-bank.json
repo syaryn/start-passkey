@@ -1,0 +1,12 @@
+{
+  "name": "北海道銀行",
+  "reading": "ほっかいどうぎんこう",
+  "domain": "hokkaidobank.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.hokkaidobank.co.jp/ib/direct/onetime-pw/index.html",
+  "url": "https://www.hokkaidobank.co.jp/",
+  "notes": "道銀ダイレクトサービスのログインはログインネーム＋ログインパスワード（普段と異なる環境では合言葉認証も）。「どうぎんアプリ」にソフトウェアトークン（1分ごとに変わる時刻同期型ワンタイムパスワード）を設定でき、スマートフォンでの利用時は必須、振込等の取引時にも必要。パスキーの案内はなし。",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://www.hokkaidobank.co.jp/ib/direct/onetime-pw/index.html"
+}

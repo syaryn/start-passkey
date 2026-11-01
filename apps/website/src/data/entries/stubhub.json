@@ -1,0 +1,13 @@
+{
+  "name": "StubHub",
+  "reading": "すたぶはぶ",
+  "domain": "stubhub.com",
+  "url": "https://www.stubhub.com/",
+  "categories": ["tickets"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.stubhub.co.uk/en/support/solutions/articles/80001148064-unable-to-log-into-stubhub-",
+  "notes": "公式サポートによれば、ログイン時に資格情報を入力した後、アカウントの真正性確認のため登録メールへ認証コードが送られ入力を求められる場合がある（リスクベース）。利用者が任意に設定する認証アプリ・パスキーの公式案内はない。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://support.stubhub.co.uk/en/support/solutions/articles/80001148064-unable-to-log-into-stubhub-"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "そごう・西武（e.デパート）",
+  "reading": "そごうせいぶ",
+  "domain": "edepart.sogo-seibu.jp",
+  "url": "https://edepart.sogo-seibu.jp/",
+  "categories": ["department"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://edepart.sogo-seibu.jp/static/helpdetail10",
+  "notes": "ログインは西武・そごうID（メールアドレス）＋パスワード。任意の「二要素認証設定」を有効にすると、ログイン時に登録電話番号へSMSで送られる認証コードの入力が必要になる。認証アプリ（TOTP）・パスキーの案内は公式情報になし。会員基盤は7iDプラットフォームと一体で運用されており（新規会員登録は7iDの登録手続きメールで認証コードを確認する方式、2025年9月に会員移行手続きを実施）、二要素認証の仕様も7iD側と共通とみられる。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://edepart.sogo-seibu.jp/static/helpdetail10"
+}

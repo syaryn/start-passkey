@@ -1,0 +1,13 @@
+{
+  "name": "CLUB Panasonic",
+  "reading": "くらぶぱなそにっく",
+  "domain": "panasonic.jp",
+  "url": "https://panasonic.jp/membership/",
+  "categories": ["electronics"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://jpn.faq.panasonic.com/app/answers/detail/a_id/78254",
+  "notes": "パナソニックの会員基盤。ログイン時に登録メールアドレスまたはSMS（携帯電話番号）宛の認証コードによる2段階認証がある。パスキー・認証アプリの案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://panasonic.jp/membership/app/howto.html"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "カードラッシュ",
+  "reading": "かーどらっしゅ",
+  "domain": "cardrush-pokemon.jp",
+  "categories": ["marketplace"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.cardrush-pokemon.jp/help",
+  "notes": "カードゲームのタイトル別に分かれた通販サイト群（ポケモンカード、MTG、ヴァンガード等）で、会員登録のうえ会員情報（ID・パスワード）でマイページにログインする。公式のご利用案内・よくあるご質問に二段階認証・認証アプリ・パスキーの設定案内はない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

@@ -1,0 +1,28 @@
+# 掲載データの構造（管理者向け）
+direction: right
+
+title: "1サービス = 1 JSON（主な項目）" {
+  near: top-center
+  style.font-size: 18
+}
+
+entry: "エントリ" {
+  identity: "name / reading\ndomain / url?"
+  category: "categories[]"
+  main: "recommendation\n（5種のいずれか）"
+  proof: "verifiedOn\nverifiedUrl"
+  help: "documentationUrl?\n（passkey / authenticator / code）"
+  passkey: "passkey?\n（passwordless / mfa）"
+  extra: "notes?"
+  delegate: "delegatedServices[]?\n（委譲名・根拠 URL）"
+}
+
+variants: "recommendation" {
+  passkey: "passkey"
+  auth: "authenticator"
+  code: "code"
+  pw: "password-only"
+  none: "none（対象外）"
+}
+
+entry.main -> variants

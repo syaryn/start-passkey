@@ -1,0 +1,15 @@
+{
+  "name": "ニンテンドーアカウント",
+  "reading": "にんてんどーあかうんと",
+  "domain": "accounts.nintendo.com",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.nintendo.com/jp/nintendo_account/login/passkey/index.html",
+  "url": "https://accounts.nintendo.com/",
+  "notes": "パスキーはパスワードの代わりにログインする方式で、1アカウントに最大10個まで登録可能。対応はiOS 16以上/iPadOS 16以上/macOS Ventura以上/Android 9以上など端末側の条件あり。パスキーとは別に、認証アプリを使う二段階認証も設定できる。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://support.nintendo.com/jp/nintendo_account/login/passkey/index.html",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

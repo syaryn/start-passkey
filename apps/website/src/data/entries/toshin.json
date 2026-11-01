@@ -1,0 +1,12 @@
+{
+  "name": "東進学力POS",
+  "reading": "とうしんがくりょくぽす",
+  "domain": "toshin.com",
+  "url": "https://www.toshin.com/pos/",
+  "categories": ["education"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://pos.toshin.com/SSO1/TJ/SSOLogin/ssofaq/faq.html",
+  "notes": "ログインはログインID（生徒番号、保護者は先頭にPを付けたID）＋パスワードのみ。パスワードを忘れた場合は登録メールアドレスへ仮パスワードが送信されるが、これは再設定用でログイン時の二段階認証ではない。二段階認証・認証アプリ・パスキーの案内は公式FAQになし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

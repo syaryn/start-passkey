@@ -1,0 +1,16 @@
+{
+  "name": "Fordアカウント",
+  "reading": "ふぉーどあかうんと",
+  "domain": "ford.com",
+  "url": "https://www.ford.com/",
+  "categories": ["automotive"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.ford.com.ph/support/how-tos/owner-resources/manage-my-ford-account/global-passkey",
+  "notes": "公式サポート（Fordフィリピンのサポートページで確認）によれば、「Global Passkey」を設定するとパスワードの代わりに端末の指紋・顔・PINでFordアカウントにサインインできる。パスキーはパスワード代替であり第2要素としては使われない。パスワードでサインインする場合は、電話/メールへのワンタイムコードによるMFAが必須化される予定と案内されている。Ford Credit（Account Manager）のMFAは別サービスのため対象外。",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.ford.com.ph/support/how-tos/owner-resources/manage-my-ford-account/global-passkey",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

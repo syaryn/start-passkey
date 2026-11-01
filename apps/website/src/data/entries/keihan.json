@@ -1,0 +1,12 @@
+{
+  "name": "京阪プレミアムカークラブ",
+  "reading": "けいはんぷれみあむかーくらぶ",
+  "domain": "keihan.co.jp",
+  "url": "https://www.keihan.co.jp/",
+  "categories": ["rail"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.keihan.co.jp/traffic/premiumcar/premiumcarclub/",
+  "notes": "京阪電車の座席指定券（プレミアムカー券・ライナー券）のネット購入用会員サービス。ログインはメールアドレス＋パスワードのみで、会員規約上もログインはその入力と定義されている。二段階認証・認証アプリ・パスキーの案内は公式情報になし。パスワード再発行は登録メールと生年月日による手続きのみ",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

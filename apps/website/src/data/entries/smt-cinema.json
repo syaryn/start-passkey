@@ -1,0 +1,12 @@
+{
+  "name": "SMTシネマ（SMT Members）",
+  "reading": "えすえむてぃーしねま",
+  "domain": "smt-cinema.com",
+  "url": "https://www.smt-cinema.com/",
+  "categories": ["cinema"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.smt-cinema.com/members/term.html",
+  "notes": "松竹マルチプレックスシアターズ（MOVIX・ピカデリー等）の会員サービス。マイページのログインは会員番号/メールアドレス＋パスワードのみで、チケット購入時の会員認証も会員番号入力による。クレジット決済時の3Dセキュアはカード会社の本人認証でありログイン認証ではない。SMS/メールコード・認証アプリ・パスキーの設定は公式情報になし。なおSMT Members自体は2027年1月（予定）に終了と公式発表されている",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

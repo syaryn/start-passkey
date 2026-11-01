@@ -1,0 +1,12 @@
+{
+  "name": "MSIアカウント",
+  "reading": "えむえすあいあかうんと",
+  "domain": "msi.com",
+  "url": "https://www.msi.com/",
+  "categories": ["electronics"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://account.msi.com/ja/login",
+  "notes": "MSIメンバーセンターのログインはメールアドレス＋パスワード（＋画像認証）で、公式サポートにログイン時の追加認証（認証アプリ・コード・パスキー）の設定案内はなし。ログイン画面の「認証メールの再送」は登録時の確認メール用でありログイン2FAではない。ソーシャルアカウントでのログインも可。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

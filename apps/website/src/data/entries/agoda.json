@@ -1,0 +1,13 @@
+{
+  "name": "Agoda",
+  "reading": "あごだ",
+  "domain": "agoda.com",
+  "url": "https://www.agoda.com/",
+  "categories": ["travel"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.agoda.com/ja-jp/info/privacy.html",
+  "notes": "公式プライバシーポリシーに、アカウント設定から二段階認証をセットアップできると明記されている。サインインはパスワードのほか、OTPコードでも可能（公式ヘルプ）。パスキーや認証アプリ（TOTP）の公式案内は確認できず、二段階認証の具体的な方式（コードの送付先等）は公式ヘルプ上で明示されていない。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://www.agoda.com/info/contact.html?app=true"
+}

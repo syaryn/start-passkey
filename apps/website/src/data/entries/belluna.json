@@ -1,0 +1,12 @@
+{
+  "name": "ベルーナ",
+  "reading": "べるーな",
+  "domain": "belluna.jp",
+  "url": "https://belluna.jp/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://belluna.jp/login/",
+  "notes": "ログインはメールアドレス＋パスワード。楽天ID・LINE・Yahoo! JAPAN・Google・Appleの外部ID連携ログインも可能だが、その場合は外部ID側の認証に従う。ベルーナ自体の二段階認証・認証アプリ・パスキーの設定は公式情報に見当たらない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

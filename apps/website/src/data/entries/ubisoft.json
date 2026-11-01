@@ -1,0 +1,12 @@
+{
+  "name": "Ubisoftアカウント",
+  "reading": "ゆーびーそふとあかうんと",
+  "domain": "ubisoft.com",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://ubisoft-mobile.helpshift.com/hc/en/45-rainbow-six-mobile/faq/1589-what-is-the-two-step-authentication-method/?faq_id=ubisoft-mobile_faq_20210914095305132-f4e1c79c4f24998&app_id=ubisoft-mobile_app_20210608074937168-ef27abc74bf5854&is_preview=false&platform_type=android&platform_id=ubisoft-mobile_platform_20200707213112810-d4abb58db9d764a&language=en&is_sdkx=false&p=android",
+  "url": "https://www.ubisoft.com/",
+  "notes": "2ステップ確認を有効にするとログイン時にコード入力が必要で、配信方法はメールまたはGoogle Authenticator等の認証アプリ（設定時に復旧用電話番号の登録が必要）。一部タイトル（Rainbow Six Siegeのランク等）では2ステップ確認が必須。パスキーの公式案内はなし",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://ubisoft-mobile.helpshift.com/hc/en/45-rainbow-six-mobile/faq/1589-what-is-the-two-step-authentication-method/?faq_id=ubisoft-mobile_faq_20210914095305132-f4e1c79c4f24998&app_id=ubisoft-mobile_app_20210608074937168-ef27abc74bf5854&is_preview=false&platform_type=android&platform_id=ubisoft-mobile_platform_20200707213112810-d4abb58db9d764a&language=en&is_sdkx=false&p=android"
+}

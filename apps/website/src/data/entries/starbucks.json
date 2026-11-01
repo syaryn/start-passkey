@@ -1,0 +1,13 @@
+{
+  "name": "My Starbucks（スターバックス）",
+  "reading": "まいすたーばっくす",
+  "domain": "starbucks.co.jp",
+  "url": "https://www.starbucks.co.jp/",
+  "categories": ["food"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.starbucks.co.jp/notice/20265730/",
+  "notes": "ログイン時・パスワードリセット時の2段階認証を任意で設定可能。メール認証に加え、SMS（ショートメッセージ）または音声通話によるコード認証を行う（日本国内の電話番号のみ）。パスキー・認証アプリの案内は公式情報になし。アプリの生体認証はログインの簡略化でありパスキーではない",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://starbucks-japan.my.site.com/s/a/000003979"
+}

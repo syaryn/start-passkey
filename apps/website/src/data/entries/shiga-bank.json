@@ -1,0 +1,11 @@
+{
+  "name": "滋賀銀行",
+  "reading": "しがぎんこう",
+  "domain": "shigagin.com",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.shigagin.com/personal/direct/security/",
+  "url": "https://www.shigagin.com/",
+  "notes": "『しがぎん』ダイレクトのログインは会員番号＋ログインパスワードのみ（リスク判定時の合言葉認証は知識情報）。ワンタイムパスワードアプリ（ソフトトークン）とトランザクション認証は振込等の取引専用で、ログイン自体には使えないため本基準では数えない。パスキーの案内はない。",
+  "recommendation": "password-only"
+}

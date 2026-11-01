@@ -1,0 +1,11 @@
+{
+  "name": "暴走列伝 単車の虎",
+  "reading": "ぼうそうれつでん たんしゃのとら",
+  "domain": "tantora.jp",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://tantora.jp/nologin/about/terms-of-service",
+  "url": "https://tantora.jp/",
+  "notes": "運営（DONUTS）の独自会員制で、登録したID（メールアドレス）とパスワードでログインする方式。公式情報にパスキー・認証アプリ・コードによる追加認証の設定は見当たらない",
+  "recommendation": "password-only"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Eventbrite",
+  "reading": "いべんとぶらいと",
+  "domain": "eventbrite.com",
+  "url": "https://www.eventbrite.com/",
+  "categories": ["tickets"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.eventbrite.com/help/en-us/articles/277134/",
+  "notes": "多要素認証として認証アプリ（TOTP）をログイン時に設定でき、設定はメールコードでの確認を経て行う（公式ヘルプでは主催者向けに案内）。リカバリーコードも発行される。MFA設定後に有効化できる生体認証によるサインイン高速化は端末側の確認であり、パスキー（FIDO/WebAuthn）の案内はない。",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://www.eventbrite.com/help/en-us/articles/277134/"
+}

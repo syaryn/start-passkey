@@ -1,0 +1,16 @@
+{
+  "name": "あいおいニッセイ同和損保",
+  "reading": "あいおいにっせいどうわそんぽ",
+  "domain": "aioinissaydowa.co.jp",
+  "url": "https://www.aioinissaydowa.co.jp/",
+  "categories": ["insurance"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://adcc-faq.aioinissaydowa.co.jp/category/show/41?site_domain=default",
+  "notes": "ご契約者さま専用ページのログインはID＋パスワードの後に確認コード（メール）/パスコード（SMS）のワンタイムパスワード入力が求められる。設定により生体認証ログインも可能でコード入力を省略できる（生体情報は端末側で処理）。公式資料にFIDO/WebAuthnの明記は確認できなかったが、三井住友海上と同一基盤・同一構造の端末登録型生体認証であるため、構造からパスキーと判定する方針で確定（2026-11-01決定）",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://adcc-faq.aioinissaydowa.co.jp/category/show/41?site_domain=default",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

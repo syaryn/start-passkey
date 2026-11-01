@@ -1,0 +1,11 @@
+{
+  "name": "コスモ・ザ・カード",
+  "reading": "こすも・ざ・かーど",
+  "domain": "cosmo-thecard.com",
+  "categories": ["payments", "transport"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.cosmo-thecard.com/Inc/Member/MemCertify.asp",
+  "url": "https://www.cosmo-thecard.com/",
+  "notes": "コスモ・ザ・カードお客様サイトのログインはネット会員ID＋パスワードのみ。コスモ公式アプリへのカード登録（連携）時の本人認証として3Dセキュアのワンタイムパスワードや発信型の電話認証があるが、登録手続き用でありログイン時の追加認証ではないため数えない。オーパスのWeb明細はイオンフィナンシャルサービスの「暮らしのマネーサイト」側で確認する。パスキー・認証アプリの案内なし",
+  "recommendation": "password-only"
+}

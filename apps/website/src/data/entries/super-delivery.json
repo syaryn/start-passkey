@@ -1,0 +1,13 @@
+{
+  "name": "スーパーデリバリー",
+  "reading": "すーぱーでりばりー",
+  "domain": "superdelivery.com",
+  "url": "https://www.superdelivery.com/",
+  "categories": ["marketplace"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq.superdelivery.com/%E4%BA%8C%E6%AE%B5%E9%9A%8E%E8%AA%8D%E8%A8%BC-637f401832cc2d001d51fc71",
+  "notes": "二段階認証は登録した携帯電話番号へのSMSコードのみ（設定は推奨とされる）。認証済みのネット環境では2回目以降の認証は省略される。認証アプリやパスキーの案内は公式ヘルプになし",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://faq.superdelivery.com/%E4%BA%8C%E6%AE%B5%E9%9A%8E%E8%AA%8D%E8%A8%BC-637f401832cc2d001d51fc71"
+}

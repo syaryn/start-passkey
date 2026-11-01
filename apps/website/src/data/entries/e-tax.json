@@ -1,0 +1,11 @@
+{
+  "name": "e-Tax",
+  "reading": "いーたっくす",
+  "domain": "e-tax.nta.go.jp",
+  "categories": ["government"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.e-tax.nta.go.jp/e-taxsoftweb/e-taxsoftweb.htm",
+  "url": "https://www.e-tax.nta.go.jp/",
+  "notes": "ログインは利用者識別番号（数字16桁）とパスワードのみで、ログイン時に使える追加認証（コード・認証アプリ・パスキー）は設定できない。個人はマイナンバーカード（利用者証明用電子証明書＋4桁暗証番号）による証明書ベースのログインも選択でき、メッセージボックスの閲覧など一部機能はそちらでのログインが必要だが、パスワードへの追加要素ではなく別方式のため数えていない。",
+  "recommendation": "password-only"
+}

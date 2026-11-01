@@ -1,0 +1,13 @@
+{
+  "name": "ニッポンレンタカー",
+  "reading": "にっぽんれんたかー",
+  "domain": "nipponrentacar.co.jp",
+  "url": "https://www.nipponrentacar.co.jp/",
+  "categories": ["car-rental"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.nipponrentacar.co.jp/service/help_login.html",
+  "notes": "ニッポンレンタカーメンバーズクラブのログインはID（会員番号または認証済みメールアドレス）＋パスワード。任意設定の「認証コードログイン」を有効にすると、ログイン時に登録メールアドレスへ送られる認証コードの入力が必要になる二段階認証が使える（初回は未設定、メールアドレスの認証が前提）。パスキー・認証アプリの案内なし",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://www.nipponrentacar.co.jp/service/help_login.html"
+}

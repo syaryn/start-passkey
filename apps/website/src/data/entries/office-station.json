@@ -1,0 +1,13 @@
+{
+  "name": "オフィスステーション",
+  "reading": "おふぃすすてーしょん",
+  "domain": "officestation.jp",
+  "url": "https://www.officestation.jp/",
+  "categories": ["backoffice"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.officestation.jp/helpcenter/477/",
+  "notes": "Google Authenticatorの6桁コードによる2要素認証を利用できる。管理者が利用者ごとに認証方法（Google Authenticatorまたは乱数表）を事前に設定する運用。設定方法ヘルプの対象は勤怠を除く全製品、Pro、事務組合 for SRで、勤怠にも別途、認証アプリによる2要素認証の案内がある。従業員マイページでは管理者設定時のみ求められ、メール認証を選べる場合もある。パスキーの案内は公式情報になし。",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://www.officestation.jp/helpcenter/477/"
+}

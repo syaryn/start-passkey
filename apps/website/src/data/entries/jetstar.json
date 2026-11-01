@@ -1,0 +1,12 @@
+{
+  "name": "ジェットスター",
+  "reading": "じぇっとすたー",
+  "domain": "jetstar.com",
+  "url": "https://www.jetstar.com/jp/ja/",
+  "categories": ["aviation"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.jetstar.com/jp/ja/help/my-account-sign-in",
+  "notes": "マイアカウントのログインはメールアドレス＋パスワードのみ。Apple／Google／Facebookのソーシャルログインは廃止され、メールアドレス＋パスワードへの移行が公式ヘルプで案内されている。二要素認証・認証アプリ・パスキーの設定案内は公式ヘルプにない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

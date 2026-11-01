@@ -1,0 +1,12 @@
+{
+  "name": "Duolingo",
+  "reading": "でゅおりんご",
+  "domain": "duolingo.com",
+  "url": "https://www.duolingo.com/",
+  "categories": ["education"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.duolingo.com/hc/en-us/articles/204829910-I-forgot-my-password-how-do-I-reset-it-",
+  "notes": "ログインはメールアドレス/ユーザー名＋パスワード（Google・Facebook連携ログインも可）のみ。公式ヘルプセンターのアカウント管理項目に、二要素認証・認証アプリ・パスキーを設定する案内はない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

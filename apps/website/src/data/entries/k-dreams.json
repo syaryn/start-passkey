@@ -1,0 +1,12 @@
+{
+  "name": "楽天Kドリームス",
+  "reading": "らくてんけーどりーむす",
+  "domain": "keirin.kdreams.jp",
+  "url": "https://keirin.kdreams.jp/",
+  "categories": ["gambling"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://keirin.kdreams.jp/support/login/",
+  "notes": "競輪の公営競技投票サービス。ログインはデルカID（メールアドレス）＋パスワードのみで、投票・資金移動時には登録時に決めた固定の暗証番号（4桁）を使う固定PIN型。楽天ID連携ログインも可能だが認証は楽天ID側に従う。SMS/メールコード・認証アプリ・パスキーの設定は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

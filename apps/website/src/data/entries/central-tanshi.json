@@ -1,0 +1,12 @@
+{
+  "name": "セントラル短資FX",
+  "reading": "せんとらるたんしえふえっくす",
+  "domain": "central-tanshifx.com",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.central-tanshifx.com/newsrelease/2026/0914-log.html",
+  "url": "https://www.central-tanshifx.com/",
+  "notes": "ログイン追加認証（Google Authenticator等の認証アプリ、または登録メールアドレス宛の認証コードから選択）を2026年6月27日に導入し、2026年10月17日から必須化（未設定では取引ツールにログイン不可）。導入に伴い従来のSMSによる二要素認証は利用不可となった。パスキー認証は2026年11月28日導入予定で、確認日（2026-11-01）時点では未提供のため authenticator 区分とした",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://www.central-tanshifx.com/support/faq/com-login/login02.html"
+}

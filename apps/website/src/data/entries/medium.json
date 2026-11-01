@@ -1,0 +1,13 @@
+{
+  "name": "Medium",
+  "reading": "みでぃあむ",
+  "domain": "medium.com",
+  "url": "https://medium.com/",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.medium.com/hc/en-us/articles/360033422254-Trouble-with-accessing-my-Medium-account",
+  "notes": "パスワード自体が存在しないパスワードレス設計。公式ヘルプによれば、ログインは登録メールへ送られるワンタイムリンク（有効期限2時間・1回限り）をクリックする方式か、連携したソーシャルアカウント（Google、Facebook、X、Apple）経由のみで、認証アプリやパスキー等の追加の認証要素は設定できない",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://help.medium.com/hc/en-us/articles/360033422254-Trouble-with-accessing-my-Medium-account"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CliUS",
+  "reading": "くりうす",
+  "domain": "clius.jp",
+  "url": "https://clius.jp/",
+  "categories": ["health"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://clius.jp/wp-content/uploads/CLIUS_MANUAL_WEB.pdf",
+  "notes": "公式マニュアルのとおり、ユーザーID・パスワードに加えて電子メールを用いた2段階認証を実施（認証メール内のURLをクリックして承認する方式、端末ごとに14日間有効）。認証アプリ・パスキーの案内はなし",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://clius.jp/wp-content/uploads/CLIUS_MANUAL_WEB.pdf"
+}

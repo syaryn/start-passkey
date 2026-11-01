@@ -1,0 +1,12 @@
+{
+  "name": "SiteGround",
+  "reading": "さいとぐらうんど",
+  "domain": "siteground.com",
+  "categories": ["developer"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://world.siteground.com/kb/login-account-using-two-step-verification/",
+  "url": "https://www.siteground.com/",
+  "notes": "Client Areaの2ステップ確認は認証アプリ（TOTP、30秒コード）が主体で、端末紛失時はバックアップ電話へのSMSコードで代替可。パスキー/セキュリティキーの案内は公式KBになし。",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://world.siteground.com/kb/login-account-using-two-step-verification/"
+}

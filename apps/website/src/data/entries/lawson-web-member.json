@@ -1,0 +1,26 @@
+{
+  "name": "ローソンWEB会員",
+  "reading": "ろーそんうぇぶかいいん",
+  "domain": "l-tike.com",
+  "url": "https://l-tike.com/",
+  "categories": ["lifestyle"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://l-tike.com/guide/2stepverification.html",
+  "notes": "ローチケ（ローソンチケット）やHMV&BOOKS online等が共通で使う認証基盤で、ローソンIDとは別体系のアカウント。ログインはメールアドレス＋パスワードが基本。マイページで2段階認証を「希望する」に設定すると、ログイン時に登録メールアドレスへ認証コードが送られる（任意設定）。公式ガイド・FAQに認証アプリ（TOTP）やパスキーの案内はない",
+  "delegatedServices": [
+    {
+      "name": "ローチケ",
+      "reading": "ろーちけ",
+      "sourceUrl": "https://do.l-tike.com/faq/",
+      "sourceNote": "ローチケ公式FAQ「ローソンWEB会員でログインしてエントリー…」と明記（ローソンチケット系のログイン基盤）"
+    },
+    {
+      "name": "HMV&BOOKS online",
+      "reading": "えいちえむぶいあんどぶっくすおんらいん",
+      "sourceUrl": "https://www.hmv.co.jp/news/article/260831197/",
+      "sourceNote": "HMV公式ページに「ローソンWEB会員登録（登録無料）」「ローソンWEB会員限定」と明記"
+    }
+  ],
+  "recommendation": "code",
+  "documentationUrl": "https://l-tike.com/guide/2stepverification.html"
+}

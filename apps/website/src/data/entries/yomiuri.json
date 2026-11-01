@@ -1,0 +1,12 @@
+{
+  "name": "読売ID（読売新聞オンライン）",
+  "reading": "よみうりあいでぃー",
+  "domain": "my.yomiuri.co.jp",
+  "url": "https://www.yomiuri.co.jp/",
+  "categories": ["media"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://my.yomiuri.co.jp/",
+  "notes": "ログインは読売IDとパスワードのみで、読売ID自体にパスキーや二段階認証の設定はない。なお読売新聞グループの通販「よみファミモール」では、同サイトのログイン時に読売IDとパスワードの入力後、メールで届く6桁コードの入力が求められる（同サイト限定の仕様）。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

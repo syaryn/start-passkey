@@ -1,0 +1,105 @@
+---
+import "../styles/global.css";
+import {
+  GUIDE_LINKS,
+  POLICY_LINKS,
+  UTILITY_LINKS,
+} from "../data/navigation.ts";
+import { DEFAULT_DESCRIPTION, SITE_NAME } from "../data/site.ts";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = DEFAULT_DESCRIPTION } = Astro.props;
+---
+
+<!doctype html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  </head>
+  <body class="dads-site-body">
+    <a href="#main-content" class="dads-skip-link">本文へ移動</a>
+
+    <header class="dads-site-header">
+      <div class="dads-site-header-inner">
+        <a href="/" class="dads-site-logo">
+          <span class="dads-std-20b-150">{SITE_NAME}</span>
+        </a>
+        <nav class="dads-site-nav" aria-label="メイン">
+          <ul>
+            <li>
+              <a href="/guide/">ガイド</a>
+            </li>
+            <li>
+              <a href="/faq/">FAQ</a>
+            </li>
+            <li>
+              <a href="/about/">このサイトについて</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content" class="dads-site-main dads-content">
+      <slot />
+    </main>
+
+    <footer class="dads-site-footer">
+      <div class="dads-site-footer-inner">
+        <p class="dads-std-14n-170 dads-text-secondary" style="margin: 0 0 1rem;">
+          掲載内容は確認日時点の情報です。設定方法は各サービスの公式ヘルプを参照してください。
+        </p>
+        <nav aria-label="フッター" class="dads-site-footer-grid">
+          <div>
+            <p class="dads-site-footer-heading">ガイド</p>
+            <ul>
+              {
+                GUIDE_LINKS.slice(0, 5).map((link) => (
+                  <li>
+                    <a href={link.href}>{link.label}</a>
+                  </li>
+                ))
+              }
+              <li>
+                <a href="/guide/">すべてのガイド</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <p class="dads-site-footer-heading">ポリシー</p>
+            <ul>
+              {
+                POLICY_LINKS.map((link) => (
+                  <li>
+                    <a href={link.href}>{link.label}</a>
+                  </li>
+                ))
+              }
+            </ul>
+          </div>
+          <div>
+            <p class="dads-site-footer-heading">その他</p>
+            <ul>
+              {
+                UTILITY_LINKS.map((link) => (
+                  <li>
+                    <a href={link.href}>{link.label}</a>
+                  </li>
+                ))
+              }
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>

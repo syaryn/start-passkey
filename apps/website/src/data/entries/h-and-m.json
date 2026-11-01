@@ -1,0 +1,12 @@
+{
+  "name": "H&M",
+  "reading": "えいちあんどえむ",
+  "domain": "hm.com",
+  "url": "https://www2.hm.com/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www2.hm.com/en_us/customer-service/h-m-club/h-m-club-terms-conditions.html",
+  "notes": "会員（H&Mメンバーシップ）のログインはメールアドレス＋パスワードのみ。公式の会員規約ではログイン情報はメールアドレスとパスワードとされ、二要素認証・パスキー・認証アプリの設定案内は公式情報にない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

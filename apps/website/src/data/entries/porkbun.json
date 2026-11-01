@@ -1,0 +1,16 @@
+{
+  "name": "Porkbun",
+  "reading": "ぽーくばん",
+  "domain": "porkbun.com",
+  "categories": ["developer"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://kb.porkbun.com/article/221-how-to-set-up-passwordless-login-on-porkbun",
+  "url": "https://porkbun.com/",
+  "notes": "WebAuthnセキュリティキー（ハードウェアキー/端末生体認証）を2FAとして登録でき、そのキーを前提にパスキーによるパスワードレスログインも有効化できる（2023年5月開始）。認証アプリ（TOTP）の2FAも併用可。パスワードレスは認証アプリ/メール2FAだけでは有効化できない。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://kb.porkbun.com/article/221-how-to-set-up-passwordless-login-on-porkbun",
+  "passkey": {
+    "passwordless": "allowed",
+    "mfa": "allowed"
+  }
+}

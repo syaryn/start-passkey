@@ -1,0 +1,13 @@
+{
+  "name": "サイボウズ Garoon",
+  "reading": "さいぼうず がるーん",
+  "domain": "garoon.cybozu.co.jp",
+  "url": "https://garoon.cybozu.co.jp/",
+  "categories": ["productivity"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://jp.cybozu.help/general/ja/user/list_2fa/enable_2fa.html",
+  "notes": "対象はクラウド版Garoonを含むcybozu.comのログイン。認証アプリ（Google Authenticator / Microsoft Authenticator）の6桁確認コードによる2要素認証を利用できる。利用にはcybozu.com共通管理者による許可が前提で、その後に各ユーザーが有効化する。パスキーの案内は公式情報になし。",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://jp.cybozu.help/general/ja/user/list_2fa/enable_2fa.html"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "コストコ",
+  "reading": "こすとこ",
+  "domain": "costco.co.jp",
+  "url": "https://www.costco.co.jp/",
+  "categories": ["food"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.costco.co.jp/Two-factorAuthentication",
+  "notes": "2022年8月29日からログイン時の2段階認証が必須。登録メールアドレスまたは電話番号に送られる6桁の認証コード（有効期限15分）を入力する方式。同じブラウザに保存すれば次回以降省略可。認証アプリ・パスキーはなし",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://www.costco.co.jp/Two-factorAuthentication"
+}

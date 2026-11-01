@@ -1,0 +1,13 @@
+{
+  "name": "ジャパネットたかた",
+  "reading": "じゃぱねっとたかた",
+  "domain": "japanet.co.jp",
+  "url": "https://www.japanet.co.jp/shopping/",
+  "categories": ["electronics"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.japanet.co.jp/shopping/support/info67.html",
+  "notes": "普段と異なる端末・環境からのログインを検知した場合にのみ、登録メールアドレス宛の確認コード（ワンタイムパスワード）による追加認証を行うリスクベース方式（2026年導入）。登録情報・お届け先情報の更新時にも二要素認証あり。パスキー・認証アプリの案内はなし。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://www.japanet.co.jp/shopping/support/info67.html"
+}

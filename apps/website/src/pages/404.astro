@@ -1,0 +1,14 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { pageTitle } from "../data/site.ts";
+---
+
+<BaseLayout title={pageTitle("ページが見つかりません")}>
+  <h1 class="dads-std-28b-150" style="margin: 0 0 1rem;">404</h1>
+  <p class="dads-std-16n-170 dads-text-secondary" style="margin: 0 0 1rem;">
+    お探しのページは見つかりませんでした。
+  </p>
+  <p>
+    <a href="/">トップへ戻る</a>
+  </p>
+</BaseLayout>

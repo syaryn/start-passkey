@@ -1,0 +1,23 @@
+{
+  "name": "Vポイント",
+  "reading": "ぶいぽいんと",
+  "domain": "tsite.jp",
+  "categories": ["payments"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://tsite.jp/tm/pc/login/STKIp0030001.do",
+  "url": "https://tsite.jp/",
+  "notes": "公式に「生体認証（パスキー）」と明記されたログイン方式。ログイン時の電話認証後、またはマイページから登録でき、登録後はV会員番号入力や電話認証なしでログインできる。利用環境はiOSのみで、Androidスマートフォン・PCでは利用不可（公式FAQ）。対象はVポイントサイト、Vポイントアプリ、Vポイントモール等。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://tsite.jp/tm/pc/login/STKIp0030001.do",
+  "passkey": {
+    "passwordless": "allowed"
+  },
+  "delegatedServices": [
+    {
+      "name": "Tモール",
+      "reading": "てぃーもーる",
+      "sourceUrl": "https://privacy.vpoint.co.jp/terms/mall/",
+      "sourceNote": "Vポイントモール公式利用規約: V会員（ネット登録会員）が指定IDで利用（現行TモールはVポイントモール）"
+    }
+  ]
+}

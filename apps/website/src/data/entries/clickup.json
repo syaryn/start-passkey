@@ -1,0 +1,13 @@
+{
+  "name": "ClickUp",
+  "reading": "くりっくあっぷ",
+  "domain": "clickup.com",
+  "url": "https://clickup.com/",
+  "categories": ["productivity"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.clickup.com/hc/en-us/articles/6311968998167-My-Settings",
+  "notes": "個人設定で2FAを設定可能。認証アプリ（TOTP）は全プランで利用でき、SMSはBusinessプラン以上。ワークスペース管理者が2FAを必須化することもできる。パスキーの公式案内はない。",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://help.clickup.com/hc/en-us/articles/6311968998167-My-Settings"
+}

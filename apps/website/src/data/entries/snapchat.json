@@ -1,0 +1,15 @@
+{
+  "name": "Snapchat",
+  "reading": "すなっぷちゃっと",
+  "domain": "snapchat.com",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.snapchat.com/hc/en-us/articles/27317385968532-How-do-I-use-Passkeys-on-Snapchat",
+  "url": "https://www.snapchat.com/",
+  "notes": "パスキーはパスワードを覚えずにログインできる手段として公式ヘルプに記載があり、OSのパスキープロバイダに保存される（順次提供中で、まだ利用できない場合がある）。パスキー自体は2要素認証の要素としては案内されておらず、2要素認証は別途、認証アプリ（TOTP）またはSMSコードで設定できる",
+  "recommendation": "passkey",
+  "documentationUrl": "https://help.snapchat.com/hc/en-us/articles/27317385968532-How-do-I-use-Passkeys-on-Snapchat",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

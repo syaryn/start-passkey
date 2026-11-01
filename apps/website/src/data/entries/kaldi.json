@@ -1,0 +1,12 @@
+{
+  "name": "カルディコーヒーファーム オンラインストア",
+  "reading": "かるでぃこーひーふぁーむおんらいんすとあ",
+  "domain": "kaldi.co.jp",
+  "url": "https://www.kaldi.co.jp/ec/cmShopTopPage1.html",
+  "categories": ["food"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.kaldi.co.jp/ec/1/cmGuideDetail7.html",
+  "notes": "ログインはメールアドレス（ログインID）＋パスワードのみ。公式ご利用ガイド・FAQに二段階認証・認証アプリ・パスキーの設定案内はない。なおオンラインストア会員とカルディカードアプリ会員は別登録",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

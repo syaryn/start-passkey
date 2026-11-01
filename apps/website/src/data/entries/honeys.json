@@ -1,0 +1,12 @@
+{
+  "name": "ハニーズオンラインショップ",
+  "reading": "はにーずおんらいんしょっぷ",
+  "domain": "honeys-onlineshop.com",
+  "url": "https://www.honeys-onlineshop.com/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.honeys-onlineshop.com/shop/guide/shopping_entry.aspx",
+  "notes": "ログインはお客様IDとパスワードのみ。公式のご利用ガイド（会員登録について）に二段階認証・認証アプリ・パスキーの案内はなし。パスワードを忘れた場合は再設定メールによる再設定。Amazon Payを利用したログイン・決済にも対応するが、独自アカウントの認証はパスワードのみ。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

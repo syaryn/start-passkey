@@ -1,0 +1,15 @@
+{
+  "name": "GMOクリック証券",
+  "reading": "じーえむおーくりっくしょうけん",
+  "domain": "click-sec.com",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.click-sec.com/corp/news/info/20261014-01/",
+  "url": "https://www.click-sec.com/",
+  "notes": "パスキー認証を順次必須化中。2026年11月28日以降、パスキーを設定済みのユーザーはユーザIDとログインパスワードによるログインが終了し、パスキーを登録した端末からのみログイン可能となる。未設定でもお取引や出金等に規制がかかるため実質必須として判定",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.click-sec.com/security/passkey/",
+  "passkey": {
+    "passwordless": "required"
+  }
+}

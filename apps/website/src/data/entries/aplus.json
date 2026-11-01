@@ -1,0 +1,15 @@
+{
+  "name": "アプラス（My APLUS）",
+  "reading": "あぷらす",
+  "domain": "aplus.co.jp",
+  "categories": ["payments"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.aplus.co.jp/creditcard/netstation/myaplus/",
+  "url": "https://www.aplus.co.jp/",
+  "notes": "スマートフォンアプリでは、パスワード入力に代わる認証としてFIDO（オンライン認証の国際標準規格）に準拠した生体認証ログインが必須化されており、パスキーとして扱う。対象はアプリのみで、Web版のログインはMy APLUS ID（メールアドレス）とパスワード。SMS・電話認証は住所変更等の重要取引専用でログインには使えないため数えていない",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.aplus.co.jp/creditcard/netstation/myaplus/",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

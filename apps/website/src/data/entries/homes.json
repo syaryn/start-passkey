@@ -1,0 +1,12 @@
+{
+  "name": "LIFULL HOME'S",
+  "reading": "らいふるほーむず",
+  "domain": "homes.co.jp",
+  "url": "https://www.homes.co.jp/",
+  "categories": ["lifestyle"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.homes.co.jp/kiyaku/",
+  "notes": "会員認証はID＋パスワード（利用規約で「個人認証情報」として定義）。所定の外部サイトIDで登録する外部認証会員もいる。二段階認証・認証アプリ・パスキーの設定案内は公式情報になし。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

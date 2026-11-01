@@ -1,0 +1,12 @@
+{
+  "name": "J:COM",
+  "reading": "じぇいこむ",
+  "domain": "jcom.co.jp",
+  "categories": ["utilities"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.jcom.co.jp/catv-service/cs/personal-id/login-steps/",
+  "url": "https://www.jcom.co.jp/",
+  "notes": "マイページ／MY J:COMへのログインはJ:COMパーソナルID（旧J:COM IDは新規登録受付終了）。ログイン時の2段階認証があり、確認コードの送信方法としてSMS・音声通話のほかGoogle認証システム（Google Authenticator、TOTP方式）が選択できるためauthenticator区分。パスキーの案内はない（アプリの指紋・顔認証は端末側のログイン補助で、FIDOパスキーとは公式にされていない）",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://cs.myjcom.jp/articles/%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%ABid/%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%ABid%E3%81%AE%E6%A6%82%E8%A6%81%E7%99%BB%E9%8C%B2%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E7%AE%A1%E7%90%86%E6%89%8B%E9%A0%86/6790bf1763f0175c4c0ed9e9"
+}

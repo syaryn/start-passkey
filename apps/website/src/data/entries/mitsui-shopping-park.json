@@ -1,0 +1,13 @@
+{
+  "name": "三井ショッピングパーク（メンバーズページ）",
+  "reading": "みついしょっぴんぐぱーく",
+  "domain": "mitsui-shopping-park.com",
+  "url": "https://mitsui-shopping-park.com/msppoint/",
+  "categories": ["department"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://mitsui-shopping-park.com/msppoint/faq/",
+  "notes": "ログインはID（メールアドレス）＋パスワードが基本。セキュリティ強化として、通常と異なる端末・環境からのログインを検知した場合に登録メールアドレスへワンタイムパスワードが送られ、追加認証が行われる（リスクベース）。認証アプリ・パスキーはない",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://mitsui-shopping-park.com/msppoint/faq/"
+}

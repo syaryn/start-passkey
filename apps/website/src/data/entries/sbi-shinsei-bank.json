@@ -1,0 +1,11 @@
+{
+  "name": "SBI新生銀行",
+  "reading": "えすびーあいしんせいぎんこう",
+  "domain": "sbishinseibank.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.sbishinseibank.co.jp/service/newpd/app_pd/login.html",
+  "url": "https://www.sbishinseibank.co.jp/",
+  "notes": "ログイン（新生パワーダイレクト）は店番号・口座番号＋パワーダイレクトパスワードのみで、通常のログイン時に追加認証は求められない。振込等の重要取引の認証として、SBI新生銀行アプリへのプッシュ通知を生体認証等で承認するスマホ認証（FIDO準拠、2026年3月開始）やSMS認証・電話認証が利用できるが、ログイン自体には使えないため、本ディレクトリの基準（ログインに使える追加認証のみを数える）では数えない。SMS/電話認証のコード入力は初回ログイン時の初期設定（パスワード・暗証番号の登録手続き）でも行われるが、これは登録手続きでありログイン2FAではない。旧スマホ認証（VIP Access）は2026年6月27日終了",
+  "recommendation": "password-only"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "アニメイトオンラインショップ",
+  "reading": "あにめいとおんらいんしょっぷ",
+  "domain": "animate-onlineshop.jp",
+  "url": "https://www.animate-onlineshop.jp/",
+  "categories": ["hobby"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.animate-onlineshop.jp/faq/detail.php?id=1314",
+  "notes": "ログインはクラブアニメイトアカウント（メールアドレス＋パスワード、2026年3月26日に移行）のみ。SMS認証（携帯電話番号への認証番号による本人確認）はあるが、公式FAQに「SMS認証をせずにログインいただくことは可能です」と明記されており、これは新規登録時・登録情報の変更時等に求められる本人確認であってログイン時の追加認証ではないため、本ディレクトリの基準では数えない。パスキー・認証アプリの案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

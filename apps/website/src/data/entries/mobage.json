@@ -1,0 +1,19 @@
+{
+  "name": "モバゲー",
+  "reading": "もばげー",
+  "domain": "mbga.jp",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.mbga.jp/_cs_faq_top",
+  "url": "https://www.mbga.jp/",
+  "notes": "ログインはメールアドレス＋パスワードのみ。SMSによる電話番号認証があるが、これは個人認証（本人確認）のためのものでログイン時の二段階認証ではない。ログイン中の端末一覧の確認と全端末ログアウトは可能。パスキー・認証アプリの公式案内はなし",
+  "recommendation": "password-only",
+  "delegatedServices": [
+    {
+      "name": "グランブルーファンタジー",
+      "reading": "ぐらんぶるーふぁんたじー",
+      "sourceUrl": "https://www.cygames.co.jp/news/id-16084/",
+      "sourceNote": "Cygames公式リリース「iOS版等のご利用にあたってはMobageへの会員登録が必要です」"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Qiita",
+  "reading": "きーた",
+  "domain": "qiita.com",
+  "categories": ["developer"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.qiita.com/ja/articles/qiita-release-two-factor",
+  "url": "https://qiita.com/",
+  "notes": "二段階認証は認証アプリ（Google Authenticator、Duo Mobile等のTOTPアプリでQRコードを読み取る方式）。バックアップコードの発行あり。パスキーやセキュリティキーによる認証の案内は公式ヘルプになし",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://teams.qiita.com/help/setup-two-factor-authentication/"
+}

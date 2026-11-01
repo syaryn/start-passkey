@@ -1,0 +1,11 @@
+{
+  "name": "登記情報提供サービス",
+  "reading": "とうきじょうほうていきょうさーびす",
+  "domain": "touki.or.jp",
+  "categories": ["government"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www1.touki.or.jp/operate/",
+  "url": "https://www1.touki.or.jp/",
+  "notes": "ログインは利用者IDとパスワードのみで、公式の操作方法ページに二段階認証・認証アプリ・パスキーの案内はない。請求料金のカード決済時に使われるEMV 3-Dセキュアはカード発行会社側の本人認証であり、ログインの追加認証ではない。",
+  "recommendation": "password-only"
+}

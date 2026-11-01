@@ -1,0 +1,16 @@
+{
+  "name": "adidas",
+  "reading": "あでぃだす",
+  "domain": "adidas.com",
+  "url": "https://www.adidas.com/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq.adidas-group.jp/faq/show/3663?category_id=2&site_domain=adidas",
+  "notes": "adiClubアカウントにパスキーを設定でき、パスワードの代わりに顔・指紋・PIN等でログインするパスワードレス方式。ログイン時またはプロフィール内の「パスキーの管理」から設定可能。パスワード入力後の第2要素としてパスキーを使う方式ではない。",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://faq.adidas-group.jp/faq/show/3663?category_id=2&site_domain=adidas",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

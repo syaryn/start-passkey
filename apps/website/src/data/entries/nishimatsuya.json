@@ -1,0 +1,12 @@
+{
+  "name": "西松屋オンラインストア",
+  "reading": "にしまつやおんらいんすとあ",
+  "domain": "24028-net.jp",
+  "url": "https://www.24028-net.jp/",
+  "categories": ["retail"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.24028-net.jp/ext/guide.html",
+  "notes": "ログインは会員ID＋パスワード。パスワード再設定はメールアドレス宛に送られるURLから行う方式。二段階認証・認証アプリ・パスキーの設定は公式情報に見当たらない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

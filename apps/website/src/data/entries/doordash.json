@@ -1,0 +1,13 @@
+{
+  "name": "DoorDash",
+  "reading": "どあだっしゅ",
+  "domain": "doordash.com",
+  "url": "https://www.doordash.com/",
+  "categories": ["food"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.doordash.com/en-us/consumers/article/how-do-i-verify-my-account",
+  "notes": "基本ログインはメール+パスワード。公式ヘルプの「Multi-Factor Authentication」節により、DoorDash側が定期的にメール/SMSで送る6桁コードによる本人確認をログイン時に求める（利用者が任意に有効化する設定ではない）。認証アプリ・パスキーの案内なし。加盟店ポータル（Mx Portal）のSMS 2FAは事業者向けの別制度。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://help.doordash.com/en-us/consumers/article/how-do-i-verify-my-account"
+}

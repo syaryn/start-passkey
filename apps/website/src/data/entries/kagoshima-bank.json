@@ -1,0 +1,11 @@
+{
+  "name": "鹿児島銀行",
+  "reading": "かごしまぎんこう",
+  "domain": "kagin.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.kagin.co.jp/kojin/internet.html",
+  "url": "https://www.kagin.co.jp/",
+  "notes": "かぎんeバンクサービスのログインは利用者ID＋ログインパスワードのみ。かぎんアプリのワンタイムパスワードは振込・限度額変更・住所変更等の取引/手続き専用で、ログイン自体には使えないため本基準では数えない。アプリの「かんたんログイン」（指紋・顔認証でID/パスワード入力を省略）は資格情報呼び出し式で、FIDOパスキーの案内はない。",
+  "recommendation": "password-only"
+}

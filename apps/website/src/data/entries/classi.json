@@ -1,0 +1,12 @@
+{
+  "name": "Classi",
+  "reading": "くらっしー",
+  "domain": "classi.jp",
+  "url": "https://classi.jp/",
+  "categories": ["education"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://classi.jp/faq/",
+  "notes": "ログインはClassi ID（またはベネッセID）とパスワードのみ。生徒・先生はGoogle/Microsoftアカウント連携ログインも可能だが外部ID側の認証。公式FAQでは「ログインはID・パスワードで認証」と明記され、二要素認証・認証アプリ・パスキーの設定案内は公式情報に見当たらない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

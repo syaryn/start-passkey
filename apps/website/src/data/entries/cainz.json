@@ -1,0 +1,12 @@
+{
+  "name": "カインズ",
+  "reading": "かいんず",
+  "domain": "cainz.com",
+  "url": "https://www.cainz.com/",
+  "categories": ["home"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://customer.cainz.com/support/faq/0000000056/0000000084",
+  "notes": "カインズアプリ・オンラインショップ共通アカウントで、ログインはメールアドレス＋パスワード（SNS連携での登録も可）。メール認証コードは新規会員登録時の確認用で、ログイン時の二段階認証やパスキーの設定案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

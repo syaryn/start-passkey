@@ -1,0 +1,15 @@
+{
+  "name": "COCORO MEMBERS",
+  "reading": "こころめんばーず",
+  "domain": "cocoromembers.jp.sharp",
+  "categories": ["points"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://cocoromembers.jp.sharp/sic-front/static/contents/guide/F170201.html",
+  "notes": "二段階認証としてSMS認証と生体認証を設定できる。生体認証は利用端末（1つのCOCORO IDにつき最大5台）を登録する方式で、登録するとその端末にパスキーが作成され、指紋・顔など端末の生体情報で本人確認する（パスワード入力後の追加認証として使われ、不正ログインの疑いがある場合に実施）。利用にはSMS認証の設定が前提。公式案内では「生体認証」と呼ばれパスキー/FIDOの明記はないが、実装はパスキーである。COCORO IDはCOCORO STORE等と共通",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://cocoromembers.jp.sharp/sic-front/static/contents/guide/F170201.html",
+  "passkey": {
+    "mfa": "allowed"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Todoist",
+  "reading": "とぅーどぅいすと",
+  "domain": "todoist.com",
+  "url": "https://todoist.com/",
+  "categories": ["productivity"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.todoist.com/help/account-and-billing/account/set-up-two-factor-authentication-for-your-todoist-account-Nd4X4PFl9",
+  "notes": "公式ヘルプによれば、2FAはサードパーティ認証アプリ（Authy、Google Authenticator等のTOTP）の6桁コードをログイン時に求める方式。公式ヘルプに「物理セキュリティキーは2FAに未対応」と明記されており、パスキーの案内もない。2FAコードはメールアドレス変更やバックアップ取得など機微な操作時にも求められるが、判定はログイン時に使える認証アプリに基づく。",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://www.todoist.com/help/account-and-billing/account/set-up-two-factor-authentication-for-your-todoist-account-Nd4X4PFl9"
+}

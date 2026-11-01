@@ -1,0 +1,12 @@
+{
+  "name": "るるぶトラベル",
+  "reading": "るるぶとらべる",
+  "domain": "rurubu.travel",
+  "url": "https://www.rurubu.travel/",
+  "categories": ["travel"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.rurubu.travel/content/rurubu_faq/tag-sign-in/",
+  "notes": "ログインはJTBトラベルメンバー（MyJTB）の会員ID＋パスワードのみ（旧るるぶトラベル会員はJTBトラベルメンバーに改称・統合）。二段階認証・認証アプリ・パスキーの設定案内は公式FAQにない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

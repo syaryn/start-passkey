@@ -1,0 +1,29 @@
+{
+  "name": "eoID",
+  "reading": "いーおーあいでぃー",
+  "domain": "eonet.jp",
+  "categories": ["utilities"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://eonet.jp/eoid/login-pass-key.html",
+  "url": "https://eonet.jp/eoid/",
+  "notes": "関西電力系オプトエージの共通IDで、mineoやeo光などがログインを委譲する基盤。FIDO2対応端末のパスキーを登録すれば、eoID・パスワードの入力なしに端末の画面ロック認証（指紋・顔など）でログインできる（登録は任意）。パスキーはパスワード後の追加要素としては使われない。パスワードログイン時は2段階認証としてSMS/メールで届くワンタイムキーを設定でき、信頼済端末では入力を省略可（パスワードを無効化しSMSワンタイムキーのみでログインする設定もあり）。他社ID連携ログインも提供される",
+  "recommendation": "passkey",
+  "documentationUrl": "https://eonet.jp/eoid/login-pass-key.html",
+  "passkey": {
+    "passwordless": "allowed"
+  },
+  "delegatedServices": [
+    {
+      "name": "mineo",
+      "reading": "まいねお",
+      "sourceUrl": "https://support.mineo.jp/usqa/apply/apply/eoid/4206847_8866.html",
+      "sourceNote": "mineo公式サポート「eoID・eoIDパスワードとは、マイページやmineoアプリなどへログインする際に必要なIDとパスワード」"
+    },
+    {
+      "name": "eo光",
+      "reading": "いーおーひかり",
+      "sourceUrl": "https://eonet.jp/eoid/",
+      "sourceNote": "オプテージ公式「eoIDログインガイド」: eo光のeoマイページのログインにeoIDが必要と案内"
+    }
+  ]
+}

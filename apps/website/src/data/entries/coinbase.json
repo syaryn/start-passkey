@@ -1,0 +1,16 @@
+{
+  "name": "Coinbase",
+  "reading": "こいんべーす",
+  "domain": "coinbase.com",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.coinbase.com/en/coinbase/managing-my-account/get-back-into-my-account/2-step-verification-troubleshooting",
+  "url": "https://www.coinbase.com/",
+  "notes": "公式ブログが「Sign in with Passkey」を従来のメール+パスワード+2FAに代わるサインイン方法と明記し、パスワードなしでログインできる。あわせてパスキーとハードウェアセキュリティキーは2段階認証（2-step verification）の手段としても登録でき、2段階認証自体はログイン時に必須。他の2段階認証手段として認証アプリ、SMS、アプリのプッシュ通知もある",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.coinbase.com/es-la/blog/introducing-passkeys-a-safer-and-easier-way-to-sign-in-to-coinbase",
+  "passkey": {
+    "passwordless": "allowed",
+    "mfa": "allowed"
+  }
+}

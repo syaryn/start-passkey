@@ -1,0 +1,12 @@
+{
+  "name": "DeviantArt",
+  "reading": "でぃびあんとあーと",
+  "domain": "deviantart.com",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.deviantart.com/team/journal/Two-factor-authentication-is-now-open-to-all-1353687602",
+  "url": "https://www.deviantart.com/",
+  "notes": "全アカウント（ソーシャルログインで作成したアカウントを含む）が対象。パスワード入力後に認証アプリのコードで確認する方式で、アカウント設定の「Security and Privacy」から有効化する。リカバリーコードあり。収益の出金には2FAの有効化が必須だが、判定はログイン時に使える点に基づく。",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://www.deviantart.com/team/journal/Two-factor-authentication-is-now-open-to-all-1353687602"
+}

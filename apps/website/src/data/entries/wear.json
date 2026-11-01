@@ -1,0 +1,12 @@
+{
+  "name": "WEAR",
+  "reading": "うぇあ",
+  "domain": "wear.jp",
+  "url": "https://wear.jp/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://wear.jp/help/43846165787289/",
+  "notes": "WEAR独自のアカウント（メールアドレス＋パスワードで登録）があり、ZOZO IDと同一・完全委譲ではない。ZOZOTOWNアカウントでのログイン・連携も可能で、その場合の認証はZOZOTOWN（ZOZO ID）側に従う。WEAR自体に二段階認証・認証アプリ・パスキーの設定案内は公式ヘルプになし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

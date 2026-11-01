@@ -1,0 +1,12 @@
+{
+  "name": "NHKプラス",
+  "reading": "えぬえいちけーぷらす",
+  "domain": "plus.nhk.jp",
+  "url": "https://plus.nhk.jp/",
+  "categories": ["streaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.nhk.or.jp/nhkone/help/login/",
+  "notes": "2025年10月にNHK ONEへ統合され、アカウントは「NHK ONEアカウント」に移行（旧NHKプラスIDからの移行手続きは2026年9月末で終了）。ログインはログインID＋パスワードのみで、認証コードはアカウント登録時とパスワード再設定時のみ。二要素認証・認証アプリ・パスキーの設定案内は公式ヘルプにない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

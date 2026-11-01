@@ -1,0 +1,12 @@
+{
+  "name": "チャリロト",
+  "reading": "ちゃりろと",
+  "domain": "chariloto.com",
+  "url": "https://www.chariloto.com/",
+  "categories": ["gambling"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.chariloto.com/login",
+  "notes": "競輪・オートレースの投票サービス。ログインは会員ID（メールアドレス）＋ログインパスワードで、会員情報の変更時などにチャリロト暗証番号（固定の暗証番号）を入力。パスキー・認証アプリ・ログイン時のコード認証の設定は公式情報になし。JRA（即PAT）・オッズパーク・SPAT4と同じ基準",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

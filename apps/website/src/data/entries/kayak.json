@@ -1,0 +1,16 @@
+{
+  "name": "KAYAK",
+  "reading": "かやっく",
+  "domain": "kayak.com",
+  "url": "https://www.kayak.com/",
+  "categories": ["travel"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.kayak.com/c/help/account-trips/",
+  "notes": "公式ヘルプに「パスワードは認証コードに置き換えられた」と明記されており、通常のログインはメールで送られる認証コードによる。あわせて、アカウントページからパスキーを追加でき、パスキーでサインインできる。パスワード自体が存在しない設計のため、パスキーは第2要素ではなくパスワードレスなサインイン手段と位置付け、mfaはunsupportedとした。",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.kayak.com/c/help/account-trips/",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

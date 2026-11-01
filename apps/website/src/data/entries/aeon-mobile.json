@@ -1,0 +1,15 @@
+{
+  "name": "イオンモバイル",
+  "reading": "いおんもばいる",
+  "domain": "aeonmobile.jp",
+  "categories": ["utilities"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://aeonmobile.jp/news/notice_260827_01/",
+  "url": "https://aeonmobile.jp/",
+  "notes": "2026年9月17日に「パスキー認証」の提供を開始し、公式アプリとWeb版マイページで、端末側の生体認証等によりID・パスワード入力なしでログインできる。ログイン基盤はイオンモバイルIDによる独自のもので、iAEON等のイオン共通IDとは別。別途、ログイン時の2段階認証（メール認証コード／Google Authenticatorの選択可）も設定可能",
+  "recommendation": "passkey",
+  "documentationUrl": "https://aeonmobile.jp/news/notice_260827_01/",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

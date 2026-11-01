@@ -1,0 +1,12 @@
+{
+  "name": "Club TOHOGAS",
+  "reading": "くらぶとうほうがす",
+  "domain": "members.tohogas.co.jp",
+  "categories": ["utilities"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://members.tohogas.co.jp/Outside/Faq",
+  "url": "https://members.tohogas.co.jp/",
+  "notes": "東邦ガスのWeb会員サービス。ログインはログインID（メールアドレス）＋パスワードに加え、登録した「認証用電話番号」へSMSまたは音声通話で届く認証コードによる2段階認証（公式FAQに認証コードが届かずログインできない場合の案内あり）。認証アプリ・パスキーの案内はない。ソーシャルアカウント（Google・Yahoo! JAPAN・LINE・Apple）連携ログインも可能だが、その場合は外部ID側の認証に従う",
+  "recommendation": "code",
+  "documentationUrl": "https://members.tohogas.co.jp/Outside/Faq"
+}

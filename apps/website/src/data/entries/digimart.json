@@ -1,0 +1,12 @@
+{
+  "name": "デジマート",
+  "reading": "でじまーと",
+  "domain": "digimart.net",
+  "url": "https://www.digimart.net/",
+  "categories": ["marketplace"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.digimart.net/help/",
+  "notes": "認証基盤はリットーミュージック共通の「リットーID」で、ログインはメールアドレス＋パスワードのみ。公式ヘルプ・利用規約を確認した範囲で、二段階認証・認証アプリ・パスキーの設定案内は見当たらない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

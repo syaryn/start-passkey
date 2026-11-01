@@ -1,0 +1,11 @@
+{
+  "name": "横浜銀行",
+  "reading": "よこはまぎんこう",
+  "domain": "boy.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.boy.co.jp/kojin/myd/security/security09.html",
+  "url": "https://www.boy.co.jp/",
+  "notes": "〈はまぎん〉マイダイレクトのログインは契約番号（または店番号・口座番号）＋ログインパスワードで、通常と異なる環境では秘密の質問による追加認証。ワンタイムパスワード（スマホアプリ「はまぎん365」型またはキーホルダー型パスワード生成機、60秒ごとに変更）は設定できるが、振込等の取引時とログインパスワード再設定等の手続き専用で、ログイン自体には使えないため password-only とした。パスキーの案内はなし。",
+  "recommendation": "password-only"
+}

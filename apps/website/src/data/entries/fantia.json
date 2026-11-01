@@ -1,0 +1,13 @@
+{
+  "name": "Fantia",
+  "reading": "ふぁんてぃあ",
+  "domain": "fantia.jp",
+  "url": "https://fantia.jp/",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.fantia.jp/2225",
+  "notes": "二段階認証は登録メールアドレス宛の認証コード入力のみ（アカウント設定で有効化・解除）。クリエイター登録者とクレジットカード登録者は必須化されている。認証アプリ・パスキーの案内は公式ヘルプになし。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://help.fantia.jp/2230"
+}

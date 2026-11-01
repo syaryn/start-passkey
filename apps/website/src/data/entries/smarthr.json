@@ -1,0 +1,16 @@
+{
+  "name": "SmartHR",
+  "reading": "すまーとえいちあーる",
+  "domain": "smarthr.jp",
+  "url": "https://smarthr.jp/",
+  "categories": ["backoffice"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.smarthr.jp/ja/help/articles/4f76c3db-227d-46f5-b4f1-301ad30a7f8b/",
+  "notes": "パスキーを登録するとパスワード入力なしでログインでき、2要素認証を設定していてもワンタイムパスワードの入力が不要になる（パスキーはパスワードの追加要素ではなく置き換えのため mfa は unsupported）。別途、認証アプリによるTOTP方式の2要素認証も設定可能で、管理者が必須化もできる。SAML SSOが有効なアカウントではパスキー・2要素認証は利用できない",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://support.smarthr.jp/ja/help/articles/831fdeab-2baf-47b0-bd81-9e5c3cdb782d/",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

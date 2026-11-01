@@ -1,0 +1,12 @@
+{
+  "name": "アパホテル",
+  "reading": "あぱほてる",
+  "domain": "apahotel.com",
+  "categories": ["travel"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.apahotel.com/customer/point-login/118/",
+  "notes": "マイページの「二段階認証ログイン」を有効にすると、ログイン時に登録携帯電話番号へSMSで届く確認コードの入力が必要になる。2026年12月1日からは設定が必須化され、未設定では会員サービスを利用できない。認証アプリ・パスキーはなし（アプリの生体認証ログイン/自動ログインを有効にしている場合は一定期間SMS認証がスキップされるが、これはパスキーではない）",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://www.apahotel.com/customer/point-login/118/"
+}

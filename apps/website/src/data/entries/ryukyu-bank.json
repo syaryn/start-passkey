@@ -1,0 +1,11 @@
+{
+  "name": "琉球銀行",
+  "reading": "りゅうきゅうぎんこう",
+  "domain": "ryugin.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.ryugin.co.jp/service/app-internet_banking/internet-banking/security/pc/",
+  "url": "https://www.ryugin.co.jp/",
+  "notes": "りゅうぎんインターネットバンキングのログオンはログオンパスワード（6桁）のみ。ワンタイムパスワード（専用アプリの60秒更新トークン）は振込・ペイジー・夜間即時振込等の取引専用で必須化されているが、ログオン自体には使えないため本基準では数えない。りゅうぎんアプリの指紋・顔認証ログインは資格情報呼び出し式でパスキーではない。",
+  "recommendation": "password-only"
+}

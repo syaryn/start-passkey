@@ -1,0 +1,13 @@
+{
+  "name": "Figma",
+  "reading": "ふぃぐま",
+  "domain": "figma.com",
+  "url": "https://www.figma.com/",
+  "categories": ["design"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.figma.com/hc/en-us/articles/360039817634-Enable-two-factor-authentication-2FA",
+  "notes": "2要素認証は認証アプリ（TOTP）またはSMS。パスキー/セキュリティキーには未対応。Google SSOやSAML SSOでログインする場合はFigma側で2要素認証を設定できず、IDプロバイダー側で設定する",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://help.figma.com/hc/en-us/articles/360039817634-Enable-two-factor-authentication-2FA"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "スーパーホテル",
+  "reading": "すーぱーほてる",
+  "domain": "superhotel.co.jp",
+  "categories": ["travel"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.superhotel.co.jp/howto/login.html",
+  "notes": "公式予約サイトの会員ログインはメールアドレス＋パスワードのみ（公式のログイン方法案内で確認。2026年10月の予約システムリニューアル後も同じID・パスワード方式で、初回のみパスワード再設定が必要）。二段階認証・認証アプリ・パスキーの設定案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

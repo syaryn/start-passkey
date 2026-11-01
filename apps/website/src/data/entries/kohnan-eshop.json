@@ -1,0 +1,12 @@
+{
+  "name": "コーナンeショップ",
+  "reading": "こーなん",
+  "domain": "kohnan-eshop.com",
+  "url": "https://www.kohnan-eshop.com/",
+  "categories": ["home"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.hc-kohnan.com/service/stores/kohnan_pay/kohnan_pay_details",
+  "notes": "コーナンeショップ／コーナン プラスのログインはログインID（メールアドレス）＋パスワードのみで、ログイン時の追加認証の設定は公式情報にない。アプリ内決済のコーナンPayは別エントリ（コーナンPay）参照",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

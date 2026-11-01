@@ -1,0 +1,47 @@
+{
+  "name": "Yahoo! JAPAN ID",
+  "reading": "やふーじゃぱんあいでぃー",
+  "domain": "yahoo.co.jp",
+  "url": "https://www.yahoo.co.jp/",
+  "categories": ["points"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://id.yahoo.co.jp/security/manage_auth_device.html",
+  "notes": "パスキー（生体認証・画面ロック）でパスワードや確認コードの入力なしにログイン可能で、パスワードの代替として機能する（第2要素としての利用ではない）。パスワードを無効化してSMS認証でログインする方法や、パスワード＋ワンタイムパスワード（SMS/メール）の併用も可能。LINEヤフーはログインのパスキー一本化を進めており、パスワードのみのログインは2027年春頃までに終了予定",
+  "delegatedServices": [
+    {
+      "name": "ebookjapan",
+      "reading": "いーぶっくじゃぱん",
+      "sourceUrl": "https://support.yahoo-net.jp/SccEbookjapan/s/article/H000012792",
+      "sourceNote": "Yahoo!公式ヘルプ「電子書籍の購入や閲覧にはYahoo! JAPANへのログインが必要です」"
+    },
+    {
+      "name": "Yahoo!フリマ",
+      "reading": "やふーふりま",
+      "sourceUrl": "https://support.yahoo-net.jp/SccPaypayfleamarket/s/article/H000011705",
+      "sourceNote": "Yahoo!公式ヘルプで利用登録に必要な準備の第一項目が「Yahoo! JAPAN IDでのログイン」"
+    },
+    {
+      "name": "Yahoo!オークション",
+      "reading": "やふーおーくしょん",
+      "sourceUrl": "https://support.yahoo-net.jp/SccAuctions/s/article/H000010099",
+      "sourceNote": "Yahoo!公式ヘルプ「ご利用のYahoo! JAPAN IDでログインしてください」"
+    },
+    {
+      "name": "みんカラ",
+      "reading": "みんから",
+      "sourceUrl": "https://support.yahoo-net.jp/PccMinkara/s/article/H000014605",
+      "sourceNote": "Yahoo!公式ヘルプ「みんカラは、Yahoo! JAPAN IDでログインする方式に統一しました」"
+    },
+    {
+      "name": "戦国IXA",
+      "reading": "せんごくいつくさ",
+      "sourceUrl": "https://www.sengokuixa.jp/",
+      "sourceNote": "公式サイト（Yahoo!ゲーム版）がゲーム開始にYahoo! JAPAN IDを案内"
+    }
+  ],
+  "recommendation": "passkey",
+  "documentationUrl": "https://id.yahoo.co.jp/security/manage_auth_device.html",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "DreamHost",
+  "reading": "どりーむほすと",
+  "domain": "dreamhost.com",
+  "categories": ["developer"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.dreamhost.com/hc/en-us/articles/216013917-Multifactor-Authentication-FAQs",
+  "url": "https://www.dreamhost.com/",
+  "notes": "パネルの多要素認証はGoogle Authenticator（TOTP/HOTP）またはYubiKey（Yubico OTP方式）。公式KBがFIDO/WebAuthn方式のYubiKeyは非対応と明記しているためパスキー区分にはしない。SMS/音声でのコード取得も可。",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://help.dreamhost.com/hc/en-us/articles/216013897-Multifactor-Authentication-overview"
+}

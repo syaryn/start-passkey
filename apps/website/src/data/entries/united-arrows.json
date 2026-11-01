@@ -1,0 +1,16 @@
+{
+  "name": "ユナイテッドアローズ オンラインストア",
+  "reading": "ゆないてっどあろーずおんらいんすとあ",
+  "domain": "store.united-arrows.co.jp",
+  "url": "https://store.united-arrows.co.jp/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq.united-arrows.co.jp/faq/show/5837?category_id=197&site_domain=ols",
+  "notes": "「生体認証ログイン」としてパスキー（FIDO準拠のCapy生体認証ソリューション）を端末ごとに登録可能。公式FAQ上は主に商品購入時・会員情報変更時など再ログイン（パスワード再確認）が必要な場面で、パスワード入力の代わりに指紋・顔認証でログインする用途。初回ログインはUAクラブ番号またはメールアドレス＋パスワード。多要素認証としての追加要素ではなくパスワードの代替",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://faq.united-arrows.co.jp/faq/show/5837?category_id=197&site_domain=ols",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

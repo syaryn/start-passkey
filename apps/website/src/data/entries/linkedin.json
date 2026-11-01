@@ -1,0 +1,15 @@
+{
+  "name": "LinkedIn",
+  "reading": "りんくといん",
+  "domain": "linkedin.com",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.linkedin.cn/help/linkedin/answer/a1621596",
+  "url": "https://www.linkedin.com/",
+  "notes": "公式ヘルプ「Set up and use a passkey to sign in」のとおり、パスワードの代わりに端末のTouch ID等の生体認証でサインインできる（最大5個まで作成可能。端末や提供状況により作成オプションが表示されない場合がある）。二段階認証は別途、認証アプリまたはSMSで設定する方式で、パスキーはその第2要素としては案内されていない。根拠ページはLinkedInヘルプの同一記事をlinkedin.cn側で確認したもの",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.linkedin.cn/help/linkedin/answer/a1621596",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

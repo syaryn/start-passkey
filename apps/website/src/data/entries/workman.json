@@ -1,0 +1,13 @@
+{
+  "name": "ワークマン公式オンラインストア",
+  "reading": "わーくまんこうしきおんらいんすとあ",
+  "domain": "workman.jp",
+  "url": "https://workman.jp/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://workman.jp/shop/pages/guide-order.aspx",
+  "notes": "会員ログインはメールアドレス＋パスワード。任意設定の「追加認証」を利用すると、新しい端末やブラウザでログインする際に認証キーが登録メールアドレスへ送付される。パスキー・認証アプリの案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://workman.jp/shop/pages/guide-order.aspx"
+}

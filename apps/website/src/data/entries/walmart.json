@@ -1,0 +1,16 @@
+{
+  "name": "Walmart",
+  "reading": "うぉるまーと",
+  "domain": "walmart.com",
+  "url": "https://www.walmart.com/",
+  "categories": ["marketplace"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.walmart.com/help/article/passkeys/79bc4a57374146c497ebe3bf8d4f9b10",
+  "notes": "実ブラウザで公式ヘルプを確認（2026-11-01）。パスキーはパスワード代替で、パスキーでサインインすると2FAのワンタイムコード確認も不要になる。2FA自体は存在するが送付経路（SMS/メール/認証アプリ）は公式記事で未特定。登録時の電話番号確認コードはログイン認証ではない",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.walmart.com/help/article/passkeys/79bc4a57374146c497ebe3bf8d4f9b10",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

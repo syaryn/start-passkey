@@ -1,0 +1,15 @@
+{
+  "name": "Signal",
+  "reading": "しぐなる",
+  "domain": "signal.org",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.signal.org/hc/en-us/articles/11228705649690-Two-factor-authentication-and-TOTP-Time-based-One-Time-Password",
+  "url": "https://signal.org/",
+  "notes": "パスキーを2要素認証として使えるのは、電話番号を使わない新方式の「Signalログイン」アカウントのみ（認証アプリのTOTPとの併用・いずれか一方での確認が可能。パスキーは最大8個まで、物理セキュリティキーも可）。従来の電話番号アカウントではパスキー・TOTPは使えず、ログイン（再登録）時の追加要素は登録ロックのSignal PINのみ",
+  "recommendation": "passkey",
+  "documentationUrl": "https://support.signal.org/hc/en-us/articles/11228705649690-Two-factor-authentication-and-TOTP-Time-based-One-Time-Password",
+  "passkey": {
+    "mfa": "allowed"
+  }
+}

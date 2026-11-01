@@ -1,0 +1,16 @@
+{
+  "name": "Misskey",
+  "reading": "みすきー",
+  "domain": "misskey.io",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://misskey-hub.net/ja/docs/for-users/stepped-guides/how-to-enable-2fa/",
+  "url": "https://misskey.io/",
+  "notes": "対象は本家サーバーmisskey.io。Misskeyソフトウェアの機能として、セキュリティキー/パスキーを二要素認証として登録できるほか、パスワードを使わずセキュリティキー/パスキーのみでログインする「パスワードレスログイン」も設定可能（公式サイトMisskey Hubの機能説明・リリースノートで確認）。認証アプリによるワンタイムパスワードも併せて利用できる",
+  "recommendation": "passkey",
+  "documentationUrl": "https://misskey-hub.net/ja/docs/for-users/stepped-guides/how-to-enable-2fa/",
+  "passkey": {
+    "passwordless": "allowed",
+    "mfa": "allowed"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Wells Fargo",
+  "reading": "うぇるずふぁーご",
+  "domain": "wellsfargo.com",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.wellsfargo.com/privacy-security/advanced-access/",
+  "url": "https://www.wellsfargo.com/",
+  "notes": "ログイン時の追加認証はAdvanced Access。標準の受け取り方法はメール・SMS・音声通話・モバイルアプリへのプッシュ通知によるアクセスコードだが、公式ページにRSA SecurIDデバイス（ハードウェアOTPトークン）のコードもAdvanced Access要求時に利用できると明記されているためauthenticatorとした。パスキーの公式案内はない。Advanced Accessは取引・機微情報アクセス時にも発動する",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://www.wellsfargo.com/privacy-security/advanced-access/"
+}

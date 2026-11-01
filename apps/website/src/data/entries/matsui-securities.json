@@ -1,0 +1,15 @@
+{
+  "name": "松井証券",
+  "reading": "まついしょうけん",
+  "domain": "matsui.co.jp",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.matsui.co.jp/faq/show/54516?site_domain=faq",
+  "url": "https://www.matsui.co.jp/",
+  "notes": "ログイン用（FIDO2準拠）。2026年6月よりすべての顧客にパスキー登録が必須（適用時期は順次）。登録後は全チャネル（お客様サイト、スマホサイト、各種アプリ等）でパスキーログインが可能で、「パスキーでのみログイン」に限定する設定もできる。パスキー対応端末がない場合等は、ログインID・パスワード＋多要素認証（SMS認証・電話番号認証）でのログインも併用できる。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.matsui.co.jp/news/detail_passkey.html",
+  "passkey": {
+    "passwordless": "required"
+  }
+}

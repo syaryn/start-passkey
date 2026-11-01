@@ -1,0 +1,12 @@
+{
+  "name": "アルペングループ オンラインストア",
+  "reading": "あるぺんぐるーぷおんらいんすとあ",
+  "domain": "store.alpen-group.jp",
+  "url": "https://store.alpen-group.jp/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://store.alpen-group.jp/corporate/faq/agm/",
+  "notes": "アルペングループメンバーズのログインはメールアドレス＋パスワードのみ。公式ログインページ・公式FAQに二段階認証・認証アプリ・パスキーの案内は見当たらない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

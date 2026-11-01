@@ -1,0 +1,16 @@
+{
+  "name": "Apple Account",
+  "reading": "あっぷるあかうんと",
+  "domain": "account.apple.com",
+  "url": "https://account.apple.com/ja_JP",
+  "categories": ["device"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.apple.com/ja-jp/102637",
+  "notes": "サインインはパスワード+2ファクタ認証が前提で、同期パスキーによるパスワードレスサインインはできない。代わりに、2ファクタ認証の要素としてFIDO® Certifiedの物理セキュリティキーを登録でき（最低2本が必要）、6桁の確認コードの代わりに使える。通常の2ファクタは信頼できるデバイスへの表示またはSMS/音声電話のコード。",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://support.apple.com/ja-jp/102637",
+  "passkey": {
+    "mfa": "allowed"
+  }
+}

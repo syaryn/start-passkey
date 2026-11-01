@@ -1,0 +1,12 @@
+{
+  "name": "セカンドストリート",
+  "reading": "せかんどすとりーと",
+  "domain": "2ndstreet.jp",
+  "url": "https://www.2ndstreet.jp/",
+  "categories": ["hobby"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.2ndstreet.jp/guide/members",
+  "notes": "ログインはゲオグループ共通ID「GEO ID」（メールアドレス、または登録したログイン用携帯電話番号）とパスワードで行う。メール/SMSの認証番号は新規登録時やログイン用電話番号の登録時などの確認用で、ログイン時の二段階認証・認証アプリ・パスキーを設定する機能は公式ヘルプに案内がない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

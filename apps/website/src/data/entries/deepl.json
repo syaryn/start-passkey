@@ -1,0 +1,13 @@
+{
+  "name": "DeepL",
+  "reading": "でぃーぷえる",
+  "domain": "deepl.com",
+  "url": "https://www.deepl.com/",
+  "categories": ["ai"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.deepl.com/hc/en-us/articles/17764808297628-Set-up-and-disable-multi-factor-authentication",
+  "notes": "公式ヘルプによれば、多要素認証は認証アプリ（Google Authenticator、Microsoft Authenticator等）の確認コードのみ対応し、ログイン時にパスワードと組み合わせて入力する方式。SSOが有効な組織では利用できず（管理者は設定可）。パスキーの設定は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://support.deepl.com/hc/en-us/articles/17764808297628-Set-up-and-disable-multi-factor-authentication"
+}

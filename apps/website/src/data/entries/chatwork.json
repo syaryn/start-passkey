@@ -1,0 +1,12 @@
+{
+  "name": "Chatwork",
+  "reading": "ちゃっとわーく",
+  "domain": "chatwork.com",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.chatwork.com/hc/ja/articles/360000213821-2段階認証を設定する",
+  "url": "https://www.chatwork.com/",
+  "notes": "2段階認証は認証アプリ（Google Authenticator等のTOTP方式）またはSMSで受け取る認証コードから選択して設定可能。フリープランではSMS認証は利用不可。パスキーの案内はない",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://help.chatwork.com/hc/ja/articles/360000213821-2段階認証を設定する"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ロマンスカー@クラブ（小田急電鉄）",
+  "reading": "ろまんすかーあっとくらぶ",
+  "domain": "odakyu.jp",
+  "url": "https://www.odakyu.jp/",
+  "categories": ["rail"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.odakyu.jp/romancecar/booking/club/usage/",
+  "notes": "小田急電鉄の特急券予約・購入の会員サービス。公式ガイド上、会員ページへのログインは会員番号とパスワード（4桁から8桁の数字）の入力のみ。二段階認証・認証アプリ・パスキーの案内は公式情報になし。決済時の3Dセキュア2.0はカード会社の本人認証であり、ログイン用ではないため数えていない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

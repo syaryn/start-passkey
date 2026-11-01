@@ -1,0 +1,17 @@
+{
+  "name": "Zohoアカウント",
+  "reading": "ぞほあかうんと",
+  "domain": "zoho.com",
+  "url": "https://www.zoho.com/",
+  "categories": ["business"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.zoho.com/portal/en/kb/accounts/sign-in-za/articles/passkey",
+  "notes": "パスキーはユーザー名入力後に端末の画面ロック（生体認証/PIN）でサインインするパスワードレス方式で、Zoho AccountsのMFAモードの一つとしても案内される。同期型パスキーはiCloudキーチェーン/Googleパスワードマネージャー経由。別途、FIDOセキュリティキーをパスワード後の第2要素として登録可能（パスキー自体はセキュリティキー未対応）。",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://help.zoho.com/portal/en/kb/accounts/sign-in-za/articles/passkey",
+  "passkey": {
+    "passwordless": "allowed",
+    "mfa": "allowed"
+  }
+}

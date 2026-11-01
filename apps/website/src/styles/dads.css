@@ -1,0 +1,508 @@
+:root {
+  /* DADS Key Colors (Blue) */
+  --dads-blue-1100: #000071;
+  --dads-blue-1000: #00118f;
+  --dads-blue-900: #0017c1;
+  --dads-blue-100: #d9e6ff;
+  --dads-blue-50: #e8f1fe;
+
+  /* DADS Neutral Solid Gray & Black/White */
+  --dads-black: #000000;
+  --dads-gray-900: #1a1a1c;
+  --dads-gray-800: #333333;
+  --dads-gray-700: #4d4d4d;
+  --dads-gray-600: #595959;
+  --dads-gray-536: #767676; /* 白背景に対するテキスト4.5:1の下限 */
+  --dads-gray-420: #949494; /* 白背景に対する非テキスト3:1の下限 */
+  --dads-gray-200: #cccccc;
+  --dads-gray-100: #e6e6e6;
+  --dads-gray-50: #f2f2f2;
+  --dads-white: #ffffff;
+
+  /* DADS Semantic Colors */
+  --dads-red-900: #a80000;
+  --dads-red-800: #ec0000;
+  --dads-red-50: #fdeeee;
+  --dads-green-800: #197a4b;
+  --dads-green-50: #e6f5ec;
+  --dads-warning-border: #b78f00; /* 3:1以上 */
+  --dads-warning-text: #927200; /* 4.5:1以上 */
+
+  /* DADS Mandatory Focus Ring (Yellow-300 + Black 2重構造) */
+  --dads-focus-yellow: #ffd43d;
+  --dads-focus-black: #000000;
+
+  /* Typography Font Stacks（Web フォントは読み込まない） */
+  --dads-font-sans:
+    "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Noto Sans JP", sans-serif;
+  --dads-font-mono:
+    ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Noto Sans Mono", monospace;
+
+  /* Corner Shapes (5段階) */
+  --dads-radius-none: 0px;
+  --dads-radius-sm: 0.5rem; /* 8px: ボタン・インプットテキスト */
+  --dads-radius-md: 0.75rem; /* 12px: カード・バナー・メニューリストボックス */
+  --dads-radius-lg: 1rem; /* 16px */
+  --dads-radius-full: 9999px; /* カプセル型チップタグ */
+}
+
+/* F24準拠: 前景色（color）と背景色（background-color）の両方を必ず明示 */
+html,
+body {
+  background-color: var(--dads-surface);
+  color: var(--dads-gray-900);
+  font-family: var(--dads-font-sans);
+  font-size: 1rem; /* 16px 基準 */
+  font-weight: 400;
+  line-height: 1.7;
+  letter-spacing: 0.02em;
+  -webkit-font-smoothing: antialiased;
+}
+
+pre,
+code {
+  font-family: var(--dads-font-mono);
+  font-size: 1rem;
+  line-height: 1.5;
+  letter-spacing: 0;
+}
+
+/* ==========================================================================
+   DADS フォーカスインジケーター（Yellow-300とBlackの2重構造・変更禁止）
+   ========================================================================== */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+summary:focus-visible,
+[tabindex]:focus-visible {
+  outline: 4px solid var(--dads-focus-yellow) !important;
+  outline-offset: 2px !important;
+  box-shadow: 0 0 0 2px var(--dads-focus-black) !important;
+}
+
+/* ==========================================================================
+   DADS タイポグラフィスケール (Std / Dns / Oln)
+   ========================================================================== */
+.dads-std-28b-150 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.dads-std-24b-150 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.dads-std-20b-150 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.dads-std-16b-170 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.7;
+  letter-spacing: 0.02em;
+}
+
+.dads-std-16n-170 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.7;
+  letter-spacing: 0.02em;
+}
+
+.dads-std-14b-170 {
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 1.7;
+  letter-spacing: 0.02em;
+}
+
+.dads-std-14n-170 {
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.7;
+  letter-spacing: 0.02em;
+}
+
+.dads-dns-16b-130 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: 0;
+}
+
+.dads-dns-16n-130 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.3;
+  letter-spacing: 0;
+}
+
+.dads-dns-14b-130 {
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: 0;
+}
+
+.dads-dns-14n-130 {
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.3;
+  letter-spacing: 0;
+}
+
+.dads-oln-16b-100 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0.02em;
+}
+
+.dads-oln-14b-100 {
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0.02em;
+}
+
+/* ==========================================================================
+   DADS コンポーネント: ボタン (塗り / アウトライン / テキスト)
+   ターゲット領域は44×44 CSS px以上を確保
+   ========================================================================== */
+.dads-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  min-height: 2.75rem; /* 44px ターゲット領域 */
+  min-width: 5rem; /* 80px (Small基準) */
+  padding: 0.625rem 1rem;
+  border-radius: var(--dads-radius-sm);
+  font-family: var(--dads-font-sans);
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  cursor: pointer;
+  transition:
+    background-color 0.15s ease,
+    color 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.dads-btn-md {
+  min-height: 3rem; /* 48px (Medium基準) */
+  min-width: 6rem; /* 96px */
+  padding: 0.75rem 1.25rem;
+}
+
+.dads-btn-sm {
+  min-height: 2.75rem; /* 44px ターゲット領域を維持 */
+  min-width: 4.5rem;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.875rem; /* 14px */
+}
+
+/* プライマリー: 塗りボタン (Solid Fill) */
+.dads-btn-solid {
+  background-color: var(--dads-blue-900);
+  color: var(--dads-white);
+  border: 1px solid var(--dads-blue-900);
+}
+
+.dads-btn-solid:hover {
+  background-color: var(--dads-blue-1000);
+  border-color: var(--dads-blue-1000);
+  color: var(--dads-white);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.dads-btn-solid:active {
+  background-color: var(--dads-blue-1100);
+  border-color: var(--dads-blue-1100);
+  color: var(--dads-white);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+/* セカンダリー: アウトラインボタン (Outlined) */
+.dads-btn-outlined {
+  background-color: var(--dads-surface);
+  color: var(--dads-blue-900);
+  border: 1px solid var(--dads-blue-900);
+}
+
+.dads-btn-outlined:hover {
+  background-color: var(--dads-blue-50);
+  color: var(--dads-blue-1000);
+  border-color: var(--dads-blue-1000);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.dads-btn-outlined:active {
+  background-color: var(--dads-blue-100);
+  color: var(--dads-blue-1100);
+  border-color: var(--dads-blue-1100);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+/* ターシャリー: テキストボタン (Text) */
+.dads-btn-text {
+  background-color: transparent;
+  color: var(--dads-blue-900);
+  border: 1px solid transparent;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.dads-btn-text:hover {
+  background-color: var(--dads-blue-50);
+  color: var(--dads-blue-1000);
+  text-decoration: underline;
+}
+
+.dads-btn-text:active {
+  background-color: var(--dads-blue-100);
+  color: var(--dads-blue-1100);
+  text-decoration: underline;
+}
+
+/* 削除・警告系: アウトライン & テキストボタン (Error Red >= 4.5:1) */
+.dads-btn-danger-outlined {
+  background-color: var(--dads-surface);
+  color: var(--dads-red-800);
+  border: 1px solid var(--dads-red-800);
+}
+
+.dads-btn-danger-outlined:hover {
+  background-color: var(--dads-red-50);
+  color: var(--dads-red-900);
+  border-color: var(--dads-red-900);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.dads-btn-danger-text {
+  background-color: transparent;
+  color: var(--dads-red-800);
+  border: 1px solid transparent;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.dads-btn-danger-text:hover {
+  background-color: var(--dads-red-50);
+  color: var(--dads-red-900);
+  text-decoration: underline;
+}
+
+/* ==========================================================================
+   DADS コンポーネント: インプットテキスト
+   高さ48px (Medium) / 36px (Small)、外周コントラスト3:1以上 (#767676)
+   ========================================================================== */
+.dads-input {
+  display: block;
+  width: 100%;
+  min-height: 3rem; /* 48px */
+  padding: 0.625rem 1rem;
+  font-family: var(--dads-font-sans);
+  font-size: 1rem; /* 16px */
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--dads-gray-900);
+  background-color: var(--dads-surface);
+  border: 1px solid var(--dads-gray-536);
+  border-radius: var(--dads-radius-sm);
+}
+
+.dads-input-sm {
+  min-height: 2.5rem; /* 40px */
+  padding: 0.5rem 0.75rem;
+  font-size: 1rem;
+}
+
+/* ==========================================================================
+   DADS コンポーネント: チェックボックス (44×44px ターゲット領域)
+   ========================================================================== */
+.dads-checkbox-trigger {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.75rem; /* 44px */
+  height: 2.75rem; /* 44px */
+  background-color: transparent;
+  border: none;
+  border-radius: var(--dads-radius-sm);
+  cursor: pointer;
+}
+
+.dads-checkbox-trigger:hover .dads-checkbox-box {
+  box-shadow: 0 0 0 3px var(--dads-blue-100);
+}
+
+.dads-checkbox-box {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.5rem; /* 24px (Mサイズ) */
+  height: 1.5rem; /* 24px */
+  border-radius: 0.25rem;
+  border: 2px solid var(--dads-gray-900);
+  background-color: var(--dads-surface);
+  color: var(--dads-white);
+  transition:
+    background-color 0.12s ease,
+    border-color 0.12s ease;
+}
+
+.dads-checkbox-box-checked {
+  background-color: var(--dads-blue-900);
+  border-color: var(--dads-blue-900);
+  color: var(--dads-white);
+}
+
+/* ==========================================================================
+   DADS コンポーネント: チップラベル & チップタグ
+   ========================================================================== */
+.dads-chip-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.1875rem 0.625rem;
+  border-radius: var(--dads-radius-sm);
+  font-size: 0.875rem; /* 14px */
+  font-weight: 700;
+  line-height: 1.3;
+  background-color: var(--dads-gray-50);
+  color: var(--dads-gray-900);
+  border: 1px solid var(--dads-gray-536);
+}
+
+.dads-chip-label-active {
+  background-color: var(--dads-blue-50);
+  color: var(--dads-blue-900);
+  border: 1px solid var(--dads-blue-900);
+}
+
+.dads-chip-label-completed {
+  background-color: var(--dads-green-50);
+  color: var(--dads-green-800);
+  border: 1px solid var(--dads-green-800);
+}
+
+.dads-chip-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 2.25rem;
+  padding: 0.25rem 0.5rem 0.25rem 0.875rem;
+  border-radius: var(--dads-radius-full);
+  font-size: 0.875rem; /* 14px */
+  font-weight: 400;
+  line-height: 1.3;
+  background-color: var(--dads-blue-50);
+  color: var(--dads-blue-900);
+  border: 1px solid var(--dads-blue-900);
+}
+
+/* ==========================================================================
+   DADS コンポーネント: カード & ノティフィケーションバナー
+   エレベーション要素は必ず3:1以上の外周ボーダーを併設
+   ========================================================================== */
+.dads-card {
+  background-color: var(--dads-surface);
+  color: var(--dads-gray-900);
+  border: 1px solid var(--dads-gray-536); /* 白背景に対して4.5:1 (>3:1) */
+  border-radius: var(--dads-radius-md);
+}
+
+.dads-notification-banner-error {
+  background-color: var(--dads-surface);
+  color: var(--dads-gray-900);
+  border: 2px solid var(--dads-red-800);
+  border-radius: var(--dads-radius-md);
+  padding: 1rem 1.25rem;
+}
+
+/* ==========================================================================
+   DADS コンポーネント: テーブル／データテーブル
+   テーブルヘッダーとデータセルは黒いボーダーで明確に区切り、ヘッダーは太字
+   ========================================================================== */
+.dads-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: var(--dads-surface);
+  color: var(--dads-gray-900);
+}
+
+.dads-table thead tr {
+  background-color: var(--dads-surface-subtle);
+  border-bottom: 2px solid var(--dads-gray-900);
+}
+
+.dads-table th {
+  padding: 0.75rem 1rem;
+  font-size: 0.875rem; /* 14px */
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: 0;
+  color: var(--dads-gray-900);
+  vertical-align: middle;
+}
+
+.dads-table tbody tr {
+  border-bottom: 1px solid var(--dads-gray-536); /* 3:1以上のコントラスト比 */
+  background-color: var(--dads-surface);
+  transition: background-color 0.12s ease;
+}
+
+.dads-table tbody tr:hover {
+  background-color: var(--dads-blue-50);
+}
+
+.dads-table td {
+  padding: 0.75rem 1rem;
+  font-size: 1rem; /* 16px (Dns-16N-130) */
+  line-height: 1.5;
+  letter-spacing: 0;
+  color: var(--dads-gray-900);
+  vertical-align: middle;
+}
+
+/* ソート可能なヘッダーセル（下線付きテキスト＋ソートアイコン） */
+.dads-table-sort-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  min-height: 2.75rem; /* 44px ターゲット領域 */
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--dads-radius-sm);
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: var(--dads-gray-900);
+  background-color: transparent;
+  border: 1px solid transparent;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+  cursor: pointer;
+}
+
+.dads-table-sort-trigger:hover {
+  background-color: var(--dads-blue-50);
+  color: var(--dads-blue-900);
+}

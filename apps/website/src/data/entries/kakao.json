@@ -1,0 +1,15 @@
+{
+  "name": "Kakaoアカウント",
+  "reading": "かかおあかうんと",
+  "domain": "accounts.kakao.com",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.kakaocorp.com/page/detail/11349",
+  "url": "https://accounts.kakao.com",
+  "notes": "2024年11月にパスキーを導入。パスワードの代わりに端末のロック解除（指紋・顔・パターン）でログインでき、カカオログインを使う外部サービスでも利用可能。登録はカカオアカウントWebページの「アカウントセキュリティ」から。パスキーはパスワード代替であり第2要素としては使われない。別途、2段階認証（カカオトークでの確認または電話番号認証）も設定可能。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://cs.kakao.com/helps?service=52&locale=ko&category=1083",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

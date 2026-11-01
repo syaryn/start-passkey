@@ -1,0 +1,12 @@
+{
+  "name": "Steam",
+  "reading": "すちーむ",
+  "domain": "steampowered.com",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.steampowered.com/ja/faqs/view/7EFD-3CAE-64D3-1C31",
+  "url": "https://store.steampowered.com/",
+  "notes": "二要素認証は「Steamガード」。Steamモバイルアプリが30秒ごとに生成する認証コード、またはアプリでのQRコードスキャン/承認によるサインインが可能。アプリを使わない場合はメールでコードを受け取る方式になる。FIDOパスキーの公式案内はなし",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://help.steampowered.com/ja/faqs/view/6891-E071-C9D9-0134"
+}

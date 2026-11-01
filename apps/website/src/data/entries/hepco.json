@@ -1,0 +1,11 @@
+{
+  "name": "北海道電力（ほくでんエネモール）",
+  "reading": "ほっかいどうでんりょく",
+  "domain": "enemall.hepco.co.jp",
+  "categories": ["utilities"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.enemall.hepco.co.jp/u.contents/cd/entry_flow.html",
+  "url": "https://www.hepco.co.jp/",
+  "notes": "ログインはログインID（メールアドレス）＋パスワードのみ。長期間未ログイン時や通常と異なる環境からのログイン時には「秘密の質問」による追加認証が行われるが、これは知識情報による確認であり、コード認証・認証アプリ・パスキーには当たらないため数えていない。",
+  "recommendation": "password-only"
+}

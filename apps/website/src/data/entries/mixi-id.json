@@ -1,0 +1,15 @@
+{
+  "name": "MIXI ID",
+  "reading": "みくしぃあいでぃー",
+  "domain": "mixi.co.jp",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://fidoalliance.org/mixi-promotes-a-safe-and-seamless-login-experience-with-passkey-deployment-across-both-consumer-and-enterprise-environments/",
+  "url": "https://mixi.co.jp/",
+  "notes": "株式会社MIXIの共通アカウント基盤で、mixi2やMIXI M（TIPSTAR等の認証・決済基盤）、モンスターストライク等が利用する。当初からパスワードレス設計で、基本はメールアドレス宛ワンタイムパスワード（OTP）によるログイン。2024年にFIDO2準拠のパスキー認証を導入し、スマートフォンやPCの生体認証でパスワードフリーにログインできる（登録は任意）。パスキーはパスワード入力後の追加要素としては使われない。決済システム管理ツールでのパスキー必須化は社内運用向けの措置で、一般ユーザーのログインとは別。SNS mixiはサービス独自のアカウント認証であり、MIXI IDではログインできない（mixi2・MIXI M等の利用サービスはFIDO Allianceのケーススタディ等の記述に基づく）",
+  "recommendation": "passkey",
+  "documentationUrl": "https://fidoalliance.org/mixi-promotes-a-safe-and-seamless-login-experience-with-passkey-deployment-across-both-consumer-and-enterprise-environments/",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

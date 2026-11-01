@@ -1,0 +1,12 @@
+{
+  "name": "PayPay",
+  "reading": "ぺいぺい",
+  "domain": "paypay.ne.jp",
+  "categories": ["payments"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://paypay.ne.jp/help/c0374/",
+  "url": "https://paypay.ne.jp/",
+  "notes": "ログインは携帯電話番号とパスワード。普段と異なる端末でのログイン時はSMS認証コード、またはログイン中端末でのQRコード認証が必要。アプリの端末認証（顔・指紋）はパスワード入力の代替でありパスキーではない。PayPay証券・PayPay銀行のパスキーは別サービス",
+  "recommendation": "code",
+  "documentationUrl": "https://paypay.ne.jp/help/c0374/"
+}

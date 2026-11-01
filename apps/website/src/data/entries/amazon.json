@@ -1,0 +1,16 @@
+{
+  "name": "Amazon",
+  "reading": "あまぞん",
+  "domain": "amazon.co.jp",
+  "url": "https://www.amazon.co.jp/",
+  "categories": ["marketplace"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p",
+  "notes": "パスキーは「アカウントサービス > ログインとセキュリティ」から設定し、パスワードの代わりに顔・指紋・PINでサインインする方式。パスキープロバイダー（Apple ID/Googleアカウント等）のアカウントごとに作成できるパスキーは1つ。ブラウザにより機能制限がある場合がある。",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

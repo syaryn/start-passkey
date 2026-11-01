@@ -1,0 +1,10 @@
+{
+  "name": "コロプラ",
+  "reading": "ころぷら",
+  "domain": "pl.colopl.jp",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://pl.colopl.jp/c/c/pc/login",
+  "notes": "コロプラのプラットフォームアカウント（コロニーな生活等）。公式ログインページでは登録メールアドレスまたはユーザー名＋パスワードのみで、二段階認証・認証アプリ・パスキーの設定案内はなし。各スマホゲームの引き継ぎはタイトルごとにプラットフォームアカウント連携等が案内される場合がある",
+  "recommendation": "password-only"
+}

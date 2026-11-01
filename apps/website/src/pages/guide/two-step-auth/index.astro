@@ -1,0 +1,45 @@
+---
+import GuideShell from "../../../components/GuideShell.astro";
+import Diagram from "../../../components/Diagram.astro";
+import { SITE_LAST_UPDATED } from "../../../data/navigation.ts";
+---
+
+<GuideShell
+  title="二段階認証・二要素認証とは｜そしてパスキーへ"
+  description="二段階認証と二要素認証の意味、SMS・認証アプリ・パスキーの違いを、利用者向けに解説します。"
+  h1="二段階認証・二要素認証とは"
+  lastUpdated={SITE_LAST_UPDATED}
+>
+  <p>
+    日常の会話では「二段階認証」「二要素認証（2FA）」が混ざって使われます。このサイトの解説では、検索されやすい「二段階認証」を主に使い、パスワードに加える追加の本人確認全般を指します。
+  </p>
+
+  <Diagram
+    src="/diagrams/two-step-auth.svg"
+    alt="二段階認証のイメージ。パスワードに加える追加確認と、パスワードレスのパスキー"
+    caption="パスワードに「2つ目」を足す方式と、パスワード自体をやめるパスキーは別の考え方です。"
+  />
+
+  <p class="dads-text-support" style="margin: 0 0 1.5rem;">
+    このサイトの一覧でどう区分して掲載するかは、<a href="/guide/priority/">どれから設定するか</a>と
+    <a href="/guide/how-to-use/">このサイトの使い方</a>を参照してください。
+  </p>
+
+  <h2>なぜ必要か</h2>
+  <p>
+    パスワードだけだと、漏えいや使い回しでアカウントが乗っ取られるリスクがあります。第2の確認を足すと、パスワードが漏れてもログインを止めやすくなります。
+  </p>
+
+  <h2>方式ごとの違い（概要）</h2>
+  <ul>
+    <li><strong>パスキー</strong> — フィッシング耐性が高い。パスワードレスまたは第二要素として利用</li>
+    <li><strong>認証アプリ</strong> — 6桁コード（TOTP）や公式アプリの承認。SMS より一般的に推奨されやすい</li>
+    <li><strong>SMS・メール</strong> — 届くコードで確認。手軽だが、SIM 乗っ取りなどのリスクに注意</li>
+  </ul>
+
+  <p>
+    関連: <a href="/guide/priority/">どれから設定するか</a>、
+    <a href="/guide/authenticator/">認証アプリで強化する</a>、
+    <a href="/guide/sms-email/">SMS・メールコードの注意</a>
+  </p>
+</GuideShell>

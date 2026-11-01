@@ -1,0 +1,11 @@
+{
+  "name": "登記・供託オンライン申請システム",
+  "reading": "とうききょうたくおんらいんしんせいしすてむ",
+  "domain": "touki-kyoutaku-online.moj.go.jp",
+  "categories": ["government"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.touki-kyoutaku-online.moj.go.jp/mtouki/assets/contents/shinseisha.html",
+  "url": "https://www.touki-kyoutaku-online.moj.go.jp/",
+  "notes": "申請用総合ソフト・かんたん登記・供託申請へのログインは、申請者情報登録で設定した申請者IDとパスワードのみで、ログイン時に使える追加認証（コード・認証アプリ・パスキー）は設定できない。登録時にメールで送られる認証情報の入力は登録手続きの本人確認であり、ログイン時の2要素認証ではない。申請データへの電子署名には別途電子証明書が必要だが、ログインの追加要素ではない。",
+  "recommendation": "password-only"
+}

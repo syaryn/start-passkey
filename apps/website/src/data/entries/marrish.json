@@ -1,0 +1,12 @@
+{
+  "name": "マリッシュ",
+  "reading": "まりっしゅ",
+  "domain": "marrish.com",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://marrish.com/auth/loginhelp",
+  "url": "https://marrish.com/",
+  "notes": "パスワードは存在しない。ログインは電話番号（ログインのたびに発行されるSMS認証コード、有効期限10分）・メールアドレス（確認メール）・Apple ID・LINE ID・Amazonアカウントのいずれか。電話番号ログインはパスワード自体がなくSMSコードのみ。Facebookログインは廃止済み",
+  "recommendation": "code",
+  "documentationUrl": "https://marrish.com/auth/loginhelp"
+}

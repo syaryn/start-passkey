@@ -1,0 +1,12 @@
+{
+  "name": "外為どっとコム",
+  "reading": "がいためどっとこむ",
+  "domain": "gaitame.com",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.gaitame.com/company/safety/authentication.html",
+  "url": "https://www.gaitame.com/",
+  "notes": "現行のログインはユーザーID（口座番号）・パスワードに加え、登録メールアドレス宛のワンタイムパスワードをログイン時に使う設定が可能。出金・情報変更等にはセキュリティパスコード（自分で決める第二パスワード）も使用。認証アプリの案内なし。パスキー認証は2026年12月中に全サービスへ導入予定で将来的に必須化予定だが、確認日（2026-11-01）時点では未導入のため code 区分とした",
+  "recommendation": "code",
+  "documentationUrl": "https://www.gaitame.com/company/safety/authentication.html"
+}

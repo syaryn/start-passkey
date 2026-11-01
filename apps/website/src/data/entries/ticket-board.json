@@ -1,0 +1,12 @@
+{
+  "name": "ticket board",
+  "reading": "ちけっとぼーど",
+  "domain": "tickebo.jp",
+  "url": "https://ticket.tickebo.jp/",
+  "categories": ["tickets"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://ticket.tickebo.jp/top/ja/guide/register-2.html",
+  "notes": "ログインはメールアドレスまたは電話番号＋パスワードのみ。SMS認証は会員登録時の本人確認であり、電話番号をログインIDに使うための前提条件であって、ログイン時の二段階認証ではない。パスキー・認証アプリの案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

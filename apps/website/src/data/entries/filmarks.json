@@ -1,0 +1,12 @@
+{
+  "name": "Filmarks",
+  "reading": "ふぃるまーくす",
+  "domain": "filmarks.com",
+  "url": "https://filmarks.com/",
+  "categories": ["streaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://filmarks.zendesk.com/hc/ja/articles/115000521467-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AE%E4%BD%9C%E6%88%90",
+  "notes": "登録・ログインはメールアドレス＋パスワードのほか、Googleアカウント連携・Appleでサインインが使える（公式ヘルプ）。登録時のメールアドレス認証はアドレス確認用であり、ログイン時の二段階認証・認証アプリ・パスキーの案内は公式ヘルプになし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

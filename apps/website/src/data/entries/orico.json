@@ -1,0 +1,12 @@
+{
+  "name": "オリコ（eオリコ）",
+  "reading": "おりこ",
+  "domain": "orico.co.jp",
+  "categories": ["payments"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.orico.co.jp/lp/neweorico/",
+  "url": "https://www.orico.co.jp/",
+  "notes": "リニューアル後のeオリコは、ID・パスワード入力後に届くワンタイムパスワードを入力するログイン方式（従来のCAPTCHA認証から変更）。コードは登録連絡先（SMS/メール）へ送られる確認コード方式で、認証アプリ・パスキーの案内は公式情報になし。本人認証サービス（3Dセキュア）用のワンタイムパスワードとは別にログイン時の認証がある",
+  "recommendation": "code",
+  "documentationUrl": "https://www.orico.co.jp/lp/neweorico/"
+}

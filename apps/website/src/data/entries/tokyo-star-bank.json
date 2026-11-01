@@ -1,0 +1,11 @@
+{
+  "name": "東京スター銀行",
+  "reading": "とうきょうすたーぎんこう",
+  "domain": "tokyostarbank.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.tokyostarbank.co.jp/tokyostardirect/otp_appli/",
+  "url": "https://www.tokyostarbank.co.jp/",
+  "notes": "東京スターダイレクトのログインはログインID・ログインパスワードのみ（ログイン合言葉は知識情報）。ワンタイムパスワードアプリ（60秒更新の6桁）は振込等の重要なお取引時の専用で、ログイン自体には使えないため数えない。スターダイレクトアプリの生体認証・かんたんパスワードは登録資格情報の呼び出し式でパスキーではない",
+  "recommendation": "password-only"
+}

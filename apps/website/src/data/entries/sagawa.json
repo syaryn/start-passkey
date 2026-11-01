@@ -1,0 +1,13 @@
+{
+  "name": "佐川急便 スマートクラブ",
+  "reading": "さがわきゅうびんすまーとくらぶ",
+  "domain": "sagawa-exp.co.jp",
+  "url": "https://www.sagawa-exp.co.jp/customer/smartclub/",
+  "categories": ["logistics"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www2.sagawa-exp.co.jp/information/detail/361/",
+  "notes": "不正アクセス検知を受け、マイページの利用には2段階認証の設定が必須となった。ID・パスワードに加え、登録メールアドレスまたはSMSへ送られる認証コード（ワンタイムパスワード）を入力する方式。認証アプリ・パスキーの案内はない",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://www.sagawa-exp.co.jp/faq/"
+}

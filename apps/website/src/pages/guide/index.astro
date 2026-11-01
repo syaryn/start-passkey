@@ -1,0 +1,44 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { GUIDE_LINKS, POLICY_LINKS, SITE_LAST_UPDATED, UTILITY_LINKS } from "../../data/navigation.ts";
+---
+
+<BaseLayout
+  title="ガイド｜そしてパスキーへ"
+  description="パスキー、二段階認証、一覧の見方など、設定を変える前に読む解説ページです。"
+>
+  <h1 class="dads-std-28b-150" style="margin: 0 0 0.5rem;">ガイド</h1>
+  <p class="dads-std-14n-170 dads-text-secondary" style="margin: 0 0 1.5rem;">
+    最終更新: {SITE_LAST_UPDATED}
+  </p>
+
+  <section class="dads-section">
+    <h2 class="dads-std-20b-150" style="margin: 0 0 0.75rem;">はじめに</h2>
+    <ul class="dads-page-list">
+      {
+        GUIDE_LINKS.map((link) => (
+          <li>
+            <a href={link.href}>{link.label}</a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+
+  <section class="dads-section">
+    <h2 class="dads-std-20b-150" style="margin: 0 0 0.75rem;">ポリシー・その他</h2>
+    <ul class="dads-page-list">
+      {
+        [...POLICY_LINKS, ...UTILITY_LINKS].map((link) => (
+          <li>
+            <a href={link.href}>{link.label}</a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+
+  <p>
+    <a href="/">← トップへ</a>
+  </p>
+</BaseLayout>

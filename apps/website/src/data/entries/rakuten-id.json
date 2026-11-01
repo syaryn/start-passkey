@@ -1,0 +1,35 @@
+{
+  "name": "楽天ID",
+  "reading": "らくてんあいでぃー",
+  "domain": "rakuten.co.jp",
+  "url": "https://www.rakuten.co.jp/",
+  "categories": ["points"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://corp.faq.rakuten.net/rakutenid/s/detail/000008110",
+  "notes": "FIDO準拠のパスキーでパスワードなしログインが可能（ユーザID/メールアドレス入力後に生体認証等）。パスワード入力後の追加要素としての利用はなく、パスキーはパスワードの代替。一部の高セキュリティサービスではパスキー設定後はパスキー認証のみ可。対応サービスは2026年1月以降順次拡大中。パスキー設定時には登録メールへの認証コード入力が必要（設定時の確認でありログイン認証ではない）。1つの楽天IDに最大5つまで作成可",
+  "delegatedServices": [
+    {
+      "name": "楽天モバイル",
+      "reading": "らくてんもばいる",
+      "sourceUrl": "https://network.mobile.rakuten.co.jp/information/news/service/3610/",
+      "sourceNote": "公式お知らせ「楽天IDとパスワードによるログインも引き続きご利用いただけます」"
+    },
+    {
+      "name": "楽天ラクマ",
+      "reading": "らくてんらくま",
+      "sourceUrl": "https://faq.fril.jp/hc/ja/articles/39007691316493-%E9%80%A3%E6%90%BA%E3%81%97%E3%81%9F%E6%A5%BD%E5%A4%A9ID%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93",
+      "sourceNote": "公式ガイドで「連携した楽天IDでログイン」を案内"
+    },
+    {
+      "name": "西友",
+      "reading": "せいゆう",
+      "sourceUrl": "https://netsuper.rakuten.co.jp/seiyu/info/guide/",
+      "sourceNote": "公式ガイド「西友ネットスーパーのご利用には楽天会員登録と楽天全国スーパー利用登録が必要です」"
+    }
+  ],
+  "recommendation": "passkey",
+  "documentationUrl": "https://corp.faq.rakuten.net/rakutenid/s/detail/000008110",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

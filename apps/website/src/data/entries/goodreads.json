@@ -1,0 +1,12 @@
+{
+  "name": "Goodreads",
+  "reading": "ぐっどりーず",
+  "domain": "goodreads.com",
+  "url": "https://www.goodreads.com/",
+  "categories": ["hobby"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.goodreads.com/s/question/0D51H00005JP3JwSAL/does-or-are-there-any-plans-for-goodreadscom-to-enable-two-factor-authentication",
+  "notes": "公式サポートが「Goodreadsアカウントに2段階認証を設定することは現時点でできない」と回答している。Goodreads独自のメールアドレス＋パスワードのアカウントが基本で、Amazon・Apple・Googleアカウントでのサインインも選べるが、これは任意の外部ID連携でありAmazonへの完全委譲ではない（独自側に設定可能な追加認証はなし）。メール変更時のOTPは情報変更手続き用でログイン2FAではない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

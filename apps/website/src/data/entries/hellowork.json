@@ -1,0 +1,12 @@
+{
+  "name": "ハローワークインターネットサービス",
+  "reading": "はろーわーくいんたーねっとさーびす",
+  "domain": "hellowork.mhlw.go.jp",
+  "categories": ["government"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.hellowork.mhlw.go.jp/",
+  "url": "https://www.hellowork.mhlw.go.jp/",
+  "notes": "各種マイページへのログイン時に、ID（メールアドレス）・パスワードに加え、登録メールアドレス宛に送られる6桁のワンタイムパスワードが必要（一定期間の入力省略設定あり）。認証アプリやパスキーの案内はなし。マイナポータル連携によるシングルサインオンも可能。",
+  "recommendation": "code",
+  "documentationUrl": "https://www.hellowork.mhlw.go.jp/help/question02.html"
+}

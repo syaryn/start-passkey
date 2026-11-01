@@ -1,0 +1,12 @@
+{
+  "name": "JRA（即PAT）",
+  "reading": "じぇいあーるえー",
+  "domain": "jra.go.jp",
+  "url": "https://www.jra.go.jp/",
+  "categories": ["gambling"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.jra.go.jp/dento/soku/manual1/sbi_pc/4-1.htm",
+  "notes": "即PAT等のインターネット投票へのログインは、加入者番号（8桁）・暗証番号（4桁）・P-ARS番号（4桁、方式によりINET-ID）という登録時に決まる固定クレデンシャルの組み合わせのみ（公式マニュアル）。パスキー、認証アプリ、ワンタイムパスワード等の追加認証を設定する仕組みは公式情報で確認できなかった。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

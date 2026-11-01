@@ -1,0 +1,12 @@
+{
+  "name": "Calm",
+  "reading": "かーむ",
+  "domain": "calm.com",
+  "url": "https://www.calm.com/",
+  "categories": ["health"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.calm.com/hc/en-us/articles/10478569703963-How-to-Log-In-and-Log-Out-of-Your-Calm-Account",
+  "notes": "消費者向けCalmアカウントのログインはメール＋パスワード、またはFacebook・Apple・Google連携のみで、二要素認証・パスキーの設定案内は公式ヘルプにない。医療機関向けの別製品Calm Healthでは登録時にSMS/音声通話によるMFA設定が必須だが、通常のCalmアカウント自体のログイン設定ではない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

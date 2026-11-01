@@ -1,0 +1,12 @@
+{
+  "name": "Peacock",
+  "reading": "ぴーこっく",
+  "domain": "peacocktv.com",
+  "url": "https://www.peacocktv.com",
+  "categories": ["streaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.peacocktv.com/help/article/how-do-i-reset-my-password",
+  "notes": "公式ヘルプの案内ではサインインはメールアドレス＋パスワードのみで、アカウント設定にあるセキュリティ項目もパスワードリセットのみ。2要素認証・認証アプリ・パスキーの設定案内は公式情報になし。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

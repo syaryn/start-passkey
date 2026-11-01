@@ -1,0 +1,11 @@
+{
+  "name": "十八親和銀行",
+  "reading": "じゅうはちしんわぎんこう",
+  "domain": "18shinwabank.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.18shinwabank.co.jp/personal/service/directbanking/security/onetime/",
+  "url": "https://www.18shinwabank.co.jp/",
+  "notes": "インターネットバンキングのログインはログインID＋ログインパスワードのみ。ワンタイムパスワード（十八親和銀行アプリ/トークン、30秒更新）は振込・ネット決済等の取引専用で、公式にも「ログイン時のログインパスワードの入力は引続き必要」と明記されており、ログイン自体には使えないため本基準では数えない。アプリのかんたんログインは資格情報呼び出し式でパスキーではない。",
+  "recommendation": "password-only"
+}

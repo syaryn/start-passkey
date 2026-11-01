@@ -1,0 +1,15 @@
+{
+  "name": "ゲソてん byGMO",
+  "reading": "げそてん",
+  "domain": "gesoten.com",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.gesoten.com/hc/ja/articles/900000132483-%E3%82%B2%E3%82%BD%E3%81%A6%E3%82%93ID%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+  "url": "https://gesoten.com/",
+  "notes": "アカウントは共通ID「GMO ID」が基盤（1つのGMO IDにつき1つのゲソてんID）。パスキー相当の「生体認証」（WebAuthn）はGMO ID側で設定し、スマートフォンからのログイン時のみ利用可（PCは非対応）。GMO IDにはメールまたは認証アプリによる2段階認証も設定でき、両方有効な場合は生体認証が優先される。ポイントタウンと同じGMO ID基盤",
+  "recommendation": "passkey",
+  "documentationUrl": "https://id.gmo.jp/gui/webauthn/index",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

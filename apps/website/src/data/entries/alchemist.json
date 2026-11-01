@@ -1,0 +1,11 @@
+{
+  "name": "あるけみすと",
+  "reading": "あるけみすと",
+  "domain": "games-alchemist.com",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.games-alchemist.com/",
+  "url": "https://www.games-alchemist.com/",
+  "notes": "個人制作の無料ブラウザゲーム。ログインはユーザーIDとパスワードのみ（公式トップページのログインフォーム）。Googleアカウントでのログインも選択できるが外部ID側の認証であり、本サービス自体に二段階認証・認証アプリ・パスキーの設定は公式情報になし",
+  "recommendation": "password-only"
+}

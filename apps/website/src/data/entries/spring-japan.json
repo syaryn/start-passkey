@@ -1,0 +1,12 @@
+{
+  "name": "スプリング・ジャパン",
+  "reading": "すぷりんぐじゃぱん",
+  "domain": "jp.ch.com",
+  "url": "https://jp.ch.com/",
+  "categories": ["aviation"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://passport.ch.com/ja_jp/Login/NormalPC",
+  "notes": "日本向けログイン画面には携帯電話番号＋SMS認証コードのUIがあるが、画面の注意書きに「技術的な理由により中国本土以外のSMSサービスを一時停止」とあり日本番号では現時点で使えない。実効上のログイン経路はメールアドレス＋パスワードのみのためpassword-onlyとした（2026-11-01実ブラウザ確認）",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "イオンスクエアメンバー（AEON Pay ID）",
+  "reading": "いおんすくえあめんばー",
+  "domain": "aeon.co.jp",
+  "categories": ["payments"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.aeon.co.jp/security/riskbase/",
+  "url": "https://www.aeon.co.jp/",
+  "notes": "暮らしのマネーサイトへのログイン時、普段と異なる環境と判断された場合に登録メールアドレス宛の6桁ワンタイムパスワード認証が必要（リスクベース）。AEON Payアプリの生体認証ログインは端末内の簡易ログインでパスキーではない。「ワンタイム」アプリは3Dセキュア用。2026年4月にイオンスクエアメンバーIDはAEON Pay IDへ名称変更",
+  "recommendation": "code",
+  "documentationUrl": "https://faq.aeon.co.jp/faq/show/170?site_domain=default"
+}

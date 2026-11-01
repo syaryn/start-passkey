@@ -1,0 +1,16 @@
+{
+  "name": "Box",
+  "reading": "ぼっくす",
+  "domain": "box.com",
+  "url": "https://www.box.com/",
+  "categories": ["storage"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://docs.box.com/en/box-fundamentals/for-users/user-login-and-settings/multi-factor-authentication-set-up-for-your-account",
+  "notes": "2段階認証の第2要素としてFIDO2/WebAuthn対応セキュリティキーを選択可能。認証アプリ・SMS・メールも選べるが、有効化できるのはいずれか1つのみ。パスキーによるパスワードレスのログインはなく、SSO必須の組織では2段階認証の設定項目自体が表示されない",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://docs.box.com/en/box-fundamentals/for-users/user-login-and-settings/multi-factor-authentication-set-up-for-your-account",
+  "passkey": {
+    "mfa": "allowed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "ハードオフ",
+  "reading": "はーどおふ",
+  "domain": "hardoff.co.jp",
+  "url": "https://www.hardoff.co.jp/",
+  "categories": ["electronics"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.hardoff.app/faq",
+  "notes": "共通アカウント「ハードオフID」（公式アプリ・オフモール等で共通）はメールアドレス＋パスワード、またはApple ID・Googleアカウント連携でログインする。公式アプリFAQに二段階認証・認証アプリ・パスキーの案内はない。",
+  "delegatedServices": [
+    {
+      "name": "オフモール",
+      "reading": "おふもーる",
+      "sourceUrl": "https://www.hardoff.app/faq",
+      "sourceNote": "公式アプリFAQ「オフモール・オファー買取と共通のハードオフIDが使えます」"
+    }
+  ],
+  "recommendation": "password-only"
+}

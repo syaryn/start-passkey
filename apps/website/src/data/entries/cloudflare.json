@@ -1,0 +1,16 @@
+{
+  "name": "Cloudflare",
+  "reading": "くらうどふれあ",
+  "domain": "cloudflare.com",
+  "url": "https://www.cloudflare.com/",
+  "categories": ["developer"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://developers.cloudflare.com/fundamentals/user-profiles/2fa/",
+  "notes": "公式ドキュメントでは、WebAuthnセキュリティキー（Touch ID等の内蔵認証器やYubiKey等のハードウェアキー、パスキーとして登録した資格情報も含む）はパスワード入力後の第2要素としてのみ案内され、パスワードレスサインインの記載はない。そのほかTOTP認証アプリ、メール認証、バックアップコードも2FAとして利用可能。",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://developers.cloudflare.com/fundamentals/user-profiles/2fa/",
+  "passkey": {
+    "mfa": "allowed"
+  }
+}

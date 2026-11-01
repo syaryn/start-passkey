@@ -1,0 +1,11 @@
+{
+  "name": "mirai-compass（ミライコンパス）",
+  "reading": "みらいこんぱす",
+  "domain": "mirai-compass.net",
+  "categories": ["education"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://mirai-compass.net/usr/tyot/common/hojinLogin.jsf",
+  "notes": "ログインはユーザID（メールアドレス）＋パスワード（mcID共通ID）。登録時にメールで確認コードが送られるが、これは登録時のアドレス確認でありログイン時の二要素認証ではない。パスキー・認証アプリの案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

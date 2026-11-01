@@ -1,0 +1,12 @@
+{
+  "name": "BOAT RACE（テレボート）",
+  "reading": "ぼーとれーす（てれぼーと）",
+  "domain": "boatrace.jp",
+  "url": "https://www.boatrace.jp/",
+  "categories": ["gambling"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.boatrace.jp/owpc/pc/extra/tb/support/answer_login.html",
+  "notes": "公営競技の固定暗証番号型。インターネット投票・テレボート会員メニューのログインは加入者番号・暗証番号・認証用パスワード（いずれも固定の認証情報）のみで、投票時には投票用パスワードも使う。SMS/メールコード・認証アプリ・パスキーの設定は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

@@ -1,0 +1,146 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import {
+  CATEGORIES,
+  categoryTitle,
+  getCategoryBySlug,
+  type CategorySlug,
+} from "../../data/categories.ts";
+import {
+  compareByReading,
+  entryPageHref,
+  passkeyDetail,
+  RECOMMENDATION_LABELS,
+  recommendationBadgeClass,
+  serviceUrl,
+} from "../../data/display.ts";
+import ExternalLink from "../../components/ExternalLink.astro";
+import EntryNote from "../../components/EntryNote.astro";
+import { pageTitle } from "../../data/site.ts";
+
+export function getStaticPaths() {
+  return CATEGORIES.map((cat) => ({
+    params: { category: cat.slug },
+  }));
+}
+
+const { category: categoryParam } = Astro.params;
+const category = getCategoryBySlug(categoryParam ?? "");
+if (!category) {
+  return Astro.redirect("/404/");
+}
+
+const slug = category.slug as CategorySlug;
+const all = await getCollection("entries");
+const rows = all
+  .filter((item) => item.data.categories.includes(slug))
+  .sort((a, b) => compareByReading(a.data, b.data));
+
+const heading = categoryTitle(slug);
+const documentTitle = pageTitle(heading);
+---
+
+<BaseLayout title={documentTitle} description={`${category.label}カテゴリのパスキー・二段階認証の対応状況一覧です。`}>
+  <header class="dads-page-header">
+    <p style="margin: 0 0 1rem;">
+      <a href="/">← トップ</a>
+    </p>
+    <h1 class="dads-std-28b-150" style="margin: 0 0 0.5rem;">{category.label}</h1>
+    <p class="dads-std-16n-170 dads-text-secondary" style="margin: 0 0 1rem;">{heading}</p>
+    <p class="dads-std-14n-170 dads-text-secondary dads-lead">
+      {category.label}向けのパスキー・二段階認証の対応状況です。表の読み方は
+      <a href="/guide/how-to-use/">このサイトの使い方</a>、設定の優先順位は
+      <a href="/guide/priority/">どれから設定するか</a>を参照してください。
+    </p>
+  </header>
+
+  {
+    rows.length === 0 ? (
+      <p class="dads-std-16n-170 dads-text-secondary">このカテゴリにはまだ掲載されているサービスがありません。</p>
+    ) : (
+      <div class="dads-table-wrap">
+        <table class="dads-table dads-table--listing">
+          <thead>
+            <tr>
+              <th scope="col" class="dads-table-head-service">
+                <div class="dads-table-head-service-row">
+                  <span class="dads-table-head-primary">サービス</span>
+                  <ul class="dads-table-head-legend" aria-label="行内アイコンの意味">
+                    <li>
+                      <span class="i-lucide-external-link dads-icon-inline" aria-hidden="true"></span>
+                      公式サイト
+                    </li>
+                    <li>
+                      <span class="i-lucide-info dads-icon-inline" aria-hidden="true"></span>
+                      備考
+                    </li>
+                  </ul>
+                </div>
+              </th>
+              <th scope="col">いま切り替えるなら</th>
+              <th scope="col">パスキー（任意／必須）</th>
+              <th scope="col">公式ヘルプ</th>
+              <th scope="col">確認日</th>
+              <th scope="col">確認したページ</th>
+            </tr>
+          </thead>
+          <tbody>
+            {rows.map((item) => (
+              <tr>
+                <td>
+                  <div class="dads-table-cell-action-inner">
+                    <div class="dads-table-service">
+                      <a href={entryPageHref(item.data, item.id)} class="dads-table-entry-link">
+                        {item.data.name}
+                      </a>
+                      <div class="dads-table-service-aside">
+                        <ExternalLink href={serviceUrl(item.data)} label="公式サイト" class="dads-table-official-link" />
+                        {item.data.notes ? (
+                          <EntryNote entryId={item.id} entryName={item.data.name} note={item.data.notes} />
+                        ) : null}
+                      </div>
+                    </div>
+                  </div>
+                </td>
+                <td>
+                  <div class="dads-table-cell-action-inner">
+                    <span class={recommendationBadgeClass(item.data.recommendation)}>
+                      {RECOMMENDATION_LABELS[item.data.recommendation]}
+                    </span>
+                  </div>
+                </td>
+                <td>
+                  <div class="dads-table-cell-action-inner">{passkeyDetail(item.data)}</div>
+                </td>
+                <td class="dads-table-cell-action">
+                  {"documentationUrl" in item.data && item.data.documentationUrl ? (
+                    <div class="dads-table-cell-action-inner">
+                      <ExternalLink href={item.data.documentationUrl} label="設定手順" />
+                    </div>
+                  ) : (
+                    <div class="dads-table-cell-action-inner">—</div>
+                  )}
+                </td>
+                <td class="dads-table-date">
+                  <div class="dads-table-cell-action-inner">{item.data.verifiedOn}</div>
+                </td>
+                <td class="dads-table-cell-action">
+                  <div class="dads-table-cell-action-inner">
+                    <ExternalLink href={item.data.verifiedUrl} label="確認元" />
+                  </div>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    )
+  }
+
+  <script>
+    import { wireEntryNotePopovers } from "../../scripts/entry-note-popover.ts";
+
+    wireEntryNotePopovers();
+  </script>
+</BaseLayout>

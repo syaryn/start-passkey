@@ -1,0 +1,14 @@
+{
+  "name": "ゆうちょ銀行（ゆうちょダイレクト）",
+  "reading": "ゆうちょぎんこう（ゆうちょだいれくと）",
+  "domain": "jp-bank.japanpost.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.jp-bank.japanpost.jp/direct/pc/security/dr_pc_sc_ds_drsecurity.html",
+  "notes": "「ゆうちょ認証アプリ」（ゆうちょ通帳アプリでも可）がFIDO準拠であることを公式が明記。アプリに生体情報またはパスコード（6桁）を登録すると、お客さま番号・パスワード・合言葉の入力なしでログインでき、送金時の認証もアプリで行う（パスワードの追加要素ではなく置き換え）。登録するとトークン（ワンタイムパスワード生成機）には戻せない。トークン利用者はパスワード+トークン方式のまま",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.jp-bank.japanpost.jp/app/app_ninshou.html",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Typeform",
+  "reading": "たいぷふぉーむ",
+  "domain": "typeform.com",
+  "url": "https://www.typeform.com/",
+  "categories": ["productivity"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.typeform.com/hc/en-us/articles/4405277894548-Set-up-two-factor-authentication-2FA",
+  "notes": "2要素認証はログインのたびに登録メールアドレスへ送られる6桁コードを入力する方式のみ。認証アプリやパスキーの公式案内はない。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://help.typeform.com/hc/en-us/articles/4405277894548-Set-up-two-factor-authentication-2FA"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "レコチョク",
+  "reading": "れこちょく",
+  "domain": "recochoku.jp",
+  "url": "https://recochoku.jp/",
+  "categories": ["music"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.recochoku.jp/faq_detail.html?id=10392",
+  "notes": "ログインはクラブレコチョク アカウントの登録メールアドレス＋パスワード、または連携済みの外部アカウント（Apple ID・dアカウント・Yahoo! JAPAN ID・Facebook等）。公式FAQに二段階認証・認証アプリ・パスキーの設定案内はない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

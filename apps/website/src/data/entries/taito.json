@@ -1,0 +1,11 @@
+{
+  "name": "TAITO ID",
+  "reading": "たいとーあいでぃー",
+  "domain": "taito.co.jp",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.taito.co.jp/taitokuji/login",
+  "url": "https://www.taito.co.jp/",
+  "notes": "タイトーの共通アカウント（タイトーくじ等で利用）。公式ログインページはログインID＋パスワードのみで、パスキー・認証アプリ・コードによる追加認証の設定案内は公式情報になし。Facebookアカウントでの会員登録も可能",
+  "recommendation": "password-only"
+}

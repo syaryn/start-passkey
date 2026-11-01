@@ -1,0 +1,16 @@
+{
+  "name": "Salesforce",
+  "reading": "せーるすふぉーす",
+  "domain": "salesforce.com",
+  "url": "https://www.salesforce.com/",
+  "categories": ["business"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.salesforce.com/s/articleView?id=sf.mfa_supported_verification_methods.htm&language=en_US&type=5",
+  "notes": "直接ログインには多要素認証が必須。検証方法としてパスキー（デバイス内蔵の認証器）やセキュリティキー（WebAuthn/U2F）が利用でき、ほかにSalesforce Authenticator（プッシュ承認/TOTP）や他社製認証アプリもある。パスワードなしのパスキーのみのログインはなく、組織の管理者が利用可能な検証方法を制限する場合がある",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://help.salesforce.com/s/articleView?id=sf.mfa_supported_verification_methods.htm&language=en_US&type=5",
+  "passkey": {
+    "mfa": "allowed"
+  }
+}

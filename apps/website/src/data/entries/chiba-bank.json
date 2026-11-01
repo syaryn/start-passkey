@@ -1,0 +1,12 @@
+{
+  "name": "千葉銀行",
+  "reading": "ちばぎんこう",
+  "domain": "chibabank.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.chibabank.co.jp/kojin/services/account/myaccess/details/myaccess_terms",
+  "url": "https://www.chibabank.co.jp/",
+  "notes": "ちばぎんマイアクセスのログオンは契約者番号＋ログオンパスワード。ワンタイムパスワードサービス（専用ワンタイムパスワードアプリまたはトークン）を開始すると、利用規定上、ログオンに加えてワンタイムパスワードによる認証が行われる（振込等ではトランザクション認証機能も）。ちばぎんアプリの生体認証はちばぎんIDの代わりに使うアプリ内ログインで、パスキー（FIDO）の案内はなし。",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://www.chibabank.co.jp/kojin/services/account/myaccess/otp/myaccess_otp_app"
+}

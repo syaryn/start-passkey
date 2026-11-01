@@ -1,0 +1,11 @@
+{
+  "name": "出光カード ウェブステーション",
+  "reading": "いでみつかーど うぇぶすてーしょん",
+  "domain": "idemitsucard.com",
+  "categories": ["payments", "transport"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.idemitsucard.com/webstation/authentication/index.html",
+  "url": "https://www.idemitsucard.com/",
+  "notes": "出光カードのインターネット会員サービス。ログインはウェブステーションID＋パスワード（ボット対策のパズル認証→reCAPTCHAを併用）。メールワンタイムパスワードや電話番号認証は住所変更・オンラインキャッシング等ログイン後の一部機能専用で、SMS/メールのワンタイムパスワードはネットショッピング時の本人認証サービス（3Dセキュア）用であり、いずれもログイン自体には使えないため数えない。パスキー・認証アプリの案内なし",
+  "recommendation": "password-only"
+}

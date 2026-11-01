@@ -1,0 +1,31 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+interface Props {
+  title: string;
+  description: string;
+  h1: string;
+  lastUpdated?: string;
+}
+
+const { title, description, h1, lastUpdated } = Astro.props;
+---
+
+<BaseLayout {title} {description}>
+  <p style="margin: 0 0 1rem;">
+    <a href="/guide/">← ガイド一覧</a>
+  </p>
+  <h1 class="dads-std-28b-150" style="margin: 0 0 0.5rem;">{h1}</h1>
+  {
+    lastUpdated ? (
+      <p class="dads-std-14n-170 dads-text-secondary" style="margin: 0 0 1.5rem;">
+        最終更新: {lastUpdated}
+      </p>
+    ) : (
+      <div style="margin-bottom: 1.5rem;" />
+    )
+  }
+  <div class="dads-prose">
+    <slot />
+  </div>
+</BaseLayout>

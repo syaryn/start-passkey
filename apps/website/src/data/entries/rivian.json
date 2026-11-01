@@ -1,0 +1,13 @@
+{
+  "name": "Rivianアカウント",
+  "reading": "りびあんあかうんと",
+  "domain": "rivian.com",
+  "url": "https://rivian.com/",
+  "categories": ["automotive"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://rivian.com/en-CA/support/article/what-is-two-factor-authentication",
+  "notes": "公式サポートによれば、Rivianアカウント／アプリへのログインには2要素認証が必須で、方式はメール、SMS、サードパーティ認証アプリ（TOTP）から選択でき、無効化はできない。パスキーの案内はない。車両の運転開始前に認証を求める「Multi-factor Drive」はログイン認証ではないため数えていない。",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://rivian.com/en-CA/support/article/what-is-two-factor-authentication"
+}

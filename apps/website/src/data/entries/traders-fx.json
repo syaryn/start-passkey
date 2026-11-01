@@ -1,0 +1,15 @@
+{
+  "name": "トレイダーズ証券（みんなのFX）",
+  "reading": "とれいだーずしょうけん",
+  "domain": "min-fx.jp",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://min-fx.jp/support/security/passkey/",
+  "url": "https://min-fx.jp/",
+  "notes": "2026年3月28日にFIDO2対応のパスキーを導入。パスキーはパスワード代替のログイン方式であり、設定は任意（必須化の案内なし）。パスキー未設定の場合はログインID・パスワード＋登録メールアドレス宛のワンタイムパスワード認証が必須。別途、Google Authenticatorによる2段階認証も設定可能。パスキーは端末ごとに最大5個まで登録可",
+  "recommendation": "passkey",
+  "documentationUrl": "https://min-fx.jp/support/security/passkey/",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

@@ -1,0 +1,41 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { SITE_LAST_UPDATED } from "../../data/navigation.ts";
+---
+
+<BaseLayout
+  title="掲載修正・連絡｜そしてパスキーへ"
+  description="掲載内容の誤りや更新の提案の受け方。公開の問い合わせフォームは設けていません。"
+>
+  <h1 class="dads-std-28b-150" style="margin: 0 0 0.5rem;">掲載修正・連絡</h1>
+  <p class="dads-std-14n-170 dads-text-secondary" style="margin: 0 0 1.5rem;">
+    最終更新: {SITE_LAST_UPDATED}
+  </p>
+
+  <div class="dads-prose">
+    <p>
+      各サービスへの「パスキー対応をしてほしい」といった<strong>問い合わせ先</strong>は、方針として掲載していません。
+    </p>
+
+    <h2>掲載内容について</h2>
+    <p>
+      一覧の誤り、確認 URL の変更、新規掲載の提案などは、サイト管理者が定める公開リポジトリの Issue
+      等で受け付ける予定です。リポジトリ URL が公開された時点で、このページに追記します。
+    </p>
+
+    <h2>送っていただきたい情報</h2>
+    <ul>
+      <li>サービス名と URL（ドメイン）</li>
+      <li>指摘内容（主列の設定、公式ヘルプの URL など）</li>
+      <li>確認した日付と、参照した公式ページの URL</li>
+    </ul>
+
+    <p>
+      掲載基準の詳細は <a href="/policy/criteria/">掲載基準・更新方針</a> を参照してください。
+    </p>
+  </div>
+
+  <p style="margin-top: 2rem;">
+    <a href="/">← トップへ</a>
+  </p>
+</BaseLayout>

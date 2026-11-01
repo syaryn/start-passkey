@@ -1,0 +1,12 @@
+{
+  "name": "Creema",
+  "reading": "くりーま",
+  "domain": "creema.jp",
+  "url": "https://www.creema.jp/",
+  "categories": ["marketplace"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.creema.jp/user/registration/input",
+  "notes": "ログインはメールアドレス＋パスワードが基本で、Facebook・au ID・Apple IDによる連携ログインもあるが、Creema自体の二段階認証・認証アプリ・パスキーの設定案内は公式ヘルプになし。au ID側で求められる認証は外部ID側の仕組み。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

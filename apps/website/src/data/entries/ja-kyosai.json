@@ -1,0 +1,16 @@
+{
+  "name": "JA共済（Webマイページ）",
+  "reading": "じぇいえーきょうさい",
+  "domain": "ja-kyosai.or.jp",
+  "url": "https://www.ja-kyosai.or.jp/",
+  "categories": ["insurance"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.ja-kyosai.or.jp/faq/ja-kyosaiid/",
+  "notes": "JA共済ID規約上、「生体認証等機能」はJA共済ID＋ログインパスワードに代わってログインに使える方式で、生体認証情報は認証基盤側のアカウント管理画面で追加・削除できる。公式は「パスキー」とは称しておらずFIDO/WebAuthnの明記も公式資料では確認できなかったが、パスワードに代わってログインに使える端末束縛型の生体認証であるため、構造からパスキーと判定する方針で確定（2026-11-01決定）。通常ログインはJA共済ID（メールアドレス）＋パスワード。SMS認証（多要素認証）は氏名・住所・口座変更等の手続き専用でログインには使えないため数えていない",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.ja-kyosai.or.jp/faq/ja-kyosaiid/",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

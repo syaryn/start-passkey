@@ -1,0 +1,37 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { pageTitle } from "../../data/site.ts";
+---
+
+<BaseLayout
+  title={pageTitle("このサイトについて")}
+  description="非公式の参照一覧であること、運営、解説ページへの案内。"
+>
+  <h1 class="dads-std-28b-150" style="margin: 0 0 1.5rem;">このサイトについて</h1>
+
+  <section class="dads-prose">
+    <h2>目的</h2>
+    <p>
+      ID とパスワードだけでログインしているアカウントを、各サービスが提供しているより安全な設定へ切り替える手助けを目的とした、非公式の参照一覧です。
+    </p>
+
+    <h2>解説はガイドへ</h2>
+    <p>
+      パスキーや二段階認証の説明、「いま切り替えるなら」の読み方、一覧の使い方は
+      <a href="/guide/">ガイド</a> にまとめています。各サービスにはカテゴリ表から詳細ページがあり、委譲名は検索からも辿れます。はじめての方は
+      <a href="/guide/how-to-use/">このサイトの使い方</a> と
+      <a href="/guide/priority/">どれから設定するか</a> からどうぞ。
+    </p>
+
+    <h2>運営</h2>
+    <p>
+      掲載データは管理者が独自に調査・更新しています。各サービスの運営会社・団体とは関係ありません。掲載の考え方は
+      <a href="/policy/criteria/">掲載基準・更新方針</a>、免責は
+      <a href="/policy/disclaimer/">免責・プライバシー</a> を参照してください。
+    </p>
+  </section>
+
+  <p style="margin-top: 2rem;">
+    <a href="/">← トップへ</a>
+  </p>
+</BaseLayout>

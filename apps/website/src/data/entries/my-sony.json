@@ -1,0 +1,16 @@
+{
+  "name": "My Sony（ソニーアカウント）",
+  "reading": "まいそにー",
+  "domain": "sony.jp",
+  "url": "https://www.sony.jp/msc/",
+  "categories": ["electronics", "entertainment"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.sony.jp/msc/info/20240222/",
+  "notes": "ソニーグループ共通ID。パスキーでのサインインを設定でき、その場合はパスワードと2段階認証が無効になる（一部のサービス・アプリはパスキー未対応）。パスキー未設定時は、SMSまたは認証アプリによる2段階認証を設定できる",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.sony.co.jp/en/united/acm_account/supports/ja_jp/basic407.html",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

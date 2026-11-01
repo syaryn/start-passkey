@@ -1,0 +1,12 @@
+{
+  "name": "ECナビ",
+  "reading": "いーしーなび",
+  "domain": "ecnavi.jp",
+  "url": "https://ecnavi.jp/",
+  "categories": ["points"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://ecnavi.jp/login/",
+  "notes": "ログインはメールアドレス＋パスワード＋クリック式のセキュリティ認証のみで、ログイン時に使える追加認証の設定はない。別途「本人認証」（メール認証コードと電話番号登録、電話番号確認はSMSまたは電話音声の6桁コード）があるが、これは個人情報ページの閲覧時やポイント交換時に必要になるログイン後の認証であり、ログイン自体には使えないため本ディレクトリの基準では数えない（公式ヘルプ「本人認証とは」）。パスキー・認証アプリ（TOTP）の案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

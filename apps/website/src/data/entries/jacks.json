@@ -1,0 +1,11 @@
+{
+  "name": "ジャックス（インターコムクラブ）",
+  "reading": "じゃっくす",
+  "domain": "jaccs.co.jp",
+  "categories": ["payments"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.jaccs.co.jp/icmclub/faq.html",
+  "url": "https://www.jaccs.co.jp/",
+  "notes": "ログインはユーザーIDとログインパスワードのみ。ワンタイムパスワードは本人認証サービス（3Dセキュア）用、電話着信認証は新規登録・パスワード再設定時の本人確認用で、いずれもログイン時の追加認証ではない。アプリのパスコード・生体認証はID/パスワード入力を省略する機能",
+  "recommendation": "password-only"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "QVCジャパン",
+  "reading": "きゅーびーしーじゃぱん",
+  "domain": "qvc.jp",
+  "url": "https://qvc.jp/",
+  "categories": ["retail"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://qvc.jp/information/guide/membership",
+  "notes": "ログインは登録メールアドレスまたはお客様番号＋パスワード。LINEアカウント連携によるログインも可能。公式ガイドに2段階認証、認証アプリ、パスキーの設定案内はなし。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

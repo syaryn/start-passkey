@@ -1,0 +1,11 @@
+{
+  "name": "三井住友カード",
+  "reading": "みついすみともかーど",
+  "domain": "smbc-card.com",
+  "categories": ["payments"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.smbc-card.com/mem/service/sec/secure01.jsp",
+  "notes": "パスキーはなし。追加認証はネットショッピング認証サービス（EMV 3-Dセキュア）で登録メールアドレスに届く認証コード（ワンタイムパスワード）が中心で、OliveフレキシブルペイはSMS。Vpassアプリの生体認証ログインは端末内でのID・パスワード入力を省略するログイン設定で、FIDOパスキーではない。Vpass登録時は登録電話番号からの電話発信による認証も使う",
+  "recommendation": "code",
+  "documentationUrl": "https://www.smbc-card.com/mem/service/sec/secure01.jsp"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "au ID",
+  "reading": "えーゆーあいでぃー",
+  "domain": "au.com",
+  "categories": ["utilities"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.au.com/au-id/auth-two-factor/",
+  "url": "https://www.au.com/au-id/guide/",
+  "notes": "2段階認証はSMS（Cメール）のワンタイムURL、またはSMS/Eメールで届く6桁の確認コードのみ。パスキーおよび認証アプリ（TOTP）の設定は公式情報で確認できなかった。",
+  "recommendation": "code",
+  "documentationUrl": "https://www.au.com/au-id/auth-two-factor/",
+  "delegatedServices": [
+    {
+      "name": "UQ mobile",
+      "reading": "ゆーきゅーもばいる",
+      "sourceUrl": "https://www.uqwimax.jp/mobile/support/faq/pages/pg00002881.html",
+      "sourceNote": "公式FAQ「My UQ mobileにログインする際はau IDをつかいます」と明記"
+    },
+    {
+      "name": "ブックパス",
+      "reading": "ぶっくぱす",
+      "sourceUrl": "https://bookpass.auone.jp/help/faq",
+      "sourceNote": "公式FAQで利用にはau IDが必要・購入書籍は同じau IDでログインして閲覧と案内（403のため検索インデックスで確認、利用規約にもau ID登録必須の定め）"
+    },
+    {
+      "name": "ポンタ",
+      "reading": "ぽんた",
+      "sourceUrl": "https://faq.ponta.jp/answer/64183ea4196b84c190a492a4/",
+      "sourceNote": "公式FAQ: PontaアプリはPontaWebまたはau IDでログインできると案内"
+    }
+  ]
+}

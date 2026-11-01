@@ -1,0 +1,11 @@
+{
+  "name": "J-PlatPat",
+  "reading": "じぇーぷらっとぱっと",
+  "domain": "j-platpat.inpit.go.jp",
+  "categories": ["government"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.inpit.go.jp/content/100888003.pdf",
+  "url": "https://www.j-platpat.inpit.go.jp/",
+  "notes": "特許等の検索・閲覧自体はログイン不要。CSV出力など利用登録が必要な機能のログインはユーザIDとパスワードのみで、ログイン時に使える追加認証（コード・認証アプリ・パスキー）は設定できない。",
+  "recommendation": "password-only"
+}

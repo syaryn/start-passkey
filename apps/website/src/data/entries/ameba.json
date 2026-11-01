@@ -1,0 +1,20 @@
+{
+  "name": "Ameba",
+  "reading": "あめーば",
+  "domain": "ameba.jp",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://app.helps.ameba.jp/apphelp/account/twostep/2.html",
+  "url": "https://www.ameba.jp/",
+  "notes": "2段階認証は任意設定。アメーバID/メールアドレス＋パスワードに加え、あらかじめ設定したメールアドレス宛に送られる6桁認証コードを入力する方式のみ（登録メールアドレスとは別のアドレスが必要）。認証アプリ・パスキーの案内は公式ヘルプになし",
+  "recommendation": "code",
+  "documentationUrl": "https://app.helps.ameba.jp/apphelp/account/twostep/2.html",
+  "delegatedServices": [
+    {
+      "name": "Amebaマンガ",
+      "reading": "あめーばまんが",
+      "sourceUrl": "https://ameba-manga.zendesk.com/hc/ja/articles/900004335886-%E7%99%BB%E9%8C%B2%E6%96%B9%E6%B3%95",
+      "sourceNote": "公式ヘルプ「Ameba会員の方は『アメーバIDでログイン』ボタンを押してください」"
+    }
+  ]
+}

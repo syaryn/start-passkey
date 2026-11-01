@@ -1,0 +1,16 @@
+{
+  "name": "野村證券",
+  "reading": "のむらしょうけん",
+  "domain": "nomura.co.jp",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.nomura.co.jp/onlineservice/help/common/auth_passkey.html",
+  "url": "https://www.nomura.co.jp/",
+  "notes": "範囲が分かれる。オンラインサービスの「取引メニュー」（取引・出金・手続きすべて）を使うにはパスキーでのログインが必須（2026年6月27日以降）。残高照会等の「照会メニュー」は口座番号／ログインID＋パスワードでもログイン可。さらに取引・出金等の操作時には「追加認証」としてもパスキーを利用する（取引メニューでログインした場合は追加認証は省略）。登録はNOMURAアプリが基本で、オンラインサービスからも可。FIDO2対応セキュリティキーにも保存可（1口座につき5つまで）。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.nomura.co.jp/support/procedure/online/passkey/",
+  "passkey": {
+    "passwordless": "required",
+    "mfa": "allowed"
+  }
+}

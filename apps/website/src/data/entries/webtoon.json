@@ -1,0 +1,12 @@
+{
+  "name": "WEBTOON",
+  "reading": "うぇぶとぅーん",
+  "domain": "webtoons.com",
+  "url": "https://www.webtoons.com/",
+  "categories": ["hobby"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "http://help2.line.me/LINE_WEBTOON/android/categoryId/20006003/3/pc?lang=en",
+  "notes": "WEBTOON独自のメールアドレス＋パスワードのアカウントがあり、Google・Facebook・Twitter（X）・LINE・Appleのソーシャルログインも選択肢として併存する（LINEは連携先の一つであり、Naver/LINE基盤への完全委譲ではない。ヘルプセンター自体はLINEのヘルプ基盤上で提供）。公式ヘルプのアカウント/ログイン項目に、ログイン時の2要素認証・コード認証・パスキーの設定案内はない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

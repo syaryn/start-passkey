@@ -1,0 +1,12 @@
+{
+  "name": "CAPCOM ID",
+  "reading": "かぷこんあいでぃー",
+  "domain": "cid.capcom.com",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://cid.capcom.com/ja/support/",
+  "url": "https://cid.capcom.com/ja/",
+  "notes": "二要素認証は認証アプリ方式（Google Authenticator / Microsoft Authenticator）で、マイページから設定する。設定時にリカバリーコードが発行される。パスキーの公式案内はなし",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://cid.capcom.com/ja/support/"
+}

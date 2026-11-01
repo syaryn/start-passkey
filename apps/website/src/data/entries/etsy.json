@@ -1,0 +1,13 @@
+{
+  "name": "Etsy",
+  "reading": "えっつぃー",
+  "domain": "etsy.com",
+  "url": "https://www.etsy.com/",
+  "categories": ["marketplace"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.etsy.com/hc/en-us/articles/115015569567-How-to-Make-Your-Account-More-Secure?segment=shopping",
+  "notes": "2要素認証で認証アプリ（TOTP、QRコードで登録）のほかSMS・電話音声も選択可。設定時にバックアップコードが発行される。新規ショップ開設時は2要素認証が必須、買い手・既存出品者は任意。日本もSMS/電話の対象国に含まれる。パスキーの案内は公式ヘルプになし",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://help.etsy.com/hc/en-us/articles/115015569567-How-to-Make-Your-Account-More-Secure?segment=shopping"
+}

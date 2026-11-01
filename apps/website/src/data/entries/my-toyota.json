@@ -1,0 +1,23 @@
+{
+  "name": "TOYOTAアカウント",
+  "reading": "とよたあかうんと",
+  "domain": "toyota.jp",
+  "url": "https://toyota.jp/",
+  "categories": ["automotive"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://toyota.jp/faq/show/6133.html",
+  "notes": "My TOYOTA等の基盤アカウント。2024年10月8日からパスキー（公式表記は「生体認証（パスキー）」）に対応し、パスワードの代わりに端末の生体認証でログインできる（PCでは登録済みスマホによるクロスデバイス認証）。別途、SMS・音声通話・バックアップコードによる2段階認証もあるが、パスキーを多要素認証として使う方式ではない",
+  "delegatedServices": [
+    {
+      "name": "トヨタレンタカー",
+      "reading": "とよたれんたかー",
+      "sourceUrl": "https://rent.toyota.co.jp/login/",
+      "sourceNote": "公式ログイン画面「2025年1月より、トヨタレンタカーはTOYOTAアカウントにてご利用いただけるようになりました」"
+    }
+  ],
+  "recommendation": "passkey",
+  "documentationUrl": "https://toyota.jp/faq/show/6133.html",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

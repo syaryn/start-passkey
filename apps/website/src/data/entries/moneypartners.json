@@ -1,0 +1,11 @@
+{
+  "name": "マネーパートナーズ",
+  "reading": "まねーぱーとなーず",
+  "domain": "moneypartners.co.jp",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.moneypartners.co.jp/support/faq/login/index.html?anchor=a1216988",
+  "url": "https://www.moneypartners.co.jp/",
+  "notes": "ログインは口座番号＋パスワードのみ（ログイン通知メールは通知のみ）で、ログイン時に使える追加認証の設定はない。出金依頼や登録情報の照会・変更など会員サイト内の一部メニューでは登録メールアドレス（メールアドレス1）宛の認証コードによる認証が必須だが、これはログイン後の機微操作時の認証でログイン自体には使えないため、本ディレクトリの基準では数えない。認証アプリ・パスキーの案内は公式情報になし",
+  "recommendation": "password-only"
+}

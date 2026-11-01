@@ -1,0 +1,11 @@
+{
+  "name": "福岡銀行",
+  "reading": "ふくおかぎんこう",
+  "domain": "fukuokabank.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.fukuokabank.co.jp/personal/service/directbanking/security/onetime/",
+  "url": "https://www.fukuokabank.co.jp/",
+  "notes": "ふくぎんインターネットバンキングのログインはログインID・ログインパスワードのみ。福岡銀行アプリまたはワンタイムパスワード生成機（トークン）のワンタイムパスワードは、振込やネット決済等のお取引を行う際に追加入力する取引時専用で、ログイン自体には使えないため数えない。アプリの「かんたんログイン」は端末の生体認証による資格情報の呼び出し式でパスキーではない",
+  "recommendation": "password-only"
+}

@@ -1,0 +1,68 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import CategoryGroupNav from "../../components/CategoryGroupNav.astro";
+import { listCategoryGroupsForDisplay } from "../../data/category-groups.ts";
+import { countEntriesByCategory } from "../../data/display.ts";
+import {
+  GUIDE_LINKS,
+  POLICY_LINKS,
+  SITE_LAST_UPDATED,
+  UTILITY_LINKS,
+} from "../../data/navigation.ts";
+
+const collection = await getCollection("entries");
+const categoryGroups = listCategoryGroupsForDisplay(
+  countEntriesByCategory(collection.map((item) => item.data)),
+);
+---
+
+<BaseLayout
+  title="サイトマップ｜そしてパスキーへ"
+  description="トップ、カテゴリ、ガイド、ポリシーなど全ページへのリンク一覧。"
+>
+  <h1 class="dads-std-28b-150" style="margin: 0 0 0.5rem;">サイトマップ</h1>
+  <p class="dads-std-14n-170 dads-text-secondary" style="margin: 0 0 2rem;">
+    最終更新: {SITE_LAST_UPDATED}
+  </p>
+
+  <section class="dads-section">
+    <h2 class="dads-std-20b-150" style="margin: 0 0 0.75rem;">主要ページ</h2>
+    <ul class="dads-page-list">
+      <li><a href="/">トップ（検索・カテゴリ）</a></li>
+      <li><a href="/about/">このサイトについて</a></li>
+      <li><a href="/guide/">ガイド一覧</a></li>
+    </ul>
+  </section>
+
+  <section class="dads-section">
+    <h2 class="dads-std-20b-150" style="margin: 0 0 0.75rem;">ガイド</h2>
+    <ul class="dads-page-list">
+      {
+        GUIDE_LINKS.map((link) => (
+          <li>
+            <a href={link.href}>{link.label}</a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+
+  <section class="dads-section">
+    <h2 class="dads-std-20b-150" style="margin: 0 0 0.75rem;">カテゴリ別一覧</h2>
+    <CategoryGroupNav groups={categoryGroups} showCounts={false} variant="list" />
+  </section>
+
+  <section class="dads-section">
+    <h2 class="dads-std-20b-150" style="margin: 0 0 0.75rem;">ポリシー・その他</h2>
+    <ul class="dads-page-list">
+      {
+        [...POLICY_LINKS, ...UTILITY_LINKS].map((link) => (
+          <li>
+            <a href={link.href}>{link.label}</a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</BaseLayout>

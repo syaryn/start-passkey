@@ -1,0 +1,38 @@
+# このサイトの使い方
+direction: right
+
+title: "このサイトでの設定変更の流れ" {
+  near: top-center
+  style.font-size: 20
+}
+
+current: "ID・パスワード\nだけでログイン" {
+  style.fill: "#fee2e2"
+  style.stroke: "#dc2626"
+}
+
+home: "トップページ" {
+  stats: "掲載状況\n（区分別集計）"
+  search: "検索\n名前・よみ・ドメイン\n委譲名→基盤の詳細"
+  categories: "カテゴリから\n探す"
+}
+
+listing: "掲載の確認" {
+  table: "カテゴリの表\n（いま切り替えるなら\n公式ヘルプ・備考アイコン）"
+  detail: "詳細ページ\n（表の名称から）"
+}
+
+official: "各サービスの\n公式画面で設定" {
+  style.fill: "#d1fae5"
+  style.stroke: "#059669"
+}
+
+current -> home: "サービスを特定"
+home.search -> listing.detail
+home.categories -> listing.table
+listing.table -> listing.detail: "名称"
+listing.table -> official: "公式ヘルプ\n（設定手順）"
+listing.detail -> official: "最新手順を\n確認して変更"
+listing.table -> official: "確認したページ\n（根拠）" {
+  style.stroke-dash: 3
+}

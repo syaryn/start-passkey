@@ -1,0 +1,12 @@
+{
+  "name": "マルイウェブチャネル",
+  "reading": "まるいうぇぶちゃねる",
+  "domain": "voi.0101.co.jp",
+  "url": "https://voi.0101.co.jp/",
+  "categories": ["department"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://voi.0101.co.jp/voi/content/01/sp/guide/account/login.html",
+  "notes": "ログイン方法は公式ガイドで、マルイウェブチャネルID（メールアドレスまたは任意ID）＋パスワード、エポスNet ID＋パスワード（エポスカード会員）、ソーシャルアカウント連携（LINE・Yahoo!・Apple）のみと案内されている。エポスのワンタイムパスワードはカード決済時の本人認証サービス（3Dセキュア）用で、ストアのログイン認証とは別。パスキー・認証アプリ・ログイン時のコード認証の設定は公式情報で確認できなかった。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

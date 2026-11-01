@@ -1,0 +1,15 @@
+{
+  "name": "百五銀行",
+  "reading": "ひゃくごぎんこう",
+  "domain": "hyakugo.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.hyakugo.co.jp/benri/hyakugo-id/",
+  "url": "https://www.hyakugo.co.jp/",
+  "notes": "共通認証基盤「百五ID」（2026年9月導入）でスマホバンキング/ダイレクトバンキングにログイン。公式に「パスキー認証（FIDO2準拠）」と明記され、パスワード不要でログイン可能（クロスデバイス認証にも対応）。パスキーはパスワード代替でありMFA併用方式ではないため mfa は unsupported。パスキーを使わない場合はパスワードログインも可。振込時のメール通知パスワードは取引専用で数えていない。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.hyakugo.co.jp/benri/hyakugo-id/",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "X",
+  "reading": "えっくす",
+  "domain": "x.com",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.x.com/en/managing-your-account/how-to-use-passkey",
+  "url": "https://x.com/",
+  "notes": "パスキーはパスワードの代替としてiOS・Androidで利用可能（任意設定、必須ではない）。二要素認証は別途あり、認証アプリ・セキュリティキー・テキストメッセージ（SMS方式はPremium限定等、条件あり）から設定できるが、パスキー自体は2FAの方法としては案内されていない",
+  "recommendation": "passkey",
+  "documentationUrl": "https://help.x.com/en/managing-your-account/how-to-use-passkey",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

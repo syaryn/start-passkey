@@ -1,0 +1,16 @@
+{
+  "name": "Canva",
+  "reading": "かんば",
+  "domain": "canva.com",
+  "url": "https://www.canva.com/",
+  "categories": ["design"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.canva.com/help/passkey-log-in/",
+  "notes": "公式ヘルプ「Log in faster and more securely with a Passkey」で、端末ごとにパスキーを作成し指紋・顔認証・画面ロックでパスワードレスにログインできる。パスキーはログイン代替手段であり、多要素認証としての利用は案内されていない。なお認証アプリによるMFAは別途設定可能。",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.canva.com/help/passkey-log-in/",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

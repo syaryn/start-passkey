@@ -1,0 +1,13 @@
+{
+  "name": "三越伊勢丹オンラインストア",
+  "reading": "みつこしいせたんおんらいんすとあ",
+  "domain": "mistore.jp",
+  "url": "https://www.mistore.jp/shopping/",
+  "categories": ["department"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.mistore.jp/shopping/help/guide/login_h.html",
+  "notes": "ログインはログインID（メールアドレス）＋パスワードに加え、登録メールアドレスに送信される6桁の認証コード（ワンタイムパスワード）による本人確認が実施される（メールアドレス変更・パスワード再設定時も同様）。認証アプリ（TOTP）・パスキーの案内は公式情報になし。三越伊勢丹WEB会員IDはグループの各オンラインストア共通。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://www.mistore.jp/shopping/help/guide/login_h.html"
+}

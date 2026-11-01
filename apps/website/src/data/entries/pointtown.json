@@ -1,0 +1,16 @@
+{
+  "name": "ポイントタウン",
+  "reading": "ぽいんとたうん",
+  "domain": "pointtown.com",
+  "url": "https://www.pointtown.com/",
+  "categories": ["points"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://id.gmo.jp/gui/webauthn/index",
+  "notes": "アカウントはGMO ID（共通ID）。GMO IDの公式セキュリティ設定ガイド（WebAuthn）で案内される「生体認証」により、スマートフォンでは端末の生体認証（指紋・顔）または画面ロック（PIN・パターン）でパスワード入力なしにログインできる。生体認証はスマートフォンのみ対応で、設定もスマートフォンからのみ可能。ほかに2段階認証も設定可能で、確認コードの通知はメールまたは認証アプリ（TOTP）から選べ、頻度は「毎回」または「信頼できるデバイス以外からのログイン時」。両方有効な場合は生体認証が優先される",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://id.gmo.jp/gui/webauthn/index",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

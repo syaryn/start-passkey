@@ -1,0 +1,17 @@
+{
+  "name": "Vercel",
+  "reading": "ばーせる",
+  "domain": "vercel.com",
+  "url": "https://vercel.com/",
+  "categories": ["developer"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://vercel.com/changelog/mfa-is-now-available",
+  "notes": "公式ドキュメント/変更履歴で確認。Vercelはパスワード自体を持たず、メールOTP・Gitプロバイダ・パスキーでログインする。パスキーは単独のパスワードレスログインとして使えるほか、2FA有効時にはTOTP認証アプリと並んで第2要素としても利用でき、公式は「パスキーログインは本質的に2要素」と説明している。チーム単位の2FA強制も可能。",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://vercel.com/docs/two-factor-authentication",
+  "passkey": {
+    "passwordless": "allowed",
+    "mfa": "allowed"
+  }
+}

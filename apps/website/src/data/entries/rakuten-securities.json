@@ -1,0 +1,15 @@
+{
+  "name": "楽天証券",
+  "reading": "らくてんしょうけん",
+  "domain": "rakuten-sec.co.jp",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.rakuten-sec.co.jp/web/security/",
+  "url": "https://www.rakuten-sec.co.jp/",
+  "notes": "パスキー認証（FIDO2）。2026年6月以降順次、ログイン時のパスキー認証を必須化。パスキーを作成すると以降のログインはすべてパスキーに切り替わり、ログインID・パスワードでのログインは不可になる。パスキーが利用できない場合はログインID・パスワード＋ログイン追加認証（メールで届く絵文字認証コードの選択）が必須。楽天IDのパスキーとは別物で楽天証券には適用されない",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.rakuten-sec.co.jp/web/security/passkey/guide/",
+  "passkey": {
+    "passwordless": "required"
+  }
+}

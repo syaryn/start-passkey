@@ -1,0 +1,11 @@
+{
+  "name": "コープデリeフレンズ",
+  "reading": "こーぷでりいーふれんず",
+  "domain": "coopdeli.jp",
+  "categories": ["food"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.coopdeli.jp/utilities/help/E-NB/",
+  "notes": "ログインは組合員コード（10桁）とパスワードのみ。二段階認証・認証アプリ・パスキーの設定は公式ヘルプに見当たらない。ほぺたんアプリへのログインは組合員コード・氏名（カタカナ）・登録電話番号の入力による。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Flightradar24",
+  "reading": "ふらいとれーだーにーよん",
+  "domain": "flightradar24.com",
+  "url": "https://www.flightradar24.com/",
+  "categories": ["transport"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://my.flightradar24.com/about/faq",
+  "notes": "公式FAQではアカウントへのアクセスはメールアドレス＋パスワードのみと案内されており、二要素認証・認証アプリ・パスキーの設定案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

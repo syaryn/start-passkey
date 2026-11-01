@@ -1,0 +1,12 @@
+{
+  "name": "ヨドバシ・ドット・コム",
+  "reading": "よどばしどっとこむ",
+  "domain": "yodobashi.com",
+  "url": "https://www.yodobashi.com/",
+  "categories": ["electronics"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.yodobashi.com/ec/support/member/function/login/index.html",
+  "notes": "ログインは会員ID＋パスワードのみで、公式ヘルプにパスキー・二要素認証・認証アプリの設定案内はない。クレジットカード決済時のEMV 3-Dセキュアはカード会社側の認証であり、アカウントの二要素認証ではない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

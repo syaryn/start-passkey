@@ -1,0 +1,13 @@
+{
+  "name": "Lyft",
+  "reading": "りふと",
+  "domain": "lyft.com",
+  "url": "https://www.lyft.com/",
+  "categories": ["mobility"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.lyft.com/hc/en-us/all/articles/360046880073-Using-VoiceOver-in-iOS-to-create-an-account-or-log-back-in",
+  "notes": "パスワード自体が存在しない設計で、電話番号の入力後にSMSで送られる認証コードを入力する方式がログインの基本資格情報そのもの（音声電話でのコード受け取りも可）。認証アプリ・パスキーの設定案内は公式ヘルプにない。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://help.lyft.com/hc/en-us/all/articles/360046880073-Using-VoiceOver-in-iOS-to-create-an-account-or-log-back-in"
+}

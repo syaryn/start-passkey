@@ -1,0 +1,12 @@
+{
+  "name": "ANAマイレージクラブ",
+  "reading": "えーえぬえーまいれーじくらぶ",
+  "domain": "ana.co.jp",
+  "categories": ["aviation"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.ana.co.jp/ja/id/offers-and-announcements/announcements/amc-two-steps-verification/",
+  "notes": "ログインはお客様番号+Webパスワード。個人情報の取り扱いや一部サービスの利用時に、登録メールアドレス宛に届くワンタイムパスワード（絵文字・数字の選択式）による2段階認証が必要。2025年3月25日からは、登録済みの携帯電話番号へのSMS再送も可能。ANAマイレージクラブアプリも2025年9月25日から同じワンタイムパスワード方式を導入。公式情報ではパスキーや認証アプリ（TOTP）の設定は確認できなかった。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://www.ana.co.jp/ja/id/offers-and-announcements/announcements/amc-two-steps-verification/"
+}

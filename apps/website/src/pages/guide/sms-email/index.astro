@@ -1,0 +1,33 @@
+---
+import GuideShell from "../../../components/GuideShell.astro";
+import { SITE_LAST_UPDATED } from "../../../data/navigation.ts";
+---
+
+<GuideShell
+  title="SMS・メールコードの注意｜そしてパスキーへ"
+  description="一覧で「SMS・メール」としている理由と、パスキー・認証アプリとの違い、利用時の注意点。"
+  h1="SMS・メールコードの注意"
+  lastUpdated={SITE_LAST_UPDATED}
+>
+  <p>
+    SMS やメールで届くワンタイムコードは、パスワードだけよりは安全です。一覧では、それより強い方式が確認できない場合に「SMS・メール」を主列に載せます。
+  </p>
+
+  <h2>弱点になりうる点</h2>
+  <ul>
+    <li>SIM 乗っ取り（番号移行）により SMS が傍受される事例がある</li>
+    <li>メールアカウントが乗っ取られると、メールコードも読まれる</li>
+    <li>フィッシングサイトにコード自体を入力させられるリスクがある</li>
+  </ul>
+
+  <h2>それでも使う意味</h2>
+  <p>
+    パスキーや認証アプリが無いサービスでは、SMS・メールが現実的な選択肢になることがあります。その場合も、パスワードのみのままよりはリスクを下げられます。可能になった段階で、より強い方式へ移行することを検討してください。
+  </p>
+
+  <p>
+    関連: <a href="/guide/priority/">どれから設定するか</a>、
+    <a href="/guide/authenticator/">認証アプリで強化する</a>、
+    <a href="/faq/">よくある質問</a>
+  </p>
+</GuideShell>

@@ -1,0 +1,12 @@
+{
+  "name": "IIJmio",
+  "reading": "あいあいじぇいみお",
+  "domain": "iijmio.jp",
+  "categories": ["utilities"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.iijmio.jp/info/iij/1779416489.html",
+  "url": "https://www.iijmio.jp/",
+  "notes": "会員専用ページのログインで、mioID（または登録メールアドレス）＋mioパスワードに加え、登録メールアドレス宛に届く認証コードによる二段階認証が設定可能（2026年6月導入。新規作成のmioIDは初期設定で有効、既存mioIDは任意設定）。認証を省略する端末の登録も可。認証アプリ・パスキーの案内なし",
+  "recommendation": "code",
+  "documentationUrl": "https://help.iijmio.jp/answer/6a1ced1b013e2d29b68e5141/"
+}

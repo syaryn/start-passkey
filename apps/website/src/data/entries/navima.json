@@ -1,0 +1,11 @@
+{
+  "name": "navima（ナビマ）",
+  "reading": "なびま",
+  "domain": "navima.jp",
+  "categories": ["travel"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://navi.navima.jp/faq/faq-53/",
+  "notes": "ログインは学校ごとに異なるURLでID＋パスワード（児童生徒・教職員で画面が異なる）。公式FAQに二段階認証・認証アプリ・パスキーの案内なし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

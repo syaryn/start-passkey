@@ -1,0 +1,13 @@
+{
+  "name": "Evernote",
+  "reading": "えばーのーと",
+  "domain": "evernote.com",
+  "url": "https://evernote.com/",
+  "categories": ["storage"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.evernote.com/hc/en-us/articles/208314238-Set-up-two-step-verification/",
+  "notes": "2段階確認ではログイン時に認証アプリ（TOTP）のコード入力が必要。SMSコードは2023年8月に廃止済み。パスキーの公式案内はない。",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://help.evernote.com/hc/en-us/articles/208314238-Set-up-two-step-verification/"
+}

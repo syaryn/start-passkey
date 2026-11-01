@@ -1,0 +1,12 @@
+{
+  "name": "タワーレコード オンライン",
+  "reading": "たわーれこーどおんらいん",
+  "domain": "tower.jp",
+  "categories": ["hobby"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://tower.jp/site/online/ninshou",
+  "notes": "電話番号認証（登録した電話番号から指定番号へ発信して本人確認）の登録が2026年5月28日から必須。任意で2要素認証を有効にすると、ログイン時（前回ログインから30日以上経過時）や会員情報・決済情報の変更時に電話番号認証が必要になる。コード入力式ではなく発信式。認証アプリ・パスキーはない。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://tower.jp/site/online/ninshou"
+}

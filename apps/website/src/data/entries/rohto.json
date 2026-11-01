@@ -1,0 +1,19 @@
+{
+  "name": "ロート製薬オンライン",
+  "reading": "ろーとせいやくおんらいん",
+  "domain": "shop.rohto.co.jp",
+  "url": "https://www.shop.rohto.co.jp/",
+  "categories": ["beauty"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.shop.rohto.co.jp/guide/guide-top.html",
+  "notes": "ログインはロートID（メールアドレス）とパスワードのみ。2025年4月にココロートパークとログインシステムが統合され、共通のロートIDで両サービスにログインできる。公式ガイドに二段階認証・認証アプリ・パスキーの案内はない",
+  "delegatedServices": [
+    {
+      "name": "ココロートパーク",
+      "reading": "こころーとぱーく",
+      "sourceUrl": "https://coco.rohto.com/faq/",
+      "sourceNote": "公式FAQ「ロートIDは『ココロートパーク』と『ロート製薬オンラインショップ』で共通にご利用いただける会員IDです」"
+    }
+  ],
+  "recommendation": "password-only"
+}

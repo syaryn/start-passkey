@@ -1,0 +1,19 @@
+{
+  "name": "GEO ID",
+  "reading": "げおあいでぃー",
+  "domain": "geo-online.co.jp",
+  "url": "https://geo-online.co.jp/",
+  "categories": ["hobby"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://geo-online.co.jp/faq/online/index.html?cid=290",
+  "notes": "セカンドリテイリンググループ（ゲオグループ）の共通会員IDで、ゲオオンライン・ゲオアプリ・セカンドストリート（アプリ/オンラインサービス）・ゲオあれこれレンタル等のログイン基盤。ログインはGEO ID（メールアドレス、または登録したログイン用携帯電話番号）とパスワードのみで、パスキー・認証アプリ・ログイン時の二段階認証は公式情報にない。メール/SMSの認証番号は新規登録時のアドレス確認、ログイン用携帯電話番号の登録時、電話番号がGEO IDの場合のパスワード再発行時に使われる手続き用であり、ログイン自体の追加認証ではないため数えていない",
+  "delegatedServices": [
+    {
+      "name": "セカンドストリート",
+      "reading": "せかんどすとりーと",
+      "sourceUrl": "https://www.2ndstreet.jp/guide/members",
+      "sourceNote": "セカンドストリート公式ガイド「オンラインサービスはGEO IDを利用しています。GEO IDはゲオグループのオンラインサービスを共通でご利用頂ける共通IDです」"
+    }
+  ],
+  "recommendation": "password-only"
+}

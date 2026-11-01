@@ -1,0 +1,16 @@
+{
+  "name": "HIS",
+  "reading": "えいちあいえす",
+  "domain": "his-j.com",
+  "url": "https://www.his-j.com/",
+  "categories": ["travel"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq.his-j.com/faqs/2041/",
+  "notes": "2025年10月に移行した新アカウント（account.his-j.com、国内旅行会員向け）では、公式FAQに「パスワード（もしくはパスキー）」でログインできると明記され、パスワード代替のパスキーが利用可能。パスキーを多要素認証として使う案内は確認できない。海外旅行会員向けの旧マイページ（member.his-j.com）はメールアドレス＋パスワードのみ",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://faq.his-j.com/faqs/2041/",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

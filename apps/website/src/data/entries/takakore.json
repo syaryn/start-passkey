@@ -1,0 +1,12 @@
+{
+  "name": "タカコレ",
+  "reading": "たかこれ",
+  "domain": "cc.takacolle.softbankhawks.co.jp",
+  "url": "https://cc.takacolle.softbankhawks.co.jp/",
+  "categories": ["hobby"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://ticket.softbankhawks.co.jp/login/",
+  "notes": "福岡ソフトバンクホークスの公式カードコレクションサービス。利用にはクラブホークス会員（有料）またはタカポイント会員（無料）のホークス会員アカウントが必要で、ログインは10桁の会員番号またはメールアドレス＋パスワードのみ（ホークス公式チケットサイト等と共通の会員基盤）。SMS/メールコード・認証アプリ・パスキーの設定は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

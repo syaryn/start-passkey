@@ -1,0 +1,15 @@
+{
+  "name": "大和証券",
+  "reading": "だいわしょうけん",
+  "domain": "daiwa.jp",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.daiwa.jp/login/",
+  "url": "https://www.daiwa.jp/",
+  "notes": "オンライントレードのログイン用。2026年4月から6月にかけて段階的にパスキー認証によるログインを必須化し、必須化後はワンタイムパスワードではログインできない。利用にはD-Portアカウントの作成（メールアドレス登録）と証券口座の連携が必要。ブラウザ機能を利用する方法とD-Portアプリを使用する方法がある。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.daiwa.jp/onlinetrade/tool/d_port/passkey.html",
+  "passkey": {
+    "passwordless": "required"
+  }
+}

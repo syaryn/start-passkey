@@ -1,0 +1,16 @@
+{
+  "name": "Twitch",
+  "reading": "とぅいっち",
+  "domain": "twitch.tv",
+  "url": "https://www.twitch.tv/",
+  "categories": ["streaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.twitch.tv/s/article/twitch-account-settings?language=en_US",
+  "notes": "パスキーはパスワードの代替として追加でき、2FAと併用する位置づけ。二要素認証はSMSで電話番号確認後に認証アプリ（TOTP）を追加可能で、アフィリエイト/パートナー開始には2FAが必須",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://help.twitch.tv/s/article/twitch-account-settings?language=en_US",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

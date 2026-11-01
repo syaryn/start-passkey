@@ -1,0 +1,12 @@
+{
+  "name": "アットホーム",
+  "reading": "あっとほーむ",
+  "domain": "athome.co.jp",
+  "url": "https://www.athome.co.jp/",
+  "categories": ["lifestyle"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.athome.co.jp/smt/psl/exam/me/",
+  "notes": "消費者向けログイン（お気に入り・履歴の共有）はメールアドレス＋パスワードのみ。公式発表にある「二段階認証」は物件問合せ時の電話番号による本人確認であり、ログイン用ではない。ログイン用のパスキー・認証アプリ・コード認証の設定案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

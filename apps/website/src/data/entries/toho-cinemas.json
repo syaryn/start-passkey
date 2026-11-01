@@ -1,0 +1,12 @@
+{
+  "name": "TOHOシネマズ（TOHO-ONE）",
+  "reading": "とーほーしねまず",
+  "domain": "toho-one.com",
+  "url": "https://www.toho-one.com/",
+  "categories": ["cinema"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.tohotheater.jp/faq/show/3427?category_id=436&site_domain=default",
+  "notes": "会員制度はシネマイレージからTOHO-ONEへ移行済み。ログインは会員番号（10桁）またはメールアドレス＋パスワードのみで、二段階認証・認証アプリ・パスキーの設定は公式情報になし。Yahoo! JAPAN IDでのチケット購入も可能だが会員ログインとは別",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

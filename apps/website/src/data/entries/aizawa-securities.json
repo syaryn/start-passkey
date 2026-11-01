@@ -1,0 +1,15 @@
+{
+  "name": "アイザワ証券",
+  "reading": "あいざわしょうけん",
+  "domain": "aizawa.co.jp",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.aizawa.co.jp/service/tool/bluetrade/passkey.html",
+  "url": "https://www.aizawa.co.jp/",
+  "notes": "2026年5月18日にパスキー認証を導入。パスキー登録後は口座番号・パスワード・認証コードの入力なしでログイン可能。2026年6月29日以降は取引・出金等にパスキーでのログインが必須（未登録でもワンタイムパスワード/メール認証による閲覧のみのログインは可能）。パスキーはパスワードの代替であり、MFAとしての併用方式ではない",
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.aizawa.co.jp/service/tool/bluetrade/passkey.html",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Atlassianアカウント",
+  "reading": "あとらしいあんあかうんと",
+  "domain": "atlassian.com",
+  "categories": ["developer"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.atlassian.com/atlassian-account/docs/access-your-atlassian-account-with-a-passkey/",
+  "url": "https://www.atlassian.com/",
+  "notes": "Jira・Confluence・Bitbucket・Trello等の共通ログイン基盤。パスキーを登録するとパスワードも2段階認証もなしにサインインでき、パスキーはパスワード入力後の追加要素としては使われない。パスキーは組織に管理されていない（non-managed）アカウントでのみ有効化でき、管理対象アカウントは組織の認証ポリシーやSSOに従う。別途、認証アプリ・セキュリティキー・SMSによる2段階認証も複数登録できる",
+  "recommendation": "passkey",
+  "documentationUrl": "https://support.atlassian.com/atlassian-account/docs/access-your-atlassian-account-with-a-passkey/",
+  "passkey": {
+    "passwordless": "allowed"
+  },
+  "delegatedServices": [
+    {
+      "name": "Trello",
+      "reading": "とれろ",
+      "sourceUrl": "https://support.atlassian.com/trello/docs/troubleshooting-two-factor-authentication/",
+      "sourceNote": "Atlassian公式サポート「Nearly all Trello users will use their Atlassian account … to access Trello」"
+    }
+  ]
+}

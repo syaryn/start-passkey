@@ -1,0 +1,12 @@
+{
+  "name": "Zenn",
+  "reading": "ぜん",
+  "domain": "zenn.dev",
+  "categories": ["developer"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://info.zenn.dev/2024-09-10-email-login",
+  "url": "https://zenn.dev/",
+  "notes": "Zenn自体のパスワードは存在せず、ログイン手段はGoogleログインか、メールアドレス宛に送られる確認コードによるログインのいずれか（1アカウントで併用不可）。メールログインはコード方式のためcodeに区分",
+  "recommendation": "code",
+  "documentationUrl": "https://info.zenn.dev/2024-09-10-email-login"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "HH cross ID",
+  "reading": "えいちえいちくろすあいでぃー",
+  "domain": "hhcross.hankyu-hanshin.jp",
+  "url": "https://www.hhcross.hankyu-hanshin.jp/",
+  "categories": ["travel"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.hhcross.hankyu-hanshin.jp/about/",
+  "notes": "阪急阪神ホールディングスグループの共通ID。IDは登録したメールアドレスで、ログインはメールアドレス＋パスワードのみ。阪急電鉄PRiVACE、阪急阪神おでかけカード/アプリ、阪急阪神第一ホテルグループ、HH cross TOWNS、宝塚歌劇共通ID（同一基盤）等がこの基盤を使う。新規登録時にはメールで届く認証コードを使うが、ログイン時の二段階認証・認証アプリ・パスキーの設定案内は公式情報になし。H2Oリテイリンググループの共通ID「H2O ID」とは別基盤",
+  "delegatedServices": [
+    {
+      "name": "阪急電鉄 PRiVACE",
+      "reading": "はんきゅうでんてつぷりばーちぇ",
+      "sourceUrl": "https://privace.hankyu.co.jp/regist/index.html?language=en",
+      "sourceNote": "PRiVACE公式の会員利用規約: ログインは共通ID（HH cross IDを含む）とパスワードによる、と定義"
+    },
+    {
+      "name": "宝塚歌劇",
+      "reading": "たからづかかげき",
+      "sourceUrl": "https://www.hankyu-hotel.com/members/memberplan",
+      "sourceNote": "阪急阪神第一ホテルグループ公式: 「HH cross ID（または宝塚歌劇共通ID）」はグループ共通IDと説明（同一基盤）"
+    }
+  ],
+  "recommendation": "password-only"
+}

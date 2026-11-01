@@ -1,0 +1,49 @@
+---
+import type { CategoryGroupNav } from "../data/category-groups.ts";
+
+interface Props {
+  groups: CategoryGroupNav[];
+  showCounts?: boolean;
+  variant?: "cards" | "list";
+}
+
+const { groups, showCounts = true, variant = "cards" } = Astro.props;
+---
+
+<div class="dads-category-groups">
+  {
+    groups.map((group, groupIndex) => (
+      <section
+        class="dads-category-group"
+        aria-labelledby={`cat-group-${groupIndex}`}
+      >
+        <h3 id={`cat-group-${groupIndex}`} class="dads-category-group-heading">
+          {group.label}
+        </h3>
+        <ul class:list={[
+          variant === "cards" ? "dads-category-grid" : "dads-page-list",
+          variant === "list" ? "dads-sitemap-columns" : undefined,
+        ]}>
+          {group.items.map((item) => (
+            <li class:list={[variant === "cards" ? "dads-card" : undefined]}>
+              {
+                variant === "cards" ? (
+                  <a href={item.href} class="dads-category-link">
+                    <span class="dads-category-link-label">{item.label}</span>
+                    {showCounts ? (
+                      <span class="dads-category-link-count">
+                        {item.count.toLocaleString("ja-JP")} 件
+                      </span>
+                    ) : null}
+                  </a>
+                ) : (
+                  <a href={item.href}>{item.label}</a>
+                )
+              }
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))
+  }
+</div>

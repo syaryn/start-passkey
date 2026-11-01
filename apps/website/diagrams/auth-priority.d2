@@ -1,0 +1,46 @@
+# 一覧の「いま切り替えるなら」の強さ（上ほど推奨）
+direction: down
+
+title: "いま切り替えるなら（強い順）" {
+  near: top-center
+  style.font-size: 20
+}
+
+passkey: "1. パスキー\n（パスワードレス / 第二要素）" {
+  style.fill: "#d1fae5"
+  style.stroke: "#059669"
+}
+
+authenticator: "2. 認証アプリ\n（TOTP・公式アプリ承認）" {
+  style.fill: "#e0f2fe"
+  style.stroke: "#0284c7"
+}
+
+code: "3. SMS・メール\n（届くコード）" {
+  style.fill: "#fef3c7"
+  style.stroke: "#d97706"
+}
+
+password_only: "4. パスワードのみ\n（追加設定を確認できず）" {
+  style.fill: "#e5e5e5"
+  style.stroke: "#737373"
+}
+
+passkey -> authenticator -> code -> password_only: {
+  style.stroke-dash: 0
+}
+
+none: "5. 対象外\n（4区分に該当しない方式）" {
+  style.fill: "#ede9fe"
+  style.stroke: "#7c3aed"
+}
+
+note: "主列は確認日時点で\n利用できる最も強い設定を1つ。\n対象外は「切り替え先」ではない。" {
+  near: none
+  style.font-size: 13
+}
+
+password_only -> none: "別区分" {
+  style.stroke-dash: 4
+  style.font-size: 12
+}

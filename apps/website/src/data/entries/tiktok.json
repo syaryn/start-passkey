@@ -1,0 +1,15 @@
+{
+  "name": "TikTok",
+  "reading": "てぃっくとっく",
+  "domain": "tiktok.com",
+  "categories": ["social", "entertainment"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.tiktok.com/ja/log-in-troubleshoot/log-in/log-in-with-a-passkey",
+  "url": "https://www.tiktok.com/",
+  "notes": "パスキーはパスワードの代わりにログインする方式で、アプリの「設定とプライバシー > アカウント > パスキー」から設定する。当初はアジア等の地域でiOS向けに先行提供され、順次地域・OSを拡大してきた経緯があり、地域やアカウントにより利用できない場合がある。公式サポートの要件はAndroid 9以上、またはiOS 16以上（iCloudキーチェーンの有効化とApple IDの2ファクタ認証が必要）など。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://support.tiktok.com/ja/log-in-troubleshoot/log-in/log-in-with-a-passkey",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

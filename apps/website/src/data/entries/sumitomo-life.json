@@ -1,0 +1,13 @@
+{
+  "name": "住友生命（スミセイダイレクトサービス）",
+  "reading": "すみともせいめい",
+  "domain": "sumitomolife.co.jp",
+  "url": "https://www.sumitomolife.co.jp/",
+  "categories": ["insurance"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://sumitomolife.dga.jp/faq_detail.html?id=2339",
+  "notes": "ログインはID＋パスワードに加え、環境等により登録メールアドレス宛に送られる認証コードの入力がログイン時に求められる（メールが届かない場合は登録済み電話番号へのSMSまたは自動音声による認証に切替可能）。公式アプリ「スミセイ・デジタルコンシェルジュ」の生体認証ログインは公式にパスキー/FIDOとはされていないため数えない。一部取引では別途、特定取引用暗証番号や取引時認証コードが使われる",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://sumitomolife.dga.jp/faq_detail.html?id=2339"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "freeeアカウント",
+  "reading": "ふりーあかうんと",
+  "domain": "freee.co.jp",
+  "url": "https://www.freee.co.jp/",
+  "categories": ["backoffice"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.freee.co.jp/hc/ja/articles/360001200143-%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%94%E3%81%A8%E3%81%AB%E4%BA%8C%E8%A6%81%E7%B4%A0%E8%AA%8D%E8%A8%BC%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B",
+  "notes": "freee勤怠（freee人事労務）を含むfreee各サービスの共通ログイン基盤として作成。二要素認証は認証アプリ（Google Authenticator等）の6桁コードのみで、SMSや電話音声による認証には対応していないと公式ヘルプに明記されている。バックアップコードによるログインも可能。パスキーの案内は公式ヘルプになし",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://support.freee.co.jp/hc/ja/articles/360001200143-%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%94%E3%81%A8%E3%81%AB%E4%BA%8C%E8%A6%81%E7%B4%A0%E8%AA%8D%E8%A8%BC%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "阪急交通社",
+  "reading": "はんきゅうこうつうしゃ",
+  "domain": "hankyu-travel.com",
+  "url": "https://www.hankyu-travel.com/",
+  "categories": ["travel"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.hankyu-travel.com/member/w_login.php?link=aHR0cHM6Ly93d3cuaGFua3l1LXRyYXZlbC5jb20vbWVtYmVyL3dfbG9naW4ucGhwP2xpbms9YUhSMGNITTZMeTkzZDNjdWFHRnVhM2wxTFhSeVlYWmxiQzVqYjIwdmRHOTFjaTlrWlhSaGFXeGZaQzV3YUhBL2NGOW9aV2s5TXpBbWNGOWpiM1Z5YzJWZmFXUTlVVFUwTVZJMU9RPT0=",
+  "notes": "マイページへのログインは登録メールアドレス＋パスワード（LINE ID連携ログインも可）。パスキー・二段階認証・認証アプリの設定は公式情報に見当たらない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

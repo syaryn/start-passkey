@@ -1,0 +1,12 @@
+{
+  "name": "PeX",
+  "reading": "ぺっくす",
+  "domain": "pex.jp",
+  "url": "https://pex.jp/",
+  "categories": ["payments"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://pex.jp/faqs/397",
+  "notes": "ログインはメールアドレス＋パスワードのみで、ログイン時に使える追加認証の設定はない。別途「電話番号認証」（設定はメール認証コード6桁の確認と認証用電話番号の登録、電話番号確認はSMSまたは電話音声の6桁コード）があるが、公式ヘルプ上もポイント交換等の一部機能の利用時に必要となる本人確認であり、ログイン自体には使えないため本ディレクトリの基準では数えない。パスキー・認証アプリ（TOTP）の案内は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

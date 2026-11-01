@@ -1,0 +1,11 @@
+{
+  "name": "日本学生支援機構（スカラネット・パーソナル）",
+  "reading": "にほんがくせいしえんきこう",
+  "domain": "scholar-ps.sas.jasso.go.jp",
+  "categories": ["government"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.jasso.go.jp/shogakukin/oyakudachi/sukara_ps/edit.html",
+  "url": "https://www.jasso.go.jp/",
+  "notes": "ログインはユーザID・パスワードに加え奨学生番号の入力が必要だが、奨学生番号は本人のみが知る静的な識別情報（知識情報）であり、別経路で届くコードや認証アプリによる追加認証ではないため数えていない。",
+  "recommendation": "password-only"
+}

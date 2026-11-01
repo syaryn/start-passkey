@@ -1,0 +1,13 @@
+{
+  "name": "Skyscanner",
+  "reading": "すかいすきゃなー",
+  "domain": "skyscanner.net",
+  "url": "https://www.skyscanner.net/",
+  "categories": ["travel"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.skyscanner.net/hc/en-gb/articles/18191454525969-How-do-I-change-my-password",
+  "notes": "公式ヘルプに「アカウントへのアクセスにパスワードは不要になった」と明記されている。ログインは、メールアドレスを入力すると送られてくる4桁の認証コード、またはApple/Facebook/Googleのソーシャルログインのみ。パスワード自体が存在しないパスワードレス設計のため code とした。認証アプリ・パスキーの設定案内は公式ヘルプにない。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://help.skyscanner.net/hc/en-gb/articles/18191454525969-How-do-I-change-my-password"
+}

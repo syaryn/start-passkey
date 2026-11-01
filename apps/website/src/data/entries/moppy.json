@@ -1,0 +1,12 @@
+{
+  "name": "モッピー",
+  "reading": "もっぴー",
+  "domain": "moppy.jp",
+  "url": "https://pc.moppy.jp/",
+  "categories": ["points"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://pc.moppy.jp/face_authentication/guide.php",
+  "notes": "基本のログインはメールアドレス＋パスワード。そのうえで2025年12月22日導入の独自の顔認証（第三者機関の生体認証サービスを利用し、顔の特徴情報を国内サーバーで照合するサーバー側生体認証）が、別端末でのログイン時、初めてのポイント交換時、登録情報変更時、SNSアカウント連携時などに必須となる。FIDO/パスキーではなく端末の生体認証とも異なるため、4区分のいずれにも該当せず recommendation は none（第5区分で取り込み予定）",
+  "delegatedServices": [],
+  "recommendation": "none"
+}

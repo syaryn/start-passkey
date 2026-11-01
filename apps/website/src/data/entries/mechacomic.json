@@ -1,0 +1,12 @@
+{
+  "name": "めちゃコミック",
+  "reading": "めちゃこみっく",
+  "domain": "mechacomic.jp",
+  "url": "https://mechacomic.jp/",
+  "categories": ["hobby"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://mechacomic.jp/faqs/show/31",
+  "notes": "ログインはめちゃコミックID（メールアドレス）＋パスワード、外部サービスID（LINE・Yahoo! JAPAN・Google・Facebook・Amazon ID等）、キャリアID（dアカウント・au ID・My SoftBank）。二段階認証・認証アプリ・パスキーの設定案内は公式ヘルプになし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

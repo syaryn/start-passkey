@@ -1,0 +1,140 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import {
+  getCategoryBySlug,
+  type CategorySlug,
+} from "../../data/categories.ts";
+import {
+  entryPageHref,
+  passkeyDetail,
+  RECOMMENDATION_LABELS,
+  recommendationBadgeClass,
+  serviceUrl,
+} from "../../data/display.ts";
+import ExternalLink from "../../components/ExternalLink.astro";
+import type { Entry } from "../../data/schema.ts";
+import { pageTitle } from "../../data/site.ts";
+
+export async function getStaticPaths() {
+  const all = await getCollection("entries");
+  return all.map((item) => ({
+    params: {
+      category: item.data.categories[0],
+      slug: item.id,
+    },
+    props: {
+      entry: item.data,
+      entryId: item.id,
+    },
+  }));
+}
+
+interface Props {
+  entry: Entry;
+  entryId: string;
+}
+
+const { category: categoryParam, slug: slugParam } = Astro.params;
+const { entry, entryId } = Astro.props;
+
+const category = getCategoryBySlug(categoryParam ?? "");
+if (!category || slugParam !== entryId) {
+  return Astro.redirect("/404/");
+}
+
+const primary = entry.categories[0] as CategorySlug;
+if (category.slug !== primary) {
+  return Astro.redirect(entryPageHref(entry, entryId));
+}
+
+const delegated = entry.delegatedServices ?? [];
+const documentTitle = pageTitle(entry.name);
+const documentDescription =
+  delegated.length > 0
+    ? `${entry.name}のパスキー・二段階認証の対応状況と、同じIDでログインできる委譲サービスです。`
+    : `${entry.name}のパスキー・二段階認証の対応状況です。`;
+---
+
+<BaseLayout
+  title={documentTitle}
+  description={documentDescription}
+>
+  <p style="margin: 0 0 1rem;">
+    <a href={`/${primary}/`}>← {category.label}</a>
+  </p>
+
+  <h1 class="dads-std-28b-150 dads-entry-title" style="margin: 0 0 0.25rem;">
+    {entry.name}
+    <ExternalLink href={serviceUrl(entry)} label="公式サイト" iconOnly={false} />
+  </h1>
+  <p class="dads-text-support" style="margin: 0 0 1.5rem;">{entry.reading}</p>
+
+  <dl class="dads-std-16n-170" style="margin: 0 0 2rem; display: grid; gap: 0.75rem;">
+    <div>
+      <dt class="dads-std-16b-170">いま切り替えるなら</dt>
+      <dd style="margin: 0.25rem 0 0;">
+        <span class={recommendationBadgeClass(entry.recommendation)}>
+          {RECOMMENDATION_LABELS[entry.recommendation]}
+        </span>
+      </dd>
+    </div>
+    <div>
+      <dt class="dads-std-16b-170">パスキー（任意／必須）</dt>
+      <dd style="margin: 0.25rem 0 0;">{passkeyDetail(entry)}</dd>
+    </div>
+    <div>
+      <dt class="dads-std-16b-170">公式ヘルプ</dt>
+      <dd style="margin: 0.25rem 0 0;">
+        {"documentationUrl" in entry && entry.documentationUrl ? (
+          <ExternalLink href={entry.documentationUrl} label="設定手順" iconOnly={false} />
+        ) : (
+          "—"
+        )}
+      </dd>
+    </div>
+    <div>
+      <dt class="dads-std-16b-170">確認日</dt>
+      <dd style="margin: 0.25rem 0 0;">{entry.verifiedOn}</dd>
+    </div>
+    <div>
+      <dt class="dads-std-16b-170">確認したページ</dt>
+      <dd style="margin: 0.25rem 0 0;">
+        <ExternalLink href={entry.verifiedUrl} label="確認元" iconOnly={false} />
+      </dd>
+    </div>
+    {
+      entry.notes ? (
+        <div>
+          <dt class="dads-std-16b-170">備考</dt>
+          <dd style="margin: 0.25rem 0 0;" class="dads-text-secondary">
+            {entry.notes}
+          </dd>
+        </div>
+      ) : null
+    }
+  </dl>
+
+  {
+    delegated.length > 0 ? (
+      <section aria-labelledby="delegated-heading">
+        <h2 id="delegated-heading" class="dads-std-20b-150" style="margin: 0 0 0.75rem;">
+          このIDでログインできるサービス
+        </h2>
+        <ul style="margin: 0; padding-left: 1.5rem;">
+          {delegated.map((service) => (
+            <li style="margin-bottom: 0.75rem;">
+              <span class="dads-std-16b-170">{service.name}</span>
+              <span class="dads-text-support">（{service.reading}）</span>
+              {" "}
+              <ExternalLink href={service.sourceUrl} label="根拠" iconOnly={false} />
+              <div class="dads-text-support" style="margin-top: 0.25rem;">
+                {service.sourceNote}
+              </div>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ) : null
+  }
+</BaseLayout>

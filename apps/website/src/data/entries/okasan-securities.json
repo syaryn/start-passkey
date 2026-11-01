@@ -1,0 +1,15 @@
+{
+  "name": "岡三証券",
+  "reading": "おかさんしょうけん",
+  "domain": "okasan.co.jp",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://online.okasan.co.jp/ssl/fxcfd-api/AboutPasskey.html",
+  "url": "https://www.okasan.co.jp/",
+  "notes": "公式に確認できた範囲は岡三オンライン（FX/CFD）のMyページ。パスキーを登録するとパスワード等の入力なしでログインでき（任意設定）、出金指示・登録内容変更時にもパスキー認証を使用。未登録の場合はワンタイムパスワードによるログインが可能。株式のネット取引サービス（旧・岡三オンライン証券口座）は2026年10月にSBI証券へ移管済み",
+  "recommendation": "passkey",
+  "documentationUrl": "https://online.okasan.co.jp/ssl/fxcfd-api/AboutPasskey.html",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

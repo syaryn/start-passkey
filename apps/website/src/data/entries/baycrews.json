@@ -1,0 +1,13 @@
+{
+  "name": "BAYCREW'S STORE（ベイクルーズ）",
+  "reading": "べいくるーず",
+  "domain": "baycrews.jp",
+  "url": "https://baycrews.jp/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://baycrews.jp/help/shoppingguide6-3",
+  "notes": "ログインはメールアドレス＋パスワード。マイページのセキュリティ設定で2段階認証を任意にオンにでき、オンの場合は登録メールアドレスに届く認証コード（有効時間10分）がログイン時に必要になる。認証アプリ（TOTP）・パスキーの案内は公式情報になし。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://baycrews.jp/help/shoppingguide6-3"
+}

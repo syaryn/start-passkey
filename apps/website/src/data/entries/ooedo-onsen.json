@@ -1,0 +1,12 @@
+{
+  "name": "大江戸温泉物語（いいふろ会員）",
+  "reading": "おおえどおんせんものがたり",
+  "domain": "ooedoonsen.jp",
+  "url": "https://www.ooedoonsen.jp/",
+  "categories": ["travel"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://members.ooedoonsen.jp/member/login",
+  "notes": "会員サービス「いいふろ会員」マイページのログインはメールアドレス＋パスワード。LINEアカウント連携によるログインも可能だが、これは外部ID側の認証。二段階認証・認証アプリ・パスキーの設定は公式情報に見当たらない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

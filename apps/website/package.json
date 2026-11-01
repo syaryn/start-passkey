@@ -1,0 +1,29 @@
+{
+  "name": "website",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "test": "vitest run",
+    "deploy": "wrangler deploy",
+    "check": "astro check",
+    "diagrams": "for f in diagrams/*.d2; do d2 --layout=tala \"$f\" \"public/diagrams/$(basename \"${f%.d2}\").svg\"; done"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "catalog:",
+    "astro": "^5.16.0"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.6",
+    "@iconify-json/lucide": "catalog:",
+    "@unocss/astro": "^66.5.12",
+    "@unocss/preset-icons": "catalog:",
+    "typescript": "^7.0.2",
+    "unocss": "^66.5.12",
+    "vitest": "^3.2.4",
+    "wrangler": "^4.45.0"
+  }
+}

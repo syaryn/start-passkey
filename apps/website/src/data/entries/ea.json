@@ -1,0 +1,15 @@
+{
+  "name": "EAアカウント",
+  "reading": "いーえーあかうんと",
+  "domain": "ea.com",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.ea.com/en/articles/security-and-rules/two-factor-authentication/",
+  "url": "https://www.ea.com/",
+  "notes": "公式ヘルプが「パスキーが利用可能なアカウントでは設定を推奨」と条件付きで案内しており、全アカウントへの一律提供ではない可能性がある。パスキーはパスワードの代替として位置付けられている。別途、認証アプリ・SMS・メールの2要素認証もあり、新しいデバイスからのログイン時にコードを求める",
+  "recommendation": "passkey",
+  "documentationUrl": "https://help.ea.com/en/articles/security-and-rules/two-factor-authentication/",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

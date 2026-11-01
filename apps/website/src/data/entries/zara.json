@@ -1,0 +1,12 @@
+{
+  "name": "ZARA",
+  "reading": "ざら",
+  "domain": "zara.com",
+  "url": "https://www.zara.com/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.zara.com/gr/en/help-center/RegisterAndLogin",
+  "notes": "ログインはメールアドレス＋パスワードのみ。新規登録時にはアカウント確認のためコードの入力が必要だが、これは登録手続き用の確認でありログイン時の追加認証ではない。二要素認証・パスキー・認証アプリの設定案内は公式ヘルプにない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

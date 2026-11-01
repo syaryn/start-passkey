@@ -1,0 +1,12 @@
+{
+  "name": "Supabase",
+  "reading": "すーぱべーす",
+  "domain": "supabase.com",
+  "categories": ["developer", "cloud"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://supabase.com/docs/guides/platform/multi-factor-authentication",
+  "url": "https://supabase.com/",
+  "notes": "Supabaseアカウント（プラットフォーム）自体のMFAはTOTPのみ（公式のPlatform向けドキュメントに明記）。組織オーナーは有料プランでメンバーにMFAを必須化できる。開発者向け製品「Supabase Auth」がアプリ利用者に提供するパスキー機能とは別。",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://supabase.com/docs/guides/platform/multi-factor-authentication"
+}

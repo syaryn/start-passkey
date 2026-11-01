@@ -1,0 +1,16 @@
+{
+  "name": "ニッセン",
+  "reading": "にっせん",
+  "domain": "nissen.co.jp",
+  "url": "https://www.nissen.co.jp/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.nissen.co.jp/userguide/bio-auth/",
+  "notes": "公式名称は「生体認証ログイン」で「パスキー」の語は使われていないが、マイページで端末を登録し、ブラウザ（Windows Hello/Touch ID/指紋・顔認証等）でパスワードなしにログインするWebAuthn型。端末ごとの登録制で、パスワード後の第2要素としての利用はない。通常ログインはメールアドレス＋パスワード＋氏名（カナ）。",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.nissen.co.jp/userguide/bio-auth/",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "名鉄ネット予約サービス（特別車チケットレスサービス）",
+  "reading": "めいてつねっとよやくさーびす",
+  "domain": "meitetsu.co.jp",
+  "url": "https://www.meitetsu.co.jp/",
+  "categories": ["rail"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://webticket.meitetsu.co.jp/sp/guide/guide.html",
+  "notes": "特別車両券（ミューチケット）の予約・購入サービス。会員ログインはログインID＋パスワード（名鉄ミューズID）で、公式ガイド・ログイン画面ともその入力のみ。二段階認証・認証アプリ・パスキーの案内は公式情報になし。会員登録なしのゲスト購入も可能",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

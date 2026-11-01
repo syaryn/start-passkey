@@ -1,0 +1,12 @@
+{
+  "name": "ベルメゾンネット",
+  "reading": "べるめぞんねっと",
+  "domain": "bellemaison.jp",
+  "url": "https://www.bellemaison.jp/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq.bellemaison.jp/bellemaison/web/guide/Detail.aspx?id=4953&isCrawler=1",
+  "notes": "ログオンはメールアドレス＋パスワードのみ（旧会員は会員情報更新手続き後にこの形式へ移行）。公式FAQ・ガイドに2段階認証、認証アプリ、パスキーの設定案内はなし。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

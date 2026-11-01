@@ -1,0 +1,13 @@
+{
+  "name": "スニーカーダンク",
+  "reading": "すにーかーだんく",
+  "domain": "snkrdunk.com",
+  "url": "https://snkrdunk.com/",
+  "categories": ["marketplace"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.snkrdunk-guide.com/ja/articles/2段階認証-9e184754",
+  "notes": "ログインはメールアドレス＋パスワード（LINE/Facebook/Yahoo!/AppleのSNSログインも可）に加え、登録電話番号へのSMS認証コード（6桁）による2段階認証が必須（2026年8月26日付公式お知らせで必須化、従来は任意設定）。原則解除不可。認証アプリ・パスキーはなし",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://help.snkrdunk-guide.com/ja/articles/2段階認証-9e184754"
+}

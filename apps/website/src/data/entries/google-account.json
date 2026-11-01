@@ -1,0 +1,16 @@
+{
+  "name": "Google アカウント",
+  "reading": "ぐーぐるあかうんと",
+  "domain": "accounts.google.com",
+  "categories": ["email", "cloud"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.google.com/accounts/answer/13548313?hl=ja",
+  "url": "https://myaccount.google.com/",
+  "notes": "パスキーを作成するとパスワードなしでログインできる。2段階認証プロセスが有効な場合も、パスキーは「2つ目の手順」として使え、その場合は手順が省略される。職場・学校のGoogle Workspaceアカウントでは、管理者の設定によりパスキーのみでのログインが制限される場合がある。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://support.google.com/accounts/answer/13548313?hl=ja",
+  "passkey": {
+    "passwordless": "allowed",
+    "mfa": "allowed"
+  }
+}

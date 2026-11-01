@@ -1,0 +1,11 @@
+{
+  "name": "バスキャッチ",
+  "reading": "ばすきゃっち",
+  "domain": "buscatch.com",
+  "categories": ["bus"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.buscatch.com/i_guidance2/saisyou/pdf/manual.pdf",
+  "notes": "保護者向け携帯サイトはメールアドレス登録のうえ、設定したパスワードでログインする方式。ログイン時の二段階認証・認証アプリ・パスキーの設定は公式情報になし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

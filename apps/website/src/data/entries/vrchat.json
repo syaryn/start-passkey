@@ -1,0 +1,12 @@
+{
+  "name": "VRChat",
+  "reading": "ぶいあーるちゃっと",
+  "domain": "vrchat.com",
+  "categories": ["gaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://docs.vrchat.com/docs/setup-2fa",
+  "url": "https://vrchat.com/",
+  "notes": "VRChatアカウントでは認証アプリ（Authy、Google Authenticator等のTOTP、30秒ごとに変わる6桁コード）による二要素認証を設定でき、リカバリーコードも発行される。Steam・Oculus・Viveport経由のログインは各プラットフォーム側の認証に委譲され、本二要素認証の対象外（公式ドキュメントに明記）。パスキーの案内はなし",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://docs.vrchat.com/docs/setup-2fa"
+}

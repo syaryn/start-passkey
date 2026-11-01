@@ -1,0 +1,12 @@
+{
+  "name": "WeChat",
+  "reading": "うぃーちゃっと",
+  "domain": "wechat.com",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://cs.help.wechat.com/hc/en-us/articles/11917276553743-How-to-Complete-New-Device-Login-Verification",
+  "url": "https://www.wechat.com/",
+  "notes": "ログインはWeChat ID＋パスワード、または電話番号＋SMS認証コード（SMSコード自体がログイン手段）。新規デバイスでの初回ログイン時は、ログイン過程で追加確認が必須（旧デバイスでのQRスキャン、連携メール宛の認証コード、友人による補助認証のいずれか）。認証アプリ（TOTP）やパスキーの案内は公式ヘルプにない。",
+  "recommendation": "code",
+  "documentationUrl": "https://cs.help.wechat.com/hc/en-us/articles/11917276553743-How-to-Complete-New-Device-Login-Verification"
+}

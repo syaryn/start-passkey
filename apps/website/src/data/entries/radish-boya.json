@@ -1,0 +1,12 @@
+{
+  "name": "らでぃっしゅぼーや",
+  "reading": "らでぃっしゅぼーや",
+  "domain": "radishbo-ya.co.jp",
+  "url": "https://www.radishbo-ya.co.jp/",
+  "categories": ["food"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.radishbo-ya.co.jp/guide/help/login.html",
+  "notes": "ログインはメールアドレス（ログインID）とパスワードのみ。公式ガイドに二段階認証・認証アプリ・パスキーの案内はない。運営はオイシックス・ラ・大地だが、アカウントはらでぃっしゅぼーや独自のWeb利用登録であり、オイシックスのアカウントへ委譲されるものではない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

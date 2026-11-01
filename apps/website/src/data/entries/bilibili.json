@@ -1,0 +1,13 @@
+{
+  "name": "bilibili",
+  "reading": "びりびり",
+  "domain": "bilibili.com",
+  "url": "https://www.bilibili.com/",
+  "categories": ["streaming"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.bilibili.com/blackboard/privacy-h5-english.html",
+  "notes": "公式プライバシーポリシー（bilibili.com）に、登録/ログインには電話番号による認証が必要で、メールログインの場合はメールアドレス＋パスワードを用いることが明記されている。電話番号ログインはSMSの動的認証コード方式。パスキーや認証アプリ（TOTP）の設定は公式情報に見当たらない。中国本土版のアカウント体系が対象で、実名認証が別途求められる機能がある。",
+  "delegatedServices": [],
+  "recommendation": "code",
+  "documentationUrl": "https://www.bilibili.com/blackboard/privacy-h5-english.html"
+}

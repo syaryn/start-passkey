@@ -1,0 +1,12 @@
+{
+  "name": "岩手銀行",
+  "reading": "いわてぎんこう",
+  "domain": "iwatebank.co.jp",
+  "categories": ["banking"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.iwatebank.co.jp/personal/service/internetbanking/security.html",
+  "url": "https://www.iwatebank.co.jp/",
+  "notes": "インターネットバンキングのログインはID・パスワード（追加認証併用）。「いわぎんアプリ」のワンタイムパスワード機能（60秒ごとに変わるソフトウェアトークン）を設定でき、スマートフォンではログイン時に、パソコンでは取引時に使用する。トランザクション認証トークンは取引時専用。パスキーの案内はなし。",
+  "recommendation": "authenticator",
+  "documentationUrl": "https://www.iwatebank.co.jp/personal/service/appbanking/about_service/otp.html"
+}

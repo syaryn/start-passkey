@@ -1,0 +1,42 @@
+# パスキーのイメージ（概念）
+direction: right
+
+title: "パスワードログインとパスキーの違い（概念）" {
+  near: top-center
+  style.font-size: 18
+}
+
+password_flow: "パスワードだけ" {
+  style.fill: "#fef2f2"
+  user_p: "利用者"
+  site_p: "サービス"
+  secret: "同じ秘密\n（パスワード）\nを毎回送る" {
+    style.fill: "#fecaca"
+  }
+  user_p -> secret -> site_p: "入力"
+  risk: "偽サイトに\n入力される\nリスク" {
+    style.fill: "#fee2e2"
+    style.font-size: 13
+  }
+  secret -> risk
+}
+
+passkey_flow: "パスキー" {
+  style.fill: "#ecfdf5"
+  user_k: "利用者\n（端末・生体/PIN）"
+  site_k: "サービス"
+  key: "端末内の\n鍵で署名\n（秘密は出ない）" {
+    style.fill: "#a7f3d0"
+  }
+  user_k -> key -> site_k: "承認"
+  benefit: "偽サイトでは\n鍵が使えない" {
+    style.fill: "#d1fae5"
+    style.font-size: 13
+  }
+  key -> benefit
+}
+
+password_flow -> passkey_flow: "切り替え" {
+  style.stroke: "#059669"
+  style.font-size: 14
+}

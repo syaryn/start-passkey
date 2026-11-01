@@ -1,0 +1,12 @@
+{
+  "name": "Xfinity",
+  "reading": "えくすふぃにてぃ",
+  "domain": "xfinity.com",
+  "categories": ["utilities"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.xfinity.com/support/articles/two-step-verification-xfinity-app-setup",
+  "url": "https://www.xfinity.com/",
+  "notes": "実ブラウザで公式サポートを確認（2026-11-01）。Two-step verificationはプッシュ通知・SMS/メールコード・Xfinityアプリ生成コードの3方式。汎用認証アプリ（TOTP）やパスキーの案内なし",
+  "recommendation": "code",
+  "documentationUrl": "https://www.xfinity.com/support/articles/two-step-verification-xfinity-app-setup"
+}

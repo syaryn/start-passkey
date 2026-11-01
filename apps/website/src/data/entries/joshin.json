@@ -1,0 +1,12 @@
+{
+  "name": "ジョーシン",
+  "reading": "じょーしん",
+  "domain": "joshinweb.jp",
+  "url": "https://joshinweb.jp/",
+  "categories": ["electronics"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://joshinweb.jp/member.html",
+  "notes": "Joshin webショップのログインはweb会員ID（数字8桁）または登録メールアドレス＋パスワードのみ。SMS認証（音声/SMSによる認証コード）は新規会員登録時の電話番号確認に限られ、ログイン時の二段階認証・認証アプリ・パスキーの設定は公式情報にない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "病院なび",
+  "reading": "びょういんなび",
+  "domain": "byoinnavi.jp",
+  "url": "https://byoinnavi.jp/",
+  "categories": ["health"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://byoinnavi.jp/contents/contract/index.html",
+  "notes": "会員ログイン（マイページ）はアカウント（ID）＋パスワードのみで、利用規約第7条もアカウントとパスワードの一致で認証する旨を定めている。二段階認証・認証アプリ・パスキーの設定案内なし",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "MyFitnessPal",
+  "reading": "まいふぃっとねすぱる",
+  "domain": "myfitnesspal.com",
+  "url": "https://www.myfitnesspal.com/",
+  "categories": ["fitness"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.myfitnesspal.com/hc/en-us/articles/360045754372-Account-Log-In-Issues",
+  "notes": "ログインはメールアドレス＋パスワード、またはSign in with Apple等のソーシャルログイン。公式ヘルプのログイン関連記事に二要素認証・認証アプリ・パスキーの設定案内はない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "スタンバイ",
+  "reading": "すたんばい",
+  "domain": "stanby.com",
+  "url": "https://jp.stanby.com/",
+  "categories": ["jobs"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://help.stanby.com/%E4%BC%9A%E5%93%A1%E7%99%BB%E9%8C%B2%E3%81%97%E3%81%9F%E3%81%84-6837da6be855bf68ec70b4d7",
+  "notes": "会員登録・ログインはメールアドレス＋パスワード（登録時は認証メールのURLで本人確認）。Yahoo! JAPAN ID・LINE IDでの登録/ログインも可。二段階認証・認証アプリ・パスキーの設定案内は公式ヘルプになし。会員登録不要でも利用できる。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

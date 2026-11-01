@@ -1,0 +1,11 @@
+{
+  "name": "NUROモバイル",
+  "reading": "にゅーろもばいる",
+  "domain": "nuro.jp",
+  "categories": ["utilities"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.sonynetwork.co.jp/faqsupport/nuromobile/web/knowledge2737.html",
+  "url": "https://www.nuro.jp/",
+  "notes": "マイページのログインはユーザーID（SIM電話番号）＋パスワードのみ。ワンタイムパスワードはパスワード再設定時の本人確認手続き用であり、ログイン時の追加認証ではない。二段階認証・認証アプリ・パスキーの設定案内なし",
+  "recommendation": "password-only"
+}

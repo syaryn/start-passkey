@@ -1,0 +1,13 @@
+{
+  "name": "doda",
+  "reading": "どぅーだ",
+  "domain": "doda.jp",
+  "url": "https://doda.jp/",
+  "categories": ["jobs"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://faq.doda.jp/faq/show/575?site_domain=default",
+  "notes": "ログイン時の2段階認証を任意で設定でき、認証コードの受け取り方法としてメールと認証アプリ（TOTP方式）のいずれかを選択できる。パスキーの案内は公式ヘルプになし。",
+  "delegatedServices": [],
+  "recommendation": "authenticator",
+  "documentationUrl": "https://faq.doda.jp/faq/show/575?site_domain=default"
+}

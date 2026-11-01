@@ -1,0 +1,15 @@
+{
+  "name": "Reddit",
+  "reading": "れでぃっと",
+  "domain": "reddit.com",
+  "categories": ["social"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.reddithelp.com/hc/en-us/articles/49063461551252-What-are-passkeys-and-how-do-I-set-it-up",
+  "url": "https://www.reddit.com/",
+  "notes": "パスキーは任意設定で、端末の生体認証やPINによるパスワードレスのサインインに使える。ただしパスキーのみのアカウントはサポートされず、パスワード（電話番号で作成したアカウントはOTP）でのログインも併用される。認証アプリ（TOTP）の2段階認証も別途あるが、公式ヘルプ上、2FAが適用されるのはパスワードでログインする場合のみ。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://support.reddithelp.com/hc/en-us/articles/49063461551252-What-are-passkeys-and-how-do-I-set-it-up",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

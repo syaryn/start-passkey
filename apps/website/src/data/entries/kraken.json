@@ -1,0 +1,15 @@
+{
+  "name": "Kraken",
+  "reading": "くらーけん",
+  "domain": "kraken.com",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://support.kraken.com/articles/13430066489364-how-to-secure-your-account-with-two-factor-authentication-2fa-",
+  "url": "https://www.kraken.com/",
+  "notes": "公式サポートによれば、パスキーはパスワード入力後のサインイン2FAを満たす手段として使われ、パスワードレスサインインは提供されていない。FIDO2対応で、ハードウェアセキュリティキー、端末間同期型（iCloudキーチェーン等）、端末固定型が選べ、公式の推奨2FA手段とされる。マスターキー（機微な操作用）にも流用できるほか、認証アプリもサインイン2FAに使える。出金・取引専用の2FAは別設定であり判定には含めていない",
+  "recommendation": "passkey",
+  "documentationUrl": "https://support.kraken.com/articles/13430066489364-how-to-secure-your-account-with-two-factor-authentication-2fa-",
+  "passkey": {
+    "mfa": "allowed"
+  }
+}

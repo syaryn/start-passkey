@@ -1,0 +1,15 @@
+{
+  "name": "三菱UFJ eスマート証券",
+  "reading": "みつびしゆーえふじぇいいーすまーとしょうけん",
+  "domain": "kabu.com",
+  "categories": ["investing"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://kabu.com/support/security/passkey.html",
+  "url": "https://kabu.com/",
+  "notes": "ログイン用。2026年4月26日に全取引チャネル（PCサイト、スマホサイト／アプリ、kabuステーション等）へ導入。2026年10月22日以降、パスキーを登録済みの顧客は口座番号・パスワード＋追加認証による「パスワード認証」が無効となり、ログイン時のパスキー利用が必須。パスキーを登録できない顧客は、リスク確認等の手続きのうえでパスワード＋二要素認証（電話認証・認証アプリ・リカバリーコード）でのログインも可能。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://kabu.com/support/security/passkey.html",
+  "passkey": {
+    "passwordless": "required"
+  }
+}

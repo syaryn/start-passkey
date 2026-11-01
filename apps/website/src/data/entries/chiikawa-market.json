@@ -1,0 +1,12 @@
+{
+  "name": "ちいかわマーケット",
+  "reading": "ちいかわまーけっと",
+  "domain": "chiikawamarket.jp",
+  "url": "https://chiikawamarket.jp/",
+  "categories": ["hobby"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://chiikawamarket.jp/pages/faq",
+  "notes": "ログインはメールアドレス＋パスワード。LINE ID連携によるログインも可能だが外部ID連携であり、サービス自体に二段階認証・認証アプリ・パスキーの設定は公式ガイド・FAQにない。d払い利用時はdアカウントでのログインが別途必要。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

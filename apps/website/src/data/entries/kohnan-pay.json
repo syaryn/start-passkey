@@ -1,0 +1,12 @@
+{
+  "name": "コーナンPay",
+  "reading": "こーなんぺい",
+  "domain": "kohnan-eshop.com",
+  "categories": ["payments"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.hc-kohnan.com/service/stores/kohnan_pay/kohnan_pay_details",
+  "url": "https://www.kohnan-eshop.com/",
+  "notes": "公式アプリ内決済「コーナンPayモバイルカード」は多要素認証を採用し、再ログイン時にメールアドレス＋パスワードに加えて登録電話番号へ送られるSMS認証コード（4桁）の入力が必要。認証アプリ・パスキーはなし。通販サイト（コーナンeショップ）のログインは別エントリ参照（パスワードのみ）",
+  "recommendation": "code",
+  "documentationUrl": "https://www.hc-kohnan.com/service/stores/kohnan_pay/kohnan_pay_details"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "PAL CLOSET（パルクローゼット）",
+  "reading": "ぱるくろーぜっと",
+  "domain": "palcloset.jp",
+  "url": "https://www.palcloset.jp/",
+  "categories": ["fashion"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.palcloset.jp/display/freepage/?id=help_faq_06",
+  "notes": "ログインはメールアドレス＋パスワードのみ。認証コードは新規会員登録時のメールアドレス確認用。ログイン通知メールはあるが追加認証ではなく、二段階認証・認証アプリ・パスキーの設定は公式情報にない",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}

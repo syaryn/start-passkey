@@ -1,0 +1,16 @@
+{
+  "name": "Samsungアカウント",
+  "reading": "さむすんあかうんと",
+  "domain": "account.samsung.com",
+  "url": "https://account.samsung.com",
+  "categories": ["device"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.samsung.com/us/support/answer/ANS10005290/",
+  "notes": "Galaxy端末ではSamsung Passにアカウント用パスキーを作成し、ID/パスワードの代わりに指紋等の生体認証でサインインできる。別途、2段階認証（SMS・認証アプリ・バックアップコード等）が必須で無効化はできないが、パスキーはその第2要素としては使われない。",
+  "delegatedServices": [],
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.samsung.com/us/support/answer/ANS10005290/",
+  "passkey": {
+    "passwordless": "allowed"
+  }
+}

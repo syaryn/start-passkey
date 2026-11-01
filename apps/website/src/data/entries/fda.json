@@ -1,0 +1,12 @@
+{
+  "name": "FDAメンバーズ",
+  "reading": "えふでぃーえーめんばーず",
+  "domain": "fujidream.co.jp",
+  "url": "https://www.fujidream.co.jp/",
+  "categories": ["aviation"],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.fujidream.co.jp/login/",
+  "notes": "フジドリームエアラインズの会員制度。公式ログイン画面の入力項目は会員ID（またはメールアドレス）とパスワードのみで、公式サイト・FAQに二段階認証・認証アプリ・パスキーの案内はない。",
+  "delegatedServices": [],
+  "recommendation": "password-only"
+}
