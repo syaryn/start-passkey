@@ -41,7 +41,7 @@ website だけのコマンドは pnpm フィルタでも実行できます。
 ```bash
 pnpm --filter website build     # dist へビルド
 pnpm --filter website preview   # ビルド結果のプレビュー
-pnpm --filter website deploy    # Cloudflare へデプロイ
+pnpm --filter website run deploy  # Cloudflare へデプロイ
 pnpm --filter website diagrams  # 図の再生成
 ```
 
@@ -66,7 +66,7 @@ Cloudflare Workers の静的アセットとして配信します（Worker 名は
 
 ```bash
 pnpm --filter website build
-pnpm --filter website deploy
+pnpm --filter website run deploy
 ```
 
 サイトの絶対 URL は `apps/website/astro.config.mts` の `site` で決まります。サイトマップと canonical、OGP の URL はこの値から生成されます。
