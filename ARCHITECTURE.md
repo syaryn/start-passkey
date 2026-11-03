@@ -62,7 +62,7 @@ start-passkey/
 
 技術: Astro 7（静的出力）、TypeScript、UnoCSS、Lucide アイコン、DADS（デジタル庁デザインシステム）系の CSS
 
-配信: Cloudflare Workers の静的アセット（Worker 名 pkmfa）
+配信: Cloudflare Workers の静的アセット（Worker 名 syaryn）
 
 ### 3.2. バックエンドサービス
 
@@ -112,9 +112,9 @@ Google フォーム: 問い合わせの受け付けに使います。
 
 利用サービス: Workers（静的アセット配信）。Worker スクリプトは置かず、アセットのみを配信します
 
-CI/CD: 導入していません。ローカルで `pnpm --filter website build` と `pnpm --filter website deploy` を実行します
+CI/CD: 導入していません。ローカルで `pnpm --filter website build` と `pnpm --filter website run deploy` を実行します
 
-監視とログ: 専用の仕組みは導入していません
+監視とログ: Workers Logs（wrangler.jsonc の observability）でリクエストログを記録し、Cloudflare に保存します。外部の監視サービスは導入していません
 
 ## 7. セキュリティの考え方
 
@@ -143,7 +143,7 @@ CI/CD: 導入していません。ローカルで `pnpm --filter website build` 
 
 ## 10. プロジェクト情報
 
-プロジェクト名: そしてパスキーへ（start-passkey、Worker 名 pkmfa）
+プロジェクト名: そしてパスキーへ（start-passkey、Worker 名 syaryn）
 
 リポジトリ: https://github.com/syaryn/start-passkey
 
