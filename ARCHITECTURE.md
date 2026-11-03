@@ -112,7 +112,7 @@ Google フォーム: 問い合わせの受け付けに使います。
 
 利用サービス: Workers（静的アセット配信）。Worker スクリプトは置かず、アセットのみを配信します
 
-CI/CD: 導入していません。ローカルで `pnpm --filter website build` と `pnpm --filter website deploy` を実行します
+CI/CD: 導入していません。ローカルで `pnpm --filter website build` と `pnpm --filter website run deploy` を実行します
 
 監視とログ: 専用の仕組みは導入していません
 
