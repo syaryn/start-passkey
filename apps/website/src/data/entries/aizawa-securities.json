@@ -2,7 +2,9 @@
   "name": "アイザワ証券",
   "reading": "あいざわしょうけん",
   "domain": "aizawa.co.jp",
-  "categories": ["investing"],
+  "categories": [
+    "investing"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.aizawa.co.jp/service/tool/bluetrade/passkey.html",
   "url": "https://www.aizawa.co.jp/",

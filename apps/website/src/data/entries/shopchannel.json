@@ -2,11 +2,12 @@
   "name": "ショップチャンネル",
   "reading": "しょっぷちゃんねる",
   "domain": "shopch.jp",
-  "url": "https://www.shopch.jp/",
-  "categories": ["retail"],
+  "categories": [
+    "retail"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.shopch.jp/pc/cmn/a/guide/27",
+  "url": "https://www.shopch.jp/",
   "notes": "ログインはユーザーID（メールアドレスまたはログイン用携帯電話番号）＋パスワード。SMSの6桁認証コードは携帯電話番号をユーザーIDとして登録・変更する際の確認用で、ログイン時の2段階認証ではない。パスキー・認証アプリの案内は公式情報になし。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

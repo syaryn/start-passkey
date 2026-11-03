@@ -2,11 +2,12 @@
   "name": "コナミスポーツクラブ メンバーサービス",
   "reading": "こなみすぽーつくらぶめんばーさーびす",
   "domain": "konamisportsclub.jp",
-  "url": "https://www.konami.com/sportsclub/",
-  "categories": ["fitness"],
+  "categories": [
+    "fitness"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.konami.com/sportsclub/members/member_service/",
+  "url": "https://www.konami.com",
   "notes": "会員向けWebサービスのログインは会員番号＋パスワードのみ。「秘密の質問」は初回登録・パスワード再登録時の本人確認用で、ログイン時の追加認証ではない。二段階認証・認証アプリ・パスキーの設定案内は公式情報にない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

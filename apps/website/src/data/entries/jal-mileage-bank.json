@@ -2,11 +2,12 @@
   "name": "JALマイレージバンク",
   "reading": "じゃるまいれーじばんく",
   "domain": "jal.co.jp",
-  "categories": ["aviation"],
+  "categories": [
+    "aviation"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.jal.co.jp/jp/ja/jmb/jmb-login/passkey/login/",
   "notes": "JAL Webサイト・スマートフォンサイト・JALアプリ・JMBアプリでパスキーログインが可能（お得意様番号を入力後、生体認証または画面ロックでログイン完了）。パスキーの登録にはSMSによるワンタイムパスワード認証が必要で、SMSの利用はJMB日本地区会員が対象。パスキーはログイン自体の代替手段で、パスワード入力後の追加認証としては使わない。会員情報の確認・変更や一部特典交換では別途ワンタイムパスワード（メール/SMS）が必要。JALカードアプリへのパスキー導入は順次予定とされている。",
-  "delegatedServices": [],
   "recommendation": "passkey",
   "documentationUrl": "https://www.jal.co.jp/jp/ja/jmb/jmb-login/passkey/login/",
   "passkey": {

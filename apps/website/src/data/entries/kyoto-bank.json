@@ -2,7 +2,9 @@
   "name": "京都銀行",
   "reading": "きょうとぎんこう",
   "domain": "kyotobank.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.kyotobank.co.jp/kojin/directb/security/onetimepass.html",
   "url": "https://www.kyotobank.co.jp/",

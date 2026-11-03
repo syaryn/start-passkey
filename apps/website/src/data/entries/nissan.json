@@ -2,12 +2,13 @@
   "name": "NISSAN ID（NissanConnect）",
   "reading": "にっさんあいでぃ",
   "domain": "nissan.co.jp",
-  "url": "https://www.nissan.co.jp/",
-  "categories": ["automotive"],
+  "categories": [
+    "automotive"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq2.nissan.co.jp/faq/show/78331?site_domain=default",
+  "url": "https://www.nissan.co.jp/",
   "notes": "日産の共通アカウント。WebのメンバーサイトはID（メールアドレス）＋パスワードのみだが、MyNISSANアプリ（第2世代NissanConnect対応車）のログインではパスワード入力後に登録メール宛のアクセスコード入力が必要。パスキー・認証アプリの設定は公式情報になし。アプリの生体認証は端末側のロック解除でありパスキーではない",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://faq2.nissan.co.jp/faq/show/78331?site_domain=default"
 }

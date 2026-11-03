@@ -2,19 +2,13 @@
   "name": "dipID",
   "reading": "でぃっぷあいでぃー",
   "domain": "id.baitoru.com",
-  "url": "https://id.baitoru.com/",
-  "categories": ["points"],
+  "categories": [
+    "points"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://id.baitoru.com/help",
+  "url": "https://id.baitoru.com/",
   "notes": "ディップ株式会社の共通アカウントIDで、バイトル、バイトルNEXT、バイトルPRO、やさしい履歴書などがログインを委譲する基盤（はたらこねっとは2026年2月以降別管理）。ログイン方法はメール＋パスワード、メール＋確認コード（登録メールアドレス宛のワンタイムコード、パスワードの代替手段）、外部サービス連携（Google/LINE/Apple/Yahoo! JAPAN）。公式ヘルプに「自社の2段階認証には対応していない」「パスキーは使えない」と明記されており、認証アプリもなし。コードはパスワードへの上乗せ2FAではなく代替のログイン手段",
-  "delegatedServices": [
-    {
-      "name": "バイトル",
-      "reading": "ばいとる",
-      "sourceUrl": "https://id.baitoru.com/help",
-      "sourceNote": "dipID公式ヘルプ: dipIDはバイトル・バイトルNEXT・バイトルPRO等の共通アカウントIDと明記"
-    }
-  ],
   "recommendation": "code",
   "documentationUrl": "https://id.baitoru.com/help"
 }

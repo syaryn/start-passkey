@@ -2,12 +2,13 @@
   "name": "monday.com",
   "reading": "まんでーどっとこむ",
   "domain": "monday.com",
-  "url": "https://monday.com/",
-  "categories": ["productivity"],
+  "categories": [
+    "productivity"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://support.monday.com/hc/en-us/articles/360000787745-Two-Factor-Authentication",
+  "verifiedUrl": "https://support.monday.com/hc/ja/articles/360000787745-%E4%BA%8C%E8%A6%81%E7%B4%A0%E8%AA%8D%E8%A8%BC",
+  "url": "https://monday.com/",
   "notes": "2FAは認証アプリまたはSMSコード。有効化できるのはアカウント管理者のみで、有効化後に各ユーザーが方式を選択する。パスキーの公式案内はない。",
-  "delegatedServices": [],
   "recommendation": "authenticator",
-  "documentationUrl": "https://support.monday.com/hc/en-us/articles/360000787745-Two-Factor-Authentication"
+  "documentationUrl": "https://support.monday.com/hc/ja/articles/360000787745-%E4%BA%8C%E8%A6%81%E7%B4%A0%E8%AA%8D%E8%A8%BC"
 }

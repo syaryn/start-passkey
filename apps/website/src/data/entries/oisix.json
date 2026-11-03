@@ -2,11 +2,12 @@
   "name": "オイシックス",
   "reading": "おいしっくす",
   "domain": "oisix.com",
-  "url": "https://www.oisix.com/",
-  "categories": ["food"],
+  "categories": [
+    "food"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq.oisix.com/inquiries/f3606debb8884f52dd47?select_sid=7997874",
+  "url": "https://www.oisix.com/",
   "notes": "ログインはメールアドレス＋パスワードのみ。パスワード再設定時にメールで認証コードが送られるが、これは再設定手続きでありログイン時の二段階認証ではない。パスキー・認証アプリの設定案内は公式FAQになし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

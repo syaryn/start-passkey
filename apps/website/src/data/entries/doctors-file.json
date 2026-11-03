@@ -2,11 +2,12 @@
   "name": "ドクターズ・ファイル",
   "reading": "どくたーずふぁいる",
   "domain": "doctorsfile.jp",
-  "url": "https://doctorsfile.jp/",
-  "categories": ["health"],
+  "categories": [
+    "health"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://doctorsfile.jp/terms/",
+  "url": "https://doctorsfile.jp/",
   "notes": "病院検索サイト自体に一般利用者向け会員ログインはなく、会員ログインは求人サービス「ドクターズ・ファイル ジョブズ」会員（メールアドレス＋パスワード）と医療機関向け「Myドクターズ・ファイル」（発行されたログインID＋パスワード）など。いずれもID＋パスワードのみで、二段階認証・認証アプリ・パスキーの案内なし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

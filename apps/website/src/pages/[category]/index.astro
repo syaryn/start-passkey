@@ -9,6 +9,8 @@ import {
 } from "../../data/categories.ts";
 import {
   compareByReading,
+  distinctVerifiedSourceUrl,
+  DISTINCT_VERIFIED_SOURCE_LABEL,
   entryPageHref,
   passkeyDetail,
   RECOMMENDATION_LABELS,
@@ -82,11 +84,13 @@ const documentTitle = pageTitle(heading);
               <th scope="col">パスキー（任意／必須）</th>
               <th scope="col">公式ヘルプ</th>
               <th scope="col">確認日</th>
-              <th scope="col">確認したページ</th>
+              <th scope="col">{DISTINCT_VERIFIED_SOURCE_LABEL}</th>
             </tr>
           </thead>
           <tbody>
-            {rows.map((item) => (
+            {rows.map((item) => {
+              const verifiedSourceUrl = distinctVerifiedSourceUrl(item.data);
+              return (
               <tr>
                 <td>
                   <div class="dads-table-cell-action-inner">
@@ -127,11 +131,16 @@ const documentTitle = pageTitle(heading);
                 </td>
                 <td class="dads-table-cell-action">
                   <div class="dads-table-cell-action-inner">
-                    <ExternalLink href={item.data.verifiedUrl} label="確認元" />
+                    {verifiedSourceUrl ? (
+                      <ExternalLink href={verifiedSourceUrl} label="参考URL" />
+                    ) : (
+                      "—"
+                    )}
                   </div>
                 </td>
               </tr>
-            ))}
+              );
+            })}
           </tbody>
         </table>
       </div>

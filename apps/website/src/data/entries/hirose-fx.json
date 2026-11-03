@@ -2,7 +2,9 @@
   "name": "ヒロセ通商（LION FX）",
   "reading": "ひろせつうしょう",
   "domain": "hirose-fx.co.jp",
-  "categories": ["investing"],
+  "categories": [
+    "investing"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://hirose-fx.co.jp/landing/lp_passkey/",
   "url": "https://hirose-fx.co.jp/",

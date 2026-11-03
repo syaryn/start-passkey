@@ -2,12 +2,13 @@
   "name": "SAPアカウント",
   "reading": "えすえーぴーあかうんと",
   "domain": "accounts.sap.com",
-  "url": "https://accounts.sap.com/",
-  "categories": ["business"],
+  "categories": [
+    "business"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://support.sap.com/en/my-support/mfa.html",
+  "verifiedUrl": "https://support.sap.com/ja/my-support/mfa.html?isu_page=1",
+  "url": "https://accounts.sap.com/",
   "notes": "accounts.sap.com の個人アカウント（SAP ID）でTOTP二要素認証を有効化でき、ログイン時に認証アプリのコードが必要になる。パスキーはSAP Cloud Identity Services（顧客企業テナント向けIdP）の機能であり、個人アカウント側の公式案内はないため数えていない。",
-  "delegatedServices": [],
   "recommendation": "authenticator",
-  "documentationUrl": "https://support.sap.com/en/my-support/mfa.html"
+  "documentationUrl": "https://support.sap.com/ja/my-support/mfa.html?isu_page=1"
 }

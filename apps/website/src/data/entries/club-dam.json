@@ -2,11 +2,12 @@
   "name": "クラブDAM（DAM★とも）",
   "reading": "くらぶだむ",
   "domain": "clubdam.com",
-  "url": "https://www.clubdam.com/",
-  "categories": ["music"],
+  "categories": [
+    "music"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.clubdam.com/faq/damtomo/login/impossible.html",
+  "url": "https://www.clubdam.com/",
   "notes": "第一興商のカラオケDAM会員サービス。ログインはDAM★ともID＋パスワード（clubDAMメンバーズカードのCDM番号＋パスワード、またはX/Facebook連携でも可）。登録時・サイト初回ログイン時にメール認証URLによる確認があるが、これは登録手続きでありログイン時の二段階認証ではない。パスキー・認証アプリ・コードによる追加認証の設定は公式FAQ・規約になし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

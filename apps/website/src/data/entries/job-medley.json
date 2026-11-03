@@ -2,11 +2,12 @@
   "name": "ジョブメドレー",
   "reading": "じょぶめどれー",
   "domain": "job-medley.com",
-  "url": "https://job-medley.com/",
-  "categories": ["health"],
+  "categories": [
+    "health"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://job-medley.com/tips/detail/60508/",
+  "url": "https://job-medley.com/",
   "notes": "ログインはメールアドレス＋パスワードのみ。SMSによる電話番号認証は会員登録時と氏名・電話番号の変更時に行う本人確認であり、ログイン時の二要素認証ではない。認証アプリ・パスキーの設定案内はなし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

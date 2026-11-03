@@ -2,7 +2,9 @@
   "name": "マイナポータル",
   "reading": "まいなぽーたる",
   "domain": "myna.go.jp",
-  "categories": ["government"],
+  "categories": [
+    "government"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://services.digital.go.jp/mynaportal/login/",
   "url": "https://myna.go.jp/",

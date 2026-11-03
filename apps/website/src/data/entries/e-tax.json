@@ -2,7 +2,9 @@
   "name": "e-Tax",
   "reading": "いーたっくす",
   "domain": "e-tax.nta.go.jp",
-  "categories": ["government"],
+  "categories": [
+    "government"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.e-tax.nta.go.jp/e-taxsoftweb/e-taxsoftweb.htm",
   "url": "https://www.e-tax.nta.go.jp/",

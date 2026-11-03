@@ -2,12 +2,13 @@
   "name": "えきねっと",
   "reading": "えきねっと",
   "domain": "eki-net.com",
-  "url": "https://www.eki-net.com/",
-  "categories": ["rail"],
+  "categories": [
+    "rail"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.jreast.co.jp/ko/jreid/security/",
+  "url": "https://www.eki-net.com/",
   "notes": "ログインにはJR東日本の統合ID「JRE ID」を使用する（新規会員登録にはJRE IDが必要）。JRE IDのマイページでパスキー認証を設定でき、設定した端末ではパスワードの代わりに指紋・顔認証やPIN等でログインできる。ほかにSMS認証もJRE IDで利用可能（公式「JRE ID より安全にご利用いただくために」）。",
-  "delegatedServices": [],
   "recommendation": "passkey",
   "documentationUrl": "https://www.jreast.co.jp/ko/jreid/security/",
   "passkey": {

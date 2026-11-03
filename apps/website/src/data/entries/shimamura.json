@@ -2,36 +2,12 @@
   "name": "しまむら",
   "reading": "しまむら",
   "domain": "shop-shimamura.com",
-  "url": "https://www.shop-shimamura.com/",
-  "categories": ["fashion"],
+  "categories": [
+    "fashion"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.shimamura.gr.jp/shimamura/featured/shimamurapark/",
+  "url": "https://www.shop-shimamura.com/",
   "notes": "しまむらグループ共通会員（しまむら/アベイル/バースデイ/シャンブル/ディバロのアプリ・オンラインストア共通）。会員IDはメールアドレス＋パスワードでログイン。ゲスト利用も可。ログイン時の二段階認証やパスキーの設定案内は公式情報になし",
-  "delegatedServices": [
-    {
-      "name": "アベイル",
-      "reading": "あべいる",
-      "sourceUrl": "https://www.shimamura.gr.jp/shimamura/featured/shimamurapark/",
-      "sourceNote": "しまむら公式「しまむらパーク」: しまむら/アベイル/バースデイ/シャンブル/ディバロ共通の統合ストア・アプリ（公式リリースにも5ブランド共通会員サービスと明記）"
-    },
-    {
-      "name": "バースデイ",
-      "reading": "ばーすでい",
-      "sourceUrl": "https://www.shimamura.gr.jp/shimamura/featured/shimamurapark/",
-      "sourceNote": "同上（5ブランド共通会員）"
-    },
-    {
-      "name": "シャンブル",
-      "reading": "しゃんぶる",
-      "sourceUrl": "https://www.shimamura.gr.jp/shimamura/featured/shimamurapark/",
-      "sourceNote": "同上（5ブランド共通会員）"
-    },
-    {
-      "name": "ディバロ",
-      "reading": "でぃばろ",
-      "sourceUrl": "https://www.shimamura.gr.jp/shimamura/featured/shimamurapark/",
-      "sourceNote": "同上（5ブランド共通会員）"
-    }
-  ],
   "recommendation": "password-only"
 }

@@ -2,11 +2,12 @@
   "name": "ワールド オンラインストア",
   "reading": "わーるどおんらいんすとあ",
   "domain": "store.world.co.jp",
-  "url": "https://store.world.co.jp/",
-  "categories": ["fashion"],
+  "categories": [
+    "fashion"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://store.world.co.jp/help/wpc/guide01.html",
+  "url": "https://store.world.co.jp/",
   "notes": "会員基盤はワールド プレミアムクラブで、ログインはメールアドレス＋パスワードのみ。二段階認証・認証アプリ・パスキーの設定は公式ヘルプに案内がない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

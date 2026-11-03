@@ -2,11 +2,12 @@
   "name": "チケットぴあ",
   "reading": "ちけっとぴあ",
   "domain": "t.pia.jp",
-  "url": "https://t.pia.jp/",
-  "categories": ["tickets"],
+  "categories": [
+    "tickets"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://t.pia.jp/guide/tel-auth.jsp",
+  "url": "https://t.pia.jp/",
   "notes": "ログインはぴあ会員ID＋パスワードのみで、ログイン時に使える追加認証の設定はない。「電話番号認証」（登録電話番号から画面表示の指定番号へ発信する発信型）は、新規会員登録時・電話番号変更時・未認証状態でのチケット購入時・アプリ初回ログイン時などに完了を求められる電話番号の本人確認（認証済み状態の付与）であり、ログインのたびに求められる追加要素ではないため、本ディレクトリの基準では数えない（セキュリティ対策としてマイページログイン時に再認証を求められる場合がある旨の案内はある）。パスキー・認証アプリの設定はなし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

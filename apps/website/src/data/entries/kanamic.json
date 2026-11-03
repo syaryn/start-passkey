@@ -2,11 +2,12 @@
   "name": "カナミック",
   "reading": "かなみっく",
   "domain": "kanamic.net",
-  "url": "https://www.kanamic.net/",
-  "categories": ["backoffice"],
+  "categories": [
+    "backoffice"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.kanamic.net/medical/",
+  "url": "https://www.kanamic.net/",
   "notes": "医療・介護情報共有システム（TRITRUS等）のログインは、クライアント証明書による端末認証とID・パスワードの併用（二要素認証）。「電子証明書専用ログイン」からアクセスし、端末にインストールされた電子証明書（KN PKI）の提示が必須で、証明書のない端末からはログイン画面に到達できない。そのうえで個人に発行されたID・パスワードを入力する。公式サイトでも医療向けシステムの機能として「ネットワークセキュリティ（証明書発行）」を掲げており、証明書＋ID/パスワードの構成は導入自治体の運用マニュアルでも確認できる。なお証明書の要否は運用形態により異なり、個人情報を扱わない事業所アカウント等ではID/パスワードのみでログインする運用もある",
-  "delegatedServices": [],
   "recommendation": "none"
 }

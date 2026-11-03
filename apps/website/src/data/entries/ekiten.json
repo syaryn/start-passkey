@@ -2,11 +2,12 @@
   "name": "エキテン",
   "reading": "えきてん",
   "domain": "ekiten.jp",
-  "url": "https://www.ekiten.jp/",
-  "categories": ["lifestyle"],
+  "categories": [
+    "lifestyle"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.ekiten.jp/",
+  "url": "https://www.ekiten.jp/",
   "notes": "エキテン会員のログインはメールアドレス＋パスワードのみ。公式サイト・公式案内に二段階認証・認証アプリ・パスキーの設定項目は確認できない。登録時や再設定時のメール確認はログイン用2FAとして数えない。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

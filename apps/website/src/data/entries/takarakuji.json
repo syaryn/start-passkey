@@ -2,11 +2,12 @@
   "name": "宝くじ公式サイト",
   "reading": "たからくじこうしきさいと",
   "domain": "takarakuji-official.jp",
-  "url": "https://www.takarakuji-official.jp/",
-  "categories": ["gambling"],
+  "categories": [
+    "gambling"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.takarakuji-official.jp/login/",
+  "url": "https://www.takarakuji-official.jp/",
   "notes": "ログインはメールアドレスとパスワードのみで、追加認証の設定はない。クレジットカード購入時の3Dセキュアはカード発行会社側の本人認証であり、アカウントの追加認証ではない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

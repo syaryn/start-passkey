@@ -2,11 +2,12 @@
   "name": "スポーツクラブ ルネサンス",
   "reading": "すぽーつくらぶ るねさんす",
   "domain": "s-re.jp",
-  "url": "https://www.s-re.jp/",
-  "categories": ["fitness"],
+  "categories": [
+    "fitness"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.s-re.jp/member/mypage/guide-signup/",
+  "url": "https://www.s-re.jp/",
   "notes": "会員マイページのログインはメールアドレス＋パスワードのみ。登録時のメール認証は登録手続き用でログイン2FAではない。公式案内に二段階認証・認証アプリ・パスキーの設定なし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

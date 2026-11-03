@@ -2,11 +2,12 @@
   "name": "MAGASEEK",
   "reading": "まがしーく",
   "domain": "magaseek.com",
-  "url": "https://www.magaseek.com/",
-  "categories": ["fashion"],
+  "categories": [
+    "fashion"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.magaseek.com/contents/guide/",
+  "url": "https://www.magaseek.com/",
   "notes": "ログインはメールアドレスとパスワードのみ（2024年10月のリニューアルで従来の会員IDは廃止され、メールアドレスがログインIDになった）。公式ガイドに二段階認証・認証アプリ・パスキーの記載はない。ロコンドアカウントを使った会員登録は可能だが、ログイン自体はメールアドレス＋パスワード",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

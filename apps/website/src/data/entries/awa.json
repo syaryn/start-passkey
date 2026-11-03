@@ -2,11 +2,12 @@
   "name": "AWA",
   "reading": "あわ",
   "domain": "awa.fm",
-  "url": "https://awa.fm/",
-  "categories": ["music"],
+  "categories": [
+    "music"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://guide.awa.fm/hc/ja/articles/115009190627-PCアプリで認証コードを利用してログインする方法",
+  "url": "https://awa.fm/",
   "notes": "ログインはメールアドレス＋パスワード、またはFacebook・X・Google・Appleの外部ID連携。PC版には「認証コードでログイン」があるが、これはログイン画面に表示されたコードをログイン済みスマホアプリの「デバイス認証」画面に入力する（またはQRコードを読み取りアプリで承認する）端末連携型のサインインであり、コードが利用者へ送付される方式ではなく、パスワードログインに追加する二要素認証の設定でもない。公式ヘルプに二段階認証・認証アプリ・パスキーの設定案内はない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

@@ -2,11 +2,12 @@
   "name": "ミライシード",
   "reading": "みらいしーど",
   "domain": "benesse.ne.jp",
-  "categories": ["education"],
+  "categories": [
+    "education"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://bso.benesse.ne.jp/miraiseed/fansite/start/assets/img/Password_and_2FA_Settings.pdf",
   "notes": "子どもは学校コード・ID・パスワードのみ。先生は学校の管理者設定のもと、ログイン時にメールまたはSMSで届く認証コードによる二要素認証を適用できる（本人の送信先登録が必要）。認証アプリ・パスキーはなし",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://bso.benesse.ne.jp/miraiseed/fansite/start/assets/img/Password_and_2FA_Settings.pdf"
 }

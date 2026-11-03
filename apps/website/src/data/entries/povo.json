@@ -2,7 +2,9 @@
   "name": "povo",
   "reading": "ぽゔぉ",
   "domain": "povo.jp",
-  "categories": ["utilities"],
+  "categories": [
+    "utilities"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://povo.jp/support/login/",
   "notes": "povo2.0アプリ・povo shopへのログインは、契約時に登録したメールアドレス宛に送られる6桁コードを入力する方式（パスワードレス）。任意で6桁のログインパスコードを設定でき、その場合はコード入力後にパスコード入力が追加される（設定方法: https://povo.jp/support/login-passcode/）。au IDは任意の連携先であり、ログイン自体はpovoアカウントで行う。パスキー・認証アプリの案内は公式情報になし",

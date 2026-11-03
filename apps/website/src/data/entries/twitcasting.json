@@ -2,12 +2,13 @@
   "name": "ツイキャス",
   "reading": "ついきゃす",
   "domain": "twitcasting.tv",
-  "url": "https://twitcasting.tv/",
-  "categories": ["social"],
+  "categories": [
+    "social"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://twitcasting.tv/helpcenter.php?pid=151",
+  "url": "https://twitcasting.tv/",
   "notes": "ログインはキャスアカウント（アカウントIDまたはメールアドレス＋パスワード）またはSNS連携（X・Google等）。ほかに、登録メールアドレス宛に送られる認証コードでアプリにログインする方法が公式ヘルプに案内されている（主にSNSログインが使えない場合の補助的なログイン方法で、パスワードの二要素目として設定するものではない）。二段階認証の設定・認証アプリ・パスキーの案内は公式ヘルプになし",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://twitcasting.tv/helpcenter.php?pid=151"
 }

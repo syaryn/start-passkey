@@ -2,11 +2,12 @@
   "name": "コミックフェスタ",
   "reading": "こみっくふぇすた",
   "domain": "comic.iowl.jp",
-  "url": "https://comic.iowl.jp/",
-  "categories": ["hobby"],
+  "categories": [
+    "hobby"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://comic.iowl.jp/faq/answer107",
+  "url": "https://comic.iowl.jp/",
   "notes": "独自のFestaアカウントはメールアドレス＋パスワードのみ。キャリアID（dアカウント/au ID/My SoftBank）やLINE・Google等の外部IDログインも選べるが、その場合は外部ID側の認証に従う。公式FAQ・利用規約に二段階認証・認証アプリ・パスキーの設定案内は見当たらない。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

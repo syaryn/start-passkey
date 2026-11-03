@@ -2,14 +2,15 @@
   "name": "Heroku",
   "reading": "へろく",
   "domain": "heroku.com",
-  "url": "https://www.heroku.com/",
-  "categories": ["developer"],
+  "categories": [
+    "developer"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://devcenter1.assets.heroku.com/articles/multi-factor-authentication",
+  "verifiedUrl": "https://devcenter1.assets.heroku.com/ja/articles/multi-factor-authentication",
+  "url": "https://www.heroku.com/",
   "notes": "Heroku公式Dev Centerで確認。SalesforceのMFAが全アカウントに必須で、ログインはメール+パスワードの後に検証方法の提示が必要。WebAuthn対応セキュリティキー（YubiKey等）と内蔵認証器（Touch ID/Face ID/Windows Hello等のFIDO2プラットフォーム認証器）が検証方法として登録でき、TOTPアプリやSalesforce Authenticatorも選べる。パスキーによるパスワードレスサインインはなく、WebAuthnはあくまで第2要素。MFA自体は必須だが、WebAuthn方式の利用は任意選択のためmfaはallowedとした。",
-  "delegatedServices": [],
   "recommendation": "passkey",
-  "documentationUrl": "https://devcenter1.assets.heroku.com/articles/multi-factor-authentication",
+  "documentationUrl": "https://devcenter1.assets.heroku.com/ja/articles/multi-factor-authentication",
   "passkey": {
     "mfa": "allowed"
   }

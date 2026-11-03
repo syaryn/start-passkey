@@ -2,7 +2,9 @@
   "name": "千葉銀行",
   "reading": "ちばぎんこう",
   "domain": "chibabank.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.chibabank.co.jp/kojin/services/account/myaccess/details/myaccess_terms",
   "url": "https://www.chibabank.co.jp/",

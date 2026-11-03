@@ -32,7 +32,6 @@ add("marketplace", [
 add("food", [
   "dominos",
   "kfc",
-  "doordash",
   "oisix",
   "coopdeli",
   "life",

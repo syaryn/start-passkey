@@ -19,7 +19,6 @@ add("travel", [
   "hotels-com",
   "ikkyu",
   "jtb",
-  "kayak",
   "rurubu-travel",
   "skyscanner",
   "skyticket",
@@ -46,8 +45,6 @@ add("aviation", [
   "solaseed",
   "spring-japan",
   "starflyer",
-  "flying-blue",
-  "lufthansa",
   "fda",
 ]);
 
@@ -66,16 +63,16 @@ add("rail", [
 
 add("bus", ["bus-catch", "kosoku-bus"]);
 
-add("mobility", ["uber", "lyft", "times-carshare"]);
+add("mobility", ["uber", "times-carshare"]);
 
 add("car-rental", ["nippon-rentacar", "orix-rentacar"]);
 
-add("automotive", ["bmw", "ford", "mercedes-benz", "my-toyota", "nissan", "tesla", "rivian"]);
+add("automotive", ["my-toyota", "nissan", "tesla"]);
 
 add("logistics", ["sagawa", "kuroneko-members"]);
 
 /** 道路・航路・ナビなど */
-add("transport", ["etc-meisai", "ferry-sunflower", "navitime", "flightradar24"]);
+add("transport", ["etc-meisai", "ferry-sunflower", "navitime"]);
 
 export function categoriesForTransportEntry(entryId: string): CategorySlug[] | null {
   const mapped = TO_CATEGORY[entryId];

@@ -17,24 +17,18 @@ add("streaming", [
   "wowow",
   "nhk-plus",
   "tver",
-  "paramount-plus",
-  "peacock",
   "abema",
   "danime-store",
-  "bilibili",
   "twitch",
   "niconico",
   "vimeo",
   "filmarks",
-  "letterboxd",
 ]);
 
 add("music", [
   "spotify",
   "awa",
-  "soundcloud",
   "recochoku",
-  "bandcamp",
   "radiko",
   "joysound",
   "club-dam",
@@ -56,8 +50,6 @@ add("tickets", [
   "livepocket",
   "ticket-board",
   "tixplus",
-  "stubhub",
-  "eventbrite",
   "jleague-ticket",
   "cn-playguide",
   "ticketjam",
@@ -74,11 +66,9 @@ add("hobby", [
   "dlsite",
   "geo-id",
   "hmv",
-  "goodreads",
   "booklive",
   "honto",
   "piccoma",
-  "webtoon",
   "syosetu",
   "renta",
   "mechacomic",
@@ -106,8 +96,6 @@ add("social", [
 add("points", ["anycolor-id", "family-club", "vivion-id"]);
 
 add("lifestyle", ["kaikatsu-club", "yelp", "lawson-web-member", "hawks-member"]);
-
-add("fitness", ["alltrails"]);
 
 export function categoriesForEntertainmentEntry(entryId: string): CategorySlug[] | null {
   const mapped = TO_CATEGORY[entryId];

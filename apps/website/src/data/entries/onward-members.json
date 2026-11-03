@@ -2,18 +2,12 @@
   "name": "オンワードメンバーズ",
   "reading": "おんわーどめんばーず",
   "domain": "crosset.onward.co.jp",
-  "url": "https://crosset.onward.co.jp/",
-  "categories": ["fashion"],
+  "categories": [
+    "fashion"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://crosset.onward.co.jp/guide/member",
+  "url": "https://crosset.onward.co.jp/",
   "notes": "オンワード樫山の共通会員基盤で、オンワードクローゼット等の対象通販サイトや対象ショップで共通利用される。ログインはログインID（メールアドレス）＋パスワードのみ（公式ガイド明記）。SMSはパスワード再設定時の送付手段として案内されるのみで、ログイン時の二段階認証・認証アプリ・パスキーの設定は公式ガイドにない。LINE・Yahoo! JAPAN ID・Google・Facebook・Amazon経由の会員登録も可能だが、基盤自体の追加認証ではない",
-  "delegatedServices": [
-    {
-      "name": "オンワードクローゼット",
-      "reading": "おんわーどくろーぜっと",
-      "sourceUrl": "https://crosset.onward.co.jp/login",
-      "sourceNote": "オンワードクローゼット公式ログインページの見出しが「オンワードメンバーズにご登録済みの方」"
-    }
-  ],
   "recommendation": "password-only"
 }

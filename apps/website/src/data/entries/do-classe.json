@@ -2,11 +2,12 @@
   "name": "ドゥクラッセ",
   "reading": "どぅくらっせ",
   "domain": "doclasse.com",
-  "url": "https://www.doclasse.com/",
-  "categories": ["fashion"],
+  "categories": [
+    "fashion"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.doclasse.com/login",
+  "url": "https://www.doclasse.com/",
   "notes": "ログインはメールアドレス＋会員パスワードのみ。公式FAQ・利用規約を確認した範囲で、二段階認証・認証アプリ・パスキーの設定案内は見当たらない。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

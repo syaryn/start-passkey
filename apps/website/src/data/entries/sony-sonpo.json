@@ -2,12 +2,13 @@
   "name": "ソニー損保",
   "reading": "そにーそんぽ",
   "domain": "sonysonpo.co.jp",
-  "url": "https://www.sonysonpo.co.jp/",
-  "categories": ["insurance"],
+  "categories": [
+    "insurance"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq.sonysonpo.co.jp/faq_detail.html?id=811",
+  "url": "https://www.sonysonpo.co.jp/",
   "notes": "ご契約者ページ（マイページ）では「デバイス認証（パスキー）」を設定でき、次回以降はID・パスワード入力なしでログインできる（設定した端末・ブラウザ単位、QRコードによるクロスデバイス認証も可）。パスワード代替方式のためmfaはunsupported。このほか証券番号ログインでは登録メール/SMS宛の認証コードによる二要素認証がある",
-  "delegatedServices": [],
   "recommendation": "passkey",
   "documentationUrl": "https://faq.sonysonpo.co.jp/faq_detail.html?id=811",
   "passkey": {

@@ -2,7 +2,9 @@
   "name": "NEXON ID",
   "reading": "ねくそんあいでぃー",
   "domain": "jp.nexon.com",
-  "categories": ["gaming"],
+  "categories": [
+    "gaming"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://jp.nexon.com/security/passkey",
   "url": "https://jp.nexon.com/",

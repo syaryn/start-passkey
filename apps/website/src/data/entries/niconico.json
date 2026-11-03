@@ -2,12 +2,13 @@
   "name": "ニコニコ",
   "reading": "にこにこ",
   "domain": "nicovideo.jp",
-  "url": "https://www.nicovideo.jp/",
-  "categories": ["streaming"],
+  "categories": [
+    "streaming"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://qa.nicovideo.jp/faq/show/4500?site_domain=default",
+  "url": "https://www.nicovideo.jp/",
   "notes": "2段階認証の確認コードは、認証アプリ（Google Authenticatorまたは互換性のあるアプリ）で発行する方法と、登録メールアドレス宛に送信される方法のいずれか。バックアップコードも作成できる。パスキーの設定は公式ヘルプで確認できなかった。なおクリエイター奨励プログラムの利用には2段階認証の設定が必須とされている。",
-  "delegatedServices": [],
   "recommendation": "authenticator",
   "documentationUrl": "https://qa.nicovideo.jp/faq/show/4500?site_domain=default"
 }

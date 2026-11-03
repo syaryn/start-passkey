@@ -2,7 +2,9 @@
   "name": "松井証券",
   "reading": "まついしょうけん",
   "domain": "matsui.co.jp",
-  "categories": ["investing"],
+  "categories": [
+    "investing"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support.matsui.co.jp/faq/show/54516?site_domain=faq",
   "url": "https://www.matsui.co.jp/",

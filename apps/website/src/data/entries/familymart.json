@@ -2,10 +2,12 @@
   "name": "ファミペイ（ファミマのアプリ）",
   "reading": "ふぁみぺい",
   "domain": "famipay.famidigi.jp",
-  "categories": ["payments"],
+  "categories": [
+    "payments"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://famipay.famidigi.jp/guide/safety-and-security/",
-  "url": "https://www.family.co.jp/famipay.html",
+  "verifiedUrl": "https://www.family.co.jp/famipay.html",
+  "url": "https://www.family.co.jp",
   "notes": "ログインは電話番号＋パスワード。公式の安心・安全ページで2要素認証としてSMSワンタイムパスワードが案内される。アプリでは端末の生体認証でログイン（暗証番号の代替）も設定できるが、FIDOパスキーではない",
   "recommendation": "code",
   "documentationUrl": "https://famipay.famidigi.jp/guide/safety-and-security/"

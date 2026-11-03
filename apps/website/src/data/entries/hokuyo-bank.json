@@ -2,7 +2,9 @@
   "name": "北洋銀行",
   "reading": "ほくようぎんこう",
   "domain": "hokuyobank.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.hokuyobank.co.jp/ib/token/h_image/token06.pdf",
   "url": "https://www.hokuyobank.co.jp/",

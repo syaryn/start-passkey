@@ -2,11 +2,12 @@
   "name": "マツキヨココカラオンラインストア",
   "reading": "まつきよここからおんらいんすとあ",
   "domain": "matsukiyococokara-online.com",
-  "url": "https://www.matsukiyococokara-online.com/",
-  "categories": ["retail"],
+  "categories": [
+    "retail"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.matsukiyococokara-online.com/store/customer/guest/login/",
+  "url": "https://www.matsukiyococokara-online.com/",
   "notes": "マツキヨココカラグループ会員のログインは、ログインID（メールアドレス）とパスワードに不正ログイン防止のパズル認証（CAPTCHA）を組み合わせた方式。公式FAQにログイン時の二段階認証・認証アプリ・パスキーの設定案内はない。新規会員登録時のワンタイムパスワード（認証コード）はメールアドレス確認用。LINEと連携したログインにも対応する。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

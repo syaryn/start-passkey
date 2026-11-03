@@ -2,11 +2,12 @@
   "name": "GRL（グレイル）",
   "reading": "ぐれいる",
   "domain": "grail.bz",
-  "url": "https://www.grail.bz/",
-  "categories": ["fashion"],
+  "categories": [
+    "fashion"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.grail.bz/html/faq_login01/",
+  "url": "https://www.grail.bz/",
   "notes": "ログインはメールアドレスとパスワードのみ。公式FAQに二段階認証・認証アプリ・パスキーの案内はなく、パスワード再発行はメールリンク方式。ログイン画面に表示されるreCAPTCHAはボット対策であり二要素認証ではない。dアカウントとの連携機能があるが、ログイン自体はGRLアカウントで行う。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

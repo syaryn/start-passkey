@@ -2,11 +2,12 @@
   "name": "阪急電鉄 PRiVACE（座席予約サイト）",
   "reading": "はんきゅうでんてつぷらいべーす",
   "domain": "hankyu.co.jp",
-  "url": "https://www.hankyu.co.jp/",
-  "categories": ["rail"],
+  "categories": [
+    "rail"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.hankyu.co.jp/traveler/22_privace_terms2.pdf",
+  "url": "https://www.hankyu.co.jp/",
   "notes": "阪急電鉄の座席指定サービスPRiVACEの予約サイト。ログインは阪急阪神グループ共通ID「HH cross ID」とパスワードで行い、会員規約上もログインはその入力と定義されている。HH cross IDの新規登録時にメール認証コードを使うが、ログイン時の二段階認証・認証アプリ・パスキーの設定案内は公式情報になし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

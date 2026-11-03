@@ -2,11 +2,12 @@
   "name": "クラブツーリズム",
   "reading": "くらぶつーりずむ",
   "domain": "club-t.com",
-  "url": "https://www.club-t.com/",
-  "categories": ["travel"],
+  "categories": [
+    "travel"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.club-t.com/ct/member/guide/",
+  "url": "https://www.club-t.com/",
   "notes": "インターネット会員のログインはメールアドレス＋パスワード（会員規約にパスワード管理の定めあり）。新規登録時にメール認証コードによるアドレス確認があるが、ログイン時の二段階認証・パスキー・認証アプリの設定は公式情報に見当たらない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

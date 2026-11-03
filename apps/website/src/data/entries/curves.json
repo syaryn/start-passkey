@@ -2,11 +2,12 @@
   "name": "カーブス",
   "reading": "かーぶす",
   "domain": "curves.co.jp",
-  "url": "https://www.curves.co.jp/",
-  "categories": ["fitness"],
+  "categories": [
+    "fitness"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.curves.co.jp/faq/",
+  "url": "https://www.curves.co.jp/",
   "notes": "会員ログインは公式アプリ（会員番号＋パスワード）。初回登録時のメール認証コードは登録手続き用でログイン2FAではない。公式情報に二段階認証・認証アプリ・パスキーの設定案内なし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

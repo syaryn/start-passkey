@@ -2,7 +2,9 @@
   "name": "Zenn",
   "reading": "ぜん",
   "domain": "zenn.dev",
-  "categories": ["developer"],
+  "categories": [
+    "developer"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://info.zenn.dev/2024-09-10-email-login",
   "url": "https://zenn.dev/",

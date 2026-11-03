@@ -2,12 +2,13 @@
   "name": "Renta!",
   "reading": "れんた",
   "domain": "renta.papy.co.jp",
-  "url": "https://renta.papy.co.jp/",
-  "categories": ["hobby"],
+  "categories": [
+    "hobby"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://renta.papy.co.jp/page/support/help",
+  "url": "https://renta.papy.co.jp/",
   "notes": "2026年10月の不正アクセス事案後の再開時にパスキー認証に対応（公式トップ・ヘルプで確認）。パスキーは任意設定でパスワードレスのログインが可能。メールアドレスでログインする場合は、過去に利用のない端末からだと確認コードの入力が必要。パスキーを常時の多要素認証として使う設定は公式情報で確認できずmfaはunknown",
-  "delegatedServices": [],
   "recommendation": "passkey",
   "documentationUrl": "https://renta.papy.co.jp/page/support/help",
   "passkey": {

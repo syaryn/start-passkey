@@ -2,12 +2,13 @@
   "name": "HMV&BOOKS online",
   "reading": "えいちえむぶいあんどぶっくすおんらいん",
   "domain": "hmv.co.jp",
-  "url": "https://www.hmv.co.jp/",
-  "categories": ["hobby"],
+  "categories": [
+    "hobby"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.hmv.co.jp/guide/",
+  "url": "https://www.hmv.co.jp/",
   "notes": "認証基盤はローチケ等と共通のローソンWEB会員（ローソンIDとは別）。ログインはメールアドレス＋パスワードで、任意設定の2段階認証を有効にするとログイン時に登録メールアドレス宛に認証コードが送られる。認証アプリ・パスキーはなし。",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://l-tike.com/guide/2stepverification.html"
 }

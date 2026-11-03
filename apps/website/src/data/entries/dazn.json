@@ -2,10 +2,11 @@
   "name": "DAZN",
   "reading": "だぞーん",
   "domain": "dazn.com",
-  "categories": ["streaming"],
+  "categories": [
+    "streaming"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.dazn.com/ja-JP/help/articles/26021001643165",
   "notes": "ログインはメールアドレス＋パスワード（ソーシャルアカウント連携も可）。日本向け公式ヘルプ「DAZNアカウントを安全に保つ方法」でも推奨事項は強固なパスワードの使用とデバイス管理のみで、パスキーや二段階認証の設定案内はない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

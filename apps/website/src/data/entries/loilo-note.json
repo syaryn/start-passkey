@@ -2,11 +2,12 @@
   "name": "ロイロノート・スクール",
   "reading": "ろいろのーと・すくーる",
   "domain": "loilonote.app",
-  "url": "https://loilonote.app/",
-  "categories": ["education"],
+  "categories": [
+    "education"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.loilonote.app/--5cef443be6115a00173963a8",
+  "url": "https://loilonote.app/",
   "notes": "独自ログインは学校ID・ユーザーID・パスワードのみで、二段階認証・認証アプリ・パスキーの設定案内は公式サポートになし。他に学校が導入したGoogleアカウント/MicrosoftアカウントでのSSOログインもあり、その場合は各IdP側の認証方式に従う。アカウントは学校（管理者）が発行する。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

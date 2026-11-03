@@ -2,11 +2,12 @@
   "name": "産経iD（産経新聞）",
   "reading": "さんけいあいでぃー",
   "domain": "id.sankei.jp",
-  "url": "https://www.sankei.com/",
-  "categories": ["media"],
+  "categories": [
+    "media"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.sankei.com/?s=%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3",
+  "url": "https://www.sankei.com/",
   "notes": "公式ヘルプセンターで「パスキー」「二段階認証」を検索しても該当項目はなく、ログインは会員登録したメールアドレスとパスワード（Googleアカウントでのソーシャルログインも可）のみ。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

@@ -2,11 +2,12 @@
   "name": "快活CLUB",
   "reading": "かいかつくらぶ",
   "domain": "kaikatsu.jp",
-  "url": "https://www.kaikatsu.jp/",
-  "categories": ["lifestyle"],
+  "categories": [
+    "lifestyle"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.kaikatsu.jp/info/detail/Appliver3-login.html",
+  "url": "https://www.kaikatsu.jp/",
   "notes": "公式アプリ・Web予約ともログインは会員番号（ログインID）＋パスワードのみ。SMSは会員番号を忘れた際の通知・本人確認に使われるもので、ログイン時の二段階認証ではない。パスキー・認証アプリの設定案内は公式情報にない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

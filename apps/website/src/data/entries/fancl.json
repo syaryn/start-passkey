@@ -2,11 +2,12 @@
   "name": "ファンケルオンライン",
   "reading": "ふぁんけるおんらいん",
   "domain": "fancl.co.jp",
-  "url": "https://www.fancl.co.jp/",
-  "categories": ["beauty"],
+  "categories": [
+    "beauty"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.fancl.co.jp/help/guide_2_4.html",
+  "url": "https://www.fancl.co.jp/",
   "notes": "ログインはEメールアドレス（またはお客様番号）＋パスワード。任意で「本人認証（秘密の質問と答え）」を設定でき、設定時はログイン時にその答えの入力も求められるが、これは知識情報による確認であり、コード認証・認証アプリ・パスキーではない。公式ガイド・FAQに二段階認証（SMS/メールコード）、認証アプリ、パスキーの設定案内はなし。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

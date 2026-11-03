@@ -2,7 +2,9 @@
   "name": "北海道電力（ほくでんエネモール）",
   "reading": "ほっかいどうでんりょく",
   "domain": "enemall.hepco.co.jp",
-  "categories": ["utilities"],
+  "categories": [
+    "utilities"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.enemall.hepco.co.jp/u.contents/cd/entry_flow.html",
   "url": "https://www.hepco.co.jp/",

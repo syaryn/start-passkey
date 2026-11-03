@@ -2,7 +2,10 @@
   "name": "ENEOSカード",
   "reading": "えねおすかーど",
   "domain": "eneos.co.jp",
-  "categories": ["payments", "transport"],
+  "categories": [
+    "payments",
+    "transport"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq.toyota-finance.co.jp/faq/show/18244?site_domain=eneos",
   "url": "https://www.eneos.co.jp/",

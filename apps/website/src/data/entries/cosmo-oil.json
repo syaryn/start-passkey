@@ -2,7 +2,10 @@
   "name": "コスモ・ザ・カード",
   "reading": "こすも・ざ・かーど",
   "domain": "cosmo-thecard.com",
-  "categories": ["payments", "transport"],
+  "categories": [
+    "payments",
+    "transport"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.cosmo-thecard.com/Inc/Member/MemCertify.asp",
   "url": "https://www.cosmo-thecard.com/",

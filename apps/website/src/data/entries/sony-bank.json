@@ -2,7 +2,9 @@
   "name": "ソニー銀行",
   "reading": "そにーぎんこう",
   "domain": "sonybank.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://sonybank.jp/guide/support/howtologin/",
   "url": "https://sonybank.jp/",

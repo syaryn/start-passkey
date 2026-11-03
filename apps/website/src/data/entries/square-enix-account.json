@@ -2,31 +2,13 @@
   "name": "スクウェア・エニックス アカウント",
   "reading": "すくうぇあえにっくすあかうんと",
   "domain": "square-enix.com",
-  "categories": ["gaming"],
+  "categories": [
+    "gaming"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.jp.square-enix.com/account/otp/",
-  "url": "https://www.jp.square-enix.com/account/",
+  "url": "https://www.jp.square-enix.com",
   "notes": "ログイン時のワンタイムパスワードに、各種認証アプリ（Google Authenticator、Microsoft Authenticator等）が使える。自社ソフトウェアトークンはサービス終了予定で認証アプリへの移行が案内されている。キーホルダー型セキュリティトークンも選択可。ワンタイムパスワードの利用はFFXIV・FFXI・ドラゴンクエストX等のレジストレーションコード登録済みアカウントが中心。パスキーの公式案内はなし",
   "recommendation": "authenticator",
-  "documentationUrl": "https://www.jp.square-enix.com/account/otp/authenticator.html",
-  "delegatedServices": [
-    {
-      "name": "ファイナルファンタジーXIV",
-      "reading": "ふぁいなるふぁんたじーふぉーてぃーん",
-      "sourceUrl": "https://support.jp.square-enix.com/faqarticle.php?kid=67426&id=450",
-      "sourceNote": "公式サポートFAQがFFXIVへのログインをスクウェア・エニックス アカウント前提に案内"
-    },
-    {
-      "name": "ファイナルファンタジーXI",
-      "reading": "ふぁいなるふぁんたじーいれぶん",
-      "sourceUrl": "https://support.eu.square-enix.com/faqarticle.php?kid=60224&id=455&la=2&ret=faq&pv=10&page=0&c=4&sc=0&so=0",
-      "sourceNote": "公式サポートFAQ「you will need a Square Enix account in order to play FINAL FANTASY XI」"
-    },
-    {
-      "name": "ドラゴンクエストX",
-      "reading": "どらごんくえすとてん",
-      "sourceUrl": "https://hiroba.dqx.jp/sc/public/playguide/wintrial_1/",
-      "sourceNote": "DQX公式ガイド「スクウェア・エニックス アカウントを入力してログインしてください」"
-    }
-  ]
+  "documentationUrl": "https://www.jp.square-enix.com/account/otp/authenticator.html"
 }

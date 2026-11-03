@@ -2,7 +2,9 @@
   "name": "大和証券",
   "reading": "だいわしょうけん",
   "domain": "daiwa.jp",
-  "categories": ["investing"],
+  "categories": [
+    "investing"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.daiwa.jp/login/",
   "url": "https://www.daiwa.jp/",

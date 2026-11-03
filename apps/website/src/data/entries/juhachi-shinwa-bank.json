@@ -2,7 +2,9 @@
   "name": "十八親和銀行",
   "reading": "じゅうはちしんわぎんこう",
   "domain": "18shinwabank.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.18shinwabank.co.jp/personal/service/directbanking/security/onetime/",
   "url": "https://www.18shinwabank.co.jp/",

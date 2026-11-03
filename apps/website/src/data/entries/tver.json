@@ -2,11 +2,12 @@
   "name": "TVer",
   "reading": "てぃーばー",
   "domain": "tver.jp",
-  "url": "https://tver.jp/",
-  "categories": ["streaming"],
+  "categories": [
+    "streaming"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.tver.jp/hc/ja/articles/10956380480665-%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E6%96%B9%E6%B3%95%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
+  "url": "https://tver.jp/",
   "notes": "TVer IDのログインはログインIDまたはメールアドレス＋パスワードのみ。2026年9月以降、ログイン時にメールアドレス認証（登録メールアドレスの疎通確認）やパスワード再設定を求められる場合があるが、これは設定可能な二段階認証ではなく予防措置。テレビアプリ向けの6桁コードは端末連携用。パスキー・認証アプリ・任意設定の二段階認証の案内は公式ヘルプにない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

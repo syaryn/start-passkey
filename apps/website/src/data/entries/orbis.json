@@ -2,12 +2,13 @@
   "name": "オルビス",
   "reading": "おるびす",
   "domain": "orbis.co.jp",
-  "url": "https://www.orbis.co.jp/",
-  "categories": ["beauty"],
+  "categories": [
+    "beauty"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq.orbis.co.jp/faq/show/1715?category_id=54&site_domain=open",
+  "url": "https://www.orbis.co.jp/",
   "notes": "ログインはログイン用ID＋パスワード。セキュリティ判定により、ログイン時に登録メールアドレス宛に送られる認証コードの入力（2段階認証）が求められる場合がある（リスクベースで全ログイン必須ではない）。認証アプリ・パスキーの設定案内はなし。Amazonアカウントによる連携ログインも可能。",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://faq.orbis.co.jp/faq/show/1715?category_id=54&site_domain=open"
 }

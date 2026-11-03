@@ -2,12 +2,13 @@
   "name": "チケットジャム",
   "reading": "ちけっとじゃむ",
   "domain": "ticketjam.jp",
-  "url": "https://ticketjam.jp/",
-  "categories": ["tickets"],
+  "categories": [
+    "tickets"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.ticketjam.jp/ja/articles/%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E5%A0%B4%E5%90%88-80f97ab1",
+  "url": "https://ticketjam.jp/",
   "notes": "ログインはメールアドレス＋パスワード（外部サービスID連携も可）。一定の条件下で、メールで届く認証コードによる2段階認証が求められる（事前設定は不要）。パスキー・認証アプリの案内は公式ヘルプになし",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://help.ticketjam.jp/ja/articles/%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E5%A0%B4%E5%90%88-80f97ab1"
 }

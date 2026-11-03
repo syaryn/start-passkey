@@ -2,10 +2,12 @@
   "name": "MyJCB",
   "reading": "まいじぇーしーびー",
   "domain": "jcb.co.jp",
-  "categories": ["payments"],
+  "categories": [
+    "payments"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.jcb.co.jp/myjcb/how-to-use/passkey/index.html",
-  "url": "https://www.jcb.co.jp/myjcb/",
+  "url": "https://www.jcb.co.jp",
   "notes": "Web・アプリともパスキーでログイン可能。パスキーを登録するとID・パスワードでのログインはできなくなる。一部カードはパスキー登録不可",
   "recommendation": "passkey",
   "documentationUrl": "https://j-faq.jcb.co.jp/faq/show/14391?site_domain=default",

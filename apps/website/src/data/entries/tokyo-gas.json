@@ -2,7 +2,9 @@
   "name": "myTOKYOGAS（東京ガス）",
   "reading": "まいとうきょうがす",
   "domain": "tokyo-gas.co.jp",
-  "categories": ["utilities"],
+  "categories": [
+    "utilities"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support.tokyo-gas.co.jp/faq/show/10059?category_id=914&site_domain=open",
   "notes": "ログインID＋パスワードに加え、任意設定のワンタイムパスワード（登録メールアドレスまたはSMSへ送付）をログイン時に追加できる。このほか会員情報等の重要操作時には登録電話番号から認証用番号へ発信する電話による2段階認証がある。認証アプリ・パスキーの案内なし",

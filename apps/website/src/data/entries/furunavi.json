@@ -2,11 +2,12 @@
   "name": "ふるなび",
   "reading": "ふるなび",
   "domain": "furunavi.jp",
-  "url": "https://furunavi.jp/",
-  "categories": ["lifestyle"],
+  "categories": [
+    "lifestyle"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://furunavi.jp/incentive.aspx",
+  "url": "https://furunavi.jp/",
   "notes": "ログインはメールアドレス＋パスワードのみで、ログイン時に使える追加認証の設定はない。ふるなびコインの交換時には本人認証として登録メールアドレスの確認と電話番号確認（携帯電話はSMSの確認コード入力、固定電話は発信確認）が必須であり、登録情報の変更時にもメール/電話確認と秘密の質問が必要だが、いずれもログイン後の機微操作時の認証でログイン自体には使えないため、本ディレクトリの基準では数えない。認証アプリ・パスキーの案内はない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

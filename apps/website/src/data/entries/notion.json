@@ -2,12 +2,13 @@
   "name": "Notion",
   "reading": "のーしょん",
   "domain": "notion.com",
-  "url": "https://www.notion.com/",
-  "categories": ["productivity"],
+  "categories": [
+    "productivity"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.notion.com/help/passkeys",
+  "url": "https://www.notion.com/",
   "notes": "パスキーはパスワードの代替となるログイン方法で、最大5個まで登録でき、FIDO2準拠のハードウェアセキュリティキーも使える。パスワードログイン用に、認証アプリまたはSMSによる2段階認証も別途設定できる。IdPによるSSOログインを必須とする組織のメンバーはパスキーを利用できない。全プランで追加料金なし。",
-  "delegatedServices": [],
   "recommendation": "passkey",
   "documentationUrl": "https://www.notion.com/help/passkeys",
   "passkey": {

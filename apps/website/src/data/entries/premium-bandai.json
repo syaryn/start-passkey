@@ -2,12 +2,13 @@
   "name": "プレミアムバンダイ",
   "reading": "ぷれみあむばんだい",
   "domain": "p-bandai.jp",
-  "url": "https://p-bandai.jp/",
-  "categories": ["hobby"],
+  "categories": [
+    "hobby"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://p-bandai.jp/contents/security/",
+  "url": "https://p-bandai.jp/",
   "notes": "公式安全ガイドに、ログインID・パスワードに加えて2段階目のパスコードを求める「2段階認証」の案内あり（パスコードの送付手段は同ガイドで明示されず）。会員登録時・購入時等には電話番号認証（SMS/音声コード）も実施。バンダイナムコID等の外部IDでもログインでき、その認証方式は各IDに依存する。公式ページ本文は取得ツールで403のため、根拠は公式ドメインの検索インデックス内容による",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://p-bandai.jp/contents/security/"
 }

@@ -2,7 +2,9 @@
   "name": "岡三証券",
   "reading": "おかさんしょうけん",
   "domain": "okasan.co.jp",
-  "categories": ["investing"],
+  "categories": [
+    "investing"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://online.okasan.co.jp/ssl/fxcfd-api/AboutPasskey.html",
   "url": "https://www.okasan.co.jp/",

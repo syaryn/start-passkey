@@ -2,11 +2,12 @@
   "name": "オリックスレンタカー",
   "reading": "おりっくすれんたかー",
   "domain": "car.orix.co.jp",
-  "url": "https://car.orix.co.jp/",
-  "categories": ["car-rental"],
+  "categories": [
+    "car-rental"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://car.orix.co.jp/login/",
+  "url": "https://car.orix.co.jp/",
   "notes": "オリックスレンタカーのウェブ予約ログインは登録メールアドレス＋パスワードのみ（公式ログインページで確認）。二段階認証・パスキー・認証アプリの案内は公式情報になし。法人向けビジネスレンタカー予約サイトもユーザーID・パスワード方式",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

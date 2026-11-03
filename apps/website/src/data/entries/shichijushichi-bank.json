@@ -2,7 +2,9 @@
   "name": "七十七銀行",
   "reading": "しちじゅうしちぎんこう",
   "domain": "77bank.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.77bank.co.jp/inb/qa/",
   "url": "https://www.77bank.co.jp/",

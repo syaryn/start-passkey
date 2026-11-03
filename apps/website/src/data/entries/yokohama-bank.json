@@ -2,7 +2,9 @@
   "name": "横浜銀行",
   "reading": "よこはまぎんこう",
   "domain": "boy.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.boy.co.jp/kojin/myd/security/security09.html",
   "url": "https://www.boy.co.jp/",

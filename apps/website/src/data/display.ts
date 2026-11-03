@@ -9,6 +9,23 @@ export const RECOMMENDATION_LABELS: Record<Recommendation, string> = {
   none: "対象外",
 };
 
+/** Table / detail label when verifiedUrl differs from 公式ヘルプ (documentationUrl). */
+export const DISTINCT_VERIFIED_SOURCE_LABEL = "参考URL";
+
+/**
+ * Returns verifiedUrl only when it should be linked in the UI.
+ * Same URL as 公式ヘルプ → null (show —). password-only / none always return verifiedUrl.
+ */
+export function distinctVerifiedSourceUrl(entry: Entry): string | null {
+  if (entry.recommendation === "password-only" || entry.recommendation === "none") {
+    return entry.verifiedUrl;
+  }
+  if (entry.verifiedUrl === entry.documentationUrl) {
+    return null;
+  }
+  return entry.verifiedUrl;
+}
+
 export function passkeyDetail(entry: Entry): string {
   if (entry.recommendation !== "passkey") {
     return "—";

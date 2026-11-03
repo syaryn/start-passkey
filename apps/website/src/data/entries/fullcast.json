@@ -2,11 +2,12 @@
   "name": "フルキャスト（キャストポータル）",
   "reading": "ふるきゃすと",
   "domain": "fullcast.jp",
-  "url": "https://fullcast.jp/",
-  "categories": ["jobs"],
+  "categories": [
+    "jobs"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://fullcast.jp/flinkpc/ns/faq/",
+  "url": "https://fullcast.jp/",
   "notes": "キャストポータルのログインはログインID＋パスワードのみで、公式FAQに二段階認証・認証アプリ・パスキーの設定案内はなし。米国の同名サービス（fullcast.com）とは別会社",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

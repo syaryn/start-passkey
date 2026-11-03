@@ -2,7 +2,9 @@
   "name": "AtCoder",
   "reading": "あっとこーだー",
   "domain": "atcoder.jp",
-  "categories": ["developer"],
+  "categories": [
+    "developer"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://atcoder.jp/posts/1366",
   "url": "https://atcoder.jp/",

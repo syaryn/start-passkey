@@ -2,7 +2,9 @@
   "name": "Stripe",
   "reading": "すとらいぷ",
   "domain": "stripe.com",
-  "categories": ["payments"],
+  "categories": [
+    "payments"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support.stripe.com/questions/enable-two-step-authentication",
   "url": "https://stripe.com/",

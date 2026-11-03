@@ -2,10 +2,11 @@
   "name": "大丸松坂屋オンラインストア",
   "reading": "だいまるまつざかやおんらいんすとあ",
   "domain": "dmdepart.jp",
-  "categories": ["department"],
+  "categories": [
+    "department"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://dmdepart.jp/app/faq/ja/01.html",
   "notes": "ログインは共通ID「大丸松坂屋ID」（メールアドレス＋パスワード）。公式FAQ・案内に二段階認証、認証アプリ、パスキー等の追加認証の設定は見当たらない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

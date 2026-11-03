@@ -2,11 +2,12 @@
   "name": "My AIRDO",
   "reading": "まいえあどぅ",
   "domain": "airdo.jp",
-  "url": "https://www.airdo.jp/",
-  "categories": ["aviation"],
+  "categories": [
+    "aviation"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.airdo.jp/myairdo/caution/",
+  "url": "https://www.airdo.jp/",
   "notes": "AIRDOの会員サービス。ログインはログインID（メールアドレス、道民会員番号またはお客様番号）とパスワードのみで、公式FAQに二段階認証・認証アプリ・パスキーの案内はない。一部機能では本人確認としてパスワードの再入力が求められるが、追加要素ではない。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

@@ -2,12 +2,13 @@
   "name": "アソビュー！",
   "reading": "あそびゅー",
   "domain": "asoview.com",
-  "url": "https://www.asoview.com/",
-  "categories": ["travel"],
+  "categories": [
+    "travel"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq.asoview.karakuri.ai/answer/646b2ce9d4ad0696cc56aa5c/",
+  "url": "https://www.asoview.com/",
   "notes": "ログインはメールアドレス＋パスワード。普段と異なるブラウザ・アプリからログインする際は、登録メールアドレス宛に送られる認証コードの入力が必要（2段階認証）。方式はメールコードのみで、パスキー・認証アプリの設定は公式ヘルプに見当たらない",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://faq.asoview.karakuri.ai/answer/646b2ce9d4ad0696cc56aa5c/"
 }

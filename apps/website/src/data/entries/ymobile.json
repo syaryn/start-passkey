@@ -2,7 +2,9 @@
   "name": "My Y!mobile",
   "reading": "まいわいもばいる",
   "domain": "ymobile.jp",
-  "categories": ["utilities"],
+  "categories": [
+    "utilities"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.ymobile.jp/support/faq/view/21988",
   "notes": "ログインはSoftBank ID（ワイモバイルの携帯電話番号または英数字のID）とMy Y!mobile用パスワード、機種契約番号とパスワード、またはワイモバイル回線経由の自動ログイン（Wi-Fiオフ時）。Yahoo! JAPAN IDは連携先であり、My Y!mobile自体のログイン資格情報ではない。ログイン用の二段階認証・認証アプリ・パスキーの設定は公式情報になし（SMSの確認番号はパスワード再設定手続きでのみ使用）",

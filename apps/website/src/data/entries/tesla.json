@@ -2,12 +2,13 @@
   "name": "Teslaアカウント",
   "reading": "てすらあかうんと",
   "domain": "tesla.com",
-  "url": "https://www.tesla.com/",
-  "categories": ["automotive"],
+  "categories": [
+    "automotive"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://www.tesla.com/en_sa/support/multi-factor-authentication",
+  "verifiedUrl": "https://www.tesla.com/ja_jp/support/multi-factor-authentication",
+  "url": "https://www.tesla.com/ja_jp/",
   "notes": "公式サポートでは、ログイン時の追加認証は認証アプリ（TOTP）の多要素認証のみ案内されている。同ページの「セキュリティキーで設定」はFIDOキーではなく、認証アプリへ手入力するシードキーのこと。2026年9月にTeslaアプリ（4.61.0）でパスキー対応が始まったとの報道があるが、Tesla公式の案内・サポート文書では確認できなかったため数えていない。車両の「PIN to Drive」やPhone Keyはログイン認証ではない。",
-  "delegatedServices": [],
   "recommendation": "authenticator",
-  "documentationUrl": "https://www.tesla.com/en_sa/support/multi-factor-authentication"
+  "documentationUrl": "https://www.tesla.com/ja_jp/support/multi-factor-authentication"
 }

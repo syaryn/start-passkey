@@ -2,12 +2,13 @@
   "name": "ポケモンセンターオンライン",
   "reading": "ぽけもんせんたーおんらいん",
   "domain": "pokemoncenter-online.com",
-  "url": "https://www.pokemoncenter-online.com/",
-  "categories": ["hobby"],
+  "categories": [
+    "hobby"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.pokemoncenter-online.com/guide/guide-member.html",
+  "url": "https://www.pokemoncenter-online.com/",
   "notes": "2025年8月28日から全会員にログイン時の二要素認証が必須。メールアドレス＋パスワードの後、登録メール宛に送られるログイン用パスコード（有効期限5分）を入力する方式。パスキー・認証アプリの案内はなし",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://www.pokemoncenter-online.com/guide/guide-member.html"
 }

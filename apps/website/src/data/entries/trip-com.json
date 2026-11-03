@@ -2,12 +2,13 @@
   "name": "Trip.com",
   "reading": "とりっぷどっとこむ",
   "domain": "trip.com",
-  "url": "https://jp.trip.com/",
-  "categories": ["travel"],
+  "categories": [
+    "travel"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://jp.trip.com/ask/questions/%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%89%E3%83%83%E3%83%88%E3%82%B3%E3%83%A0%20%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3.html",
+  "url": "https://jp.trip.com/",
   "notes": "公式ガイドでは、ログイン時にメールアドレス/電話番号を入力し「パスワードまたは認証コード」を入力する手順が案内されている（認証コードは登録メール/SMS宛）。公式プライバシーポリシーでもアカウント作成はメール＋パスワードまたは電話番号＋パスワードと明記。パスキーや認証アプリ（TOTP）の設定は公式情報に見当たらない。",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://jp.trip.com/ask/questions/%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E3%83%89%E3%83%83%E3%83%88%E3%82%B3%E3%83%A0%20%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3.html"
 }

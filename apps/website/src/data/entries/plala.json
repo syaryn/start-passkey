@@ -2,7 +2,9 @@
   "name": "ぷらら（NTTぷらら）",
   "reading": "ぷらら",
   "domain": "plala.or.jp",
-  "categories": ["utilities"],
+  "categories": [
+    "utilities"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.plala.or.jp/support/info/2026/0803/index.html",
   "notes": "区分の根拠はWebメールのログイン。Webメールは2026年8月中旬からログイン時の2段階認証が必須化され、方式は認証アプリ（Google/Microsoft Authenticator等のTOTP）・音声通話・SMSから選択できるため、ログイン時に認証アプリが使えるものとしてauthenticator区分とした。一方、会員マイページのログイン自体は会員ID＋パスワードのみで、マイページ側の認証コード（SMS）は個人情報の表示・変更時に求められる機微操作専用の認証であり、ログイン自体には使えないため数えていない。パスキーの案内はなし",

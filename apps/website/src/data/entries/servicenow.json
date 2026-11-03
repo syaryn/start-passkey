@@ -2,12 +2,13 @@
   "name": "ServiceNow（Now Supportアカウント）",
   "reading": "さーびすなう",
   "domain": "support.servicenow.com",
-  "url": "https://support.servicenow.com/",
-  "categories": ["business"],
+  "categories": [
+    "business"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0662343",
+  "verifiedUrl": "https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=8d105fd987fccf502d5cbbb5cebb35fd",
+  "url": "https://support.servicenow.com/",
   "notes": "ベンダー側の個人アカウントであるNow Supportのログインは、パスワード後に認証アプリ（TOTP、QRペアリング）のMFAコードが必須。端末紛失時はメール宛ワンタイムコードで代替可。プラットフォーム（顧客インスタンス）側のFIDO2/パスキーMFAはテナント側の設定であり、本アカウントには適用されないため数えていない。",
-  "delegatedServices": [],
   "recommendation": "authenticator",
-  "documentationUrl": "https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0662343"
+  "documentationUrl": "https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=8d105fd987fccf502d5cbbb5cebb35fd"
 }

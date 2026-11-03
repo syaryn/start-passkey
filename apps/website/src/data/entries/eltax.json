@@ -2,7 +2,9 @@
   "name": "eLTAX",
   "reading": "えるたっくす",
   "domain": "eltax.lta.go.jp",
-  "categories": ["government"],
+  "categories": [
+    "government"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.eltax.lta.go.jp/eltax/gaiyou/",
   "url": "https://www.eltax.lta.go.jp/",

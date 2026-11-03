@@ -2,11 +2,12 @@
   "name": "DHCオンラインショップ",
   "reading": "でぃーえいちしーおんらいんしょっぷ",
   "domain": "dhc.co.jp",
-  "url": "https://www.dhc.co.jp/",
-  "categories": ["beauty"],
+  "categories": [
+    "beauty"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.dhc.co.jp/login/",
+  "url": "https://www.dhc.co.jp/",
   "notes": "ログインはメールアドレス＋パスワードのみ。LINEアカウント連携によるログインも可能。公式ログインページ・FAQに二段階認証、認証アプリ、パスキーの設定案内はなし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

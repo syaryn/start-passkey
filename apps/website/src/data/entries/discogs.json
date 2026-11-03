@@ -2,12 +2,13 @@
   "name": "Discogs",
   "reading": "でぃすこぐす",
   "domain": "discogs.com",
-  "url": "https://www.discogs.com/",
-  "categories": ["hobby"],
+  "categories": [
+    "hobby"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://support.discogs.com/hc/en-us/articles/4403461442317-Two-Factor-Authentication-Set-Up-Removal-Token-Generation",
+  "verifiedUrl": "https://support.discogs.com/hc/ja/articles/4403461442317-%E4%BA%8C%E6%AE%B5%E9%9A%8E%E8%AA%8D%E8%A8%BC-%E8%A8%AD%E5%AE%9A-%E5%89%8A%E9%99%A4-%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3%E7%94%9F%E6%88%90",
+  "url": "https://www.discogs.com/",
   "notes": "二要素認証は認証アプリ（TOTP）のトークンをログイン時に入力する方式で、認識できないブラウザ・端末からのログイン時に求められる。認証アプリにアクセスできない場合は、登録メールアドレス宛のワンタイムコードで代替可能。パスキーの案内は公式情報になし",
-  "delegatedServices": [],
   "recommendation": "authenticator",
-  "documentationUrl": "https://support.discogs.com/hc/en-us/articles/4403461442317-Two-Factor-Authentication-Set-Up-Removal-Token-Generation"
+  "documentationUrl": "https://support.discogs.com/hc/ja/articles/4403461442317-%E4%BA%8C%E6%AE%B5%E9%9A%8E%E8%AA%8D%E8%A8%BC-%E8%A8%AD%E5%AE%9A-%E5%89%8A%E9%99%A4-%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3%E7%94%9F%E6%88%90"
 }

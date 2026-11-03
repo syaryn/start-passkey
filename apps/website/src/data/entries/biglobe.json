@@ -2,7 +2,9 @@
   "name": "BIGLOBE",
   "reading": "びっぐろーぶ",
   "domain": "biglobe.ne.jp",
-  "categories": ["utilities"],
+  "categories": [
+    "utilities"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support.biglobe.ne.jp/jimu/idpw/login.html",
   "notes": "ログインはBIGLOBE ID＋パスワードのみで、全ログイン共通の2段階認証設定はない。「電話認証」（登録電話番号から認証用番号へ発信者番号通知で発信する発信型）は、個人情報を扱う特定サイト（マイページのお客さま情報等）へ初回アクセスする際に限って求められるもので、サービスのログイン自体に追加できる認証ではないため、本ディレクトリの基準では数えない。認証アプリ・パスキーの案内なし",

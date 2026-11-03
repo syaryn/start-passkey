@@ -2,7 +2,10 @@
   "name": "出光カード ウェブステーション",
   "reading": "いでみつかーど うぇぶすてーしょん",
   "domain": "idemitsucard.com",
-  "categories": ["payments", "transport"],
+  "categories": [
+    "payments",
+    "transport"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.idemitsucard.com/webstation/authentication/index.html",
   "url": "https://www.idemitsucard.com/",

@@ -2,11 +2,12 @@
   "name": "ドミノ・ピザ",
   "reading": "どみのぴざ",
   "domain": "dominos.jp",
-  "url": "https://www.dominos.jp/",
-  "categories": ["food"],
+  "categories": [
+    "food"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.dominos.jp/help/order/faq",
+  "url": "https://www.dominos.jp/",
   "notes": "ログインは登録メールアドレス＋パスワード（Apple IDによる連携ログインも可）。二段階認証・認証アプリ・パスキーの設定案内は公式FAQになし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

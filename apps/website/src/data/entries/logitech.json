@@ -2,11 +2,12 @@
   "name": "Logi ID",
   "reading": "ろじあいでぃー",
   "domain": "logitech.com",
-  "url": "https://www.logitech.com/",
-  "categories": ["electronics"],
+  "categories": [
+    "electronics"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.logitechg.com/en-ch/logi-id",
+  "url": "https://www.logitech.com/",
   "notes": "公式FAQのセキュリティ案内はパスワード管理（強固なパスワード・定期変更等）のみで、ログイン時の追加認証（認証アプリ・コード・パスキー）の設定案内はなし。メールアドレスの確認はアドレス所有者確認のための手続きであり、ログイン2FAではない。Facebook・Google・Apple連携ログインも可。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

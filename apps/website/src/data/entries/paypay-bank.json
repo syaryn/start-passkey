@@ -2,7 +2,9 @@
   "name": "PayPay銀行",
   "reading": "ぺいぺいぎんこう",
   "domain": "paypay-bank.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq.paypay-bank.co.jp/faq/show/845?site_domain=customer&openExternalBrowser=1",
   "url": "https://www.paypay-bank.co.jp/",

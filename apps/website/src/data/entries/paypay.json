@@ -2,7 +2,9 @@
   "name": "PayPay",
   "reading": "ぺいぺい",
   "domain": "paypay.ne.jp",
-  "categories": ["payments"],
+  "categories": [
+    "payments"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://paypay.ne.jp/help/c0374/",
   "url": "https://paypay.ne.jp/",

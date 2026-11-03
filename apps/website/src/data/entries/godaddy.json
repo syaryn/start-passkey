@@ -2,13 +2,15 @@
   "name": "GoDaddy",
   "reading": "ごーだでぃ",
   "domain": "godaddy.com",
-  "categories": ["developer"],
+  "categories": [
+    "developer"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://www.godaddy.com/en-au/help/sign-in-to-my-godaddy-account-with-a-security-key-31905",
+  "verifiedUrl": "https://jp.godaddy.com/help/enable-an-identity-verification-method-for-your-godaddy-account-42665",
   "url": "https://www.godaddy.com/",
   "notes": "パスキー/ハードウェアセキュリティキー（FIDO U2F互換）を本人確認方法として登録でき、2ステップ確認を有効化するとログイン時の第2要素になる。認証アプリ（TOTP）やSMSも選択可。パスワードなしのパスキー単独サインインは公式に案内されていない。",
   "recommendation": "passkey",
-  "documentationUrl": "https://www.godaddy.com/en-au/help/sign-in-to-my-godaddy-account-with-a-security-key-31905",
+  "documentationUrl": "https://jp.godaddy.com/help/enable-an-identity-verification-method-for-your-godaddy-account-42665",
   "passkey": {
     "mfa": "allowed"
   }

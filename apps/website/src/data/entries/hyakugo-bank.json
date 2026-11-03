@@ -2,7 +2,9 @@
   "name": "百五銀行",
   "reading": "ひゃくごぎんこう",
   "domain": "hyakugo.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.hyakugo.co.jp/benri/hyakugo-id/",
   "url": "https://www.hyakugo.co.jp/",

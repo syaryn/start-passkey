@@ -2,11 +2,12 @@
   "name": "イオンショップ",
   "reading": "いおんしょっぷ",
   "domain": "aeonshop.com",
-  "url": "https://aeonshop.com/",
-  "categories": ["food"],
+  "categories": [
+    "food"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://aeonshop.com/pages/guide_aeonsquare",
+  "url": "https://aeonshop.com/",
   "notes": "ログイン基盤はイオングループ共通会員のiAEON会員（iAEON ID＋パスワード）であり、AEON Pay ID（旧イオンスクエアメンバーID）とは別基盤。イオンスクエアメンバーIDでの対象ECサービスへのログインは2025年3月に終了した。iAEONログインに二段階認証・パスキーの設定は公式情報に見当たらず、SMS認証は新規登録時の電話番号確認のみ",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

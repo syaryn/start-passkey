@@ -71,8 +71,8 @@ function buildEntry(row: Record<string, string>): Record<string, unknown> {
 function main() {
   const text = fs.readFileSync(csvPath, "utf8");
   const records = parseCsvRecords(text);
-  if (records.length !== 684) {
-    console.error(`Expected 684 entries, got ${records.length}`);
+  if (records.length !== 575) {
+    console.error(`Expected 575 entries, got ${records.length}`);
     process.exit(1);
   }
 

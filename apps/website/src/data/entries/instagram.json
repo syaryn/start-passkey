@@ -2,7 +2,9 @@
   "name": "Instagram",
   "reading": "いんすたぐらむ",
   "domain": "instagram.com",
-  "categories": ["social"],
+  "categories": [
+    "social"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.meta.com/ja-jp/help/meta-account/1991801474748071/",
   "url": "https://www.instagram.com/",
@@ -11,13 +13,5 @@
   "documentationUrl": "https://www.meta.com/ja-jp/help/meta-account/1991801474748071/",
   "passkey": {
     "passwordless": "allowed"
-  },
-  "delegatedServices": [
-    {
-      "name": "Threads",
-      "reading": "すれっず",
-      "sourceUrl": "https://help.instagram.com/1747515265645443/?helpref=uf_permalink&parent_cms_id=179980294969821&locale=ja_JP",
-      "sourceNote": "Instagram公式ヘルプ「Threadsプロフィールを作成するには、InstagramまたはFacebookアカウントでログインする必要があります」（実ブラウザで本文確認）"
-    }
-  ]
+  }
 }

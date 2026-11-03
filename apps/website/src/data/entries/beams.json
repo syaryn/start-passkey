@@ -2,11 +2,12 @@
   "name": "ビームス",
   "reading": "びーむす",
   "domain": "beams.co.jp",
-  "url": "https://www.beams.co.jp/",
-  "categories": ["fashion"],
+  "categories": [
+    "fashion"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support.beams.co.jp/s/article/07-01-01",
+  "url": "https://www.beams.co.jp/",
   "notes": "BEAMS CLUBのログインは登録メールアドレス＋パスワードのみ（2024年9月よりログインIDはメールアドレスに一本化）。二段階認証・認証アプリ・パスキーの設定案内は公式サポートになし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

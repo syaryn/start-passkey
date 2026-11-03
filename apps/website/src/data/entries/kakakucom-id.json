@@ -2,12 +2,13 @@
   "name": "価格.comID",
   "reading": "かかくこむあいでぃー",
   "domain": "kakaku.com",
-  "url": "https://kakaku.com/",
-  "categories": ["points"],
+  "categories": [
+    "points"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://kakaku.com/help/id_twostepauth.htm",
+  "url": "https://kakaku.com/",
   "notes": "カカクコムグループの共通ID基盤で、価格.comのほか食べログ等のログインにも使う。2025年2月27日から価格.comIDでのログイン時に登録メールアドレス（サブメールアドレスにも送信可）宛の認証コードによる二段階認証が導入されている。ただし公式ページが対象として明記するのは価格.com・価格.com決済・価格.com延長保証・価格.comプラスの価格.com系サービスであり、食べログ側での適用は公式に明示されていない。Google・LINEアカウントでのログインは二段階認証の対象外。認証アプリ（TOTP）やパスキーの案内は公式情報になし",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://kakaku.com/help/id_twostepauth.htm"
 }

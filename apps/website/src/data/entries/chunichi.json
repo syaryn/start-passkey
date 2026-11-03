@@ -2,11 +2,12 @@
   "name": "中日新聞プラス（中日ID）",
   "reading": "ちゅうにちしんぶんぷらす",
   "domain": "www.chunichi.co.jp",
-  "url": "https://www.chunichi.co.jp/",
-  "categories": ["media"],
+  "categories": [
+    "media"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.chunichi.co.jp/plus_guide",
+  "url": "https://www.chunichi.co.jp/",
   "notes": "公式ガイドではIDはメールアドレスを用い、会員登録・ログインはメールアドレスとパスワードによる。パスキーや二段階認証の設定は公式情報に見当たらない。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

@@ -2,12 +2,13 @@
   "name": "ローチケ（ローソンチケット）",
   "reading": "ろーちけ",
   "domain": "l-tike.com",
-  "url": "https://l-tike.com/",
-  "categories": ["tickets"],
+  "categories": [
+    "tickets"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://l-tike.com/guide/2stepverification.html",
+  "url": "https://l-tike.com/",
   "notes": "チケット予約に使うのはローソンWEB会員（メールアドレス＋パスワード）で、ローソンIDとは別体系の独自アカウント。マイページで2段階認証を「希望する」に設定すると、ログイン時に登録メールアドレスへ認証コードが送られる（任意設定）。認証アプリ・パスキーはなし",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://l-tike.com/guide/2stepverification.html"
 }

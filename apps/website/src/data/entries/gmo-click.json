@@ -2,7 +2,9 @@
   "name": "GMOクリック証券",
   "reading": "じーえむおーくりっくしょうけん",
   "domain": "click-sec.com",
-  "categories": ["investing"],
+  "categories": [
+    "investing"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.click-sec.com/corp/news/info/20261014-01/",
   "url": "https://www.click-sec.com/",

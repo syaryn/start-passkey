@@ -2,7 +2,9 @@
   "name": "SMBC日興証券",
   "reading": "えすえむびーしーにっこうしょうけん",
   "domain": "smbcnikko.co.jp",
-  "categories": ["investing"],
+  "categories": [
+    "investing"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.smbcnikko.co.jp/security/passkey.html",
   "url": "https://www.smbcnikko.co.jp/",

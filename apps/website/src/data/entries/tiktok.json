@@ -2,7 +2,10 @@
   "name": "TikTok",
   "reading": "てぃっくとっく",
   "domain": "tiktok.com",
-  "categories": ["social", "entertainment"],
+  "categories": [
+    "social",
+    "entertainment"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support.tiktok.com/ja/log-in-troubleshoot/log-in/log-in-with-a-passkey",
   "url": "https://www.tiktok.com/",

@@ -2,7 +2,9 @@
   "name": "LINEアカウント",
   "reading": "らいんあかうんと",
   "domain": "line.me",
-  "categories": ["social"],
+  "categories": [
+    "social"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.line.me/line/smartphone/?contentId=200002149&lang=ja",
   "url": "https://line.me/ja/",
@@ -11,13 +13,5 @@
   "documentationUrl": "https://help.line.me/line/smartphone/?contentId=200002149&lang=ja",
   "passkey": {
     "passwordless": "allowed"
-  },
-  "delegatedServices": [
-    {
-      "name": "LINE MUSIC",
-      "reading": "らいんみゅーじっく",
-      "sourceUrl": "https://help2.line.me/LINEMusic/web/categoryId/200000156/3/pc?lang=ja",
-      "sourceNote": "LINE MUSIC公式ヘルプ「LINE MUSICはLINEアカウントでログインが可能です」"
-    }
-  ]
+  }
 }

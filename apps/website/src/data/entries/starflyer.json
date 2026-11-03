@@ -2,11 +2,12 @@
   "name": "スターフライヤー",
   "reading": "すたーふらいやー",
   "domain": "starflyer.jp",
-  "url": "https://www.starflyer.jp/",
-  "categories": ["aviation"],
+  "categories": [
+    "aviation"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.starflyer.jp/mileage/guide/login.html",
+  "url": "https://www.starflyer.jp/",
   "notes": "マイレージ会員「STAR LINK」のログインはログインID（メールアドレスまたは会員番号10桁）とパスワードのみ。公式情報に二段階認証・認証アプリ・パスキーの案内はない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

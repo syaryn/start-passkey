@@ -2,10 +2,12 @@
   "name": "はぴeみる電",
   "reading": "はぴえみるでん",
   "domain": "kepco.jp",
-  "categories": ["utilities"],
+  "categories": [
+    "utilities"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://kepco.jp/miruden/servicetop/handytips/FAQ/Category?cat=kaiininfo",
-  "url": "https://kepco.jp/miruden/ServiceTop",
+  "verifiedUrl": "https://kepco.jp/miruden/ServiceTop",
+  "url": "https://kepco.jp",
   "notes": "関西電力の会員サイト。会員ID・パスワードに加え、2段階認証設定を有効にした場合はメールアドレスまたはSMS（携帯電話番号）へ送られる認証番号の入力が必要（2020年8月導入、関西電力プレスリリース https://www.kepco.co.jp/corporate/pr/2020/0813_1j.html）。認証アプリ・パスキーの案内は公式情報になし。アプリの生体認証はID入力の省略機能であり、ログインの追加認証ではない",
   "recommendation": "code",
   "documentationUrl": "https://kepco.jp/miruden/servicetop/handytips/FAQ/Category?cat=kaiininfo"

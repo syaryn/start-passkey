@@ -2,7 +2,9 @@
   "name": "ニンテンドーアカウント",
   "reading": "にんてんどーあかうんと",
   "domain": "accounts.nintendo.com",
-  "categories": ["gaming"],
+  "categories": [
+    "gaming"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support.nintendo.com/jp/nintendo_account/login/passkey/index.html",
   "url": "https://accounts.nintendo.com/",

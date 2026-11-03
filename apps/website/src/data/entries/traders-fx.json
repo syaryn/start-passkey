@@ -2,7 +2,9 @@
   "name": "トレイダーズ証券（みんなのFX）",
   "reading": "とれいだーずしょうけん",
   "domain": "min-fx.jp",
-  "categories": ["investing"],
+  "categories": [
+    "investing"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://min-fx.jp/support/security/passkey/",
   "url": "https://min-fx.jp/",

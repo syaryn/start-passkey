@@ -2,12 +2,13 @@
   "name": "IKEA Family",
   "reading": "いけあふぁみりー",
   "domain": "ikea.com",
-  "url": "https://www.ikea.com/jp/ja/ikea-family/",
-  "categories": ["home"],
+  "categories": [
+    "home"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://www.ikea.com/jp/ja/customer-service/knowledge/articles/09f7abbf-97a5-47d7-9046-d12bf2059c72.html",
+  "verifiedUrl": "https://www.ikea.com/jp/ja/ikea-family/",
+  "url": "https://www.ikea.com",
   "notes": "IKEA日本の公式ヘルプに「ワンタイムコードでログイン」が明記: 登録済みメールアドレスまたは携帯電話番号に届く6桁コードでパスワードなしでログインできる。通常のメール＋パスワードログインも併存。パスキーや認証アプリの設定は公式情報になし（一部海外市場ではBankID等の地域固有方式あり）。",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://www.ikea.com/jp/ja/customer-service/knowledge/articles/09f7abbf-97a5-47d7-9046-d12bf2059c72.html"
 }

@@ -2,11 +2,12 @@
   "name": "アコーディア・ゴルフ",
   "reading": "あこーでぃあごるふ",
   "domain": "accordiagolf.com",
-  "url": "https://www.accordiagolf.com/",
-  "categories": ["fitness"],
+  "categories": [
+    "fitness"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq.accordiagolf.com/support/solutions/articles/72000570659-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%81%8B%E3%82%89%E4%BA%88%E7%B4%84%E3%82%92%E3%81%97%E3%81%9F%E3%81%84",
+  "url": "https://www.accordiagolf.com/",
   "notes": "アコーディアWebのログインはポイントカード番号またはメールアドレス＋パスワード（登録・ログインにLINE連携やApple認証の利用も可）。二段階認証・パスキー・認証アプリの設定は公式FAQに見当たらない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

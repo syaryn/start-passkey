@@ -2,7 +2,9 @@
   "name": "GMOあおぞらネット銀行",
   "reading": "じーえむおーあおぞらねっとぎんこう",
   "domain": "gmo-aozora.com",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://gmo-aozora.com/security/passkey.html",
   "url": "https://gmo-aozora.com/",

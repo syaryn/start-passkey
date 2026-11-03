@@ -2,12 +2,13 @@
   "name": "ケンタッキーフライドチキン",
   "reading": "けんたっきーふらいどちきん",
   "domain": "kfc.co.jp",
-  "url": "https://www.kfc.co.jp/",
-  "categories": ["food"],
+  "categories": [
+    "food"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq.kfc.co.jp/%E3%82%A2%E3%83%97%E3%83%AA%EF%BC%8FWeb%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%81%A7%E3%81%AE%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E6%96%B9%E6%B3%95-6961b520cb0e279af80ffbcf",
+  "url": "https://www.kfc.co.jp/",
   "notes": "固定パスワードは存在せず、ログインのたびに登録メールアドレスへ送られる4桁のワンタイムパスワードを入力する方式（KFCアプリ/Web共通）。SNSアカウントによるソーシャルログイン登録も可。認証アプリ・パスキーはなし",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://faq.kfc.co.jp/%E3%82%A2%E3%83%97%E3%83%AA%EF%BC%8FWeb%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%81%A7%E3%81%AE%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E6%96%B9%E6%B3%95-6961b520cb0e279af80ffbcf"
 }

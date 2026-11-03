@@ -5,6 +5,17 @@ import sitemap from "@astrojs/sitemap";
 export default defineConfig({
   output: "static",
   trailingSlash: "always",
+  server: {
+    port: 4321,
+  },
+  vite: {
+    server: {
+      strictPort: true,
+    },
+    preview: {
+      strictPort: true,
+    },
+  },
   build: {
     format: "directory",
   },

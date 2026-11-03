@@ -2,11 +2,12 @@
   "name": "Comiru",
   "reading": "こみる",
   "domain": "comiru.jp",
-  "url": "https://comiru.jp/",
-  "categories": ["education"],
+  "categories": [
+    "education"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://comiru.jp/hi-five/login",
+  "url": "https://comiru.jp/",
   "notes": "保護者・生徒のログインは教室番号・生徒番号とパスワードのみ。メールアドレスの認証は通知先登録の手続きでありログインの二要素認証ではない。LINE/Google連携ログインも選べるが外部ID側の認証。公式情報に二要素認証・認証アプリ・パスキーの設定案内はない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

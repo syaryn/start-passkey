@@ -1,4 +1,4 @@
-/* Light defaults; dark palette follows prefers-color-scheme (system). */
+/* Light defaults; dark via system preference or data-theme="dark". */
 
 :root {
   color-scheme: light;
@@ -12,9 +12,8 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     color-scheme: dark;
-
     --dads-surface: #141416;
     --dads-surface-subtle: #232328;
 
@@ -50,7 +49,50 @@
     --dads-shadow-popover: 0 0.5rem 1.5rem rgb(0 0 0 / 45%);
     --dads-backdrop: rgb(0 0 0 / 55%);
 
-    /* 暗背景でも DADS 二重フォーカスが視認できるよう外側を白に */
     --dads-focus-black: #ffffff;
   }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --dads-surface: #141416;
+  --dads-surface-subtle: #232328;
+
+  --dads-gray-900: #f0f0f2;
+  --dads-gray-800: #d8d8dc;
+  --dads-gray-700: #b4b4ba;
+  --dads-gray-600: #96969c;
+  --dads-gray-536: #7a7a82;
+  --dads-gray-420: #64646c;
+  --dads-gray-200: #3a3a40;
+  --dads-gray-100: #2e2e34;
+  --dads-gray-50: #25252a;
+
+  --dads-blue-900: #7eb4ff;
+  --dads-blue-1000: #9ec8ff;
+  --dads-blue-1100: #b8d8ff;
+  --dads-blue-100: #243550;
+  --dads-blue-50: #1a2838;
+
+  --dads-green-50: #152820;
+  --dads-green-800: #6dd9a3;
+
+  --dads-red-50: #2a1515;
+  --dads-red-800: #ff7070;
+  --dads-red-900: #ff9090;
+
+  --dads-warning-text: #e8c96e;
+  --dads-warning-border: #a88820;
+  --dads-warning-surface: #2a2410;
+
+  --dads-visited: #c988c9;
+
+  --dads-shadow-popover: 0 0.5rem 1.5rem rgb(0 0 0 / 45%);
+  --dads-backdrop: rgb(0 0 0 / 55%);
+
+  --dads-focus-black: #ffffff;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
 }

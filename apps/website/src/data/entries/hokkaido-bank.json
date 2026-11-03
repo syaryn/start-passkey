@@ -2,7 +2,9 @@
   "name": "北海道銀行",
   "reading": "ほっかいどうぎんこう",
   "domain": "hokkaidobank.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.hokkaidobank.co.jp/ib/direct/onetime-pw/index.html",
   "url": "https://www.hokkaidobank.co.jp/",

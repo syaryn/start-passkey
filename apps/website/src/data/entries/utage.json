@@ -2,12 +2,13 @@
   "name": "UTAGE",
   "reading": "うたげ",
   "domain": "utage-system.com",
-  "url": "https://utage-system.com/",
-  "categories": ["business"],
+  "categories": [
+    "business"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.utage-system.com/archives/28919",
+  "url": "https://utage-system.com/",
   "notes": "マーケティング支援SaaSの管理画面ログイン。2026年10月のアップデートで認証アプリ（TOTP、QRコード/セットアップキー登録、リカバリーコード発行あり）による二段階認証が追加された。設定は任意だが、契約アカウントはオペレーターアカウントに対して必須化できる。パスキーの案内はなし",
-  "delegatedServices": [],
   "recommendation": "authenticator",
   "documentationUrl": "https://help.utage-system.com/archives/28919"
 }

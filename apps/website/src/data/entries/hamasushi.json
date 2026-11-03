@@ -2,11 +2,12 @@
   "name": "はま寿司（はまナビ）",
   "reading": "はまずし",
   "domain": "my.hama-sushi.co.jp",
-  "url": "https://my.hama-sushi.co.jp/",
-  "categories": ["food"],
+  "categories": [
+    "food"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://my.hama-sushi.co.jp/generic/?conId=1",
+  "url": "https://my.hama-sushi.co.jp/",
   "notes": "WEB予約サイト「はまナビ」（公式アプリと共通アカウント）のログインはメールアドレス＋パスワードのみ。公式FAQに二段階認証・認証アプリ・パスキーの設定案内はない。会員登録は空メール送信による確認方式で、ログイン時の追加認証ではない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

@@ -2,12 +2,13 @@
   "name": "日経ID",
   "reading": "にっけいあいでぃー",
   "domain": "id.nikkei.com",
-  "url": "https://www.nikkei.com/",
-  "categories": ["media"],
+  "categories": [
+    "media"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.nikkei.com/lounge/help/",
+  "url": "https://www.nikkei.com/",
   "notes": "パスキーはパスワードの代わりに端末の生体認証等でログインする方式（1アカウント最大20件まで登録可）。パスキー設定後もメールアドレスとパスワードでのログインは併用できる。パスキーとは別に、認証アプリまたはメールによるワンタイムパスワードの2要素認証も設定可能で、未設定でも普段と異なるログインでは確認コードの入力が求められる場合がある。",
-  "delegatedServices": [],
   "recommendation": "passkey",
   "documentationUrl": "https://www.nikkei.com/lounge/help/",
   "passkey": {

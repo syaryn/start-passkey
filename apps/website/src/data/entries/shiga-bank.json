@@ -2,7 +2,9 @@
   "name": "滋賀銀行",
   "reading": "しがぎんこう",
   "domain": "shigagin.com",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.shigagin.com/personal/direct/security/",
   "url": "https://www.shigagin.com/",

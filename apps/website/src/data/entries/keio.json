@@ -2,11 +2,12 @@
   "name": "京王チケットレスサービス（京王ID）",
   "reading": "けいおうちけっとれすさーびす",
   "domain": "keio.co.jp",
-  "url": "https://www.keio.co.jp/",
-  "categories": ["rail"],
+  "categories": [
+    "rail"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.keio.co.jp/zasekishitei/faq/",
+  "url": "https://www.keio.co.jp/",
   "notes": "京王ライナー等の座席指定券を購入する会員サービス。Web版のログインはログインID＋パスワードのみで、京王アプリの共通ID「京王ID」もメールアドレスとパスワードによるログイン。京王ID公式FAQを含め、二段階認証・認証アプリ・パスキーの設定案内は公式情報になし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

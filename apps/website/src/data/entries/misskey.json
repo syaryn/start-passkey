@@ -2,7 +2,9 @@
   "name": "Misskey",
   "reading": "みすきー",
   "domain": "misskey.io",
-  "categories": ["social"],
+  "categories": [
+    "social"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://misskey-hub.net/ja/docs/for-users/stepped-guides/how-to-enable-2fa/",
   "url": "https://misskey.io/",

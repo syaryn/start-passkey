@@ -2,11 +2,12 @@
   "name": "クックパッド",
   "reading": "くっくぱっど",
   "domain": "cookpad.com",
-  "url": "https://cookpad.com/",
-  "categories": ["food"],
+  "categories": [
+    "food"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.cookpad.support/hc/ja/articles/9571715666329-登録情報を確認・変更したい",
+  "url": "https://cookpad.com/",
   "notes": "ログインはメールアドレスとパスワード、または外部アカウント連携による。公式ヘルプに二段階認証・認証アプリ・パスキーの設定案内はなし（2026-11-01確認）。メールやSMSを使うのはパスワード再設定時のみ",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

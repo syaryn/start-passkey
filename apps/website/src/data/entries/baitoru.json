@@ -2,12 +2,13 @@
   "name": "バイトル",
   "reading": "ばいとる",
   "domain": "baitoru.com",
-  "url": "https://www.baitoru.com/",
-  "categories": ["jobs"],
+  "categories": [
+    "jobs"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://id.baitoru.com/help",
+  "url": "https://www.baitoru.com/",
   "notes": "アカウント基盤はディップ共通のdipID。ログイン方法はメール＋パスワード、メール＋確認コード（ワンタイムコード）、ソーシャルログイン（Google/LINE/Apple/Yahoo! JAPAN）。コードはパスワードへの上乗せ2FAではなく代替のログイン手段。公式ヘルプに「自社の2段階認証には対応していない」「パスキーは使えない」と明記されており、認証アプリもなし",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://id.baitoru.com/help"
 }

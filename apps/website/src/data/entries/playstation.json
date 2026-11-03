@@ -2,13 +2,15 @@
   "name": "PlayStation Network",
   "reading": "ぷれいすてーしょんねっとわーく",
   "domain": "playstation.com",
-  "categories": ["gaming"],
+  "categories": [
+    "gaming"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://www.playstation.com/en-gb/support/account/",
-  "url": "https://www.playstation.com/",
+  "verifiedUrl": "https://www.playstation.com/ja-jp/support/account/?country-selector=true&category=login-password&subCategory=passkey",
+  "url": "https://www.playstation.com/ja-jp/",
   "notes": "「パスキーでサインイン」を有効化すると、パスワードの代わりに端末の指紋・顔認証・PINでサインインする方式になる（パスワード方式の第2要素としてではなく代替として提供）。パスワードでサインインする場合は、SMSまたは認証アプリによる2段階認証も別途設定できる",
   "recommendation": "passkey",
-  "documentationUrl": "https://www.playstation.com/en-gb/support/account/",
+  "documentationUrl": "https://www.playstation.com/ja-jp/support/account/?country-selector=true&category=login-password&subCategory=passkey",
   "passkey": {
     "passwordless": "allowed"
   }

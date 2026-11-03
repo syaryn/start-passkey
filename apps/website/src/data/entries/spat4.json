@@ -2,10 +2,11 @@
   "name": "SPAT4",
   "reading": "すぱっとふぉー",
   "domain": "spat4.jp",
-  "categories": ["gambling"],
+  "categories": [
+    "gambling"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://netbank.spat4.jp/faq/FAQ.html",
   "notes": "地方競馬のインターネット投票サービス。ログインは加入者番号＋利用者ID、投票時には電話投票暗証番号（固定の暗証番号）を入力。Cookieで入力を省略する「かんたんログイン」はあるが、パスキー・認証アプリ・SMS/メール等のコード認証の設定はなし。JRA（即PAT）・オッズパークと同じ基準",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

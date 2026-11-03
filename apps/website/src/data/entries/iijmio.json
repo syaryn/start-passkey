@@ -2,7 +2,9 @@
   "name": "IIJmio",
   "reading": "あいあいじぇいみお",
   "domain": "iijmio.jp",
-  "categories": ["utilities"],
+  "categories": [
+    "utilities"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.iijmio.jp/info/iij/1779416489.html",
   "url": "https://www.iijmio.jp/",

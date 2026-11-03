@@ -2,10 +2,12 @@
   "name": "マイ大阪ガス（大阪ガス）",
   "reading": "まいおおさかがす",
   "domain": "osakagas.co.jp",
-  "categories": ["utilities"],
+  "categories": [
+    "utilities"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq.osakagas.co.jp/faq/show/16569?site_domain=default",
-  "url": "https://www.osakagas.co.jp/ssl/my-page/",
+  "url": "https://www.osakagas.co.jp",
   "notes": "2025年5月26日からログインは共通ID「DaigasID」に移行。DaigasID作成時に多要素認証（登録電話番号へのSMSまたは音声通話による6桁コード）の設定が必須で、ログイン時はリスク判定によりコード入力が求められる（毎回ではない）。ポイント交換等の操作では毎回必須。認証アプリ・パスキーの案内なし",
   "recommendation": "code",
   "documentationUrl": "https://faq.osakagas.co.jp/faq/show/16571?site_domain=default"

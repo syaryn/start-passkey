@@ -2,11 +2,12 @@
   "name": "ピッコマ",
   "reading": "ぴっこま",
   "domain": "piccoma.com",
-  "url": "https://piccoma.com/",
-  "categories": ["hobby"],
+  "categories": [
+    "hobby"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://piccoma.com/web/faq_detail/106",
+  "url": "https://piccoma.com/",
   "notes": "ログインはメールアドレス＋パスワード、またはSNSアカウント連携。ピッコマWEB利用時のSMS認証は初回のみの本人確認（イベント参加時に求められる場合あり）であり、ログインの二段階認証ではない。パスキー・認証アプリの設定案内は公式FAQになし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

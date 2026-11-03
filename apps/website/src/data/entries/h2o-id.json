@@ -2,25 +2,13 @@
   "name": "H2O ID",
   "reading": "えいちつーおーあいでぃー",
   "domain": "h2o-retailing.co.jp",
-  "url": "https://h2o-id.h2o-retailing.co.jp/",
-  "categories": ["points"],
+  "categories": [
+    "points"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://h2o-id.h2o-retailing.co.jp/web/faq",
+  "url": "https://h2o-id.h2o-retailing.co.jp/",
   "notes": "エイチ・ツー・オー リテイリンググループの共通ID（阪急阪神百貨店の通販・予約サイト、阪急・阪神ギフトモール、阪急阪神百貨店アプリ、まちうまアプリ等）。ログインはID（メールアドレス）＋パスワードが基本。2026年10月の不正アクセス事案後の措置として、公式通販サイトに「H2O IDにログインする際にメールアドレスによる認証が必要になりました」と告知され、ログイン時にメールによる認証が必須化された（公式FAQにはSMS認証コード（有効期限10分）に関する項目もあり）。認証アプリ（TOTP）・パスキーの案内は公式情報になし。なお阪急阪神ホールディングス側の共通ID「HH cross ID」とは別基盤。",
-  "delegatedServices": [
-    {
-      "name": "阪急百貨店",
-      "reading": "はんきゅうひゃっかてん",
-      "sourceUrl": "https://www.hankyu-hanshin-dept.co.jp/app/faq.html",
-      "sourceNote": "公式ガイド「H2O IDに登録しているメールアドレスとパスワードを入力してログイン」「アプリのご利用にはH2O IDのご登録が必要です」"
-    },
-    {
-      "name": "まちうまアプリ",
-      "reading": "まちうまあぷり",
-      "sourceUrl": "https://www.excite.co.jp/news/article/Prtimes_2026-10-05-152319-36/",
-      "sourceNote": "運営会社（エイチ・ツー・オー ネクスト）の公式プレスリリース（PR TIMES配信）「まちうまは、グループ共通ID『H2O ID』を実装した初めてのサービス」。公式ドメイン上の同一記述は未確認"
-    }
-  ],
   "recommendation": "code",
   "documentationUrl": "https://h2o-id.h2o-retailing.co.jp/web/faq"
 }

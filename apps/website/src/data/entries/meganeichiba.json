@@ -2,11 +2,12 @@
   "name": "眼鏡市場",
   "reading": "めがねいちば",
   "domain": "meganeichiba.jp",
-  "url": "https://www.meganeichiba.jp/",
-  "categories": ["fashion"],
+  "categories": [
+    "fashion"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.meganeichiba.jp/guide/detail/member",
+  "url": "https://www.meganeichiba.jp/",
   "notes": "ログインはメールアドレス＋パスワードのみ。会員登録時にはメールで認証コードが送信されるが、これは登録手続き用でありログイン時の追加認証ではない。二段階認証・認証アプリ・パスキーの設定案内は公式情報になし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

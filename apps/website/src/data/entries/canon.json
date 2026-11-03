@@ -2,11 +2,12 @@
   "name": "キヤノン（Canon ID）",
   "reading": "きやのん",
   "domain": "canon.jp",
-  "url": "https://canon.jp/",
-  "categories": ["electronics"],
+  "categories": [
+    "electronics"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://personal.canon.jp/membership-id/canonid-introduction",
+  "url": "https://canon.jp/",
   "notes": "ログインはメールアドレス＋パスワード（ソーシャルログインも可）のみで、二段階認証・認証アプリ・パスキーの設定案内は公式情報にない。なお、キヤノンの法人向けネットワークカメラのクラウドサービスには認証アプリによる2段階認証があるが、消費者向けCanon IDとは別サービスのため対象外。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

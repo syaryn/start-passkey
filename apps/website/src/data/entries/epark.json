@@ -2,11 +2,12 @@
   "name": "EPARK",
   "reading": "いーぱーく",
   "domain": "epark.jp",
-  "url": "https://epark.jp/",
-  "categories": ["lifestyle"],
+  "categories": [
+    "lifestyle"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq.epark.jp/epark/article/000001472",
+  "url": "https://epark.jp/",
   "notes": "EPARK会員（共通会員基盤）のログインはメールアドレス＋パスワード（8～16文字の半角英数字）のみ。公式ヘルプに二段階認証・認証アプリ・パスキーの設定案内なし。EPARKお薬手帳の「ワンタイムコード」は薬局へ記帳情報を連携するためのものでログイン用ではないため数えない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

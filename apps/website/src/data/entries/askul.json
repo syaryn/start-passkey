@@ -2,11 +2,12 @@
   "name": "アスクル",
   "reading": "あすくる",
   "domain": "askul.co.jp",
-  "url": "https://www.askul.co.jp/",
-  "categories": ["retail"],
+  "categories": [
+    "retail"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.askul.co.jp/guide/login/",
+  "url": "https://www.askul.co.jp/",
   "notes": "ログインはログインID（メールアドレスまたはお問い合わせ番号）＋パスワードのみ。新規アカウント作成時に認証コード入力のステップがあるが、ログイン時の二段階認証・認証アプリ・パスキーの設定は公式情報にない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

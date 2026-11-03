@@ -2,10 +2,11 @@
   "name": "ルートインホテルズ",
   "reading": "るーといんほてるず",
   "domain": "route-inn.co.jp",
-  "categories": ["travel"],
+  "categories": [
+    "travel"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.route-inn.co.jp/faq/",
   "notes": "インターネット予約の会員ログインはメールアドレス＋パスワードのみ（公式FAQで確認。6回連続で間違えると1時間ロックされる）。公式アプリには生体認証ログインがあるが、保存した資格情報の呼び出し式でありパスキーではないため数えない。二段階認証・認証アプリの設定案内は公式情報になし。ポイントはPonta/dポイント連携",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

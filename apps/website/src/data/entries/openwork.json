@@ -2,11 +2,12 @@
   "name": "OpenWork",
   "reading": "おーぷんわーく",
   "domain": "openwork.jp",
-  "url": "https://www.openwork.jp/",
-  "categories": ["jobs"],
+  "categories": [
+    "jobs"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.openwork.jp/contact_top.php",
+  "url": "https://www.openwork.jp/",
   "notes": "ログインはID＋パスワード、またはGoogle／Facebookアカウント連携。公式ヘルプに二段階認証・認証アプリ・パスキーの案内はない。旧サービス名はVorkers。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

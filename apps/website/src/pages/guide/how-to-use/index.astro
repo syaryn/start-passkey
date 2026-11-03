@@ -1,6 +1,7 @@
 ---
 import GuideShell from "../../../components/GuideShell.astro";
 import Diagram from "../../../components/Diagram.astro";
+import { DISTINCT_VERIFIED_SOURCE_LABEL } from "../../../data/display.ts";
 import { SITE_LAST_UPDATED } from "../../../data/navigation.ts";
 ---
 
@@ -24,12 +25,12 @@ import { SITE_LAST_UPDATED } from "../../../data/navigation.ts";
   <h2>2. 表を読む</h2>
   <ul>
     <li>
-      <strong>サービス</strong> — 列見出し横に「↗ 公式サイト」「ℹ 備考」の凡例があります。名称を選ぶと掲載の詳細ページへ。外部リンクアイコンは各社の公式ページ（別タブ、ツールチップで用途を表示）
+      <strong>サービス</strong> — 列見出し横に「↗ 公式サイト」「ℹ 備考」の凡例があります。名称を選ぶと掲載の詳細ページへ。↗ は各社の<strong>公式サイトのトップ</strong>（別タブ）へのリンクです
     </li>
     <li><strong>いま切り替えるなら</strong> — 確認時点で使える最も強い設定</li>
     <li><strong>パスキー（任意／必須）</strong> — 主列がパスキーのときの内訳</li>
     <li><strong>公式ヘルプ</strong> — 外部リンクアイコンで設定手順へ（パスワードのみ・対象外は「—」）</li>
-    <li><strong>確認日・確認したページ</strong> — 掲載の根拠。確認元は外部リンクアイコン</li>
+    <li><strong>確認日・{DISTINCT_VERIFIED_SOURCE_LABEL}</strong> — 公式ヘルプと URL が異なるときだけリンク（同じときは「—」）。パスワードのみ・対象外は参考URLのみリンク</li>
     <li><strong>備考</strong> — サービス名横の情報アイコンから、表の外に補足説明を表示</li>
   </ul>
 

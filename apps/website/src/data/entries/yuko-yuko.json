@@ -2,11 +2,12 @@
   "name": "ゆこゆこ",
   "reading": "ゆこゆこ",
   "domain": "yukoyuko.net",
-  "url": "https://www.yukoyuko.net/",
-  "categories": ["travel"],
+  "categories": [
+    "travel"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.yukoyuko.net/faq/detail08",
+  "url": "https://www.yukoyuko.net/",
   "notes": "ログインはメールアドレス＋パスワード（LINE等の他サービスIDでのログインも可）。二段階認証・パスキー・認証アプリの設定は公式FAQに見当たらない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

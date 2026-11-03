@@ -2,7 +2,9 @@
   "name": "J-PlatPat",
   "reading": "じぇーぷらっとぱっと",
   "domain": "j-platpat.inpit.go.jp",
-  "categories": ["government"],
+  "categories": [
+    "government"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.inpit.go.jp/content/100888003.pdf",
   "url": "https://www.j-platpat.inpit.go.jp/",

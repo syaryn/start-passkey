@@ -2,18 +2,12 @@
   "name": "Caloo",
   "reading": "かるー",
   "domain": "caloo.jp",
-  "url": "https://caloo.jp/",
-  "categories": ["health"],
+  "categories": [
+    "health"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://caloo.jp/users/regist",
+  "url": "https://caloo.jp/",
   "notes": "ログインはメールアドレス＋パスワード（公式登録ページに明記）。LINEアカウントによるログインも可能だが外部ID側の認証。二段階認証・認証アプリ・パスキーの設定案内なし。アカウントはCalooペットと共通",
-  "delegatedServices": [
-    {
-      "name": "Calooペット",
-      "reading": "かるーぺっと",
-      "sourceUrl": "https://caloo.jp/users/regist",
-      "sourceNote": "Caloo公式登録ページ「アカウントはCaloo / Calooペット共通です」"
-    }
-  ],
   "recommendation": "password-only"
 }

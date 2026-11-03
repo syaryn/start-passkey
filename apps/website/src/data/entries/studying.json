@@ -2,11 +2,12 @@
   "name": "スタディング",
   "reading": "すたでぃんぐ",
   "domain": "studying.jp",
-  "url": "https://studying.jp/",
-  "categories": ["education"],
+  "categories": [
+    "education"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://studying.jp/question-detail.html",
+  "url": "https://studying.jp/",
   "notes": "公式FAQでは、登録メールアドレスとパスワードでログインする方式が案内されている。他サービスID連携ログインも選べるが、その認証方式は連携先に依存する。パスキー、認証アプリ、コードによる追加認証の設定は公式情報になし。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

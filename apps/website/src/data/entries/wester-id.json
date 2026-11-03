@@ -2,19 +2,13 @@
   "name": "WESTER ID",
   "reading": "うぇすたーあいでぃー",
   "domain": "wester.jr-odekake.net",
-  "url": "https://wester.jr-odekake.net/",
-  "categories": ["rail"],
+  "categories": [
+    "rail"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://wespo.westjr.co.jp/news/topics_35256",
+  "url": "https://wester.jr-odekake.net/",
   "notes": "JR西日本グループ共通IDで、e5489、WESTERポータル、WESPO、Wesmo!、WESTERモール等がログインを委譲する基盤。通常のログインはWESTER ID＋パスワードに加え、登録メールアドレス宛に届くワンタイムパスワードによる2段階認証が必須（2023年3月導入）。パスキーはWESTER会員サポートの「会員情報確認・変更」→「パスキー管理」から登録でき、登録するとID・パスワードを入力せず指紋・顔認証等でログインできる（公式案内はパスワードレス用途のみで、パスワード入力後の第2要素としての利用は案内されていない）。認証アプリ（TOTP）の設定案内は公式情報になし",
-  "delegatedServices": [
-    {
-      "name": "e5489",
-      "reading": "いーごーよんはちきゅー",
-      "sourceUrl": "https://support-faq.westjr.co.jp/westjr/category/show/69?page=13&site_domain=default&sort=sort_access&sort_order=desc",
-      "sourceNote": "JR西日本公式FAQ「お持ちのWESTER ID（旧J-WEST ID）とパスワードで、テキスト版のe5489をご利用いただけます」"
-    }
-  ],
   "recommendation": "passkey",
   "documentationUrl": "https://wespo.westjr.co.jp/news/topics_35256",
   "passkey": {

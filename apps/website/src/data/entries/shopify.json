@@ -2,14 +2,15 @@
   "name": "Shopify",
   "reading": "しょっぴふぁい",
   "domain": "shopify.com",
-  "url": "https://www.shopify.com/",
-  "categories": ["developer"],
+  "categories": [
+    "developer"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://help.shopify.com/en/manual/your-account/logging-in/secure-sign-in-methods",
+  "verifiedUrl": "https://help.shopify.com/ja/manual/your-account/logging-in/secure-sign-in-methods",
+  "url": "https://www.shopify.com/",
   "notes": "店舗オーナー／スタッフ用Shopifyアカウント向け。パスキーはパスワードの代替として顔・指紋・PINでサインインできる（パスワードレス）。別途、認証アプリやセキュリティキー（WebAuthn）による二段階認証も設定可能で、組織管理者の強制や金融商品（Shopify Balance等）の利用条件としてセキュアなサインイン方法が必須になる場合がある。",
-  "delegatedServices": [],
   "recommendation": "passkey",
-  "documentationUrl": "https://help.shopify.com/en/manual/your-account/logging-in/secure-sign-in-methods",
+  "documentationUrl": "https://help.shopify.com/ja/manual/your-account/logging-in/secure-sign-in-methods",
   "passkey": {
     "passwordless": "allowed"
   }

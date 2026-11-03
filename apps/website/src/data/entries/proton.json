@@ -2,13 +2,16 @@
   "name": "Protonアカウント",
   "reading": "ぷろとんあかうんと",
   "domain": "proton.me",
-  "categories": ["email", "cloud"],
+  "categories": [
+    "email",
+    "cloud"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://proton.me/support/two-factor-authentication-2fa",
+  "verifiedUrl": "https://proton.me/ja/support/two-factor-authentication-2fa",
   "url": "https://account.proton.me",
   "notes": "2要素認証として認証アプリ（TOTP）のほかU2F/FIDO2セキュリティキーを登録可能（併用も可）。セキュリティキーはパスワード入力後の第2要素専用で、Protonアカウント自体へのパスキーによるパスワードレスログインには対応していない。",
   "recommendation": "passkey",
-  "documentationUrl": "https://proton.me/support/two-factor-authentication-2fa",
+  "documentationUrl": "https://proton.me/ja/support/two-factor-authentication-2fa",
   "passkey": {
     "mfa": "allowed"
   }

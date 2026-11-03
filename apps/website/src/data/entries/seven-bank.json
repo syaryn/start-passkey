@@ -2,7 +2,9 @@
   "name": "セブン銀行",
   "reading": "せぶんぎんこう",
   "domain": "sevenbank.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.sevenbank.co.jp/personal/netbank/services/app-authentication/",
   "url": "https://www.sevenbank.co.jp/",

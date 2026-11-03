@@ -2,7 +2,9 @@
   "name": "オリコ（eオリコ）",
   "reading": "おりこ",
   "domain": "orico.co.jp",
-  "categories": ["payments"],
+  "categories": [
+    "payments"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.orico.co.jp/lp/neweorico/",
   "url": "https://www.orico.co.jp/",

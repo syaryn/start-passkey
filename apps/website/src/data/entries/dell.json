@@ -2,14 +2,15 @@
   "name": "デル（Dellアカウント）",
   "reading": "でる",
   "domain": "dell.com",
-  "url": "https://www.dell.com/ja-jp",
-  "categories": ["electronics"],
+  "categories": [
+    "electronics"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://www.dell.com/en-us/lp/protect-your-account-faq",
+  "verifiedUrl": "https://www.dell.com/ja-jp/shop/account/lp/protect-your-account-faq",
+  "url": "https://www.dell.com/ja-jp",
   "notes": "アカウントのセキュリティ設定でパスキーを追加でき、パスワードの代わりに生体認証・PIN等でサインインできる（公式FAQ）。パスキーはパスワード代替として案内されており、多要素認証の第2要素としては案内されていないため mfa は unsupported とした。別途、パスワード＋メール/SMSコードによる2ステップ認証も利用できる。",
-  "delegatedServices": [],
   "recommendation": "passkey",
-  "documentationUrl": "https://www.dell.com/en-us/lp/protect-your-account-faq",
+  "documentationUrl": "https://www.dell.com/ja-jp/shop/account/lp/protect-your-account-faq",
   "passkey": {
     "passwordless": "allowed"
   }

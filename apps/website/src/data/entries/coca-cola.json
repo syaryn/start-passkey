@@ -2,11 +2,12 @@
   "name": "コカ・コーラ会員",
   "reading": "こかこーらかいいん",
   "domain": "cocacola.co.jp",
-  "categories": ["food"],
+  "categories": [
+    "food"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://j.cocacola.co.jp/spn/member/faq/",
   "notes": "Coke ONアプリ等で使うコカ・コーラ会員アカウント。公式FAQによればログインはワンタイムパスワード方式へ変更済みで、利用者が設定したパスワードの入力は不要となり、登録メールアドレス宛に送られる確認コード（認証コード）でログインする。認証アプリ・パスキーの案内は公式情報になし。なおCoke ONへのログインにはLINEアカウントやApple IDによる連携ログインも選択可能",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://j.cocacola.co.jp/spn/member/faq/"
 }

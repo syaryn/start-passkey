@@ -2,12 +2,13 @@
   "name": "JR九州（JR九州Web会員）",
   "reading": "じぇいあーるきゅうしゅう",
   "domain": "jrkyushu.co.jp",
-  "url": "https://www.jrkyushu.co.jp/",
-  "categories": ["rail"],
+  "categories": [
+    "rail"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.jrkyushu.co.jp/jrkyupoapp/start/",
+  "url": "https://www.jrkyushu.co.jp/",
   "notes": "JRキューポアプリのログインは、会員ID（メールアドレス）入力後に登録メールへ届く認証コードの入力とパスワード入力が必要（公式のログイン手順）。一方、Webの列車予約ログインはメールアドレス＋パスワードのみ（公式操作ガイド）。会員情報変更時にも認証コードが必要だが、これは機微操作用のため分類には数えていない。認証アプリ・パスキーの案内なし。",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://www.jrkyushu.co.jp/jrkyupoapp/start/"
 }

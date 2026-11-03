@@ -2,11 +2,13 @@
   "name": "TradingView",
   "reading": "とれーでぃんぐびゅー",
   "domain": "tradingview.com",
-  "categories": ["investing"],
+  "categories": [
+    "investing"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://www.tradingview.com/support/solutions/43000572460-how-to-configure-2fa/",
-  "url": "https://www.tradingview.com/",
+  "verifiedUrl": "https://jp.tradingview.com/support/solutions/43000572460/",
+  "url": "https://jp.tradingview.com/",
   "notes": "二要素認証は認証アプリ（Google Authenticator、Microsoft Authenticator、Duo Mobile、Authy等）またはSMSから選択する方式で、バックアップコードも発行される。公式ヘルプにパスキー/セキュリティキーの案内はない（ブローカー接続時に求められるパスキー確認は接続先ブローカー側の認証）",
   "recommendation": "authenticator",
-  "documentationUrl": "https://www.tradingview.com/support/solutions/43000572460-how-to-configure-2fa/"
+  "documentationUrl": "https://jp.tradingview.com/support/solutions/43000572460/"
 }

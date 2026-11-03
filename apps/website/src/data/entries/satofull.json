@@ -2,11 +2,12 @@
   "name": "さとふる",
   "reading": "さとふる",
   "domain": "satofull.jp",
-  "url": "https://www.satofull.jp/",
-  "categories": ["lifestyle"],
+  "categories": [
+    "lifestyle"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.satofull.jp/news/detail.php?news_id=10917",
+  "url": "https://www.satofull.jp/",
   "notes": "ログインはID＋パスワードのみで、ログイン時に使える追加認証の設定はない。2026年7月15日から会員情報のメールアドレス・電話番号の変更時に多要素認証（SMS/音声通話またはメールで送られる認証コード）が必須化されたが、これはログイン後の登録情報変更時の認証でログイン自体には使えないため、本ディレクトリの基準では数えない。認証アプリ・パスキーの案内はない。Yahoo! JAPAN ID・Amazon・楽天アカウントでのログインも可能だが、これは外部ID側の方式",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

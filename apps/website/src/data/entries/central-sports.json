@@ -2,11 +2,12 @@
   "name": "セントラルスポーツ",
   "reading": "せんとらるすぽーつ",
   "domain": "central.co.jp",
-  "url": "https://www.central.co.jp/",
-  "categories": ["fitness"],
+  "categories": [
+    "fitness"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.central.co.jp/mypage/login",
+  "url": "https://www.central.co.jp/",
   "notes": "会員マイページのログインはID＋パスワードのみ。公式サイトに二段階認証・認証アプリ・パスキーの設定案内なし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

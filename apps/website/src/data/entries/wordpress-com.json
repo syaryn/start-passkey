@@ -2,14 +2,15 @@
   "name": "WordPress.com",
   "reading": "わーどぷれすどっとこむ",
   "domain": "wordpress.com",
-  "url": "https://wordpress.com/",
-  "categories": ["developer"],
+  "categories": [
+    "developer"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://wordpress.com/support/security/two-step-authentication/security-key-authentication/",
+  "verifiedUrl": "https://wordpress.com/ja/support/security/two-step-authentication/security-key-authentication/",
+  "url": "https://wordpress.com/",
   "notes": "公式サポートで確認。パスキー/セキュリティキー（WebAuthn）は、パスワード入力後の二段階認証のコードの代わりに使う第2要素として提供され、パスワードレスサインインの案内はない。登録には事前にSMSまたは認証アプリによる二段階認証の設定が必要。認証アプリ（TOTP）とSMSコードも利用可能。セルフホスト版WordPress（WordPress.org）とは別扱い。",
-  "delegatedServices": [],
   "recommendation": "passkey",
-  "documentationUrl": "https://wordpress.com/support/security/two-step-authentication/security-key-authentication/",
+  "documentationUrl": "https://wordpress.com/ja/support/security/two-step-authentication/security-key-authentication/",
   "passkey": {
     "mfa": "allowed"
   }

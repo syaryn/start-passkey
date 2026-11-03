@@ -2,7 +2,9 @@
   "name": "Wise",
   "reading": "わいず",
   "domain": "wise.com",
-  "categories": ["payments"],
+  "categories": [
+    "payments"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://wise.com/help/articles/4OTG2Z93XXyaurUviZRg5O/how-can-i-use-a-passkey",
   "url": "https://wise.com/",

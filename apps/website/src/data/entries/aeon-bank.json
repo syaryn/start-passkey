@@ -2,7 +2,9 @@
   "name": "イオン銀行",
   "reading": "いおんぎんこう",
   "domain": "aeonbank.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.aeonbank.co.jp/security/fido/login/",
   "url": "https://www.aeonbank.co.jp/",

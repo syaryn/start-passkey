@@ -2,7 +2,9 @@
   "name": "Chatwork",
   "reading": "ちゃっとわーく",
   "domain": "chatwork.com",
-  "categories": ["social"],
+  "categories": [
+    "social"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.chatwork.com/hc/ja/articles/360000213821-2段階認証を設定する",
   "url": "https://www.chatwork.com/",

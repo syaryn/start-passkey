@@ -2,12 +2,13 @@
   "name": "マネーフォワード クラウド（マネーフォワード ID）",
   "reading": "まねーふぉわーど くらうど",
   "domain": "moneyforward.com",
-  "url": "https://biz.moneyforward.com/",
-  "categories": ["backoffice"],
+  "categories": [
+    "backoffice"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://biz.moneyforward.com/support/guide/a014.html",
+  "url": "https://biz.moneyforward.com/",
   "notes": "共通ID「マネーフォワード ID」でパスキー登録が可能（任意設定）。登録後もパスワードは有効なままにでき、パスワードの無効化も選択可。パスワード併用時は認証アプリ（TOTP）による二段階認証も設定できる。「アカウント統制設定」でログイン方式がSSOのユーザーはパスキー登録や二段階認証設定ができず、外部IdP側で設定する。",
-  "delegatedServices": [],
   "recommendation": "passkey",
   "documentationUrl": "https://biz.moneyforward.com/support/guide/a014.html",
   "passkey": {

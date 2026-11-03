@@ -2,7 +2,9 @@
   "name": "コーナンPay",
   "reading": "こーなんぺい",
   "domain": "kohnan-eshop.com",
-  "categories": ["payments"],
+  "categories": [
+    "payments"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.hc-kohnan.com/service/stores/kohnan_pay/kohnan_pay_details",
   "url": "https://www.kohnan-eshop.com/",

@@ -2,7 +2,9 @@
   "name": "e-Gov",
   "reading": "いーがぶ",
   "domain": "e-gov.go.jp",
-  "categories": ["government"],
+  "categories": [
+    "government"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.e-gov.go.jp/help/guide/firstlogin.html",
   "url": "https://www.e-gov.go.jp/",

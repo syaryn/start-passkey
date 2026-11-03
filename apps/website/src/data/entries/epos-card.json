@@ -2,9 +2,11 @@
   "name": "エポスカード",
   "reading": "えぽすかーど",
   "domain": "eposcard.co.jp",
-  "categories": ["payments"],
+  "categories": [
+    "payments"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://www.eposcard.co.jp/eposnet/index.html",
+  "verifiedUrl": "https://faq.eposcard.co.jp/faq/show/3410?category_id=36&site_domain=default",
   "url": "https://www.eposcard.co.jp/",
   "notes": "会員サイト「エポスNet」のログインはエポスNet ID・パスワードのみ。SMSワンタイムパスワードは本人認証サービス（Visa Secure／3Dセキュア）におけるカード利用時の認証であり、ログイン時の二段階認証ではない。パスキー・認証アプリの案内は公式情報になし",
   "recommendation": "password-only"

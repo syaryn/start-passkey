@@ -2,11 +2,12 @@
   "name": "じゃんぱら",
   "reading": "じゃんぱら",
   "domain": "janpara.co.jp",
-  "url": "https://www.janpara.co.jp/",
-  "categories": ["electronics"],
+  "categories": [
+    "electronics"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.janpara.co.jp/contents/faq_members/",
+  "url": "https://www.janpara.co.jp/",
   "notes": "会員ログインはメールアドレスとパスワードのみ。電話番号認証は新規会員登録時と登録電話番号の変更時のみで、ログイン時の二段階認証ではない。店舗で使える顔認証は来店時の会員確認用であり、Webログインのパスキーではない。買取利用時のeKYCは本人確認手続きでありログイン認証ではない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

@@ -2,11 +2,12 @@
   "name": "モノタロウ",
   "reading": "ものたろう",
   "domain": "monotaro.com",
-  "url": "https://www.monotaro.com/",
-  "categories": ["retail"],
+  "categories": [
+    "retail"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.monotaro.com/login/",
+  "url": "https://www.monotaro.com/",
   "notes": "ログインはユーザーID（英数または数字8文字）＋パスワードのみ。注文・登録情報変更時にパスワードの再入力を求める場合はあるが、二段階認証・認証アプリ・パスキーの設定は公式ヘルプにない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

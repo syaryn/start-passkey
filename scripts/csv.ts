@@ -74,3 +74,18 @@ export function parseCsvRecords(text: string): Record<string, string>[] {
     return record;
   });
 }
+
+function escapeCsvField(field: string): string {
+  if (/[",\n\r]/.test(field)) {
+    return `"${field.replace(/"/g, '""')}"`;
+  }
+  return field;
+}
+
+export function serializeCsvRecords(headers: string[], records: Record<string, string>[]): string {
+  const lines = [headers.map(escapeCsvField).join(",")];
+  for (const record of records) {
+    lines.push(headers.map((header) => escapeCsvField(record[header] ?? "")).join(","));
+  }
+  return `${lines.join("\n")}\n`;
+}

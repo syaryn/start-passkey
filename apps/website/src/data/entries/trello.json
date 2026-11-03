@@ -2,14 +2,15 @@
   "name": "Trello",
   "reading": "とれろ",
   "domain": "trello.com",
-  "url": "https://trello.com/",
-  "categories": ["productivity"],
+  "categories": [
+    "productivity"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://support.atlassian.com/atlassian-account/docs/access-your-atlassian-account-with-a-passkey/",
+  "verifiedUrl": "https://support.atlassian.com/ja/atlassian-account/docs/access-your-atlassian-account-with-a-passkey/",
+  "url": "https://trello.com/",
   "notes": "ログインはAtlassianアカウント経由。公式サポートによれば、Atlassianアカウントではパスキーによるパスワードレスサインインが可能で、セキュリティキーを2段階認証（2SV）の要素としても登録できる。ただしパスキーは組織に管理されたアカウントでは利用不可。",
-  "delegatedServices": [],
   "recommendation": "passkey",
-  "documentationUrl": "https://support.atlassian.com/atlassian-account/docs/access-your-atlassian-account-with-a-passkey/",
+  "documentationUrl": "https://support.atlassian.com/ja/atlassian-account/docs/access-your-atlassian-account-with-a-passkey/",
   "passkey": {
     "passwordless": "allowed",
     "mfa": "allowed"

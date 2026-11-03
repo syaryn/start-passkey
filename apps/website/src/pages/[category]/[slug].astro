@@ -6,6 +6,8 @@ import {
   type CategorySlug,
 } from "../../data/categories.ts";
 import {
+  distinctVerifiedSourceUrl,
+  DISTINCT_VERIFIED_SOURCE_LABEL,
   entryPageHref,
   passkeyDetail,
   RECOMMENDATION_LABELS,
@@ -49,6 +51,7 @@ if (category.slug !== primary) {
 }
 
 const delegated = entry.delegatedServices ?? [];
+const verifiedSourceUrl = distinctVerifiedSourceUrl(entry);
 const documentTitle = pageTitle(entry.name);
 const documentDescription =
   delegated.length > 0
@@ -98,9 +101,13 @@ const documentDescription =
       <dd style="margin: 0.25rem 0 0;">{entry.verifiedOn}</dd>
     </div>
     <div>
-      <dt class="dads-std-16b-170">確認したページ</dt>
+      <dt class="dads-std-16b-170">{DISTINCT_VERIFIED_SOURCE_LABEL}</dt>
       <dd style="margin: 0.25rem 0 0;">
-        <ExternalLink href={entry.verifiedUrl} label="確認元" iconOnly={false} />
+        {verifiedSourceUrl ? (
+          <ExternalLink href={verifiedSourceUrl} label="参考URL" iconOnly={false} />
+        ) : (
+          "—"
+        )}
       </dd>
     </div>
     {

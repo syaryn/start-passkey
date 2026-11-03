@@ -2,7 +2,9 @@
   "name": "SBI証券",
   "reading": "えすびーあいしょうけん",
   "domain": "sbisec.co.jp",
-  "categories": ["investing"],
+  "categories": [
+    "investing"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl30&_ActionID=DefaultAID&_DataStoreID=DSWPLETmgR001Control&OutSide=on&getFlg=on&burl=search_home&cat1=home&cat2=none&dir=service&file=home_security_passkey_authentication.html",
   "url": "https://www.sbisec.co.jp/",

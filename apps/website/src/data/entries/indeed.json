@@ -2,12 +2,13 @@
   "name": "Indeed",
   "reading": "いんでぃーど",
   "domain": "indeed.com",
-  "url": "https://jp.indeed.com/",
-  "categories": ["jobs"],
+  "categories": [
+    "jobs"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.indeed.com/help/job-seekers/articles/35932737328397?hl=ja&co=JP",
+  "url": "https://jp.indeed.com/",
   "notes": "パスキーを作成するとパスワードなしでログインでき、デフォルトのログイン方法になる。採用企業アカウントでは別途、SMSコードまたは認証アプリによる2要素認証も設定できる。",
-  "delegatedServices": [],
   "recommendation": "passkey",
   "documentationUrl": "https://www.indeed.com/help/job-seekers/articles/35932737328397?hl=ja&co=JP",
   "passkey": {

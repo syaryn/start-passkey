@@ -2,14 +2,15 @@
   "name": "HubSpot",
   "reading": "はぶすぽっと",
   "domain": "hubspot.com",
-  "url": "https://www.hubspot.com/",
-  "categories": ["business"],
+  "categories": [
+    "business"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://knowledge.hubspot.com/account-management/set-up-and-log-in-with-passkeys",
+  "verifiedUrl": "https://knowledge.hubspot.com/ja/account-management/set-up-and-log-in-with-passkeys?hubs_content=knowledge.hubspot.com/account-management/set-up-and-log-in-with-passkeys&hubs_content-cta=%E6%97%A5%E6%9C%AC%E8%AA%9E",
+  "url": "https://www.hubspot.com/",
   "notes": "パスキーでパスワードなしにログインでき、メール+パスワードでログインする場合の2要素認証の手段としてもパスキーを選択できる。Starter以上のプランでは2FAの設定が必須。SSOが必須に設定された組織ではパスキーは利用できない。",
-  "delegatedServices": [],
   "recommendation": "passkey",
-  "documentationUrl": "https://knowledge.hubspot.com/account-management/set-up-and-log-in-with-passkeys",
+  "documentationUrl": "https://knowledge.hubspot.com/ja/account-management/set-up-and-log-in-with-passkeys?hubs_content=knowledge.hubspot.com/account-management/set-up-and-log-in-with-passkeys&hubs_content-cta=%E6%97%A5%E6%9C%AC%E8%AA%9E",
   "passkey": {
     "passwordless": "allowed",
     "mfa": "allowed"

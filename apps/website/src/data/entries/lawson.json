@@ -2,12 +2,13 @@
   "name": "ローソンID",
   "reading": "ろーそんあいでぃー",
   "domain": "lawson.co.jp",
-  "url": "https://www.lawson.co.jp/id/",
-  "categories": ["points"],
+  "categories": [
+    "points"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://lawson-faq.lawson.co.jp/faq/show/191?category_id=9&site_domain=default",
+  "url": "https://www.lawson.co.jp",
   "notes": "ログイン後に2段階認証があり、確認コードは登録メールアドレス宛（電話番号を登録している場合はSMS）へ送られる。パスキー・認証アプリの案内は公式情報になし。ローソンチケット等で使う「ローソンWEB会員」とは別のID",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://lawson-faq.lawson.co.jp/faq/show/127?category_id=9&site_domain=default"
 }

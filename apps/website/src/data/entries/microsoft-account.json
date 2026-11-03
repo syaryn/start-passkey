@@ -2,7 +2,10 @@
   "name": "Microsoft アカウント",
   "reading": "まいくろそふとあかうんと",
   "domain": "account.live.com",
-  "categories": ["email", "cloud"],
+  "categories": [
+    "email",
+    "cloud"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support.microsoft.com/ja-jp/windows/パスキーを-microsoft-アカウントに同期する-be9de83c-6803-4ccc-81f2-e1fcc2fb8110",
   "notes": "個人アカウントでパスキーを作成でき、顔・指紋・PIN・セキュリティキーでパスワードなしにサインインできる（アカウントからパスワード自体を削除する設定もあり）。パスワード入力後の第2要素としてパスキーを使う形は公式資料で確認できなかったためmfaはunknown。なお2段階認証自体はMicrosoft Authenticatorアプリ等で別途提供されている。",

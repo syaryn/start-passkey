@@ -2,7 +2,9 @@
   "name": "mixi",
   "reading": "みくしぃ",
   "domain": "mixi.jp",
-  "categories": ["social"],
+  "categories": [
+    "social"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://mixi.jp/help.pl?mode=item&item=1192",
   "url": "https://mixi.jp/",

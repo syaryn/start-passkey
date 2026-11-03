@@ -1,11 +1,13 @@
 ---
 import "../styles/global.css";
+import ThemeToggle from "../components/ThemeToggle.astro";
 import {
   GUIDE_LINKS,
   POLICY_LINKS,
   UTILITY_LINKS,
 } from "../data/navigation.ts";
 import { DEFAULT_DESCRIPTION, SITE_NAME } from "../data/site.ts";
+import { themeBootstrapScript } from "../data/theme.ts";
 
 interface Props {
   title: string;
@@ -23,6 +25,7 @@ const { title, description = DEFAULT_DESCRIPTION } = Astro.props;
     <meta name="color-scheme" content="light dark" />
     <meta name="description" content={description} />
     <title>{title}</title>
+    <script is:inline set:html={themeBootstrapScript()} />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   </head>
   <body class="dads-site-body">
@@ -33,19 +36,22 @@ const { title, description = DEFAULT_DESCRIPTION } = Astro.props;
         <a href="/" class="dads-site-logo">
           <span class="dads-std-20b-150">{SITE_NAME}</span>
         </a>
-        <nav class="dads-site-nav" aria-label="メイン">
-          <ul>
-            <li>
-              <a href="/guide/">ガイド</a>
-            </li>
-            <li>
-              <a href="/faq/">FAQ</a>
-            </li>
-            <li>
-              <a href="/about/">このサイトについて</a>
-            </li>
-          </ul>
-        </nav>
+        <div class="dads-site-header-actions">
+          <nav class="dads-site-nav" aria-label="メイン">
+            <ul>
+              <li>
+                <a href="/guide/">ガイド</a>
+              </li>
+              <li>
+                <a href="/faq/">FAQ</a>
+              </li>
+              <li>
+                <a href="/about/">このサイトについて</a>
+              </li>
+            </ul>
+          </nav>
+          <ThemeToggle />
+        </div>
       </div>
     </header>
 

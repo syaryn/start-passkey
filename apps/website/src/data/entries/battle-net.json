@@ -2,13 +2,15 @@
   "name": "Battle.net",
   "reading": "ばとるねっと",
   "domain": "battle.net",
-  "categories": ["gaming"],
+  "categories": [
+    "gaming"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://battle.net/support/article/14319?utm_source=mobileweb-news&utm_campaign=web-kr-mobilewebnews&utm_medium=internal&utm_content=24074998",
+  "verifiedUrl": "https://us.support.blizzard.com/ja/help/article/14319",
   "url": "https://www.battle.net/",
   "notes": "Blizzard公式サポートが、パスキーを「従来のパスワードに代わるログイン方法」として案内（メールアドレス/電話番号でアカウントを特定し、端末やPCに保存したパスキーでサインイン）。別途、Battle.net Authenticator（モバイルアプリでの承認・コード入力、新規デバイス/場所からのログイン時に要求）も利用できる",
   "recommendation": "passkey",
-  "documentationUrl": "https://battle.net/support/article/14319?utm_source=mobileweb-news&utm_campaign=web-kr-mobilewebnews&utm_medium=internal&utm_content=24074998",
+  "documentationUrl": "https://us.support.blizzard.com/ja/help/article/14319",
   "passkey": {
     "passwordless": "allowed"
   }

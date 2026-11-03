@@ -2,11 +2,12 @@
   "name": "ケーズデンキ",
   "reading": "けーずでんき",
   "domain": "ksdenki.com",
-  "url": "https://www.ksdenki.com/",
-  "categories": ["electronics"],
+  "categories": [
+    "electronics"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://qa.ksdenki.com/category/show/7?site_domain=default",
+  "url": "https://www.ksdenki.com/",
   "notes": "ケーズデンキオンラインショップ／あんしんパスポートのログインはメールアドレス＋パスワードのみ（公式FAQ「ログイン方法が知りたい」）。新規会員登録時のメール確認コードは登録手続き用でありログイン2FAではない。パスキー・認証アプリ・ログイン時のコード認証の設定案内は公式情報になし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

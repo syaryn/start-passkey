@@ -2,7 +2,9 @@
   "name": "セゾンカード（Netアンサー）",
   "reading": "せぞんかーど",
   "domain": "saisoncard.co.jp",
-  "categories": ["payments"],
+  "categories": [
+    "payments"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.saisoncard.co.jp/credictionary/card/article330.html",
   "url": "https://www.saisoncard.co.jp/",

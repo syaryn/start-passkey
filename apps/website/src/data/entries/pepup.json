@@ -2,12 +2,13 @@
   "name": "Pep Up",
   "reading": "ぺっぷあっぷ",
   "domain": "pepup.life",
-  "url": "https://pepup.life/",
-  "categories": ["health"],
+  "categories": [
+    "health"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support.pepup.life/hc/ja/articles/56923943626265-パスキー認証とは何ですか",
+  "url": "https://pepup.life/",
   "notes": "健康保険組合向け健康管理サービス。パスキーは任意登録で、ログイン画面の「パスキー認証でログイン」からパスワードレスでログイン可能（QRコードによるクロスデバイス認証にも対応）。別途、認証アプリ（Google/Microsoft AuthenticatorのTOTP）またはメールコードによる2段階認証も設定でき、加入健保によっては2段階認証が必須化されている。パスキー登録済みの場合のログイン方法は2段階認証の設定状況により異なる旨が公式ヘルプに記載されている",
-  "delegatedServices": [],
   "recommendation": "passkey",
   "documentationUrl": "https://support.pepup.life/hc/ja/articles/56923943626265-パスキー認証とは何ですか",
   "passkey": {

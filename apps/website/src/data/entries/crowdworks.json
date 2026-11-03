@@ -2,12 +2,13 @@
   "name": "クラウドワークス",
   "reading": "くらうどわーくす",
   "domain": "crowdworks.jp",
-  "url": "https://crowdworks.jp/",
-  "categories": ["jobs"],
+  "categories": [
+    "jobs"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://crowdworks-help.zendesk.com/hc/ja/articles/5081408362014",
+  "url": "https://crowdworks.jp/",
   "notes": "ログイン時の2段階認証は、登録メールアドレス宛に送られる6桁の認証コードのみ。パスキーや認証アプリの案内は公式情報になし。2段階認証はWebサイトでの提供で、公式アプリ（iOS/Android）での対応は今後提供予定と案内されている。メールアドレス・パスワード変更時は2段階認証の設定が必須化される予定（2026年3月以降順次）",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://crowdworks-help.zendesk.com/hc/ja/articles/5081426832158"
 }

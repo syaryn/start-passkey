@@ -2,14 +2,15 @@
   "name": "Mozillaアカウント",
   "reading": "もじらあかうんと",
   "domain": "accounts.firefox.com",
-  "url": "https://accounts.firefox.com",
-  "categories": ["utilities"],
+  "categories": [
+    "utilities"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://support.mozilla.org/en-US/kb/use-passkey-mozilla-account",
+  "verifiedUrl": "https://support.mozilla.org/ja/kb/use-passkey-mozilla-account",
+  "url": "https://accounts.firefox.com",
   "notes": "パスキーでパスワードなしにサインインできる。公式説明ではパスキーでのサインインは2段階認証を満たす扱いとなり、別途認証コードは求められない。Firefox Sync利用時は暗号化保護のためパスワード入力が別途必要。パスキー機能は段階的ロールアウト中の実験的機能とされる。認証アプリによる2段階認証も別途設定可能。",
-  "delegatedServices": [],
   "recommendation": "passkey",
-  "documentationUrl": "https://support.mozilla.org/en-US/kb/use-passkey-mozilla-account",
+  "documentationUrl": "https://support.mozilla.org/ja/kb/use-passkey-mozilla-account",
   "passkey": {
     "passwordless": "allowed",
     "mfa": "allowed"

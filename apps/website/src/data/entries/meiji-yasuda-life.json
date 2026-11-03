@@ -2,11 +2,12 @@
   "name": "明治安田生命（MYほけんページ）",
   "reading": "めいじやすだせいめい",
   "domain": "meijiyasuda.co.jp",
-  "url": "https://www.meijiyasuda.co.jp/",
-  "categories": ["insurance"],
+  "categories": [
+    "insurance"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.meijiyasuda.co.jp/contractor/myhoken/",
+  "url": "https://www.meijiyasuda.co.jp/",
   "notes": "ログインはMYほけんページID＋ログインパスワード。MYほけんアプリには生体認証ログインがあるが、初期設定でID・パスワードを登録して呼び出す方式で、公式にパスキー/FIDOとはされていないため数えない。登録携帯電話へのワンタイムパスワードは契約内容照会等の手続き時専用で、ログインには使えないため対象外",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

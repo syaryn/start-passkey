@@ -9,8 +9,8 @@ const repoRoot = path.resolve(__dirname, "..");
 const csvPath = path.join(repoRoot, "docs/delegations_20261101.csv");
 const entriesDir = path.join(repoRoot, "apps/website/src/data/entries");
 
-const EXPECTED_BASE_COUNT = 51;
-const EXPECTED_DELEGATION_COUNT = 96;
+const EXPECTED_BASE_COUNT = 47;
+const EXPECTED_DELEGATION_COUNT = 89;
 
 function isHttpUrl(value: string): boolean {
   try {

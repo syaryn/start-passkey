@@ -2,12 +2,13 @@
   "name": "チケプラ（Tixplus）",
   "reading": "ちけぷら",
   "domain": "tixplus.jp",
-  "url": "https://tixplus.jp/",
-  "categories": ["tickets"],
+  "categories": [
+    "tickets"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://tixplus.jp/feature/ticket_faq/en.html",
+  "url": "https://tixplus.jp/",
   "notes": "ログインはPlus member ID（メールアドレス）＋パスワード。電子チケットアプリではログイン後に携帯電話番号のSMS認証による端末登録が必須で、機種変更・アプリ再インストール時にもSMS認証と本人確認が必要（1ID・1端末）。パスキー・認証アプリの案内はない。",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://tixplus.jp/feature/eticketapp/guide/index.html"
 }

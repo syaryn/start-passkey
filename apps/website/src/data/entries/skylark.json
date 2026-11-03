@@ -2,11 +2,12 @@
   "name": "すかいらーくアプリ",
   "reading": "すかいらーくあぷり",
   "domain": "skylark.co.jp",
-  "url": "https://www.skylark.co.jp/sk_app/index.html",
-  "categories": ["food"],
+  "categories": [
+    "food"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.skylark.co.jp/sk_app/index.html",
+  "url": "https://www.skylark.co.jp",
   "notes": "ログインはメールアドレス＋パスワードのみ。SMS認証番号の入力は新規会員登録時のみで、ログイン時の二段階認証ではない。認証アプリ・パスキーの設定は公式情報に見当たらない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

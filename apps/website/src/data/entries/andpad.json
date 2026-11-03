@@ -2,12 +2,13 @@
   "name": "ANDPAD",
   "reading": "あんどぱっど",
   "domain": "andpad.jp",
-  "url": "https://andpad.jp/",
-  "categories": ["business"],
+  "categories": [
+    "business"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://andpad.jp/help/security",
+  "url": "https://andpad.jp/",
   "notes": "公式セキュリティページが、ID/パスワードに加えて認証コード入力を求める二要素認証を案内。コードの送付手段は公式の公開情報で明示されておらず、認証アプリ（TOTP）やパスキーの公式案内はなし",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://andpad.jp/help/security"
 }

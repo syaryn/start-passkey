@@ -2,7 +2,9 @@
   "name": "ハローワークインターネットサービス",
   "reading": "はろーわーくいんたーねっとさーびす",
   "domain": "hellowork.mhlw.go.jp",
-  "categories": ["government"],
+  "categories": [
+    "government"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.hellowork.mhlw.go.jp/",
   "url": "https://www.hellowork.mhlw.go.jp/",

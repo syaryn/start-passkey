@@ -2,7 +2,9 @@
   "name": "福岡銀行",
   "reading": "ふくおかぎんこう",
   "domain": "fukuokabank.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.fukuokabank.co.jp/personal/service/directbanking/security/onetime/",
   "url": "https://www.fukuokabank.co.jp/",

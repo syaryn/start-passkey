@@ -2,12 +2,13 @@
   "name": "FOD",
   "reading": "えふおーでぃー",
   "domain": "fod.fujitv.co.jp",
-  "url": "https://fod.fujitv.co.jp/",
-  "categories": ["streaming"],
+  "categories": [
+    "streaming"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.fod.fujitv.co.jp/hc/ja/articles/4408173436953-Web%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95",
+  "url": "https://fod.fujitv.co.jp/",
   "notes": "FODアカウントのログインはメールアドレス＋パスワードに加え、「メールアドレス認証」を済ませたアカウントではログインのたびに登録メールアドレス宛に送られる4桁の認証コードの入力が必要（2023年9月開始）。認証アプリ・パスキーの案内はない。FODアカウント以外の外部IDでログインする場合は各ID側の認証に従う",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://help.fod.fujitv.co.jp/hc/ja/articles/4408173436953-Web%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95"
 }

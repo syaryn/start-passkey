@@ -2,12 +2,13 @@
   "name": "Kintetsu-ID（近鉄グループ共通ID）",
   "reading": "きんてつあいでぃー",
   "domain": "kintetsu.co.jp",
-  "url": "https://www.kintetsu.co.jp/",
-  "categories": ["rail"],
+  "categories": [
+    "rail"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.kintetsu.co.jp/senden/Railway/eticket/faq/",
+  "url": "https://www.kintetsu.co.jp/",
   "notes": "近鉄特急の予約・デジタルきっぷ等で使う共通ID。ログインはメールアドレス＋パスワードに加え、二段階認証のコード入力を行う。認証手段はメール・SMS・Google Authenticator（TOTP）から選択でき、ログイン時に認証アプリが使える。信頼済み端末として登録すると次回以降省略可。パスキーの案内は公式情報になし。特急券購入サイトの旧来の会員番号＋パスワードログインも併存する",
-  "delegatedServices": [],
   "recommendation": "authenticator",
   "documentationUrl": "https://www.kintetsu.co.jp/gyoumu/app/"
 }

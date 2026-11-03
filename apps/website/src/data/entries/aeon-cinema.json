@@ -2,11 +2,12 @@
   "name": "イオンシネマ（ワタシアター）",
   "reading": "いおんしねま",
   "domain": "aeoncinema.com",
-  "url": "https://www.aeoncinema.com/",
-  "categories": ["cinema"],
+  "categories": [
+    "cinema"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.aeoncinema.com/service/watatheatre/",
+  "url": "https://www.aeoncinema.com/",
   "notes": "会員サービス「ワタシアター」のログインはメールアドレス＋パスワードのみ。入会登録・会員情報移行の手続き時にメールでワンタイム認証コードを使うが、ログイン時の二段階認証・認証アプリ・パスキーは設定できない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

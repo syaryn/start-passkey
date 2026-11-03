@@ -2,7 +2,9 @@
   "name": "Club TOHOGAS",
   "reading": "くらぶとうほうがす",
   "domain": "members.tohogas.co.jp",
-  "categories": ["utilities"],
+  "categories": [
+    "utilities"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://members.tohogas.co.jp/Outside/Faq",
   "url": "https://members.tohogas.co.jp/",

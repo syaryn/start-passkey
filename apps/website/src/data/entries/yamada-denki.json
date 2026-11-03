@@ -2,11 +2,12 @@
   "name": "ヤマダデンキ",
   "reading": "やまだでんき",
   "domain": "yamada-denkiweb.com",
-  "url": "https://www.yamada-denkiweb.com/",
-  "categories": ["electronics"],
+  "categories": [
+    "electronics"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.yamada-denkiweb.com/info/wcontents/guide_point.html",
+  "url": "https://www.yamada-denkiweb.com/",
   "notes": "ヤマダウェブコム／ヤマダデジタル会員のログインはメールアドレス＋パスワードのみ（デジタル会員と統合済みでウェブコム専用パスワードを設定）。二段階認証・認証アプリ・パスキーの設定は公式情報にない。ヤマダNEOBANKのスマート認証NEO（生体認証等）は銀行サービス側の認証で、通販会員ログインとは別",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

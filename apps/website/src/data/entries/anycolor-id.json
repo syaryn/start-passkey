@@ -2,25 +2,13 @@
   "name": "ANYCOLOR ID",
   "reading": "えにからーあいでぃー",
   "domain": "anycolorid.com",
-  "url": "https://anycolorid.com/",
-  "categories": ["points"],
+  "categories": [
+    "points"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.nijisanji.jp/fanclubs/contents/yC2XlQml",
+  "url": "https://anycolorid.com/",
   "notes": "登録・ログインはX/Google/Apple IDの外部アカウント連携が基本で、独自のパスワードログインは設けられていない。加えて、登録メールアドレス宛に送られるログイン認証用メール（メール内URLまたは認証コード入力）によるログインが可能（2024年11月追加）。パスキーや認証アプリ（TOTP）の設定は公式ヘルプに案内なし。外部ID側の認証はANYCOLOR ID自体の追加認証として数えていない。にじさんじオフィシャルストア、にじさんじFAN CLUB等がこの基盤を利用する",
-  "delegatedServices": [
-    {
-      "name": "にじさんじオフィシャルストア",
-      "reading": "にじさんじおふぃしゃるすとあ",
-      "sourceUrl": "https://shop.nijisanji.jp/guide.html",
-      "sourceNote": "ストア公式ガイド「ANYCOLOR IDの登録を行う必要があります」"
-    },
-    {
-      "name": "にじさんじFAN CLUB",
-      "reading": "にじさんじふぁんくらぶ",
-      "sourceUrl": "https://www.nijisanji.jp/fanclub-help",
-      "sourceNote": "公式ヘルプ「ANYCOLOR IDを利用してログインすることができます」"
-    }
-  ],
   "recommendation": "code",
   "documentationUrl": "https://www.nijisanji.jp/fanclubs/contents/yC2XlQml"
 }

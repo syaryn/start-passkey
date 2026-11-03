@@ -2,11 +2,12 @@
   "name": "フェリシモ",
   "reading": "ふぇりしも",
   "domain": "felissimo.co.jp",
-  "url": "https://www.felissimo.co.jp/",
-  "categories": ["fashion"],
+  "categories": [
+    "fashion"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.felissimo.co.jp/login/",
+  "url": "https://www.felissimo.co.jp/",
   "notes": "ログインはフェリシモID＋パスワード。連携設定によりLINEアカウントでもログイン可能。公式情報に二段階認証、認証アプリ、パスキーの設定案内はなし（ログイン時のreCAPTCHAはある）",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

@@ -24,6 +24,9 @@ import { SITE_LAST_UPDATED } from "../../../data/navigation.ts";
   <h2>確認のルール</h2>
   <ul>
     <li>掲載内容は公式ヘルプや設定画面など、確認した URL を <code>verifiedUrl</code> に記録します</li>
+    <li>
+      <code>url</code> は公式サイトのトップ（ドメイン直下）です。マイページ入口など深い URL は <code>verifiedUrl</code>（表では参考URL）側に置きます
+    </li>
     <li><code>verifiedOn</code> はその確認を行った日付です</li>
     <li>推測や噂だけでは載せません</li>
     <li>主列「いま切り替えるなら」は、確認時点で利用できる最も強い設定1つです（パスキー／認証アプリ／SMS・メール／パスワードのみ／対象外）</li>

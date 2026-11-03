@@ -2,11 +2,12 @@
   "name": "ポイントインカム",
   "reading": "ぽいんといんかむ",
   "domain": "pointi.jp",
-  "url": "https://pointi.jp/",
-  "categories": ["points"],
+  "categories": [
+    "points"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://pointi.jp/",
+  "url": "https://pointi.jp/",
   "notes": "ログインは会員ID＋パスワードのみ。ポイント交換時には秘密の質問による確認、登録時には電話番号認証（登録電話から指定番号へ発信する方式）が必要だが、いずれもログインの追加認証ではない。ログイン時の二段階認証・認証アプリ・パスキーの設定は公式情報になし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

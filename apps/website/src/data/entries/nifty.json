@@ -2,7 +2,9 @@
   "name": "@nifty",
   "reading": "あっとにふてぃ",
   "domain": "nifty.com",
-  "categories": ["utilities"],
+  "categories": [
+    "utilities"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://sso.nifty.com/qa/login/index.htm",
   "url": "https://www.nifty.com/",

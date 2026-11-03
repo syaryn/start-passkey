@@ -2,12 +2,13 @@
   "name": "Qoo10",
   "reading": "きゅーてん",
   "domain": "qoo10.jp",
-  "url": "https://www.qoo10.jp/",
-  "categories": ["marketplace"],
+  "categories": [
+    "marketplace"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.qoo10.jp/gmkt.inc/Mobile/CSCenter/HelpFaqList.aspx?searchkind=E1&searchId=17776",
+  "url": "https://www.qoo10.jp/",
   "notes": "「2段階認証（OTP）」を任意で設定可能。設定後はログイン時にメールまたはSMSで届く6桁のワンタイムパスワード（有効期限10分）が必要。設定には電話番号とメールアドレスの両方の認証が前提。パスキー・認証アプリ（TOTP）の案内は公式ヘルプになし",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://www.qoo10.jp/gmkt.inc/Mobile/CSCenter/HelpFaqList.aspx?searchkind=E1&searchId=17776"
 }

@@ -2,11 +2,12 @@
   "name": "コーセー（KOSÉ ID）",
   "reading": "こーせー",
   "domain": "maison.kose.co.jp",
-  "url": "https://maison.kose.co.jp/",
-  "categories": ["beauty"],
+  "categories": [
+    "beauty"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://maison.kose.co.jp/koseid_info/",
+  "url": "https://maison.kose.co.jp/",
   "notes": "コーセーグループ共通のKOSÉ IDのログインはメールアドレス＋パスワードのみ。公式ガイド・FAQに二段階認証・認証アプリ・パスキーの設定案内はなし。LINE連携によるログインも可能だが外部ID側の認証であり、KOSÉ ID自体の追加認証ではない。登録時のメール確認（認証メール）は登録手続き用でログイン用2FAとして数えない。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

@@ -2,11 +2,12 @@
   "name": "ドリームメール",
   "reading": "どりーむめーる",
   "domain": "dreammail.jp",
-  "url": "https://www.dreammail.jp/",
-  "categories": ["email"],
+  "categories": [
+    "email"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.dreammail.jp/help",
+  "url": "https://www.dreammail.jp/",
   "notes": "ログインはID＋パスワードのみ。新しいブラウザからのログイン時などに通知メールが送られるが、コード入力式の追加認証ではない。二段階認証・認証アプリ・パスキーの設定案内は公式FAQになし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

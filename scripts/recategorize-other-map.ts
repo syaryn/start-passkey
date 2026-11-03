@@ -44,7 +44,6 @@ export const RECATEGORY_BY_ENTRY_ID: Record<string, CategorySlug[]> = {
   tipness: ["fitness"],
   "just-smile": ["fitness"],
   strava: ["fitness"],
-  peloton: ["fitness"],
   myfitnesspal: ["fitness"],
 
   // 求人・転職
@@ -63,9 +62,7 @@ export const RECATEGORY_BY_ENTRY_ID: Record<string, CategorySlug[]> = {
   toshin: ["education"],
   studying: ["education"],
   udemy: ["education"],
-  "khan-academy": ["education"],
   duolingo: ["education"],
-  skillshare: ["education"],
   "mirai-seed": ["education"],
   "mirai-compass": ["education"],
 
@@ -75,7 +72,6 @@ export const RECATEGORY_BY_ENTRY_ID: Record<string, CategorySlug[]> = {
   byoinnavi: ["health"],
   pepup: ["health"],
   calm: ["health"],
-  headspace: ["health"],
   "job-medley": ["health"],
 
   // ポイント・共通ID
@@ -108,7 +104,6 @@ export const RECATEGORY_BY_ENTRY_ID: Record<string, CategorySlug[]> = {
 
   // 旅行・予約
   "stay-japan": ["travel"],
-  opentable: ["travel"],
   navima: ["travel"],
 
   // 生活・地域
@@ -127,17 +122,7 @@ export const RECATEGORY_BY_ENTRY_ID: Record<string, CategorySlug[]> = {
 
   // スマートホーム
   arlo: ["smart-home"],
-  eufy: ["smart-home"],
   ring: ["smart-home"],
-  "philips-hue": ["smart-home"],
-  "tp-link": ["smart-home"],
-  tuya: ["smart-home"],
-
-  // ニュース・メディア
-  guardian: ["media"],
-  nytimes: ["media"],
-  wikipedia: ["media"],
-  quora: ["media"],
 
   // 既存カテゴリへ移動
   canon: ["retail"],
@@ -150,14 +135,12 @@ export const RECATEGORY_BY_ENTRY_ID: Record<string, CategorySlug[]> = {
   iaeon: ["retail"],
   "my-sony": ["retail", "entertainment"],
   dmm: ["entertainment"],
-  alltrails: ["entertainment"],
   scratch: ["entertainment"],
   yelp: ["entertainment"],
   naver: ["social"],
   "my-toyota": ["transport"],
   nissan: ["transport"],
   pex: ["payments"],
-  razer: ["gaming"],
   fruitmail: ["email"],
   dreammail: ["email"],
 };

@@ -2,12 +2,13 @@
   "name": "minne",
   "reading": "みんね",
   "domain": "minne.com",
-  "url": "https://minne.com/",
-  "categories": ["marketplace"],
+  "categories": [
+    "marketplace"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.minne.com/hc/ja/articles/4406347139603-2%E8%A6%81%E7%B4%A0%E8%AA%8D%E8%A8%BC%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95",
+  "url": "https://minne.com/",
   "notes": "現在のログインは登録メール宛のログインリンクが基本。2要素認証を設定すると、登録電話番号へのSMSまたは音声通話による認証コード入力が必要になる（任意設定、バックアップコードあり）。認証アプリ・パスキーの案内は公式ヘルプになし。",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://help.minne.com/hc/ja/articles/4406347139603-2%E8%A6%81%E7%B4%A0%E8%AA%8D%E8%A8%BC%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95"
 }

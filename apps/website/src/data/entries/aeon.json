@@ -2,7 +2,9 @@
   "name": "イオンスクエアメンバー（AEON Pay ID）",
   "reading": "いおんすくえあめんばー",
   "domain": "aeon.co.jp",
-  "categories": ["payments"],
+  "categories": [
+    "payments"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.aeon.co.jp/security/riskbase/",
   "url": "https://www.aeon.co.jp/",

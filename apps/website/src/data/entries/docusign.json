@@ -2,14 +2,15 @@
   "name": "DocuSign",
   "reading": "どきゅさいん",
   "domain": "docusign.com",
-  "url": "https://www.docusign.com/",
-  "categories": ["esign"],
+  "categories": [
+    "esign"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://support.docusign.com/s/articles/FAQs-on-Physical-Security-Keys-and-biometrics-for-Two-Step-Verification?language=en_US",
+  "verifiedUrl": "https://support.docusign.com/s/articles/FAQs-on-Physical-Security-Keys-and-biometrics-for-Two-Step-Verification?language=ja&langSet=1",
+  "url": "https://www.docusign.com/",
   "notes": "パスキー/セキュリティキー（FIDO2）でパスワードなしログインが可能（新機能のためアカウントにより未提供の場合ありと公式注記）。同じパスキー/キーは2段階認証（TSV）の第2要素としても使え、認証アプリ・SMS・メールコードも選択可。SSO必須のアカウントではパスワードレス不可。",
-  "delegatedServices": [],
   "recommendation": "passkey",
-  "documentationUrl": "https://support.docusign.com/s/articles/FAQs-on-Physical-Security-Keys-and-biometrics-for-Two-Step-Verification?language=en_US",
+  "documentationUrl": "https://support.docusign.com/s/articles/FAQs-on-Physical-Security-Keys-and-biometrics-for-Two-Step-Verification?language=ja&langSet=1",
   "passkey": {
     "passwordless": "allowed",
     "mfa": "allowed"

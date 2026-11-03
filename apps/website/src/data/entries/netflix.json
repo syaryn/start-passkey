@@ -2,11 +2,12 @@
   "name": "Netflix",
   "reading": "ねっとふりっくす",
   "domain": "netflix.com",
-  "url": "https://www.netflix.com/",
-  "categories": ["streaming"],
+  "categories": [
+    "streaming"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.netflix.com/en/node/13243",
+  "url": "https://www.netflix.com/",
   "notes": "公式ヘルプに、利用者が設定する二要素認証・認証アプリ・パスキーの案内はない。サインイン時にコードやリンクが送られる場合があるが、設定型の追加認証ではない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

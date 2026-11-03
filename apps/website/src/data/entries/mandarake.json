@@ -2,11 +2,12 @@
   "name": "まんだらけ",
   "reading": "まんだらけ",
   "domain": "mandarake.co.jp",
-  "url": "https://www.mandarake.co.jp/",
-  "categories": ["hobby"],
+  "categories": [
+    "hobby"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.mandarake.co.jp/mail-order/help/regist.html",
+  "url": "https://www.mandarake.co.jp/",
   "notes": "通販・オークションのログインはユーザーID＋パスワードのみ。二段階認証・認証アプリ・パスキーの設定案内は公式ヘルプになし（宅配買取のeKYCは買取申込用の本人確認でありログイン認証ではない）",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

@@ -2,11 +2,12 @@
   "name": "JOYSOUND（うたスキ）",
   "reading": "じょいさうんど",
   "domain": "joysound.com",
-  "url": "https://www.joysound.com/",
-  "categories": ["music"],
+  "categories": [
+    "music"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.joysound.com/web/s/help/login/about",
+  "url": "https://www.joysound.com/",
   "notes": "会員サービス「うたスキ」のログインはJOYSOUND ID（メールアドレス）またはキョクナビID＋パスワードのみ。公式ヘルプに二段階認証・認証アプリ・パスキーの設定案内はなし。パスワード再発行時のひみつの質問とメール認証コードは再発行手続き専用で、ログイン用2FAとして数えない。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

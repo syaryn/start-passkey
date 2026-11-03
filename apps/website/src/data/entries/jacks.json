@@ -2,7 +2,9 @@
   "name": "ジャックス（インターコムクラブ）",
   "reading": "じゃっくす",
   "domain": "jaccs.co.jp",
-  "categories": ["payments"],
+  "categories": [
+    "payments"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.jaccs.co.jp/icmclub/faq.html",
   "url": "https://www.jaccs.co.jp/",

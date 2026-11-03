@@ -2,11 +2,12 @@
   "name": "ヤオコーネットクラブ",
   "reading": "やおこーねっとくらぶ",
   "domain": "yaoko-net.com",
-  "url": "https://www.yaoko-net.com/service/app/",
-  "categories": ["food"],
+  "categories": [
+    "food"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq.yaoko-net.com/category/show/35?site_domain=default",
+  "url": "https://www.yaoko-net.com",
   "notes": "ヤオコーアプリ等のログインはネットクラブID（登録メールアドレスまたは電話番号）とパスワード（公式FAQ）。SMS認証コードは新規登録時やアプリ連携時の本人確認用で、ログイン時の二段階認証の設定ではない。認証アプリ・パスキーの案内なし。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

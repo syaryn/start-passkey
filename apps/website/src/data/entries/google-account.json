@@ -2,7 +2,10 @@
   "name": "Google アカウント",
   "reading": "ぐーぐるあかうんと",
   "domain": "accounts.google.com",
-  "categories": ["email", "cloud"],
+  "categories": [
+    "email",
+    "cloud"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support.google.com/accounts/answer/13548313?hl=ja",
   "url": "https://myaccount.google.com/",

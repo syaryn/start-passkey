@@ -2,11 +2,12 @@
   "name": "ちょびリッチ",
   "reading": "ちょびりっち",
   "domain": "chobirich.com",
-  "url": "https://www.chobirich.com/",
-  "categories": ["gambling"],
+  "categories": [
+    "gambling"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.chobirich.com/d7d5744f6b8f4bfbb86a7f5653fc7c7d",
+  "url": "https://www.chobirich.com/",
   "notes": "ログインは会員番号（または登録メールアドレス）＋パスワード（画像認証あり）、またはLINE・Yahoo! JAPANのSNS連携で、ログイン時に使える追加認証の設定はない。登録電話番号から指定番号へ発信する「電話発信認証」は新規登録時と初回ポイント交換時の本人確認に必須だが、ログイン自体には使えないため本ディレクトリの基準では数えない。認証アプリ・パスキーの案内はなし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

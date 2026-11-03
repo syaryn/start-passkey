@@ -2,12 +2,13 @@
   "name": "アフラック（よりそうネット）",
   "reading": "あふらっく",
   "domain": "aflac.co.jp",
-  "url": "https://www.aflac.co.jp/",
-  "categories": ["insurance"],
+  "categories": [
+    "insurance"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.aflac.co.jp/canet/",
+  "url": "https://www.aflac.co.jp/",
   "notes": "ご契約者様専用サイト「アフラック よりそうネット」ではパスキーを登録でき、公式ログイン画面に「パスキーでログイン」が用意されている。登録後はパスワード不要でログインでき、公式アプリでもパスキー登録が案内されている。パスキーはパスワードの代替方式として提供されており、パスワード入力後の多要素認証として使う方式の案内はない。通常ログインはログインID＋パスワードで、状況により追加の本人確認が行われる場合がある",
-  "delegatedServices": [],
   "recommendation": "passkey",
   "documentationUrl": "https://www.aflac.co.jp/canet/",
   "passkey": {

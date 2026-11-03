@@ -2,10 +2,12 @@
   "name": "住信SBIネット銀行（ドコモSMTBネット銀行）",
   "reading": "すみしんえすびーあいねっとぎんこう（どこもえすえむてぃーびーねっとぎんこう）",
   "domain": "netbk.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.netbk.co.jp/contents/company/info/2026/1030_006533.html",
-  "url": "https://www.netbk.co.jp/contents/",
+  "url": "https://www.netbk.co.jp",
   "notes": "FIDO2準拠の「パスキー/セキュリティキー認証」をブラウザ向けに導入済み（公式お知らせ）。パスキーでログインすると取引パスワード入力や取引時の追加認証も不要になる（パスワードの追加要素ではなく置き換え）。登録後もログインパスワードは併用可。アプリ向けにはFIDO準拠の「スマート認証NEO（アプリ認証）」があり、Webログイン後の取引承認にも使われる。2026年にドコモSMTBネット銀行へ商号変更",
   "recommendation": "passkey",
   "documentationUrl": "https://www.netbk.co.jp/contents/lineup/smartauth-neo/pc/",

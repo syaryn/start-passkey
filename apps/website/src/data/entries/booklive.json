@@ -2,12 +2,13 @@
   "name": "BookLive!",
   "reading": "ぶっくらいぶ",
   "domain": "booklive.jp",
-  "url": "https://booklive.jp/",
-  "categories": ["hobby"],
+  "categories": [
+    "hobby"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://booklive.jp/page/index/guide/mfa",
+  "url": "https://booklive.jp/",
   "notes": "二要素認証は任意設定で、メールアドレスでのログイン時にパスワードに加えて登録メール宛に送信される認証コードを入力する方式のみ（有効時間10分）。認証アプリ・パスキーの案内はなし。Yahoo! JAPAN ID・LINE・Apple Accountによる外部IDログインも可能",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://booklive.jp/page/index/guide/mfa"
 }

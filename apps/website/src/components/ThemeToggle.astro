@@ -1,0 +1,80 @@
+---
+import { THEME_LABELS } from "../data/theme.ts";
+---
+
+<div class="dads-theme-toggle">
+  <button
+    type="button"
+    class="dads-theme-toggle-btn"
+    id="theme-toggle"
+    data-theme-preference="system"
+    aria-label="表示テーマを切り替え（現在: システム）"
+    aria-live="polite"
+    title="表示テーマ"
+  >
+    <span class="dads-theme-toggle-icon" aria-hidden="true">
+      <span
+        id="theme-toggle-icon"
+        class="i-lucide-monitor dads-icon-inline dads-theme-toggle-glyph"
+      ></span>
+    </span>
+    <span class="dads-theme-toggle-label" data-theme-label>{THEME_LABELS.system}</span>
+  </button>
+</div>
+
+<script>
+  import {
+    applyThemePreference,
+    cycleThemePreference,
+    readStoredThemePreference,
+    THEME_LABELS,
+    type ThemePreference,
+  } from "../data/theme.ts";
+
+  function resolvedMode(preference: ThemePreference): "light" | "dark" {
+    if (preference === "light") {
+      return "light";
+    }
+    if (preference === "dark") {
+      return "dark";
+    }
+    return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  }
+
+  const THEME_ICON_CLASS = {
+    system: "i-lucide-monitor",
+    light: "i-lucide-sun",
+    dark: "i-lucide-moon",
+  } as const satisfies Record<ThemePreference, string>;
+
+  function syncToggleUi(preference: ThemePreference) {
+    const button = document.getElementById("theme-toggle");
+    const label = document.querySelector("[data-theme-label]");
+    const icon = document.getElementById("theme-toggle-icon");
+    if (!button || !(label instanceof HTMLElement) || !(icon instanceof HTMLElement)) {
+      return;
+    }
+    const labelText = THEME_LABELS[preference];
+    label.textContent = labelText;
+    icon.className = `${THEME_ICON_CLASS[preference]} dads-icon-inline dads-theme-toggle-glyph`;
+    button.setAttribute("aria-label", `表示テーマを切り替え（現在: ${labelText}）`);
+    button.dataset.themePreference = preference;
+    button.dataset.resolvedTheme = resolvedMode(preference);
+  }
+
+  let preference = readStoredThemePreference();
+  applyThemePreference(preference);
+  syncToggleUi(preference);
+
+  document.getElementById("theme-toggle")?.addEventListener("click", () => {
+    preference = cycleThemePreference(preference);
+    applyThemePreference(preference);
+    syncToggleUi(preference);
+  });
+
+  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => {
+    if (preference === "system") {
+      syncToggleUi("system");
+    }
+  });
+</script>

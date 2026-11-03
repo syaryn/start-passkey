@@ -2,30 +2,12 @@
   "name": "Sanrio＋",
   "reading": "さんりおぷらす",
   "domain": "plus.sanrio.co.jp",
-  "url": "https://plus.sanrio.co.jp/",
-  "categories": ["hobby"],
+  "categories": [
+    "hobby"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://contact.sanrio.co.jp/hc/ja/articles/55964104204569-Sanrio-%E3%81%A7%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%AF%E3%81%A9%E3%82%93%E3%81%AA%E3%82%82%E3%81%AE%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B",
+  "url": "https://plus.sanrio.co.jp/",
   "notes": "サンリオグループ共通の会員基盤。公式ヘルプによれば、ログインは登録メールアドレスとパスワードで行い、サンリオオンラインショップ本店、Sanrio Baby ONLINE SHOP、サンリオピューロランド、Sanrio English Master、Omoide Badge等がこの基盤にログインを委譲する。公式ヘルプの「会員登録・ログインについて」の案内はメールアドレス＋パスワードのみで、パスキー・認証アプリ・SMS/メールコードなどログイン時に使える追加認証の設定案内はない。パスワード再設定は登録メールアドレス宛の再設定メールによるが、これは再設定手続きでありログイン時の追加認証ではない。",
-  "delegatedServices": [
-    {
-      "name": "サンリオオンラインショップ",
-      "reading": "さんりおおんらいんしょっぷ",
-      "sourceUrl": "https://contact.sanrio.co.jp/hc/ja/articles/55964104204569-Sanrio-%E3%81%A7%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%AF%E3%81%A9%E3%82%93%E3%81%AA%E3%82%82%E3%81%AE%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B",
-      "sourceNote": "サンリオ公式ヘルプ「Sanrio＋でログインできるサービス」記事の連携サービス一覧に「サンリオオンラインショップ本店」が明記"
-    },
-    {
-      "name": "Sanrio Baby ONLINE SHOP",
-      "reading": "さんりおべびーおんらいんしょっぷ",
-      "sourceUrl": "https://contact.sanrio.co.jp/hc/ja/articles/55964104204569-Sanrio-%E3%81%A7%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%AF%E3%81%A9%E3%82%93%E3%81%AA%E3%82%82%E3%81%AE%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B",
-      "sourceNote": "同上。連携サービス一覧に「Sanrio Baby ONLINE SHOP」が明記"
-    },
-    {
-      "name": "サンリオピューロランド",
-      "reading": "さんりおぴゅーろらんど",
-      "sourceUrl": "https://contact.sanrio.co.jp/hc/ja/articles/55964104204569-Sanrio-%E3%81%A7%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%AF%E3%81%A9%E3%82%93%E3%81%AA%E3%82%82%E3%81%AE%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B",
-      "sourceNote": "同上。連携サービス一覧に「サンリオピューロランド」が明記"
-    }
-  ],
   "recommendation": "password-only"
 }

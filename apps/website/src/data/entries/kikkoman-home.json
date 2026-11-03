@@ -2,11 +2,12 @@
   "name": "キッコーマン会員",
   "reading": "きっこーまんかいいん",
   "domain": "kikkoman.co.jp",
-  "url": "https://www.kikkoman.co.jp/homecook/",
-  "categories": ["food"],
+  "categories": [
+    "food"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.kikkoman.co.jp/kiyaku/member.html",
+  "url": "https://www.kikkoman.co.jp",
   "notes": "レシピサイト「ホームクッキング」等で使う共通会員。公式のキッコーマン会員ご利用規約に、登録したメールアドレスとパスワードによるログイン（認証）が必要と明記されている。パスキー・認証アプリ・コードによる追加認証の設定は公式情報になし（公式通販「健康こだわり便」もメールアドレス＋パスワードのみ）",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

@@ -2,11 +2,12 @@
   "name": "STAY JAPAN",
   "reading": "すていじゃぱん",
   "domain": "stayjapan.com",
-  "url": "https://stayjapan.com/",
-  "categories": ["travel"],
+  "categories": [
+    "travel"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://stayjapan.com/help/category/6",
+  "url": "https://stayjapan.com/",
   "notes": "公式ヘルプの案内では、ログインはメールアドレスとパスワード、またはFacebook連携によるもののみ。二段階認証・認証アプリ・パスキーの設定案内は公式情報にない（身分証アップロードによる本人確認は予約時の手続きであり、ログイン認証ではない）。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

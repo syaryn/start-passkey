@@ -2,11 +2,12 @@
   "name": "@cosme",
   "reading": "あっとこすめ",
   "domain": "cosme.net",
-  "url": "https://www.cosme.net/",
-  "categories": ["beauty"],
+  "categories": [
+    "beauty"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq.cosme.com/inquiries/d45b90eb6c11e0cc23ab?select_id=54de890a7a5d&select_sid=7511881",
+  "url": "https://www.cosme.net/",
   "notes": "ログインは@cosme共通ID（登録メールアドレスまたは携帯電話番号）＋パスワードのみ。認証コードはパスワード再発行や登録情報変更時の本人確認用で、ログインの二段階認証として設定するものではない。クチコミ投稿用の携帯電話番号認証もログイン認証とは別。パスキー・認証アプリの案内は公式FAQになし。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

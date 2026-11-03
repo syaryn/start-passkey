@@ -2,12 +2,13 @@
   "name": "エディオン",
   "reading": "えでぃおん",
   "domain": "edion.com",
-  "url": "https://www.edion.com/",
-  "categories": ["electronics"],
+  "categories": [
+    "electronics"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq.edion.com/kb/shop/login/",
+  "url": "https://www.edion.com/",
   "notes": "エディオンネットショップのログイン認証では、登録電話番号へSMSまたは音声通話で届く「確認コード」の入力が必要（受信後15分以内）。登録電話番号が変わるとコードを受け取れずログインできない。認証アプリ・パスキーは公式情報にない",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://faq.edion.com/kb/shop/login/"
 }

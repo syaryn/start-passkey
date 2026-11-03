@@ -2,11 +2,12 @@
   "name": "NAVITIME",
   "reading": "なびたいむ",
   "domain": "navitime.co.jp",
-  "url": "https://www.navitime.co.jp/",
-  "categories": ["transport"],
+  "categories": [
+    "transport"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.navitime.co.jp/static/pc/l/202610081800/html/drivetool/help.html",
+  "url": "https://www.navitime.co.jp/",
   "notes": "公式ヘルプではログインはNAVITIME ID（メールアドレス）＋パスワードのみで、忘れた場合の再設定案内があるだけである。二段階認証・認証アプリ・パスキーの設定案内は公式ヘルプに見当たらない。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

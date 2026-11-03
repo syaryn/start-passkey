@@ -2,14 +2,15 @@
   "name": "Wix",
   "reading": "うぃっくす",
   "domain": "wix.com",
-  "url": "https://www.wix.com/",
-  "categories": ["developer"],
+  "categories": [
+    "developer"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://support.wix.com/en/article/using-a-passkey-to-log-in-to-your-wix-account",
+  "verifiedUrl": "https://support.wix.com/ja/article/using-a-passkey-to-log-in-to-your-wix-account",
+  "url": "https://www.wix.com/",
   "notes": "パスキーでパスワードを入力せずにログインできる。2ステップ認証を有効にしている場合は、その確認手段としてパスキーを使うこともできる（他の手段はWixアプリ承認、認証アプリ、SMS、メール）。",
-  "delegatedServices": [],
   "recommendation": "passkey",
-  "documentationUrl": "https://support.wix.com/en/article/using-a-passkey-to-log-in-to-your-wix-account",
+  "documentationUrl": "https://support.wix.com/ja/article/using-a-passkey-to-log-in-to-your-wix-account",
   "passkey": {
     "passwordless": "allowed",
     "mfa": "allowed"

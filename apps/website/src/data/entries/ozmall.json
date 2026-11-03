@@ -2,11 +2,12 @@
   "name": "OZmall（オズモール）",
   "reading": "おずもーる",
   "domain": "ozmall.co.jp",
-  "url": "https://www.ozmall.co.jp/",
-  "categories": ["travel"],
+  "categories": [
+    "travel"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.ozmall.co.jp/introduction/",
+  "url": "https://www.ozmall.co.jp/",
   "notes": "スターツ出版が運営する独自のOZmall会員で、ログインIDはメールアドレス＋パスワード。NetアンサーIDなど一部の他サイトIDでの登録・連携も可能だが、共通IDへの完全委譲ではなく独自アカウントが基本。二段階認証・パスキー・認証アプリの設定は公式情報に見当たらない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

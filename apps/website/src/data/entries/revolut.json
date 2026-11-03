@@ -2,13 +2,15 @@
   "name": "Revolut",
   "reading": "れぼりゅーと",
   "domain": "revolut.com",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://help.revolut.com/en-US/help/profile-and-plan/log-in-issues/what-are-passkeys/",
-  "url": "https://www.revolut.com/",
+  "verifiedUrl": "https://help.revolut.com/ja-JP/help/profile-and-plan/log-in-issues/what-are-passkeys/",
+  "url": "https://www.revolut.com/ja-JP/",
   "notes": "公式ヘルプによれば、パスキーは従来のパスワード/パスコードに代わるサインイン方法で、端末のロック解除（生体認証・PIN等）のみでログインできる。パスワード入力後の第2要素として使う方式ではない。パスキーを利用できない場合はパスコードと2FA（SMS/メール等のコード）でサインインする。アプリ内の「アカウント > Passkeys」から作成・取消しができる",
   "recommendation": "passkey",
-  "documentationUrl": "https://help.revolut.com/en-US/help/profile-and-plan/log-in-issues/what-are-passkeys/",
+  "documentationUrl": "https://help.revolut.com/ja-JP/help/profile-and-plan/log-in-issues/what-are-passkeys/",
   "passkey": {
     "passwordless": "allowed"
   }

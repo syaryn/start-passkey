@@ -2,11 +2,13 @@
   "name": "Slack",
   "reading": "すらっく",
   "domain": "slack.com",
-  "categories": ["social"],
+  "categories": [
+    "social"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://slack.zendesk.com/hc/en-us/articles/204509068-Set-up-two-factor-authentication",
+  "verifiedUrl": "https://slack.com/intl/ja-jp/help/articles/204509068-2%E8%A6%81%E7%B4%A0%E8%AA%8D%E8%A8%BC%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B",
   "url": "https://slack.com/",
   "notes": "2要素認証は認証アプリ（TOTP）またはSMSのみ。公式ヘルプに「U2Fには未対応」と明記があり、パスキー/セキュリティキーによる認証は不可。ワークスペースのオーナーが2FAを必須化したり、認証アプリのみに制限したりできる",
   "recommendation": "authenticator",
-  "documentationUrl": "https://slack.zendesk.com/hc/en-us/articles/204509068-Set-up-two-factor-authentication"
+  "documentationUrl": "https://slack.com/intl/ja-jp/help/articles/204509068-2%E8%A6%81%E7%B4%A0%E8%AA%8D%E8%A8%BC%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B"
 }

@@ -2,11 +2,12 @@
   "name": "Jリーグチケット（JリーグID）",
   "reading": "じぇいりーぐちけっと",
   "domain": "jleague-ticket.jp",
-  "url": "https://www.jleague-ticket.jp/",
-  "categories": ["tickets"],
+  "categories": [
+    "tickets"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://auth.jleague.jp/",
+  "url": "https://www.jleague-ticket.jp/",
   "notes": "ログインはJリーグID＋パスワードのみ（外部IDログインも可）。公式アプリ「Club J.LEAGUE」の抽選参加時等にはSMS認証による本人確認があるが、ログイン自体には使えないため数えていない。二段階認証・認証アプリ・パスキーの設定案内なし。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

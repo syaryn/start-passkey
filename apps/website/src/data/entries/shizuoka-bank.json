@@ -2,7 +2,9 @@
   "name": "静岡銀行",
   "reading": "しずおかぎんこう",
   "domain": "shizuokabank.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.shizuokabank.co.jp/crime/security/onetime_password.html",
   "url": "https://www.shizuokabank.co.jp/",

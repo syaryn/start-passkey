@@ -10,10 +10,8 @@ function add(category: CategorySlug, ids: string[]) {
 
 add("developer", [
   "cloudflare",
-  "digitalocean",
   "heroku",
   "squarespace",
-  "vercel",
   "wix",
   "wordpress-com",
 ]);
@@ -21,11 +19,7 @@ add("developer", [
 add("storage", ["box", "dropbox", "evernote"]);
 
 add("productivity", [
-  "airtable",
   "asana",
-  "basecamp",
-  "calendly",
-  "clickup",
   "garoon",
   "monday",
   "miro",
@@ -33,7 +27,6 @@ add("productivity", [
   "smartsheet",
   "todoist",
   "trello",
-  "typeform",
 ]);
 
 add("design", ["adobe", "canva", "figma"]);
@@ -64,13 +57,13 @@ add("backoffice", [
   "goqsystem",
 ]);
 
-add("education", ["classi", "comiru", "loilo-note", "manabi-pocket", "study-sapuri"]);
+add("education", ["classi", "comiru", "loilo-note", "study-sapuri"]);
 
 add("health", ["clius", "movacal"]);
 
-add("ai", ["chatgpt", "deepl", "grammarly"]);
+add("ai", ["chatgpt", "deepl"]);
 
-add("esign", ["cloudsign", "docusign", "dropbox-sign"]);
+add("esign", ["cloudsign", "docusign"]);
 
 add("logistics", ["logiless"]);
 

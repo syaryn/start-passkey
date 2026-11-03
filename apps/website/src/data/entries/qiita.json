@@ -2,7 +2,9 @@
   "name": "Qiita",
   "reading": "きーた",
   "domain": "qiita.com",
-  "categories": ["developer"],
+  "categories": [
+    "developer"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.qiita.com/ja/articles/qiita-release-two-factor",
   "url": "https://qiita.com/",

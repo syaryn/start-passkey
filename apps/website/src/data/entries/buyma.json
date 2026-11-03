@@ -2,11 +2,12 @@
   "name": "BUYMA",
   "reading": "ばいま",
   "domain": "buyma.com",
-  "url": "https://www.buyma.com/",
-  "categories": ["marketplace"],
+  "categories": [
+    "marketplace"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://qa.buyma.com/login/",
+  "url": "https://www.buyma.com/",
   "notes": "ログインはメールアドレス＋パスワードのみ。公式ガイドの登録・ログイン項目に二段階認証・認証アプリ・パスキーの案内はなく、メールアドレス認証は登録時の確認手続きでありログイン時のコード認証ではない。LINE/Facebookアカウント連携によるログインも可能だが、これは外部ID側の方式。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

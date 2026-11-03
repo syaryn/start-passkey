@@ -2,11 +2,12 @@
   "name": "Yelp",
   "reading": "えるぷ",
   "domain": "yelp.com",
-  "url": "https://www.yelp.com/",
-  "categories": ["lifestyle"],
+  "categories": [
+    "lifestyle"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.yelp-support.com/article/How-do-I-change-the-password-for-my-user-account?l=en_US&biz=1",
+  "url": "https://www.yelp.co.jp/",
   "notes": "ログインはメールアドレス+パスワード（事業者向けアカウントではApple ID連携も可）。公式サポートセンターに二段階認証・認証アプリ・パスキーの設定案内はなく、アカウント保護に関する案内はパスワード変更/リセットのみ。事業者登録時の電話確認はログイン認証ではない。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

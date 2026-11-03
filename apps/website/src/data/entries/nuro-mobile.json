@@ -2,7 +2,9 @@
   "name": "NUROモバイル",
   "reading": "にゅーろもばいる",
   "domain": "nuro.jp",
-  "categories": ["utilities"],
+  "categories": [
+    "utilities"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support.sonynetwork.co.jp/faqsupport/nuromobile/web/knowledge2737.html",
   "url": "https://www.nuro.jp/",

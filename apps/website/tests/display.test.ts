@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vite-plus/test";
 import {
   countEntriesByCategory,
+  distinctVerifiedSourceUrl,
   formatRecommendationShare,
   summarizeEntries,
 } from "../src/data/display.ts";
@@ -75,5 +76,36 @@ describe("countEntriesByCategory", () => {
       payments: 1,
       other: 1,
     });
+  });
+});
+
+describe("distinctVerifiedSourceUrl", () => {
+  it("returns null when verifiedUrl matches documentationUrl", () => {
+    const url = "https://example.com/help";
+    const entry = entrySchema.parse({
+      ...base,
+      recommendation: "authenticator",
+      documentationUrl: url,
+      verifiedUrl: url,
+    });
+    expect(distinctVerifiedSourceUrl(entry)).toBeNull();
+  });
+
+  it("returns verifiedUrl when it differs from documentationUrl", () => {
+    const entry = entrySchema.parse({
+      ...base,
+      recommendation: "code",
+      documentationUrl: "https://example.com/setup",
+      verifiedUrl: "https://example.com/privacy",
+    });
+    expect(distinctVerifiedSourceUrl(entry)).toBe("https://example.com/privacy");
+  });
+
+  it("returns verifiedUrl for password-only even if no documentationUrl", () => {
+    const entry = entrySchema.parse({
+      ...base,
+      recommendation: "password-only",
+    });
+    expect(distinctVerifiedSourceUrl(entry)).toBe(base.verifiedUrl);
   });
 });

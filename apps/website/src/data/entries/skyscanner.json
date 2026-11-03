@@ -2,12 +2,13 @@
   "name": "Skyscanner",
   "reading": "すかいすきゃなー",
   "domain": "skyscanner.net",
-  "url": "https://www.skyscanner.net/",
-  "categories": ["travel"],
+  "categories": [
+    "travel"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://help.skyscanner.net/hc/en-gb/articles/18191454525969-How-do-I-change-my-password",
+  "verifiedUrl": "https://help.skyscanner.net/hc/ja/articles/18191454525969-%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF",
+  "url": "https://www.skyscanner.jp/",
   "notes": "公式ヘルプに「アカウントへのアクセスにパスワードは不要になった」と明記されている。ログインは、メールアドレスを入力すると送られてくる4桁の認証コード、またはApple/Facebook/Googleのソーシャルログインのみ。パスワード自体が存在しないパスワードレス設計のため code とした。認証アプリ・パスキーの設定案内は公式ヘルプにない。",
-  "delegatedServices": [],
   "recommendation": "code",
-  "documentationUrl": "https://help.skyscanner.net/hc/en-gb/articles/18191454525969-How-do-I-change-my-password"
+  "documentationUrl": "https://help.skyscanner.net/hc/ja/articles/18191454525969-%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF"
 }

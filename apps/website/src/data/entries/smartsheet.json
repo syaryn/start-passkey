@@ -2,12 +2,13 @@
   "name": "Smartsheet",
   "reading": "すまーとしーと",
   "domain": "smartsheet.com",
-  "url": "https://www.smartsheet.com/",
-  "categories": ["productivity"],
+  "categories": [
+    "productivity"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://help.smartsheet.com/articles/2483632-manage-authenticator-app-mfa-enforcement",
+  "verifiedUrl": "https://help.smartsheet.com/ja/articles/2483631-sign-smartsheet-authenticator-app",
+  "url": "https://www.smartsheet.com/",
   "notes": "認証アプリ（Google/Microsoft Authenticator）を第2要素とするMFAが利用可能で、システム管理者はプラン/ドメイン単位で必須化できる。第1要素としてメール宛ワンタイムコードによるサインインも選択可。パスキーの公式案内はない。",
-  "delegatedServices": [],
   "recommendation": "authenticator",
-  "documentationUrl": "http://help.smartsheet.com/articles/2483631-sign-smartsheet-authenticator-app"
+  "documentationUrl": "https://help.smartsheet.com/ja/articles/2483631-sign-smartsheet-authenticator-app"
 }

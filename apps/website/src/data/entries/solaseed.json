@@ -2,11 +2,12 @@
   "name": "ソラシド スマイルクラブ",
   "reading": "そらしどすまいるくらぶ",
   "domain": "solaseedair.jp",
-  "url": "https://www.solaseedair.jp/",
-  "categories": ["aviation"],
+  "categories": [
+    "aviation"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.solaseedair.jp/members/login.php",
+  "url": "https://www.solaseedair.jp/",
   "notes": "ソラシドエアの会員プログラム。ログインはメールアドレス（または会員番号12桁）とパスワードのみで、公式サイトに二段階認証・認証アプリ・パスキーの案内はない。クレジットカード決済時の3Dセキュアは決済時認証でありログイン用ではないため数えていない。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

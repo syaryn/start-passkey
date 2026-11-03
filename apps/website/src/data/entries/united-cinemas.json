@@ -2,11 +2,12 @@
   "name": "ユナイテッド・シネマ（CLUB-SPICE）",
   "reading": "ゆないてっど・しねま",
   "domain": "unitedcinemas.jp",
-  "url": "https://www.unitedcinemas.jp/",
-  "categories": ["cinema"],
+  "categories": [
+    "cinema"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.unitedcinemas.jp/include/clubspice-loginInfo.html",
+  "url": "https://www.unitedcinemas.jp/",
   "notes": "会員（CLUB-SPICE）ログインは会員ID（カード記載の9桁番号、仮会員IDはK始まり10桁）＋パスワードのみ。二段階認証・認証アプリ・パスキーの設定は公式情報になし。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

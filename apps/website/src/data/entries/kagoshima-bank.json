@@ -2,7 +2,9 @@
   "name": "鹿児島銀行",
   "reading": "かごしまぎんこう",
   "domain": "kagin.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.kagin.co.jp/kojin/internet.html",
   "url": "https://www.kagin.co.jp/",

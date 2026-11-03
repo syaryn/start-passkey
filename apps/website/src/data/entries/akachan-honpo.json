@@ -2,12 +2,13 @@
   "name": "アカチャンホンポ",
   "reading": "あかちゃんほんぽ",
   "domain": "akachan.jp",
-  "url": "https://www.akachan.jp/",
-  "categories": ["retail"],
+  "categories": [
+    "retail"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://shop.akachan.jp/shop/pages/faq.aspx",
+  "url": "https://www.akachan.jp/",
   "notes": "任意設定の2段階認証機能があり、「利用する」に設定するとログイン時に登録メールアドレス宛に認証コードが届き、その入力で本人認証する方式。認証アプリ・パスキーはない。2026年6月に会員システムが変更され、従来の7iDベースから独自の会員情報（メールアドレス＋パスワード）へ移行した（旧7iD会員は会員情報の引継ぎが必要）",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://shop.akachan.jp/shop/pages/faq.aspx"
 }

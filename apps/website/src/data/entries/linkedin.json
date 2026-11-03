@@ -2,7 +2,9 @@
   "name": "LinkedIn",
   "reading": "りんくといん",
   "domain": "linkedin.com",
-  "categories": ["social"],
+  "categories": [
+    "social"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.linkedin.cn/help/linkedin/answer/a1621596",
   "url": "https://www.linkedin.com/",

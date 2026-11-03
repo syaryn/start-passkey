@@ -2,7 +2,9 @@
   "name": "TAITO ID",
   "reading": "たいとーあいでぃー",
   "domain": "taito.co.jp",
-  "categories": ["gaming"],
+  "categories": [
+    "gaming"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.taito.co.jp/taitokuji/login",
   "url": "https://www.taito.co.jp/",

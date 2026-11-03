@@ -2,11 +2,12 @@
   "name": "ジャストスマイル（スマイルネクスト）",
   "reading": "じゃすとすまいる",
   "domain": "just-smilenext.jp",
-  "url": "https://just-smilenext.jp/",
-  "categories": ["fitness"],
+  "categories": [
+    "fitness"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.justsystems.com/jp/school/just-smile/faq.html",
+  "url": "https://just-smilenext.jp/",
   "notes": "ログインはクラウドID・ログインID・パスワード。学校の設定によりGoogle/Microsoftアカウントでのシングルサインオンも可能（その場合は外部ID側の認証）。ログイン時の二段階認証・認証アプリ・パスキーの設定は公式情報になし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

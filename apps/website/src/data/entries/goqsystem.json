@@ -2,11 +2,12 @@
   "name": "GoQSystem",
   "reading": "ごっくしすてむ",
   "domain": "goqsystem.com",
-  "url": "https://goqsystem.com/",
-  "categories": ["backoffice"],
+  "categories": [
+    "backoffice"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://goqsystem.com/manual/168399/",
+  "url": "https://goqsystem.com/",
   "notes": "ログインはSTEP1/STEP2の2段階でID・パスワードを入力する方式（いずれもパスワードであり、コードによる追加認証ではない）と、GoQアカウント（ID/パスワード）によるログイン。公式マニュアル・FAQにSMS/メールコード、認証アプリ、パスキーの設定案内はなし。接続元IPアドレス制限の設定は可能",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

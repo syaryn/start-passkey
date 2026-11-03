@@ -2,19 +2,13 @@
   "name": "Expedia",
   "reading": "えくすぺでぃあ",
   "domain": "expedia.com",
-  "url": "https://www.expedia.com/",
-  "categories": ["travel"],
-  "verifiedOn": "2026-11-01",
-  "verifiedUrl": "http://expedia.ie/lp/b/privacy",
-  "notes": "公式プライバシーステートメントに、セキュリティ上必要な場合にメールまたはSMSでワンタイムパスコードを送信する多要素認証プロセスの記載があり、ログイン時のコード認証はリスクベースで実施される。利用者が任意に設定する二段階認証の案内や、パスキー・認証アプリ（TOTP）の公式ヘルプ案内は確認できなかった（根拠はプライバシーステートメントの記載）。",
-  "delegatedServices": [
-    {
-      "name": "Hotels.com",
-      "reading": "ほてるずどっとこむ",
-      "sourceUrl": "https://jp.hotels.com/lp/b/terms-of-service",
-      "sourceNote": "公式利用規約2条: アカウントはExpedia・Vrbo等でも同じログイン情報でアクセス可能な「Expedia Groupアカウント」と定義"
-    }
+  "categories": [
+    "travel"
   ],
+  "verifiedOn": "2026-11-01",
+  "verifiedUrl": "https://www.expedia.co.jp/helpcenter/?currency=JPY&locale=ja_JP&siteid=28&product=%20%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88&productId=account&articleId=40077",
+  "url": "https://www.expedia.co.jp/",
+  "notes": "公式プライバシーステートメントに、セキュリティ上必要な場合にメールまたはSMSでワンタイムパスコードを送信する多要素認証プロセスの記載があり、ログイン時のコード認証はリスクベースで実施される。利用者が任意に設定する二段階認証の案内や、パスキー・認証アプリ（TOTP）の公式ヘルプ案内は確認できなかった（根拠はプライバシーステートメントの記載）。",
   "recommendation": "code",
-  "documentationUrl": "http://expedia.ie/lp/b/privacy"
+  "documentationUrl": "https://www.expedia.co.jp/helpcenter/?currency=JPY&locale=ja_JP&siteid=28&product=%20%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88&productId=account&articleId=40077"
 }

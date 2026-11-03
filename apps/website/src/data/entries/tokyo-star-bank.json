@@ -2,7 +2,9 @@
   "name": "東京スター銀行",
   "reading": "とうきょうすたーぎんこう",
   "domain": "tokyostarbank.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.tokyostarbank.co.jp/tokyostardirect/otp_appli/",
   "url": "https://www.tokyostarbank.co.jp/",

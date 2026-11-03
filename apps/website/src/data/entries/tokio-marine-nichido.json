@@ -2,12 +2,13 @@
   "name": "東京海上日動",
   "reading": "とうきょうかいじょうにちどう",
   "domain": "tokiomarine-nichido.co.jp",
-  "url": "https://www.tokiomarine-nichido.co.jp/",
-  "categories": ["insurance"],
+  "categories": [
+    "insurance"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq.tokiomarine-nichido.co.jp/faq/show/2922?site_domain=default",
+  "url": "https://www.tokiomarine-nichido.co.jp/",
   "notes": "マイページのログインはID（メールアドレス）＋パスワードに加え、登録電話番号へSMSまたは音声通話で届く確認コード（6桁）による2要素認証が必要。アプリのパスコート/生体認証ログインは保存済み資格情報の呼び出し式でありパスキーではないため数えていない。認証アプリの案内は公式情報になし",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://faq.tokiomarine-nichido.co.jp/faq/show/2922?site_domain=default"
 }

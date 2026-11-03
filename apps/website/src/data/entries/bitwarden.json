@@ -2,13 +2,15 @@
   "name": "Bitwarden",
   "reading": "びっとわーでん",
   "domain": "bitwarden.com",
-  "categories": ["security"],
+  "categories": [
+    "security"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://bitwarden.com/help/login-with-passkeys/",
-  "url": "https://bitwarden.com/",
+  "verifiedUrl": "https://bitwarden.com/ja-jp/help/login-with-passkeys/",
+  "url": "https://bitwarden.com/ja-jp",
   "notes": "アカウント自体へのログインが対象。パスキーでログインでき、PRF対応環境ではマスターパスワードなしでボールト解除まで可能（2段階ログインをバイパス）。FIDO2 WebAuthn資格情報を2段階ログインの要素としても登録でき、全ユーザー無料。他サイト向けのパスキー保存機能とは別。",
   "recommendation": "passkey",
-  "documentationUrl": "https://bitwarden.com/help/setup-two-step-login-fido/",
+  "documentationUrl": "https://bitwarden.com/ja-jp/help/setup-two-step-login-fido/",
   "passkey": {
     "passwordless": "allowed",
     "mfa": "allowed"

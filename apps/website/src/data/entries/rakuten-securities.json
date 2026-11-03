@@ -2,7 +2,9 @@
   "name": "楽天証券",
   "reading": "らくてんしょうけん",
   "domain": "rakuten-sec.co.jp",
-  "categories": ["investing"],
+  "categories": [
+    "investing"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.rakuten-sec.co.jp/web/security/",
   "url": "https://www.rakuten-sec.co.jp/",

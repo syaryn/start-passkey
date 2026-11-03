@@ -2,11 +2,12 @@
   "name": "ファミクラストア オンライン",
   "reading": "ふぁみくらすとあおんらいん",
   "domain": "famikura-store.jp",
-  "url": "https://famikura-store.jp/",
-  "categories": ["department"],
+  "categories": [
+    "department"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://famikura-store.jp/s/j/page/guide",
+  "url": "https://famikura-store.jp/",
   "notes": "STARTO ENTERTAINMENT所属アーティストの公式グッズストア。ユーザー登録後、ログインはメールアドレスとパスワードのみ（公式ご利用ガイド）。FAMILY CLUB online等と共通のユーザー情報を使うが、ストア独自のユーザー登録も可能で、ログイン時の二段階認証・認証アプリ・パスキーの設定は公式情報になし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

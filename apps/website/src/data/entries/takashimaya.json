@@ -2,11 +2,12 @@
   "name": "高島屋オンラインストア",
   "reading": "たかしまやおんらいんすとあ",
   "domain": "takashimaya.co.jp",
-  "url": "https://www.takashimaya.co.jp/shopping/",
-  "categories": ["department"],
+  "categories": [
+    "department"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.takashimaya.co.jp/%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84-66fcf6da547390001d00791b",
+  "url": "https://www.takashimaya.co.jp",
   "notes": "ログインは会員ID（メールアドレス）＋パスワードのみ。会員登録・アプリ登録時のメール認証コードは登録時の確認であり、ログイン時の二段階認証ではない。タカシマヤカードの3Dセキュア用ワンタイムパスワードはカード発行会社側の認証で、ストアのアカウント認証とは別。パスキー・認証アプリの設定は公式情報で確認できなかった。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

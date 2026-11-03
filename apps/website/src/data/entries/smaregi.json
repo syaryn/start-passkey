@@ -2,11 +2,12 @@
   "name": "スマレジ",
   "reading": "すまれじ",
   "domain": "smaregi.jp",
-  "url": "https://smaregi.jp/login/",
-  "categories": ["backoffice"],
+  "categories": [
+    "backoffice"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.smaregi.jp/hc/ja/articles/360047265313-%E3%82%B9%E3%83%9E%E3%83%AC%E3%82%B8%E3%81%B8%E3%81%AE%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8BQ-A",
+  "url": "https://smaregi.jp",
   "notes": "対象はスマレジPOSの管理画面とアプリで、公式ヘルプではログインにメールアドレスとパスワードが必要と案内されている。他者へ一時的に操作させるための3時間・1回限りのワンタイムパスワードは、パスワード代替の発行機能であり、ログイン時の追加認証ではないためcodeには数えていない。別サービスのスマレジECは対象外。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

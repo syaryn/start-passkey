@@ -2,12 +2,13 @@
   "name": "Miro",
   "reading": "みろ",
   "domain": "miro.com",
-  "url": "https://miro.com/",
-  "categories": ["productivity"],
+  "categories": [
+    "productivity"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://help.miro.com/hc/en-us/articles/27356474050834-Two-factor-authentication-2FA",
+  "verifiedUrl": "https://help.miro.com/hc/ja/articles/27356474050834-2-%E8%A6%81%E7%B4%A0%E8%AA%8D%E8%A8%BC-2FA",
+  "url": "https://miro.com/",
   "notes": "公式ヘルプによれば、2FAは認証アプリ（Google Authenticator等のTOTP）でログイン時に利用できる。ただし有効化はチーム/組織の管理者が行う設定であり（Starter/Business/Education/Enterprise）、SSOやソーシャルログインには適用されない。パスキーの案内は公式情報になし。",
-  "delegatedServices": [],
   "recommendation": "authenticator",
-  "documentationUrl": "https://help.miro.com/hc/en-us/articles/27356474050834-Two-factor-authentication-2FA"
+  "documentationUrl": "https://help.miro.com/hc/ja/articles/27356474050834-2-%E8%A6%81%E7%B4%A0%E8%AA%8D%E8%A8%BC-2FA"
 }

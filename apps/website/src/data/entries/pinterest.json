@@ -2,11 +2,13 @@
   "name": "Pinterest",
   "reading": "ぴんたれすと",
   "domain": "pinterest.com",
-  "categories": ["social"],
+  "categories": [
+    "social"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://help.pinterest.com/en-gb/article/two-factor-authentication",
+  "verifiedUrl": "https://help.pinterest.com/ja/article/two-factor-authentication",
   "url": "https://www.pinterest.com/",
   "notes": "2要素認証は、登録した電話番号へのSMS（テキストメッセージ）コードのみ。認証アプリ（TOTP）やパスキーの設定は公式ヘルプに案内がない。公式ヘルプに「2FAはまだ全地域では利用できない」との注意書きがある。",
   "recommendation": "code",
-  "documentationUrl": "https://help.pinterest.com/en-gb/article/two-factor-authentication"
+  "documentationUrl": "https://help.pinterest.com/ja/article/two-factor-authentication"
 }

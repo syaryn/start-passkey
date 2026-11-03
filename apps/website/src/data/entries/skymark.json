@@ -2,11 +2,12 @@
   "name": "スカイマーク",
   "reading": "すかいまーく",
   "domain": "skymark.co.jp",
-  "url": "https://www.skymark.co.jp/",
-  "categories": ["aviation"],
+  "categories": [
+    "aviation"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.skymark.co.jp/fa/answers/web/knowledge1684.html",
+  "url": "https://www.skymark.co.jp/",
   "notes": "マイページのログインはログインID＋パスワード、またはGoogle/LINEアカウント連携のみ。登録時にメールで届く6桁の確認コードはアカウント登録時の本人確認用で、ログインの二段階認証ではない。パスキー・認証アプリ・ログイン時コード認証の設定案内は公式情報になし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

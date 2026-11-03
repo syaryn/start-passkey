@@ -2,10 +2,11 @@
   "name": "モスバーガー",
   "reading": "もすばーがー",
   "domain": "mos.jp",
-  "categories": ["food"],
+  "categories": [
+    "food"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.mos.jp/mypage/auth/",
   "notes": "モスWEB会員（モスのネット注文と共通）のログインはメールアドレスとパスワードのみ。メール認証用パスコードは新規会員登録時のみ。二段階認証・認証アプリ・パスキーの設定は公式情報に見当たらない。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

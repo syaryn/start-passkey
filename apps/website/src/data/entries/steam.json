@@ -2,7 +2,9 @@
   "name": "Steam",
   "reading": "すちーむ",
   "domain": "steampowered.com",
-  "categories": ["gaming"],
+  "categories": [
+    "gaming"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.steampowered.com/ja/faqs/view/7EFD-3CAE-64D3-1C31",
   "url": "https://store.steampowered.com/",

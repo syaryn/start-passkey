@@ -2,13 +2,15 @@
   "name": "PayPal",
   "reading": "ぺいぱる",
   "domain": "paypal.com",
-  "categories": ["payments"],
+  "categories": [
+    "payments"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://www.paypal.com/lu/cshelp/article/how-do-i-log-in-to-paypal-with-a-passkey-help997",
+  "verifiedUrl": "https://www.paypal.com/jp/cshelp/article/%E3%83%91%E3%82%B9%E3%82%AD%E3%83%BC%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B%E3%80%81%E3%81%BE%E3%81%9F%E3%80%81%E3%83%91%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6paypal%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AB%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF%E3%81%A9%E3%81%86%E3%81%99%E3%82%8C%E3%81%B0%E3%82%88%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B-help997",
   "url": "https://www.paypal.com/",
   "notes": "対象アカウント向けにパスキーが利用でき、端末の生体認証や画面ロックでパスワードなしにログインできる。パスキーはパスワードの代替という位置づけで、2段階認証の方法としては案内されていない（ログイン時にOTP等の追加確認が行われる場合がある）",
   "recommendation": "passkey",
-  "documentationUrl": "https://www.paypal.com/lu/cshelp/article/how-do-i-log-in-to-paypal-with-a-passkey-help997",
+  "documentationUrl": "https://www.paypal.com/jp/cshelp/article/%E3%83%91%E3%82%B9%E3%82%AD%E3%83%BC%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B%E3%80%81%E3%81%BE%E3%81%9F%E3%80%81%E3%83%91%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6paypal%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AB%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF%E3%81%A9%E3%81%86%E3%81%99%E3%82%8C%E3%81%B0%E3%82%88%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B-help997",
   "passkey": {
     "passwordless": "allowed"
   }

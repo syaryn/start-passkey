@@ -2,10 +2,11 @@
   "name": "メロンブックス",
   "reading": "めろんぶっくす",
   "domain": "melonbooks.info",
-  "categories": ["hobby"],
+  "categories": [
+    "hobby"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.melonbooks.info/special/service/start/",
   "notes": "通販会員はログインID・パスワードでマイページを利用する。公式の利用案内やプライバシーポリシーではパスワードによる保護のみが説明されており、二段階認証・認証アプリ・パスキーの設定案内は公式情報に見当たらない。なお会員登録不要の「さくっと注文」では携帯電話のSMS認証を使うが、これは注文時の本人確認でありログインの二要素認証ではない。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

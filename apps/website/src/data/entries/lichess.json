@@ -2,7 +2,9 @@
   "name": "Lichess",
   "reading": "りーちぇす",
   "domain": "lichess.org",
-  "categories": ["gaming"],
+  "categories": [
+    "gaming"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://lichess.org/@/lichess/blog/account-safety-on-lichess-and-beyond/X663WxUA",
   "url": "https://lichess.org/",

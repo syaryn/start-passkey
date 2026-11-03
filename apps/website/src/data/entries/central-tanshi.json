@@ -2,7 +2,9 @@
   "name": "セントラル短資FX",
   "reading": "せんとらるたんしえふえっくす",
   "domain": "central-tanshifx.com",
-  "categories": ["investing"],
+  "categories": [
+    "investing"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.central-tanshifx.com/newsrelease/2026/0914-log.html",
   "url": "https://www.central-tanshifx.com/",

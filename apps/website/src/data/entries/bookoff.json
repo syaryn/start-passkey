@@ -2,11 +2,12 @@
   "name": "ブックオフ公式オンラインストア",
   "reading": "ぶっくおふおんらいん",
   "domain": "shopping.bookoff.co.jp",
-  "categories": ["hobby"],
+  "categories": [
+    "hobby"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support-online.bookoff.co.jp/answer/65b0aff9faf3a9d735bb3cbd",
   "notes": "メールアドレス＋パスワードに加え、ログイン時に2段階認証が求められる場合があり、登録メールアドレス宛に認証コードが送信される（常時必須ではなく、コードの有効期限は60分）。公式アプリでは2段階認証は求められない。パスキー・認証アプリの案内は公式FAQにない。",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://support-online.bookoff.co.jp/answer/65b0aff9faf3a9d735bb3cbd"
 }

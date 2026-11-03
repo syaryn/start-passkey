@@ -2,12 +2,13 @@
   "name": "Zoom",
   "reading": "ずーむ",
   "domain": "zoom.us",
-  "url": "https://zoom.us/",
-  "categories": ["meetings"],
+  "categories": [
+    "meetings"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0083521",
+  "url": "https://zoom.us/",
   "notes": "パスキーによるパスワードレスのサインインに対応（1アカウント最大5個）。対象はPro/Business/Enterprise/Educationプランで、アカウント管理者が有効化している場合に利用できる。パスキーでのサインイン時は別途の二要素認証は求められない仕様で、従来型の2段階認証（認証アプリ/SMS）も別途設定可能だが、パスキー自体は2FAの方法としては案内されていない",
-  "delegatedServices": [],
   "recommendation": "passkey",
   "documentationUrl": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0083521",
   "passkey": {

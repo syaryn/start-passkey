@@ -2,11 +2,12 @@
   "name": "ロコンド",
   "reading": "ろこんど",
   "domain": "locondo.jp",
-  "url": "https://www.locondo.jp/",
-  "categories": ["fashion"],
+  "categories": [
+    "fashion"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.locondo.jp/shop/contents/order",
+  "url": "https://www.locondo.jp/",
   "notes": "ログインはメールアドレス＋パスワードのみ。登録メールアドレスに認証コードを送る「メールアドレス認証」（本人確認の推奨手続き）はあるが、ログイン時の二段階認証ではなく、認証アプリ・パスキーの設定も公式情報にない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

@@ -2,11 +2,12 @@
   "name": "ダスキン DDuet",
   "reading": "だすきん でぃーでゅえっと",
   "domain": "duskin.jp",
-  "url": "https://dduet.duskin.jp/",
-  "categories": ["lifestyle"],
+  "categories": [
+    "lifestyle"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://dduet.duskin.jp/",
+  "url": "https://dduet.duskin.jp/",
   "notes": "ダスキンの会員サイトDDuetのログインはログインID＋パスワードのみ。公式FAQに二段階認証・認証アプリ・パスキーの設定案内はなし。仮登録時のメール確認は登録手続き用でログイン用2FAとして数えない。DDuet IDはかしてネッと等ダスキン系サービス共通の基盤。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

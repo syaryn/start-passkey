@@ -2,7 +2,9 @@
   "name": "イオンモバイル",
   "reading": "いおんもばいる",
   "domain": "aeonmobile.jp",
-  "categories": ["utilities"],
+  "categories": [
+    "utilities"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://aeonmobile.jp/news/notice_260827_01/",
   "url": "https://aeonmobile.jp/",

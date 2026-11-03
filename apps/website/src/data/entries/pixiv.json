@@ -2,7 +2,9 @@
   "name": "pixiv",
   "reading": "ぴくしぶ",
   "domain": "pixiv.net",
-  "categories": ["social"],
+  "categories": [
+    "social"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.pixiv.help/hc/ja/articles/32284049777433-%E3%83%91%E3%82%B9%E3%82%AD%E3%83%BC%E3%81%A8%E3%81%AF%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B",
   "url": "https://www.pixiv.net/",
@@ -11,19 +13,5 @@
   "documentationUrl": "https://www.pixiv.help/hc/ja/articles/32284049777433-%E3%83%91%E3%82%B9%E3%82%AD%E3%83%BC%E3%81%A8%E3%81%AF%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B",
   "passkey": {
     "passwordless": "allowed"
-  },
-  "delegatedServices": [
-    {
-      "name": "BOOTH",
-      "reading": "ぶーす",
-      "sourceUrl": "https://booth.pixiv.help/hc/ja/categories/115000250593-%E5%85%A8%E4%BD%93%E5%90%91%E3%81%91",
-      "sourceNote": "BOOTH公式ヘルプの登録・ログインカテゴリに「pixivアカウントでログイン」「pixivアカウント連携」記事群"
-    },
-    {
-      "name": "pixivFANBOX",
-      "reading": "ぴくしぶふぁんぼっくす",
-      "sourceUrl": "https://fanbox.pixiv.help/hc/ja/articles/4423931453593-%E6%94%AF%E6%8F%B4%E3%81%97%E3%81%A4%E3%81%84%E3%82%8B%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AB%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93",
-      "sourceNote": "公式ヘルプに「登録にはpixivアカウントが必要」と明記"
-    }
-  ]
+  }
 }

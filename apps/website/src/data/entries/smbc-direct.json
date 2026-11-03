@@ -2,10 +2,12 @@
   "name": "三井住友銀行（SMBCダイレクト）",
   "reading": "みついすみともぎんこう（えすえむびーしーだいれくと）",
   "domain": "smbc.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.smbc.co.jp/kojin/direct/securi/safetypass/",
-  "url": "https://www2.smbc.co.jp/kojin/direct/",
+  "url": "https://www2.smbc.co.jp",
   "notes": "「SMBCセーフティパス」で端末の生体認証キーを登録する方式（公式名称はパスキーではない）。アプリではパスワード入力なしでログインでき、登録するとインターネットバンキングのログイン時に生体認証が必須になる。ブラウザ等・登録端末以外からのログインでは、登録端末での生体認証（QR読取・承認）が必要。登録は任意（推奨）。未登録の場合はワンタイムパスワード（アプリ/カード）を使う",
   "recommendation": "passkey",
   "documentationUrl": "https://www.smbc.co.jp/kojin/direct/securi/safetypass/touroku/",

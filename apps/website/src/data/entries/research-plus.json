@@ -2,11 +2,12 @@
   "name": "リサーチプラス",
   "reading": "りさーちぷらす",
   "domain": "research-plus.net",
-  "url": "https://www.research-plus.net/",
-  "categories": ["points"],
+  "categories": [
+    "points"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.research-plus.net/question/",
+  "url": "https://www.research-plus.net/",
   "notes": "アイブリッジ運営のインターネットリサーチサービス。公式情報ではモニター・企業向け管理画面ともIDとパスワードによる管理のみが案内されており、パスキー・認証アプリ・コードによる追加認証の設定案内はない。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

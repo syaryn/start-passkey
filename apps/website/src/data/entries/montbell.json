@@ -2,11 +2,12 @@
   "name": "モンベル",
   "reading": "もんべる",
   "domain": "montbell.jp",
-  "categories": ["fashion"],
+  "categories": [
+    "fashion"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support.montbell.jp/common/system/information/disp.php?c=7&id=1",
   "notes": "2段階認証（任意設定、公式に設定を推奨）は、ID・パスワードに加えてメールアドレスまたは携帯電話番号（SMS）宛てに送られる認証コードを入力する方式。一度認証した端末では2回目以降はID・パスワードのみでログイン可。認証アプリ・パスキーはない。",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://support.montbell.jp/common/system/information/disp.php?c=7&id=110"
 }

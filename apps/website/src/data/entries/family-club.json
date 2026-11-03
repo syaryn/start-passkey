@@ -2,11 +2,12 @@
   "name": "ファミリークラブ",
   "reading": "ふぁみりーくらぶ",
   "domain": "familyclub.jp",
-  "url": "https://www.familyclub.jp/",
-  "categories": ["points"],
+  "categories": [
+    "points"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://web.familyclub.jp/s/jwb/faq",
+  "url": "https://www.familyclub.jp/",
   "notes": "STARTO ENTERTAINMENTの公式ファンクラブ会員サービス。FAMILY CLUB web/onlineのログインは登録メールアドレス（会員サイトは会員番号）＋パスワードのみで、二段階認証・認証アプリ・パスキーの設定は公式情報になし。パスワード再設定時のPINコード通知は再設定手続きであり、ログイン時の追加認証ではない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

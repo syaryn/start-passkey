@@ -2,11 +2,12 @@
   "name": "松屋フーズ（松弁ネット）",
   "reading": "まつやふーず",
   "domain": "matsuyafoods.co.jp",
-  "url": "https://www.matsuyafoods.co.jp/",
-  "categories": ["food"],
+  "categories": [
+    "food"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://bento.matsuyafoods.co.jp/matsuben-net/guide/",
+  "url": "https://www.matsuyafoods.co.jp/",
   "notes": "松屋フーズ公式アプリ・松弁ネット等の会員。注文には松弁ネットの会員登録が必要で、ログインはメールアドレス＋パスワード。二段階認証やパスキーの設定案内は公式情報になし。なお確認時点では、2026年10月の不正アクセス事案により公式サイト・アプリが停止中だった",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

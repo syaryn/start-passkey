@@ -2,12 +2,13 @@
   "name": "食べログ",
   "reading": "たべろぐ",
   "domain": "tabelog.com",
-  "url": "https://tabelog.com/",
-  "categories": ["food"],
+  "categories": [
+    "food"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://kakaku.com/help/id_twostepauth.htm",
+  "url": "https://tabelog.com/",
   "notes": "ログインに使う共通ID（価格.comID／カカクコムID）には、登録メールアドレス宛の認証コードによる二段階認証があり、セキュリティ上の理由でオフにできない。ただし公式の対象範囲の表記は価格.com・価格.com決済などの価格.com系サービスであり、食べログ側での適用は公式に明示されていない。パスキーや認証アプリの案内はなし",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://kakaku.com/help/id_twostepauth.htm"
 }

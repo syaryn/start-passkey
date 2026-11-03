@@ -2,11 +2,12 @@
   "name": "Gポイント",
   "reading": "じーぽいんと",
   "domain": "gpoint.co.jp",
-  "url": "https://www.gpoint.co.jp/",
-  "categories": ["points"],
+  "categories": [
+    "points"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support.gpoint.co.jp/hc/ja/articles/5066895281817",
+  "url": "https://www.gpoint.co.jp/",
   "notes": "ログインはGポイントID＋パスワード（または対応付けしたBIGLOBE ID＋パスワード）のみで、ログイン時に使える追加認証の設定はない。登録電話番号から指定番号へ発信する「電話認証」はポイント交換時等の本人確認に使われるもので、ログイン自体には使えないため本ディレクトリの基準では数えない。パスキー・認証アプリの案内はなし。なお2026年9月の不正アクセスにより確認時点ではサービス一時停止中（交換専用サイトは2026年12月上旬公開予定と公式発表）",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

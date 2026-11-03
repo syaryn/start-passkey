@@ -2,11 +2,12 @@
   "name": "Scratch",
   "reading": "すくらっち",
   "domain": "scratch.mit.edu",
-  "url": "https://scratch.mit.edu/",
-  "categories": ["education"],
+  "categories": [
+    "education"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://test.scratch-wiki.info/wiki/Eng:Creating_an_Account",
+  "url": "https://scratch.mit.edu/",
   "notes": "サインインはユーザー名＋パスワードのみ。アカウント設定で変更できるのはパスワードとメールアドレス等で、二段階認証・認証アプリ・パスキーの設定項目は存在しない（2段階認証は公式フォーラムでも要望段階）",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

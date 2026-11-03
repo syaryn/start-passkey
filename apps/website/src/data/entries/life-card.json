@@ -2,7 +2,9 @@
   "name": "ライフカード（LIFE-Web Desk）",
   "reading": "らいふかーど",
   "domain": "lifecard.co.jp",
-  "categories": ["payments"],
+  "categories": [
+    "payments"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.lifecard.co.jp/howto/lwd/authentication.html",
   "url": "https://www.lifecard.co.jp/",

@@ -2,7 +2,9 @@
   "name": "あるけみすと",
   "reading": "あるけみすと",
   "domain": "games-alchemist.com",
-  "categories": ["gaming"],
+  "categories": [
+    "gaming"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.games-alchemist.com/",
   "url": "https://www.games-alchemist.com/",

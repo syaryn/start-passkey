@@ -2,11 +2,12 @@
   "name": "オートレースモバイル（inet投票）",
   "reading": "おーとれーすもばいる",
   "domain": "autorace.jp",
-  "url": "https://autorace.jp/",
-  "categories": ["gambling"],
+  "categories": [
+    "gambling"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://autorace.jp/support/faq1001/2024/05/22/035311/",
+  "url": "https://autorace.jp/",
   "notes": "ログインは加入者番号＋パスワードで、投票メニュー利用時に固定の暗証番号を入力する公営競技の固定PIN型。パスキー・認証アプリ・送信コード型の二要素認証は公式情報になし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

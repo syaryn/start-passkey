@@ -2,11 +2,12 @@
   "name": "マルエツ オンラインデリバリー",
   "reading": "まるえつおんらいんでりばりー",
   "domain": "maruetsu.co.jp",
-  "url": "https://www.maruetsu.co.jp/onlinedelivery/",
-  "categories": ["food"],
+  "categories": [
+    "food"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.maruetsu.co.jp/onlinedelivery/",
+  "url": "https://www.maruetsu.co.jp",
   "notes": "ネットスーパー（オンラインデリバリー）は独自会員制で、公式ページに「ご登録のメールアドレスとパスワードのまま」利用できると明記。ログイン時の二段階認証・認証アプリ・パスキーの設定案内なし。チラシアプリ側のポイント登録はWAON POINT・Vポイント等の外部基盤連携。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

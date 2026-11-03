@@ -2,12 +2,13 @@
   "name": "Udemy",
   "reading": "ゆーでみー",
   "domain": "udemy.com",
-  "url": "https://www.udemy.com/",
-  "categories": ["education"],
+  "categories": [
+    "education"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://success.udemy.com/s/article/32953833670295?language=en-US",
+  "verifiedUrl": "https://success.udemy.com/s/article/32953833670295?language=ja",
+  "url": "https://www.udemy.com/",
   "notes": "MFAは登録メールへ送られる6桁コードのみ（新しい端末・ブラウザからのログイン時）。講師アカウントおよびUdemy Businessで提供。認証アプリ・パスキーの公式案内はなし。",
-  "delegatedServices": [],
   "recommendation": "code",
-  "documentationUrl": "https://success.udemy.com/s/article/32953833670295?language=en-US"
+  "documentationUrl": "https://success.udemy.com/s/article/32953833670295?language=ja"
 }

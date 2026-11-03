@@ -2,7 +2,9 @@
   "name": "ビューカード（VIEW's NET）",
   "reading": "びゅーかーど",
   "domain": "viewcard.co.jp",
-  "categories": ["payments"],
+  "categories": [
+    "payments"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq.viewcard.co.jp/faq/show/6463?site_domain=default",
   "notes": "ログインはVIEW's NETのIDとパスワードのみ。公式FAQに「VIEW's NETやビューカードアプリはパスキー認証に対応していない」と明記されている。アプリの生体認証ログインは端末側の認証機能であり、ワンタイムパスワードは本人認証サービス（3Dセキュア）用でログインには使えない",

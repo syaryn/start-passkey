@@ -2,12 +2,13 @@
   "name": "Lenovo ID",
   "reading": "れのぼあいでぃー",
   "domain": "lenovo.com",
-  "url": "https://www.lenovo.com/",
-  "categories": ["electronics"],
+  "categories": [
+    "electronics"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://account.lenovo.com/ca/lenovopro/en/account/login/index.html",
+  "url": "https://www.lenovo.com/",
   "notes": "パスワードのほか、登録メールアドレスへ送られるワンタイムコードでもサインインできる（公式サインインページに「one-time code」として明記）。認証アプリ・パスキーの公式案内はなし。法人向けのThinkSmart Manager等で使われるLenovo ID組織のMFA（Microsoft Authenticator）は別基盤のため対象外。",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://account.lenovo.com/ca/lenovopro/en/account/login/index.html"
 }

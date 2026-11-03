@@ -2,11 +2,12 @@
   "name": "ライフネットスーパー",
   "reading": "らいふねっとすーぱー",
   "domain": "life-netsuper.jp",
-  "url": "https://www.life-netsuper.jp/",
-  "categories": ["food"],
+  "categories": [
+    "food"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.lifecorp.jp/toiawase/",
+  "url": "https://www.life-netsuper.jp/",
   "notes": "会員登録のうえ会員IDとパスワードでログインする方式。ログイン時の二段階認証・認証アプリ・パスキーの設定案内は公式情報になし。なおAmazonネットスーパー内の「ライフ」はAmazonアカウント側の認証を使う別導線。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

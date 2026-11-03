@@ -2,12 +2,13 @@
   "name": "Zendesk",
   "reading": "ぜんですく",
   "domain": "zendesk.com",
-  "url": "https://www.zendesk.com/",
-  "categories": ["business"],
+  "categories": [
+    "business"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://support.zendesk.com/hc/en-us/articles/4408829277466-Using-two-factor-authentication-to-sign-in-to-Zendesk-Support?page=1",
+  "verifiedUrl": "https://support.zendesk.com/hc/ja/articles/4408829277466-2%E8%A6%81%E7%B4%A0%E8%AA%8D%E8%A8%BC%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6Zendesk-Support%E3%81%AB%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95?page=1",
+  "url": "https://www.zendesk.com/",
   "notes": "Zendesk標準認証（メールアドレス＋パスワード）のログインが対象。パスワード後に認証アプリ、メール、またはSMS（エージェントのみ）のパスコードが必要な2要素認証で、管理者が全エージェントに必須化できる。パスキーをログインに使う公式案内は確認できなかった。SSO利用時はZendesk側2FAの対象外。",
-  "delegatedServices": [],
   "recommendation": "authenticator",
-  "documentationUrl": "https://support.zendesk.com/hc/en-us/articles/4408829277466-Using-two-factor-authentication-to-sign-in-to-Zendesk-Support?page=1"
+  "documentationUrl": "https://support.zendesk.com/hc/ja/articles/4408829277466-2%E8%A6%81%E7%B4%A0%E8%AA%8D%E8%A8%BC%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6Zendesk-Support%E3%81%AB%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95?page=1"
 }

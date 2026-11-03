@@ -2,11 +2,12 @@
   "name": "フェリーさんふらわあ",
   "reading": "ふぇりーさんふらわあ",
   "domain": "ferry-sunflower.co.jp",
-  "url": "https://www.ferry-sunflower.co.jp/",
-  "categories": ["transport"],
+  "categories": [
+    "transport"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.ferry-sunflower.co.jp/lp/members/",
+  "url": "https://www.ferry-sunflower.co.jp/",
   "notes": "WEB会員制度「さんふらわあメンバーズ」のログインはログインID＋パスワードのみ。二段階認証・認証アプリ・パスキーの設定案内は公式情報にない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

@@ -2,12 +2,13 @@
   "name": "Airbnb",
   "reading": "えあびーあんどびー",
   "domain": "airbnb.com",
-  "url": "https://www.airbnb.com/",
-  "categories": ["travel"],
+  "categories": [
+    "travel"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.airbnb.com/help/article/4094",
+  "url": "https://www.airbnb.com/",
   "notes": "パスキーを登録するとパスワードやワンタイムパスワードなしでログインでき、支払い方法の追加など本人認証が必要な操作にも使える。別途、電話番号へのコードとPINによる2要素認証（SCA）がありEEA域内のホストには必須だが、パスキーはその2要素認証の方法としては案内されていない",
-  "delegatedServices": [],
   "recommendation": "passkey",
   "documentationUrl": "https://www.airbnb.com/help/article/4094",
   "passkey": {

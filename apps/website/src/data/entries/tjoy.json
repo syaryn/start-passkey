@@ -2,11 +2,12 @@
   "name": "ティ・ジョイ（KINEZO）",
   "reading": "てぃ・じょい",
   "domain": "tjoy.jp",
-  "url": "https://tjoy.jp/",
-  "categories": ["cinema"],
+  "categories": [
+    "cinema"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://tjoy.jp/t-joy_yokohama/guide/entry",
+  "url": "https://tjoy.jp/",
   "notes": "ティ・ジョイのオンラインチケット予約（KINEZO）・アプリ「キネパス」の会員。ログインはメールアドレス＋パスワードのみで、Amazonアカウントでの登録・連携も可能（その場合はAmazon側の認証）。発券用パスワードは生年月日の月日4桁という固定値だが、これは劇場での発券用でありログイン認証ではない。SMS/メールコード・認証アプリ・パスキーの設定は公式情報になし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

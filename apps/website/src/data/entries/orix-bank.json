@@ -2,7 +2,9 @@
   "name": "オリックス銀行",
   "reading": "おりっくすぎんこう",
   "domain": "orixbank.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.orixbank.co.jp/personal/deposit/edirect/flow02-01.html",
   "url": "https://www.orixbank.co.jp/",

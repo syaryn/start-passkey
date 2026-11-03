@@ -2,7 +2,9 @@
   "name": "外為どっとコム",
   "reading": "がいためどっとこむ",
   "domain": "gaitame.com",
-  "categories": ["investing"],
+  "categories": [
+    "investing"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.gaitame.com/company/safety/authentication.html",
   "url": "https://www.gaitame.com/",

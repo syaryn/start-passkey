@@ -2,12 +2,13 @@
   "name": "東京海上日動マイページ（あんしん生命）",
   "reading": "とうきょうかいじょうにちどうまいぺーじ",
   "domain": "tmn-anshin.co.jp",
-  "url": "https://www.tmn-anshin.co.jp/keiyaku/mypage/",
-  "categories": ["insurance"],
+  "categories": [
+    "insurance"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq.tmn-anshin.co.jp/faq_detail.html?id=9268",
+  "url": "https://www.tmn-anshin.co.jp",
   "notes": "東京海上日動と共通の契約者マイページ。ID・パスワードに加え、登録電話番号宛の確認コード（SMS、利用できない場合は音声発信）による2要素認証がある。パスキー・認証アプリの案内は公式情報になし",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://faq.tmn-anshin.co.jp/faq_detail.html?id=9268"
 }

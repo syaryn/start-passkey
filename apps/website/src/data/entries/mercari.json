@@ -2,12 +2,13 @@
   "name": "メルカリ",
   "reading": "めるかり",
   "domain": "mercari.com",
-  "url": "https://jp.mercari.com/",
-  "categories": ["marketplace"],
+  "categories": [
+    "marketplace"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.jp.mercari.com/guide/articles/1860/",
+  "url": "https://jp.mercari.com/",
   "notes": "公式に「パスキー認証（生体認証）」と明記されたパスワードレス方式。登録は任意だが、登録するとログイン時にパスキー認証が必須となり、パスワードでのログインはできなくなる（2026/5/29以降順次、ログイン方法からパスワード自体も外れる）。未登録の場合は従来のパスワード、連携アカウント、メール送信ログイン（ログイン用リンク）が利用可能",
-  "delegatedServices": [],
   "recommendation": "passkey",
   "documentationUrl": "https://help.jp.mercari.com/guide/articles/1876/",
   "passkey": {

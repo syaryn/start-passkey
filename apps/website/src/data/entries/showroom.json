@@ -2,11 +2,12 @@
   "name": "SHOWROOM",
   "reading": "しょーるーむ",
   "domain": "showroom-live.com",
-  "url": "https://www.showroom-live.com/",
-  "categories": ["social"],
+  "categories": [
+    "social"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://showroomsupport.notion.site/a0a1c02aae0d4daa8f05b6d716f98594",
+  "url": "https://www.showroom-live.com/",
   "notes": "公式FAQでは、ログインはアカウントIDとパスワード、または連携したSNSアカウント（X/Facebook）と明記されている。携帯電話番号のSMS認証は電話番号の登録・本人確認（無料ギフトのポイント反映や、ID確認・パスワード再設定のため）の仕組みであり、ログイン時の二段階認証ではない。公式FAQにパスキー・認証アプリ・二段階認証の設定案内はなし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

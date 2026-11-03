@@ -2,12 +2,13 @@
   "name": "日本生命（ニッセイマイページ）",
   "reading": "にっぽんせいめい",
   "domain": "nissay.co.jp",
-  "url": "https://www.nissay.co.jp/",
-  "categories": ["insurance"],
+  "categories": [
+    "insurance"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.nissay.co.jp/keiyaku/app/browser.html",
+  "url": "https://www.nissay.co.jp/",
   "notes": "日本生命アプリの生体認証を公式が「パスキー（生体認証等）」と称しており、アプリ内ログインのほか、WebのニッセイマイページにもQRコード読取り＋アプリの生体認証でID・パスワード入力なしにログインできる（パスワードの代替方式であり、多要素認証としての併用方式ではない）。FIDO/WebAuthnの文言自体は公式ページでは確認できず、公式名称に基づく判定。通常ログインはログインID＋ログインパスワード",
-  "delegatedServices": [],
   "recommendation": "passkey",
   "documentationUrl": "https://www.nissay.co.jp/keiyaku/app/",
   "passkey": {

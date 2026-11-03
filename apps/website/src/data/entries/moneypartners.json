@@ -2,7 +2,9 @@
   "name": "マネーパートナーズ",
   "reading": "まねーぱーとなーず",
   "domain": "moneypartners.co.jp",
-  "categories": ["investing"],
+  "categories": [
+    "investing"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.moneypartners.co.jp/support/faq/login/index.html?anchor=a1216988",
   "url": "https://www.moneypartners.co.jp/",

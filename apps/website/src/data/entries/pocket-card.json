@@ -2,7 +2,9 @@
   "name": "ポケットカード",
   "reading": "ぽけっとかーど",
   "domain": "pocketcard.co.jp",
-  "categories": ["payments"],
+  "categories": [
+    "payments"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.pocketcard.co.jp/netserviceguide/guide01/",
   "url": "https://www.pocketcard.co.jp/",

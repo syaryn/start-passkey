@@ -2,11 +2,12 @@
   "name": "エアトリ",
   "reading": "えあとり",
   "domain": "airtrip.jp",
-  "url": "https://www.airtrip.jp/",
-  "categories": ["travel"],
+  "categories": [
+    "travel"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.airtrip.jp/guide/domesticair/faq6_11.php",
+  "url": "https://www.airtrip.jp/",
   "notes": "ログインはメールアドレス（会員ID）とパスワードのみ。公式ガイド・FAQに二段階認証・認証アプリ・パスキーの案内はない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

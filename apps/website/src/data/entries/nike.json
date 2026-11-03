@@ -2,12 +2,13 @@
   "name": "Nike",
   "reading": "ないき",
   "domain": "nike.com",
-  "url": "https://www.nike.com/",
-  "categories": ["fashion"],
+  "categories": [
+    "fashion"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://www.nike.com/au/help/a/create-nike-profile",
+  "verifiedUrl": "https://www.nike.com/jp/help/a/create-nike-profile",
+  "url": "https://www.nike.com/jp",
   "notes": "パスワードレス寄りの設計。公式ヘルプによればパスワードの作成は不要で、サインインのたびにメールで送られるワンタイム認証コードを入力する方式が基本（パスワードを設定して使うことも可能）。パスワードへの追加要素としての2段階認証や、パスキー・認証アプリの設定はない。",
-  "delegatedServices": [],
   "recommendation": "code",
-  "documentationUrl": "https://www.nike.com/au/help/a/create-nike-profile"
+  "documentationUrl": "https://www.nike.com/jp/help/a/create-nike-profile"
 }

@@ -2,7 +2,9 @@
   "name": "GAMECITY",
   "reading": "げーむしてぃ",
   "domain": "gamecity.ne.jp",
-  "categories": ["gaming"],
+  "categories": [
+    "gaming"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.gamecity.ne.jp/support/info/qa_member.html",
   "url": "https://www.gamecity.ne.jp/",

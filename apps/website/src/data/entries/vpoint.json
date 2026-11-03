@@ -2,7 +2,9 @@
   "name": "Vポイント",
   "reading": "ぶいぽいんと",
   "domain": "tsite.jp",
-  "categories": ["payments"],
+  "categories": [
+    "payments"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://tsite.jp/tm/pc/login/STKIp0030001.do",
   "url": "https://tsite.jp/",
@@ -11,13 +13,5 @@
   "documentationUrl": "https://tsite.jp/tm/pc/login/STKIp0030001.do",
   "passkey": {
     "passwordless": "allowed"
-  },
-  "delegatedServices": [
-    {
-      "name": "Tモール",
-      "reading": "てぃーもーる",
-      "sourceUrl": "https://privacy.vpoint.co.jp/terms/mall/",
-      "sourceNote": "Vポイントモール公式利用規約: V会員（ネット登録会員）が指定IDで利用（現行TモールはVポイントモール）"
-    }
-  ]
+  }
 }

@@ -2,7 +2,9 @@
   "name": "SBI新生銀行",
   "reading": "えすびーあいしんせいぎんこう",
   "domain": "sbishinseibank.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.sbishinseibank.co.jp/service/newpd/app_pd/login.html",
   "url": "https://www.sbishinseibank.co.jp/",

@@ -2,11 +2,12 @@
   "name": "ぐるなび",
   "reading": "ぐるなび",
   "domain": "gnavi.co.jp",
-  "url": "https://www.gnavi.co.jp/",
-  "categories": ["food"],
+  "categories": [
+    "food"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq.gnavi.co.jp/%E4%BC%9A%E5%93%A1%E7%99%BB%E9%8C%B2%E6%83%85%E5%A0%B1%E3%81%AE%E5%A4%89%E6%9B%B4%E6%96%B9%E6%B3%95-677e33907e1ee596d2e8a497",
+  "url": "https://www.gnavi.co.jp/",
   "notes": "ぐるなび会員のログインはメールアドレス（会員ID）＋パスワードのみ。公式ヘルプに二段階認証・認証アプリ・パスキーの設定案内はなし。外部サービスID連携は2023年10月1日に終了したが、楽天IDでのログインのみ継続しており、その場合は楽天ID側の認証による（ぐるなび独自の追加認証ではない）。登録・変更手続き時の確認はログイン用2FAとして数えない。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

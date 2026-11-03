@@ -2,13 +2,15 @@
   "name": "Roblox",
   "reading": "ろぶろっくす",
   "domain": "roblox.com",
-  "categories": ["gaming"],
+  "categories": [
+    "gaming"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://en.help.roblox.com/hc/en-us/articles/20669991483156-Logging-in-with-a-Passkey",
+  "verifiedUrl": "https://en.help.roblox.com/hc/ja/articles/20669991483156-%E3%83%91%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%99%E3%82%8B",
   "url": "https://www.roblox.com/",
   "notes": "パスキーはパスワードの代替として追加でき、生体認証や画面ロックでログイン可能。パスキーでログインすると2-Step Verificationはバイパスされる。2-Step Verification自体はメール/認証アプリ/セキュリティキーから1つだけ選択する方式",
   "recommendation": "passkey",
-  "documentationUrl": "https://en.help.roblox.com/hc/en-us/articles/20669991483156-Logging-in-with-a-Passkey",
+  "documentationUrl": "https://en.help.roblox.com/hc/ja/articles/20669991483156-%E3%83%91%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%99%E3%82%8B",
   "passkey": {
     "passwordless": "allowed"
   }

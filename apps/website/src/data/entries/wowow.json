@@ -2,11 +2,12 @@
   "name": "WOWOWオンデマンド",
   "reading": "わうわうおんでまんど",
   "domain": "wod.wowow.co.jp",
-  "url": "https://wod.wowow.co.jp/",
-  "categories": ["streaming"],
+  "categories": [
+    "streaming"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support.wowow.co.jp/answer/61cd8fca66cf3b001e9d195d/",
+  "url": "https://wod.wowow.co.jp/",
   "notes": "ログインはWEBアカウント（登録メールアドレス）＋パスワードのみ。WEBアカウント登録時にメールで送られる4桁の認証コードは登録手続き用であり、ログイン時の追加認証ではない。テレビ向けのアクティベーションコードは端末連携用。二段階認証・認証アプリ・パスキーの設定案内は公式ヘルプにない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

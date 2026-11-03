@@ -34,8 +34,6 @@ Tモール,てぃーもーる,vpoint,Vポイント,passkey,現「Vポイント�
 阪急百貨店,はんきゅうひゃっかてん,h2o-id,H2O ID,code,,https://www.hankyu-hanshin-dept.co.jp/app/faq.html,公式ガイド「H2O IDに登録しているメールアドレスとパスワードを入力してログイン」「アプリのご利用にはH2O IDのご登録が必要です」
 GU,じーゆー,uniqlo,ユニクロ,code,ファーストリテイリング共通会員基盤,https://faq.uniqlo.com/articles/FAQ/100001981,ユニクロ公式「ユニクロとジーユーの会員登録は共通して利用できます。同じメールアドレスとパスワードでログインできます」
 Threads,すれっず,instagram,Instagram,passkey,Metaアカウント基盤,https://help.instagram.com/1747515265645443/?helpref=uf_permalink&parent_cms_id=179980294969821&locale=ja_JP,Instagram公式ヘルプ「Threadsプロフィールを作成するには、InstagramまたはFacebookアカウントでログインする必要があります」（実ブラウザで本文確認）
-エールフランス,えーるふらんす,flying-blue,Flying Blue,code,,https://wwws.airfrance.co.jp/ja/information/flyingblue,エールフランス日本公式「フライング・ブルーはエールフランス航空のロイヤルティプログラム」でマイアカウントへ案内
-KLMオランダ航空,けーえるえむおらんだこうくう,flying-blue,Flying Blue,code,,https://www.klm.co.jp/information/flying-blue,KLM公式「フライング・ブルーは当社のロイヤルティプログラム」でアカウントへのログインへ案内
 Hotels.com,ほてるずどっとこむ,expedia,Expedia,code,Expedia Group基盤,https://jp.hotels.com/lp/b/terms-of-service,公式利用規約2条: アカウントはExpedia・Vrbo等でも同じログイン情報でアクセス可能な「Expedia Groupアカウント」と定義
 かんぽ生命マイページ,かんぽせいめいまいぺーじ,yu-id,ゆうID,passkey,2026年3月にゆうIDへ移行,https://www.jp-life.japanpost.jp/mypage/jpid/index.html,かんぽ生命公式「マイページのご利用にはゆうIDへのログインが必要です」（2026-03-23よりゆうIDへ変更）
 島忠ホームズ,しまちゅうほーむず,nitori,ニトリメンバーズ,code,ニトリ会員基盤,https://www.nitori-net.jp/ec/userguide/memberscardpoint/,ニトリ公式「ニトリメンバーズはニトリ・デコホーム・N+・島忠ホームズ、シマホネットで利用可能」
@@ -60,16 +58,12 @@ CROWNGEARS,くらうんぎあーず,mapcamera,マップカメラ,password-only,,
 BRILLER,ぶりえ,mapcamera,マップカメラ,password-only,,https://www.mapcamera.com/html/pointprogram/index.html,同上（シュッピン共通基盤）
 まちうまアプリ,まちうまあぷり,h2o-id,H2O ID,code,,https://www.excite.co.jp/news/article/Prtimes_2026-10-05-152319-36/,運営会社（エイチ・ツー・オー ネクスト）の公式プレスリリース（PR TIMES配信）「まちうまは、グループ共通ID『H2O ID』を実装した初めてのサービス」。公式ドメイン上の同一記述は未確認
 オフモール,おふもーる,hardoff,ハードオフ,password-only,,https://www.hardoff.app/faq,公式アプリFAQ「オフモール・オファー買取と共通のハードオフIDが使えます」
-Swarm,すわーむ,foursquare,Foursquare,code,,https://support.foursquare.com/hc/en-us/articles/21163034380956-Deleting-or-Recovering-Foursquare-Account,Foursquare公式サポートがSwarmのアカウントをFoursquareアカウントとして扱う（同一基盤）
 アベイル,あべいる,shimamura,しまむら,password-only,,https://www.shimamura.gr.jp/shimamura/featured/shimamurapark/,しまむら公式「しまむらパーク」: しまむら/アベイル/バースデイ/シャンブル/ディバロ共通の統合ストア・アプリ（公式リリースにも5ブランド共通会員サービスと明記）
 バースデイ,ばーすでい,shimamura,しまむら,password-only,,https://www.shimamura.gr.jp/shimamura/featured/shimamurapark/,同上（5ブランド共通会員）
 シャンブル,しゃんぶる,shimamura,しまむら,password-only,,https://www.shimamura.gr.jp/shimamura/featured/shimamurapark/,同上（5ブランド共通会員）
 ディバロ,でぃばろ,shimamura,しまむら,password-only,,https://www.shimamura.gr.jp/shimamura/featured/shimamurapark/,同上（5ブランド共通会員）
 ファイナルファンタジーXI,ふぁいなるふぁんたじーいれぶん,square-enix-account,スクウェア・エニックス アカウント,authenticator,,https://support.eu.square-enix.com/faqarticle.php?kid=60224&id=455&la=2&ret=faq&pv=10&page=0&c=4&sc=0&so=0,公式サポートFAQ「you will need a Square Enix account in order to play FINAL FANTASY XI」
 ドラゴンクエストX,どらごんくえすとてん,square-enix-account,スクウェア・エニックス アカウント,authenticator,,https://hiroba.dqx.jp/sc/public/playguide/wintrial_1/,DQX公式ガイド「スクウェア・エニックス アカウントを入力してログインしてください」
-Tapo,たぽ,tp-link,TP-Link ID,code,,https://www.tp-link.com/uk/support/faq/1439/?app=deco,"TP-Link公式FAQ「One account works across Tapo, Kasa, Deco, Tether, Omada, VIGI, and Aginet apps」"
-Kasa,かさ,tp-link,TP-Link ID,code,,https://www.tp-link.com/uk/support/faq/1439/?app=deco,同上（TP-Link ID共通）
-Deco,でこ,tp-link,TP-Link ID,code,,https://www.tp-link.com/uk/support/faq/1439/?app=deco,同上（TP-Link ID共通）
 るるぶトラベル,るるぶとらべる,jtb,JTB（JTBトラベルメンバー）,password-only,,https://www.rurubu.travel/theme/pointup/,るるぶトラベル公式「JTBトラベルポイントの獲得には『JTBトラベルメンバー』への会員登録が必要（ログインを前提）」
 ゲソてん byGMO,げそてんばいじーえむおー,gmo-id,GMO ID,passkey,,https://gesoten.com/login,公式ログインページに「メールアドレス( GMO ID )でログイン」と表示（実ブラウザで確認）。GMO ID公式サイトの関連サービス一覧にもゲソてんが掲載
 ポイントタウン,ぽいんとたうん,gmo-id,GMO ID,passkey,,https://www.pointtown.com/information/429,ポイントタウン公式お知らせ「『GMO IDでログインする』からログインすると…」と明記
@@ -88,7 +82,6 @@ Ci-en,しーえん,vivion-id,viviON ID,authenticator,,https://vivion.jp/news/293
 ローチケ,ろーちけ,lawson-web-member,ローソンWEB会員,code,,https://do.l-tike.com/faq/,ローチケ公式FAQ「ローソンWEB会員でログインしてエントリー…」と明記（ローソンチケット系のログイン基盤）
 HMV&BOOKS online,えいちえむぶいあんどぶっくすおんらいん,lawson-web-member,ローソンWEB会員,code,,https://www.hmv.co.jp/news/article/260831197/,HMV公式ページに「ローソンWEB会員登録（登録無料）」「ローソンWEB会員限定」と明記
 Trello,とれろ,atlassian,Atlassianアカウント,passkey,,https://support.atlassian.com/trello/docs/troubleshooting-two-factor-authentication/,Atlassian公式サポート「Nearly all Trello users will use their Atlassian account … to access Trello」
-WAKU+,わくぷらす,wakuwaku-mail,ワクワクメール,passkey,,https://550909.com/faq/result?id=1155,ワクワクメール公式FAQ: WAKU+は姉妹SNSで同一アカウントを使う旨を確認（基盤エントリ作成時に確認）
 タカチケット,たかちけっと,hawks-member,ホークス会員アカウント,password-only,,http://www.softbankhawks.co.jp/news/detail/202601109078.html,ホークス公式「タカチケットご利用の際は、タカポイント会員（無料）への登録が必要です」
 オンワードクローゼット,おんわーどくろーぜっと,onward-members,オンワードメンバーズ,password-only,,https://crosset.onward.co.jp/login,オンワードクローゼット公式ログインページの見出しが「オンワードメンバーズにご登録済みの方」
 サンリオオンラインショップ,さんりおおんらいんしょっぷ,sanrio-plus,Sanrio＋,password-only,,https://contact.sanrio.co.jp/hc/ja/articles/55964104204569-Sanrio-%E3%81%A7%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%AF%E3%81%A9%E3%82%93%E3%81%AA%E3%82%82%E3%81%AE%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B,サンリオ公式ヘルプ「Sanrio＋でログインできるサービス」記事の連携サービス一覧に「サンリオオンラインショップ本店」が明記

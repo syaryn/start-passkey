@@ -2,11 +2,13 @@
   "name": "西日本シティ銀行",
   "reading": "にしにっぽんしてぃぎんこう",
   "domain": "ncbank.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://www.ncbank.co.jp///////benri/direct/otp/",
+  "verifiedUrl": "https://www.ncbank.co.jp/benri/direct/otp/",
   "url": "https://www.ncbank.co.jp/",
   "notes": "NCBダイレクトのワンタイムパスワード（西日本シティ銀行アプリのソフトトークンまたはキーホルダー型ハードトークン、60秒更新）は、公式の「ワンタイムパスワードを利用する主なお取引」に「スマートフォンによるインターネットバンキングへのログイン」が明記され、ログイン時にも利用する。パソコンからのログインはログインパスワードのみ。パスキーの案内なし",
   "recommendation": "authenticator",
-  "documentationUrl": "https://www.ncbank.co.jp///////benri/direct/otp/"
+  "documentationUrl": "https://www.ncbank.co.jp/benri/direct/otp/"
 }

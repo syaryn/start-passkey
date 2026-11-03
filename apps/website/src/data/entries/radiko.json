@@ -2,11 +2,12 @@
   "name": "radiko",
   "reading": "らじこ",
   "domain": "radiko.jp",
-  "url": "https://radiko.jp/",
-  "categories": ["music"],
+  "categories": [
+    "music"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.radiko.jp/--67aeb822db13e6dcdfc07d9f",
+  "url": "https://radiko.jp/",
   "notes": "無料会員・ラジコプレミアムともログインはメールアドレス＋パスワードのみ。登録時にメールで送られる6桁の認証コードは登録手続き用であり、ログイン時の追加認証ではない。二段階認証・認証アプリ・パスキーの設定案内は公式ヘルプにない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

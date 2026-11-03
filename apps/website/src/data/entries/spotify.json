@@ -2,11 +2,12 @@
   "name": "Spotify",
   "reading": "すぽてぃふぁい",
   "domain": "spotify.com",
-  "url": "https://www.spotify.com/",
-  "categories": ["music"],
+  "categories": [
+    "music"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support.spotify.com/jp/artists/article/setting-up-2-step-verification/",
+  "url": "https://www.spotify.com/",
   "notes": "一般リスナー向けアカウントには、利用者が設定できる二段階認証・認証アプリ・パスキーの案内が公式サポートにない。公式ページに「現時点で、2段階認証はSpotify for Artistsユーザーのみが利用できます」と明記されており、認証アプリ/SMSによる2段階認証はアーティスト・クリエイター向け（Spotify for Artists / Payouts）のみの提供。一般アカウントのログインはメールアドレス＋パスワード、またはGoogle・Facebook・Apple等の外部ID連携",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

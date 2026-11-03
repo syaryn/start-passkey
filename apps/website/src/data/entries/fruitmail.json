@@ -2,11 +2,12 @@
   "name": "フルーツメール",
   "reading": "ふるーつめーる",
   "domain": "fruitmail.net",
-  "url": "https://www.fruitmail.net/",
-  "categories": ["email"],
+  "categories": [
+    "email"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.fruitmail.net/p/?faq/point/q_05.html",
+  "url": "https://www.fruitmail.net/",
   "notes": "ログインはID＋パスワードのみ。ポイント交換時もログインパスワードの再入力で確認する方式で、SMS/メールコード・認証アプリ・パスキー等の追加認証は公式FAQに案内なし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

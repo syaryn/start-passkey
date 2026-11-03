@@ -2,11 +2,12 @@
   "name": "ディノス",
   "reading": "でぃのす",
   "domain": "dinos.co.jp",
-  "url": "https://www.dinos.co.jp/",
-  "categories": ["home"],
+  "categories": [
+    "home"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.dinos.co.jp/guide_s/member/regist/",
+  "url": "https://www.dinos.co.jp/",
   "notes": "ログインはメールアドレスまたはお客様番号（9桁）＋パスワード。楽天ID・LINEアカウントでの連携ログインも可能。公式ガイドに2段階認証、認証アプリ、パスキーの設定案内はなし。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

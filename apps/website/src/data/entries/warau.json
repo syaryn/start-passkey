@@ -2,11 +2,12 @@
   "name": "ワラウ",
   "reading": "わらう",
   "domain": "warau.jp",
-  "url": "https://www.warau.jp/",
-  "categories": ["points"],
+  "categories": [
+    "points"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.warau.jp/help/qa/1044/",
+  "url": "https://www.warau.jp/",
   "notes": "ログインはログインID（メールアドレス）＋パスワードのみで、ログイン時に使える追加認証の設定はない。ポイント交換時の不正防止として、電話認証（登録番号から専用番号へ発信するIVR方式）と秘密の質問による確認が使われるが、これらはポイント交換等の機微操作専用の認証であり、ログイン自体には使えないため本ディレクトリの基準では数えない。パスキー・認証アプリの案内はなし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

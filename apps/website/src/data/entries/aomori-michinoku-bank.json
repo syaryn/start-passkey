@@ -2,7 +2,9 @@
   "name": "青森みちのく銀行",
   "reading": "あおもりみちのくぎんこう",
   "domain": "am-bk.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.am-bk.co.jp/kojin/tsunaidenet/faq/",
   "url": "https://www.am-bk.co.jp/",

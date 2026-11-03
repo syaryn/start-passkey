@@ -2,11 +2,12 @@
   "name": "朝日ID（朝日新聞デジタル）",
   "reading": "あさひあいでぃー",
   "domain": "id.asahi.com",
-  "url": "https://www.asahi.com/",
-  "categories": ["media"],
+  "categories": [
+    "media"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://id.asahi.com/about",
+  "url": "https://www.asahi.com/",
   "notes": "公式のご利用方法・FAQでは、登録とログインはメールアドレスとパスワードのみ。パスキーや二段階認証の設定項目は公式情報に見当たらない。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

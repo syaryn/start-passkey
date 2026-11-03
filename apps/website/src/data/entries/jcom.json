@@ -2,7 +2,9 @@
   "name": "J:COM",
   "reading": "じぇいこむ",
   "domain": "jcom.co.jp",
-  "categories": ["utilities"],
+  "categories": [
+    "utilities"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.jcom.co.jp/catv-service/cs/personal-id/login-steps/",
   "url": "https://www.jcom.co.jp/",

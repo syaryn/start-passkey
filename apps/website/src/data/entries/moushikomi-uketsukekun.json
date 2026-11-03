@@ -2,11 +2,12 @@
   "name": "申込受付くん",
   "reading": "もうしこみうけつけくん",
   "domain": "moushikomi-uketsukekun.com",
-  "url": "https://moushikomi-uketsukekun.com/",
-  "categories": ["lifestyle"],
+  "categories": [
+    "lifestyle"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://itandi-accounts.com/login?client_id=moushikomi_uketsukekun",
+  "url": "https://moushikomi-uketsukekun.com/",
   "notes": "イタンジの入居申込システム。2回目以降のログインはメールアドレス＋パスワードのみ。初回の代表電話認証はアカウント作成時の手続きであり、ログイン時の二要素認証ではない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

@@ -2,7 +2,10 @@
   "name": "バンダイナムコID",
   "reading": "ばんだいなむこあいでぃー",
   "domain": "bandainamcoid.com",
-  "categories": ["gaming", "entertainment"],
+  "categories": [
+    "gaming",
+    "entertainment"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.bandainamcoid.com/portal/info?mode=detail&id=1207",
   "url": "https://www.bandainamcoid.com/",
@@ -11,37 +14,5 @@
   "documentationUrl": "https://bnfaq.channel.or.jp/faq/detail/3124/8993",
   "passkey": {
     "passwordless": "allowed"
-  },
-  "delegatedServices": [
-    {
-      "name": "一番くじオンライン",
-      "reading": "いちばんくじおんらいん",
-      "sourceUrl": "https://on-line.1kuji.com/Form/Login.aspx",
-      "sourceNote": "公式ログインページに「バンダイナムコIDをお持ちの方はこちらからログイン」"
-    },
-    {
-      "name": "一番くじ倶楽部",
-      "reading": "いちばんくじくらぶ",
-      "sourceUrl": "https://1kuji.com/home/membership",
-      "sourceNote": "公式登録案内「一番くじ倶楽部新規会員登録にはバンダイナムコIDが必要」"
-    },
-    {
-      "name": "ガンダムVS.モバイル",
-      "reading": "がんだむばーさすもばいる",
-      "sourceUrl": "https://web.vsmobile.jp/exvs2ib/help/mobile/regist/main/index",
-      "sourceNote": "公式ヘルプ「会員登録にはバンダイナムコIDの登録が必須」"
-    },
-    {
-      "name": "プレミアムバンダイ",
-      "reading": "ぷれみあむばんだい",
-      "sourceUrl": "https://www.bandainamcoid.com/portal/serviceSearch",
-      "sourceNote": "バンダイナムコID公式の対応サービス一覧にプレミアムバンダイが掲載"
-    },
-    {
-      "name": "バナパスポート",
-      "reading": "ばなぱすぽーと",
-      "sourceUrl": "https://www.bandainamcoid.com/banapassport/en/faq",
-      "sourceNote": "公式FAQ「A BandaiNamcoID is required to use the Bandai Namco Passport service」"
-    }
-  ]
+  }
 }

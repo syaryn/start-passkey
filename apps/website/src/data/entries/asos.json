@@ -2,11 +2,12 @@
   "name": "ASOS",
   "reading": "えいそす",
   "domain": "asos.com",
-  "url": "https://www.asos.com/",
-  "categories": ["fashion"],
+  "categories": [
+    "fashion"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.asos.com/au/customer-care/technical/can-you-help-me-with-my-asos-account/",
+  "url": "https://www.asos.com/",
   "notes": "ログインはメールアドレス＋パスワード、またはApple・Facebook・Google連携のみ。公式カスタマーケアのアカウント案内（パスワード変更・リセット、ソーシャル連携）に二要素認証・パスキー・認証アプリの設定項目はない。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

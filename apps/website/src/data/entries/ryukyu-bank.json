@@ -2,7 +2,9 @@
   "name": "琉球銀行",
   "reading": "りゅうきゅうぎんこう",
   "domain": "ryugin.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.ryugin.co.jp/service/app-internet_banking/internet-banking/security/pc/",
   "url": "https://www.ryugin.co.jp/",

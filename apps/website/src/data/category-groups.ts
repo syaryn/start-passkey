@@ -49,15 +49,7 @@ export const CATEGORY_GROUPS: readonly CategoryGroup[] = [
   },
   {
     label: "エンタメ",
-    slugs: [
-      "streaming",
-      "music",
-      "cinema",
-      "tickets",
-      "gaming",
-      "entertainment",
-      "gambling",
-    ],
+    slugs: ["streaming", "music", "cinema", "tickets", "gaming", "entertainment", "gambling"],
   },
   {
     label: "メディア",

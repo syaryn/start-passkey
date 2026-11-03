@@ -2,7 +2,9 @@
   "name": "アプラス（My APLUS）",
   "reading": "あぷらす",
   "domain": "aplus.co.jp",
-  "categories": ["payments"],
+  "categories": [
+    "payments"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.aplus.co.jp/creditcard/netstation/myaplus/",
   "url": "https://www.aplus.co.jp/",

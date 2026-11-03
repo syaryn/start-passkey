@@ -2,7 +2,9 @@
   "name": "登記情報提供サービス",
   "reading": "とうきじょうほうていきょうさーびす",
   "domain": "touki.or.jp",
-  "categories": ["government"],
+  "categories": [
+    "government"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www1.touki.or.jp/operate/",
   "url": "https://www1.touki.or.jp/",

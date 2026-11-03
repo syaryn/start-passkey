@@ -2,7 +2,9 @@
   "name": "CAPCOM ID",
   "reading": "かぷこんあいでぃー",
   "domain": "cid.capcom.com",
-  "categories": ["gaming"],
+  "categories": [
+    "gaming"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://cid.capcom.com/ja/support/",
   "url": "https://cid.capcom.com/ja/",

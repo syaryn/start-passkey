@@ -2,7 +2,9 @@
   "name": "マネックス証券",
   "reading": "まねっくすしょうけん",
   "domain": "monex.co.jp",
-  "categories": ["investing"],
+  "categories": [
+    "investing"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://info.monex.co.jp/news/2026/20260625_01.html",
   "url": "https://www.monex.co.jp/",

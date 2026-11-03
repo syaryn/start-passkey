@@ -2,11 +2,12 @@
   "name": "ティップネス（iTIPNESS）",
   "reading": "てぃっぷねす",
   "domain": "i.tipness.co.jp",
-  "url": "https://i.tipness.co.jp",
-  "categories": ["fitness"],
+  "categories": [
+    "fitness"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://faq-tipness.dga.jp/customer/faq_detail.html?id=10016",
+  "url": "https://i.tipness.co.jp",
   "notes": "会員専用サイトiTIPNESSのログインはメールアドレス＋パスワードのみ（従来の会員番号＋電話番号＋生年月日によるログインは廃止されメールアドレス方式に一本化）。公式FAQ・お知らせに二段階認証・認証アプリ・パスキーの設定案内はない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

@@ -2,12 +2,13 @@
   "name": "ルナルナ",
   "reading": "るなるな",
   "domain": "lnln.jp",
-  "url": "https://lnln.jp/",
-  "categories": ["points"],
+  "categories": [
+    "points"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://sp.lnln.jp/knowledge/create_lunaid",
+  "url": "https://lnln.jp/",
   "notes": "ログインはルナルナID（メールアドレス）＋パスワードに加え、公式案内でログイン時に登録メールアドレス宛の「認証メール」による確認が必要と明記されている（キャリアメール登録時は受信できないとログイン不可になる旨の注意あり）。認証アプリ・パスキーの案内なし",
-  "delegatedServices": [],
   "recommendation": "code",
   "documentationUrl": "https://sp.lnln.jp/knowledge/create_lunaid"
 }

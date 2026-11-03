@@ -2,10 +2,12 @@
   "name": "みずほ銀行（みずほダイレクト）",
   "reading": "みずほぎんこう（みずほだいれくと）",
   "domain": "mizuhobank.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.mizuhobank.co.jp/direct/security/index.html",
-  "url": "https://www.mizuhobank.co.jp/direct/index.html",
+  "url": "https://www.mizuhobank.co.jp",
   "notes": "パスキー（FIDO）はなし。振込等の取引認証は、公式アプリ「ご利用カード（アプリ版）」が発行する取引ごとに変わる第2暗証番号が中心。ほかにワンタイムパスワードカード（ハードウェアトークン）とメール方式ワンタイムパスワード（認証用暗証番号）がある。アプリの生体認証は端末内に保存したパスワードの代替（規定明記）で、FIDOパスキーではない",
   "recommendation": "authenticator",
   "documentationUrl": "https://www.mizuhobank.co.jp/direct/information2024/index.html"

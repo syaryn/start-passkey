@@ -2,12 +2,13 @@
   "name": "DMMアカウント",
   "reading": "でぃーえむえむあかうんと",
   "domain": "dmm.com",
-  "url": "https://www.dmm.com/",
-  "categories": ["gaming"],
+  "categories": [
+    "gaming"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://support.dmm.com/accounts/article/46824",
+  "url": "https://www.dmm.com/",
   "notes": "2段階認証は認証アプリ（Google Authenticator、iPhone標準のパスワード機能等）が生成する認証コード方式。公式ヘルプにパスキーの案内はない（「パスキー」検索0件）",
-  "delegatedServices": [],
   "recommendation": "authenticator",
   "documentationUrl": "https://support.dmm.com/accounts/article/46824"
 }

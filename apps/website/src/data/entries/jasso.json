@@ -2,7 +2,9 @@
   "name": "日本学生支援機構（スカラネット・パーソナル）",
   "reading": "にほんがくせいしえんきこう",
   "domain": "scholar-ps.sas.jasso.go.jp",
-  "categories": ["government"],
+  "categories": [
+    "government"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.jasso.go.jp/shogakukin/oyakudachi/sukara_ps/edit.html",
   "url": "https://www.jasso.go.jp/",

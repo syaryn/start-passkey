@@ -2,7 +2,9 @@
   "name": "auじぶん銀行",
   "reading": "えーゆーじぶんぎんこう",
   "domain": "jibunbank.co.jp",
-  "categories": ["banking"],
+  "categories": [
+    "banking"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.jibunbank.co.jp/help/login_guide/",
   "url": "https://www.jibunbank.co.jp/",

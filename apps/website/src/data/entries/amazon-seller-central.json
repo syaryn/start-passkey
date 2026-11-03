@@ -2,12 +2,13 @@
   "name": "Amazon セラーセントラル",
   "reading": "あまぞんせらーせんとらる",
   "domain": "sellercentral.amazon.co.jp",
-  "url": "https://sellercentral.amazon.co.jp/",
-  "categories": ["developer"],
+  "categories": [
+    "developer"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://sellercentral.amazon.co.jp/gp/help/external/202153510",
+  "url": "https://sellercentral.amazon.co.jp/",
   "notes": "出品者アカウント専用のエントリ（消費者向けAmazonアカウントとは別）。公式FAQにより、セラーセントラルの全ユーザーに2段階認証の有効化が必須。コードの受け取り手段としてSMS・音声通話のほか認証アプリ（TOTP）を登録でき、認証アプリを第1手段にできるためauthenticatorに分類。パスキーによるサインインはセラーセントラル公式ヘルプでは案内されていない。",
-  "delegatedServices": [],
   "recommendation": "authenticator",
   "documentationUrl": "https://sellercentral.amazon.co.jp/help/hub/reference/external/G202110780"
 }

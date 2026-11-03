@@ -2,11 +2,12 @@
   "name": "すき家",
   "reading": "すきや",
   "domain": "sukiya.jp",
-  "url": "https://www.sukiya.jp/",
-  "categories": ["food"],
+  "categories": [
+    "food"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://netstore.zensho.co.jp/shop/customer/menu.aspx",
+  "url": "https://www.sukiya.jp/",
   "notes": "すき家公式アプリ/モバイル会員のログインはメールアドレス＋パスワード。ゼンショーネットストア（グループ公式通販）もメールアドレス＋パスワードで、ゼンショーグループ共通の二段階認証・パスキー基盤は公式情報で確認できなかった",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

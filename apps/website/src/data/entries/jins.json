@@ -2,11 +2,12 @@
   "name": "JINS",
   "reading": "じんず",
   "domain": "jins.com",
-  "url": "https://www.jins.com/jp/",
-  "categories": ["fashion"],
+  "categories": [
+    "fashion"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.jins.com/jp/guide/member/online_registration.html",
+  "url": "https://www.jins.com/jp/",
   "notes": "JINSアカウントのログインはメールアドレス＋パスワードのみ。LINE・Apple・楽天会員ID等の外部アカウントと連携した登録・ログインも可能だが、その場合の追加認証は連携先ID側の仕様による。二段階認証・認証アプリ・パスキーの設定案内は公式ガイド・FAQになし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

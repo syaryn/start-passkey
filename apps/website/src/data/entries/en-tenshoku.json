@@ -2,11 +2,12 @@
   "name": "エン転職",
   "reading": "えんてんしょく",
   "domain": "employment.en-japan.com",
-  "url": "https://employment.en-japan.com/",
-  "categories": ["jobs"],
+  "categories": [
+    "jobs"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://employment.en-japan.com/qa_48_6010/",
+  "url": "https://employment.en-japan.com/",
   "notes": "ログインは会員ID（メールアドレス）＋パスワード。Facebook・Googleアカウントでのソーシャルログインも可。パスキー・認証アプリ・コードによるログイン用追加認証の設定案内は公式Q&Aになし",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

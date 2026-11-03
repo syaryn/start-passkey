@@ -2,11 +2,12 @@
   "name": "ベネッセ",
   "reading": "べねっせ",
   "domain": "benesse.co.jp",
-  "url": "https://www.benesse.co.jp/",
-  "categories": ["education"],
+  "categories": [
+    "education"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.benesse.co.jp/member/guide/",
+  "url": "https://www.benesse.co.jp/",
   "notes": "ログインは会員番号（ログインID）＋パスワード。サービスにより進研ゼミ等の「会員番号」と、Classi・マナビジョン等の「ベネッセID（SASSIで始まるID）」に分かれるが、いずれもID＋パスワードのみで、パスキー・2段階認証・認証アプリの公式案内は見当たらない",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

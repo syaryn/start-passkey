@@ -2,11 +2,12 @@
   "name": "調整さん",
   "reading": "ちょうせいさん",
   "domain": "chouseisan.com",
-  "url": "https://chouseisan.com/",
-  "categories": ["lifestyle"],
+  "categories": [
+    "lifestyle"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://chouseisan.com/l/post-132307/",
+  "url": "https://chouseisan.com/",
   "notes": "会員ログインはメールアドレス＋パスワード、またはGoogleアカウント／Appleアカウント連携。公式の会員登録・ログイン案内に二段階認証やパスキーの設定はない（イベント回答自体はログイン不要）。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

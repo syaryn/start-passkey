@@ -2,7 +2,9 @@
   "name": "三菱UFJ eスマート証券",
   "reading": "みつびしゆーえふじぇいいーすまーとしょうけん",
   "domain": "kabu.com",
-  "categories": ["investing"],
+  "categories": [
+    "investing"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://kabu.com/support/security/passkey.html",
   "url": "https://kabu.com/",

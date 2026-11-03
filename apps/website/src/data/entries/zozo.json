@@ -2,11 +2,12 @@
   "name": "ZOZOTOWN",
   "reading": "ぞぞたうん",
   "domain": "zozo.jp",
-  "url": "https://zozo.jp/",
-  "categories": ["fashion"],
+  "categories": [
+    "fashion"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://wear.jp/help/43846231720345/",
+  "url": "https://zozo.jp/",
   "notes": "ZOZO ID（メールアドレス）＋パスワードでログイン。WebではYahoo! JAPAN ID等の外部IDログインも可能。公式情報でパスキー・二要素認証・認証アプリの設定は確認できなかった。",
-  "delegatedServices": [],
   "recommendation": "password-only"
 }

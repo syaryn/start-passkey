@@ -2,7 +2,9 @@
   "name": "登記・供託オンライン申請システム",
   "reading": "とうききょうたくおんらいんしんせいしすてむ",
   "domain": "touki-kyoutaku-online.moj.go.jp",
-  "categories": ["government"],
+  "categories": [
+    "government"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.touki-kyoutaku-online.moj.go.jp/mtouki/assets/contents/shinseisha.html",
   "url": "https://www.touki-kyoutaku-online.moj.go.jp/",

@@ -2,7 +2,9 @@
   "name": "野村證券",
   "reading": "のむらしょうけん",
   "domain": "nomura.co.jp",
-  "categories": ["investing"],
+  "categories": [
+    "investing"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://www.nomura.co.jp/onlineservice/help/common/auth_passkey.html",
   "url": "https://www.nomura.co.jp/",

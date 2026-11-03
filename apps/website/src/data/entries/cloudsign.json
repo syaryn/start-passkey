@@ -2,12 +2,13 @@
   "name": "クラウドサイン",
   "reading": "くらうどさいん",
   "domain": "cloudsign.jp",
-  "url": "https://www.cloudsign.jp/",
-  "categories": ["esign"],
+  "categories": [
+    "esign"
+  ],
   "verifiedOn": "2026-11-01",
   "verifiedUrl": "https://help.cloudsign.jp/ja/articles/3279982",
+  "url": "https://www.cloudsign.jp/",
   "notes": "ログインの2要素認証はGoogle認証システム（Google Authenticator）のTOTP方式。デフォルトは任意設定で、チーム管理者は有料プランで全メンバー必須にできる。ビジネスプラン以上でSSOを利用中の場合は2要素認証を利用できない。パスキーの案内は公式情報になし。",
-  "delegatedServices": [],
   "recommendation": "authenticator",
   "documentationUrl": "https://help.cloudsign.jp/ja/articles/3279982"
 }
