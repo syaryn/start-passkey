@@ -7,14 +7,14 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "test": "vitest run",
+    "test": "vp test",
     "deploy": "wrangler deploy",
     "check": "astro check",
     "diagrams": "for f in diagrams/*.d2; do d2 --layout=tala \"$f\" \"public/diagrams/$(basename \"${f%.d2}\").svg\"; done"
   },
   "dependencies": {
     "@astrojs/sitemap": "catalog:",
-    "astro": "^5.16.0"
+    "astro": "^7.3.3"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.6",
@@ -23,7 +23,7 @@
     "@unocss/preset-icons": "catalog:",
     "typescript": "^7.0.2",
     "unocss": "^66.5.12",
-    "vitest": "^3.2.4",
+    "vite-plus": "catalog:",
     "wrangler": "^4.45.0"
   }
 }
