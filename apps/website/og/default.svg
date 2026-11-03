@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="'Noto Sans CJK JP','Noto Sans JP','Hiragino Kaku Gothic ProN','Yu Gothic',sans-serif">
+  <rect x="0" y="0" width="1200" height="630" fill="#FFFFFF"/>
+  <g transform="translate(80 165) scale(4.6875)">
+    <rect x="2" y="2" width="60" height="60" rx="14" fill="#4f46e5"/>
+    <g transform="translate(2 0)">
+      <path fill="#ffffff" fill-rule="evenodd" d="m 16,6 h 18 c 7.179707,0 12.999994,5.820298 12.999994,13 0,7.179702 -5.820287,13 -12.999994,13 h -8 v 3 L 40,35 L 26,47 v 2 L 38.83,60 L 26,60 H 16 Z m 10,8.5 h 6.5 c 2.623354,0 4.749998,2.126647 4.749998,4.75 0,2.623353 -2.126644,4.75 -4.749998,4.75 H 26 Z"/>
+      <path d="M 18.35,37.8 V 58.2 M 30.25,37.8 L 18.35,48 L 30.25,58.2" fill="none" stroke="#fbbf24" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <text x="440" y="292" font-size="84" font-weight="bold" fill="#0A0F25">そしてパスキーへ</text>
+  <text x="440" y="378" font-size="42" font-weight="bold" fill="#0D32B2">パスキー・二段階認証の対応一覧</text>
+  <text x="440" y="452" font-size="27" fill="#676C7E">パスワードだけのログインを、対応しているサービスから</text>
+  <text x="440" y="492" font-size="27" fill="#676C7E">設定し直すための一覧です</text>
+</svg>
