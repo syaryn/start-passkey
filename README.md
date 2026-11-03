@@ -62,7 +62,7 @@ OGP 画像は `apps/website/og/default.svg` から書き出した `apps/website/
 
 ## デプロイ
 
-Cloudflare Workers の静的アセットとして配信します（Worker 名は pkmfa、設定は `apps/website/wrangler.jsonc`）。
+Cloudflare Workers の静的アセットとして配信します（Worker 名は syaryn、設定は `apps/website/wrangler.jsonc`）。
 
 ```bash
 pnpm --filter website build
