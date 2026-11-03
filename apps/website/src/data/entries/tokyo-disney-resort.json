@@ -9,6 +9,20 @@
   "verifiedUrl": "https://faq.tokyodisneyresort.jp/answer/67eaa6447605a4cb7775bcf6/",
   "url": "https://www.tokyodisneyresort.jp/",
   "notes": "東京ディズニーリゾートの予約・購入等に使う共通アカウント「MyDisney（マイディズニー）アカウント」。通常はメールアドレスとパスワードでログインするが、「ログインできない場合」に登録メールアドレス宛へ送られる6桁のワンタイムパスコード（15分有効）でログインすることもできる（公式FAQ）。パスキーや認証アプリ（TOTP）の設定は公式情報で確認できなかった。",
+  "delegatedServices": [
+    {
+      "name": "ディズニーストア",
+      "reading": "でぃずにーすとあ",
+      "sourceUrl": "https://store.disney.co.jp/others/terms-of-use.html",
+      "sourceNote": "公式利用規約にMyDisneyアカウント登録のうえ本サイトで利用と明記"
+    },
+    {
+      "name": "Disney+",
+      "reading": "でぃずにーぷらす",
+      "sourceUrl": "https://www.disney.co.jp/onlinehelp/membership",
+      "sourceNote": "公式ヘルプ「MyDisneyアカウントはディズニーの各種サービスのご利用に必要」でDisney+を列挙"
+    }
+  ],
   "recommendation": "code",
   "documentationUrl": "https://www.disney.co.jp/onlinehelp/faqs"
 }

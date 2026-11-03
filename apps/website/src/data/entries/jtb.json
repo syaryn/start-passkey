@@ -9,5 +9,13 @@
   "verifiedUrl": "https://faq.jtb.co.jp/faqs/w10004/",
   "url": "https://www.jtb.co.jp/",
   "notes": "MyJTBへのログインはID＋パスワード、またはメールアドレス＋パスワードのみ。パスキー・2段階認証・認証アプリの公式案内は見当たらない。なお事業者向けのJTB BOKUNには認証アプリによる2段階認証があるが、消費者向け会員とは別サービスのため対象外",
+  "delegatedServices": [
+    {
+      "name": "るるぶトラベル",
+      "reading": "るるぶとらべる",
+      "sourceUrl": "https://www.rurubu.travel/theme/pointup/",
+      "sourceNote": "るるぶトラベル公式「JTBトラベルポイントの獲得には『JTBトラベルメンバー』への会員登録が必要（ログインを前提）」"
+    }
+  ],
   "recommendation": "password-only"
 }

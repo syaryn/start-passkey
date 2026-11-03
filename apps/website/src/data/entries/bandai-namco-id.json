@@ -10,6 +10,38 @@
   "verifiedUrl": "https://www.bandainamcoid.com/portal/info?mode=detail&id=1207",
   "url": "https://www.bandainamcoid.com/",
   "notes": "バンダイナムコグループの共通ID基盤（プレミアムバンダイ、一番くじオンライン、バナパスポート等が利用）。パスキーを導入済みで、アカウント設定の「プライバシーとセキュリティ＞パスキー設定」から任意で作成でき、指紋・顔認証や画面ロックでパスワード不要のログインが可能（1IDにつき最大5件まで登録可）。設定後もパスワードや外部SNS連携によるログインは併用できる。パスキーのみの新規ID作成は不可",
+  "delegatedServices": [
+    {
+      "name": "一番くじオンライン",
+      "reading": "いちばんくじおんらいん",
+      "sourceUrl": "https://on-line.1kuji.com/Form/Login.aspx",
+      "sourceNote": "公式ログインページに「バンダイナムコIDをお持ちの方はこちらからログイン」"
+    },
+    {
+      "name": "一番くじ倶楽部",
+      "reading": "いちばんくじくらぶ",
+      "sourceUrl": "https://1kuji.com/home/membership",
+      "sourceNote": "公式登録案内「一番くじ倶楽部新規会員登録にはバンダイナムコIDが必要」"
+    },
+    {
+      "name": "ガンダムVS.モバイル",
+      "reading": "がんだむばーさすもばいる",
+      "sourceUrl": "https://web.vsmobile.jp/exvs2ib/help/mobile/regist/main/index",
+      "sourceNote": "公式ヘルプ「会員登録にはバンダイナムコIDの登録が必須」"
+    },
+    {
+      "name": "プレミアムバンダイ",
+      "reading": "ぷれみあむばんだい",
+      "sourceUrl": "https://www.bandainamcoid.com/portal/serviceSearch",
+      "sourceNote": "バンダイナムコID公式の対応サービス一覧にプレミアムバンダイが掲載"
+    },
+    {
+      "name": "バナパスポート",
+      "reading": "ばなぱすぽーと",
+      "sourceUrl": "https://www.bandainamcoid.com/banapassport/en/faq",
+      "sourceNote": "公式FAQ「A BandaiNamcoID is required to use the Bandai Namco Passport service」"
+    }
+  ],
   "recommendation": "passkey",
   "documentationUrl": "https://bnfaq.channel.or.jp/faq/detail/3124/8993",
   "passkey": {

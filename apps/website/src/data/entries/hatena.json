@@ -9,6 +9,14 @@
   "verifiedUrl": "https://hatena.co.jp/press/release/entry/2024/03/25/120000",
   "url": "https://accounts.hatena.ne.jp",
   "notes": "はてなブックマーク等のはてな各サービス共通ID。パスキーはパスワードレスのログイン用に設定可能。別途、パスワード＋認証アプリ（Google Authenticator等）のTOTPによる多要素認証も設定できる。",
+  "delegatedServices": [
+    {
+      "name": "はてなブックマーク",
+      "reading": "はてなぶっくまーく",
+      "sourceUrl": "https://b.hatena.ne.jp/help/entry/faq",
+      "sourceNote": "公式ヘルプFAQ「はてなブックマークを利用するにははてなのユーザーアカウントが必要です」"
+    }
+  ],
   "recommendation": "passkey",
   "documentationUrl": "https://hatena.zendesk.com/hc/ja/articles/29891975697177-%E3%83%91%E3%82%B9%E3%82%AD%E3%83%BC%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95",
   "passkey": {

@@ -9,6 +9,32 @@
   "verifiedUrl": "https://id.smt.docomo.ne.jp/src/index.html",
   "url": "https://id.smt.docomo.ne.jp/",
   "notes": "「パスキー端末設定」で端末にパスキーを登録すると、生体認証・画面ロックでパスワードなしログインが可能（パスワードの代替であり、パスワード後の第2要素ではない）。「いつもパスキー設定」でパスワード認証を無効化しパスキーのみにもできる。パスキー未設定時はID/パスワード＋2段階認証（SMS/メールのセキュリティコード）が利用される。2026年4月にdアカウント設定アプリのプッシュ通知認証は終了しパスキーへ統一",
+  "delegatedServices": [
+    {
+      "name": "ahamo",
+      "reading": "あはも",
+      "sourceUrl": "https://faq.ahamo.com/faq/show/2065?category_id=13&site_domain=default",
+      "sourceNote": "公式FAQ「ahamoアプリへのログインには、申し込み時に登録したdアカウント、または4桁のネットワーク暗証番号が必要です」"
+    },
+    {
+      "name": "Lemino",
+      "reading": "れみの",
+      "sourceUrl": "https://lemino.docomo.ne.jp/leminonews/articles/1081763596741902337",
+      "sourceNote": "公式サイトのログイン手順で「dアカウントでログイン」と明記"
+    },
+    {
+      "name": "スゴ得コンテンツ",
+      "reading": "すごとくこんてんつ",
+      "sourceUrl": "https://www.sugotoku.docomo.ne.jp/cs/faq.html",
+      "sourceNote": "公式FAQで「別のdアカウントでログインする」とログインが案内されている（現・dバリューパス）"
+    },
+    {
+      "name": "dアニメストア",
+      "reading": "でぃーあにめすとあ",
+      "sourceUrl": "https://animestore.docomo.ne.jp/animestore/tp_pc",
+      "sourceNote": "公式トップに「dアカウントでログイン」の導線を明示"
+    }
+  ],
   "recommendation": "passkey",
   "documentationUrl": "https://id.smt.docomo.ne.jp/src/utility/passwordless_flow_web.html",
   "passkey": {
