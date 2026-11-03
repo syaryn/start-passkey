@@ -11,6 +11,10 @@ export const GUIDE_LINKS = [
   { href: "/guide/authenticator/", label: "認証アプリで強化する" },
   { href: "/guide/sms-email/", label: "SMS・メールコードの注意" },
   { href: "/guide/password-only/", label: "未対応・パスワードのみのとき" },
+  { href: "/guide/password-basics/", label: "パスワードの作り方と管理" },
+  { href: "/guide/troubleshooting/", label: "困ったとき" },
+  { href: "/guide/status/", label: "掲載データで見る対応状況" },
+  { href: "/guide/glossary/", label: "用語集" },
 ] as const;
 
 export const POLICY_LINKS = [
