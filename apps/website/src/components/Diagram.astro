@@ -9,7 +9,10 @@ const { src, alt, caption } = Astro.props;
 ---
 
 <figure>
-  <img src={src} alt={alt} class="dads-diagram" loading="lazy" decoding="async" />
+  <a href={src} class="dads-diagram-link" aria-label="図を拡大表示する">
+    <img src={src} alt={alt} class="dads-diagram" loading="lazy" decoding="async" />
+  </a>
+  <p class="dads-std-14n-170 dads-text-secondary dads-diagram-hint">図を選択すると、大きく表示されます</p>
   {
     caption ? (
       <figcaption class="dads-std-14n-170 dads-text-secondary" style="margin-top: 0.5rem; text-align: center;">

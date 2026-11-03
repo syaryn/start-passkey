@@ -360,6 +360,18 @@ video {
   border-radius: var(--dads-radius-md);
 }
 
+/* 横スクロールになる狭幅でのみ、スクロール可能であることを示す */
+.dads-table-scroll-hint {
+  display: none;
+}
+
+@media (max-width: 48rem) {
+  .dads-table-scroll-hint {
+    display: block;
+    margin: 0 0 0.5rem;
+  }
+}
+
 .dads-table--listing {
   table-layout: fixed;
   width: 100%;
@@ -749,6 +761,23 @@ video {
   font-size: 0.875rem;
 }
 
+/* 狭幅では比較表を縦積みにし、パスワード→パスキーの順に読めるようにする */
+@media (max-width: 40rem) {
+  .dads-compare thead,
+  .dads-compare tbody,
+  .dads-compare tr,
+  .dads-compare th,
+  .dads-compare td {
+    display: block;
+    width: 100%;
+  }
+
+  .dads-compare .dads-compare-weak,
+  .dads-compare .dads-compare-strong {
+    width: 100%;
+  }
+}
+
 .dads-chip-label-passkey {
   background-color: var(--dads-green-50);
   color: var(--dads-green-800);
@@ -986,14 +1015,25 @@ video {
   background-color: var(--dads-surface);
 }
 
+.dads-diagram-link {
+  display: block;
+}
+
+.dads-diagram-hint {
+  margin: 0.5rem 0 0;
+  text-align: center;
+}
+
+/* 図はライト配色の SVG のため、ダーク時は白いカードとして明示する */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) .dads-diagram {
-    /* 図自体はライト配色の SVG のため、暗背景で縁だけサイトトーンに合わせる */
+    background-color: #ffffff;
     box-shadow: inset 0 0 0 1px var(--dads-gray-200);
   }
 }
 
 :root[data-theme="dark"] .dads-diagram {
+  background-color: #ffffff;
   box-shadow: inset 0 0 0 1px var(--dads-gray-200);
 }
 
