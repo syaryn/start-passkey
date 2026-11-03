@@ -19,7 +19,7 @@ export default defineConfig({
   build: {
     format: "directory",
   },
-  site: "https://example.com",
+  site: "https://topasskey.com",
   redirects: {
     "/guide/": "/sitemap/",
   },
