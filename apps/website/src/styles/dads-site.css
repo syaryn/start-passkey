@@ -1,8 +1,10 @@
 :root {
-  --dads-layout-max: 96rem;
-  /* ガイド・ポリシー等の本文幅（旧 42rem は図が小さすぎたためレイアウトに合わせる） */
-  --dads-prose-max: var(--dads-layout-max);
-  --dads-search-max: 56rem;
+  /* DADS layout: page max 1280px, content max 1120px (design.digital.go.jp/dads/foundations/layout/) */
+  --dads-layout-max: 80rem;
+  --dads-content-max: 70rem;
+  --dads-prose-max: var(--dads-content-max);
+  /* 検索欄はコンテンツ幅内でやや狭く */
+  --dads-search-max: min(100%, var(--dads-content-max));
 }
 
 /* Site shell & content patterns aligned with DADS layout / link-text guidance */

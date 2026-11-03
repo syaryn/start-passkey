@@ -20,5 +20,8 @@ export default defineConfig({
     format: "directory",
   },
   site: "https://example.com",
+  redirects: {
+    "/guide/": "/sitemap/",
+  },
   integrations: [UnoCSS({ injectReset: false }), sitemap()],
 });

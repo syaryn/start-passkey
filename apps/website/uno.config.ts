@@ -14,7 +14,8 @@ export default defineConfig({
     }),
   ],
   shortcuts: {
-    container: "max-w-5xl mx-auto w-full",
+    /* DADS content max 1120px (70rem @ 16px) */
+    container: "max-w-[70rem] mx-auto w-full",
     "mb-section": "mb-8",
   },
 });

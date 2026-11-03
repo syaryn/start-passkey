@@ -41,7 +41,7 @@ const { title, description = DEFAULT_DESCRIPTION } = Astro.props;
           <nav class="dads-site-nav" aria-label="メイン">
             <ul>
               <li>
-                <a href="/guide/">ガイド</a>
+                <a href="/sitemap/#guide">ガイド</a>
               </li>
               <li>
                 <a href="/faq/">FAQ</a>
@@ -67,7 +67,7 @@ const { title, description = DEFAULT_DESCRIPTION } = Astro.props;
         </p>
         <nav aria-label="フッター" class="dads-site-footer-grid">
           <div>
-            <p class="dads-site-footer-heading">認証の解説</p>
+            <p class="dads-site-footer-heading">認証のしくみについて</p>
             <ul>
               {
                 AUTH_GUIDE_LINKS.map((link) => (
@@ -88,9 +88,6 @@ const { title, description = DEFAULT_DESCRIPTION } = Astro.props;
                   </li>
                 ))
               }
-              <li>
-                <a href="/guide/">すべてのガイド</a>
-              </li>
             </ul>
           </div>
           <div>
