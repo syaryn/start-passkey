@@ -9,5 +9,31 @@
   "verifiedUrl": "https://www.mapcamera.com/html/qanda/index10.html",
   "url": "https://www.mapcamera.com/",
   "notes": "ログインはメールアドレス＋パスワードのみ。アカウントはシュッピン株式会社の共通基盤で、MAPCAMERA・GMT・KINGDOMNOTE・CROWNGEARS・BRILLERで共通。買取注文時の本人確認（運転免許証の撮影等）は買取手続き用でありログイン認証ではない。二段階認証・認証アプリ・パスキーの案内なし",
+  "delegatedServices": [
+    {
+      "name": "GMT",
+      "reading": "じーえむてぃー",
+      "sourceUrl": "https://www.mapcamera.com/html/pointprogram/index.html",
+      "sourceNote": "マップカメラ公式: シュッピン運営ECの共通ポイント/会員基盤（公式リリースでMap Camera・GMT・BRILLER・KINGDOM NOTE・CROWN GEARSを専門店群として一体に案内）。同一IDログインの一文での明示はない"
+    },
+    {
+      "name": "KINGDOMNOTE",
+      "reading": "きんぐだむのーと",
+      "sourceUrl": "https://www.mapcamera.com/html/pointprogram/index.html",
+      "sourceNote": "同上（シュッピン共通基盤）"
+    },
+    {
+      "name": "CROWNGEARS",
+      "reading": "くらうんぎあーず",
+      "sourceUrl": "https://www.mapcamera.com/html/pointprogram/index.html",
+      "sourceNote": "同上（シュッピン共通基盤）"
+    },
+    {
+      "name": "BRILLER",
+      "reading": "ぶりえ",
+      "sourceUrl": "https://www.mapcamera.com/html/pointprogram/index.html",
+      "sourceNote": "同上（シュッピン共通基盤）"
+    }
+  ],
   "recommendation": "password-only"
 }

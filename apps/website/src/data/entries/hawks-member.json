@@ -9,5 +9,13 @@
   "verifiedUrl": "https://www.softbankhawksstore.jp/login?nextPathname=%2Faccount&utm_source=md_Instagram_story&utm_medium=social&utm_campaign=2026-10-23leagueVgoods2026",
   "url": "https://www.softbankhawks.co.jp/",
   "notes": "福岡ソフトバンクホークスの共通会員基盤（クラブホークス会員／タカポイント会員）。ログインはメールアドレスまたは会員番号＋パスワードのみで、公式ストアのログイン画面でもその2項目のみが示されている。パスキー・認証アプリ・SMS/メールコードなどログイン時に使える追加認証の公式案内はない。タカコレ、公式チケットサイト（タカチケット）、公式ストア、会員マイページ等がこの基盤を使う",
+  "delegatedServices": [
+    {
+      "name": "タカチケット",
+      "reading": "たかちけっと",
+      "sourceUrl": "http://www.softbankhawks.co.jp/news/detail/202601109078.html",
+      "sourceNote": "ホークス公式「タカチケットご利用の際は、タカポイント会員（無料）への登録が必要です」"
+    }
+  ],
   "recommendation": "password-only"
 }

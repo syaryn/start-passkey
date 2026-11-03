@@ -9,6 +9,14 @@
   "verifiedUrl": "https://www.post.japanpost.jp/newsrelease/pressrelease/4481904267.html",
   "url": "https://mypage.jpid.pf.japanpost.jp/",
   "notes": "パスキーは利用規約上「パスワードの代わりに使用する認証機能」と定義され、設定後もID/パスワードでのログインは併用可能。パスキー利用時は2段階認証なしでログインできる。一方、パスワードログイン時は2026年10月20日より2段階認証が必須化され、方式は認証アプリ（TOTP）またはSMS/メールの6桁コードから選択する",
+  "delegatedServices": [
+    {
+      "name": "かんぽ生命マイページ",
+      "reading": "かんぽせいめいまいぺーじ",
+      "sourceUrl": "https://www.jp-life.japanpost.jp/mypage/jpid/index.html",
+      "sourceNote": "かんぽ生命公式「マイページのご利用にはゆうIDへのログインが必要です」（2026-03-23よりゆうIDへ変更）"
+    }
+  ],
   "recommendation": "passkey",
   "documentationUrl": "https://faq-jpid.pf.japanpost.jp/hc/ja/sections/13554524426639--%E3%83%91%E3%82%B9%E3%82%AD%E3%83%BC-%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%AA%E5%95%8F",
   "passkey": {

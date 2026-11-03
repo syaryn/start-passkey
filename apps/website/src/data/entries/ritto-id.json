@@ -9,5 +9,13 @@
   "verifiedUrl": "https://id.rittor-music.co.jp/faq",
   "url": "https://id.rittor-music.co.jp/",
   "notes": "リットーミュージックの共通ID基盤で、デジマートやギアコレ等がログインを委譲する（旧デジマートID・ギター・マガジン会員ID・サンレコID・T-OD会員IDはリットーIDに統合済み）。ログインはログインID（メールアドレス）＋パスワードのみ。登録時のメール認証や、パスワード誤入力時のアカウントロック解除（メールリンク）はログイン時の追加認証ではない。公式FAQに二段階認証・認証アプリ・パスキーの設定案内はなし",
+  "delegatedServices": [
+    {
+      "name": "デジマート",
+      "reading": "でじまーと",
+      "sourceUrl": "https://id.rittor-music.co.jp/faq",
+      "sourceNote": "リットーID公式FAQ: 旧デジマートIDはリットーIDに統合済み（運営会社のプレスリリースでも「デジマート（リットーID）への会員登録が必須」と明記）"
+    }
+  ],
   "recommendation": "password-only"
 }

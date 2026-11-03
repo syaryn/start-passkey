@@ -9,6 +9,14 @@
   "verifiedUrl": "https://www.meta.com/ja-jp/help/meta-account/1991801474748071/",
   "url": "https://www.instagram.com/",
   "notes": "パスキーはMetaアカウント単位で作成し、InstagramのほかFacebook・Messenger等でも共通利用する。指紋・顔認証・画面ロックでパスワードなしにサインインできる。Meta公式ヘルプでは、全員に提供されているわけではなく、アプリ・端末・ブラウザにより利用可否が異なるとされている。Advanced Protectionに登録しているアカウント（広告・ビジネスツール利用等）はパスキー作成が必須となる場合がある。2段階認証（認証アプリ・SMS等）とは別の設定で、パスキーは第2要素ではなくパスワードの代替として使われる。",
+  "delegatedServices": [
+    {
+      "name": "Threads",
+      "reading": "すれっず",
+      "sourceUrl": "https://help.instagram.com/1747515265645443/?helpref=uf_permalink&parent_cms_id=179980294969821&locale=ja_JP",
+      "sourceNote": "Instagram公式ヘルプ「Threadsプロフィールを作成するには、InstagramまたはFacebookアカウントでログインする必要があります」（実ブラウザで本文確認）"
+    }
+  ],
   "recommendation": "passkey",
   "documentationUrl": "https://www.meta.com/ja-jp/help/meta-account/1991801474748071/",
   "passkey": {

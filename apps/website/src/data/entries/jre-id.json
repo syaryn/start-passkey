@@ -9,6 +9,26 @@
   "verifiedUrl": "https://www.jreast.co.jp/jreid/security/",
   "url": "https://www.jreast.co.jp",
   "notes": "JR東日本グループの統合IDで、えきねっと・モバイルSuica・JRE POINT等のログイン基盤。マイページでパスキーを設定するとパスワードの代わりに端末の指紋・顔・PIN等でログインできる。パスキーをパスワード入力後の第2要素として使う方式は案内されていないため mfa は unsupported。別途、ログイン時のSMS認証コードも設定可能。認証アプリ（TOTP）の案内は公式情報になし",
+  "delegatedServices": [
+    {
+      "name": "えきねっと",
+      "reading": "えきねっと",
+      "sourceUrl": "https://www.jreast.co.jp/es/ticketless/assets/page/top/pdf/ekinet_guide.pdf",
+      "sourceNote": "JR東日本公式のえきねっと案内資料「会員登録にはJRE IDが必要となります」"
+    },
+    {
+      "name": "JRE POINT",
+      "reading": "じぇいあーるいーぽいんと",
+      "sourceUrl": "https://media.jreast.co.jp/articles/5679",
+      "sourceNote": "JR東日本公式メディア「JRE POINT WEBサイトの新規登録には『JRE ID』が必要です」"
+    },
+    {
+      "name": "モバイルSuica",
+      "reading": "もばいるすいか",
+      "sourceUrl": "http://www.jreast.co.jp/press/2024/20241217_ho01.pdf",
+      "sourceNote": "JR東日本公式プレスリリース: JRE IDの対象サービスとしてモバイルSuicaを挙げ「対象サービスの新規登録時、必ずJRE IDをご利用いただく必要があります」"
+    }
+  ],
   "recommendation": "passkey",
   "documentationUrl": "https://idfaq.jreast.co.jp/faq/show/38?category_id=8&site_domain=default",
   "passkey": {

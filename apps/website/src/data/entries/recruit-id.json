@@ -9,6 +9,38 @@
   "verifiedUrl": "https://point.recruit.co.jp/recruitid/",
   "url": "https://point.recruit.co.jp",
   "notes": "ホットペッパービューティーやSUUMOなど、リクルートIDを利用するサービスのログイン・本人確認でパスキーが使える。パスキー設定後もパスワードでのログインは併用可。パスキーはパスワードの代替であり、パスワード入力後の第2要素として使う形ではない（別途、コード式の2段階認証も提供されている）。一部のアプリは未対応で、順次対応予定と案内されている",
+  "delegatedServices": [
+    {
+      "name": "ポンタ",
+      "reading": "ぽんた",
+      "sourceUrl": "https://faq.ponta.jp/answer/641958b4bb8a5cfdb0e9c87b/",
+      "sourceNote": "公式FAQ「リクルートIDとパスワードを入力することで、PontaWebへログインいただけます」"
+    },
+    {
+      "name": "ホットペッパービューティー",
+      "reading": "ほっとぺっぱーびゅーてぃー",
+      "sourceUrl": "https://beauty.hotpepper.jp/doc/onlinePay/info/information_security.html?ctm=c_all_info_05",
+      "sourceNote": "公式ページ「リクルートIDを登録いただいた会員の方がHot Pepper Beautyにログイン」と説明"
+    },
+    {
+      "name": "タウンワーク",
+      "reading": "たうんわーく",
+      "sourceUrl": "https://help.townwork.net/s/article/000025083",
+      "sourceNote": "公式ヘルプ「会員の種類について」で会員基盤がリクルートIDと案内"
+    },
+    {
+      "name": "フロムエー",
+      "reading": "ふろむえー",
+      "sourceUrl": "https://point.recruit.co.jp/recruitid/doc/policy/service.html",
+      "sourceNote": "リクルートID公式の利用サービス一覧にフロム・エーナビが掲載"
+    },
+    {
+      "name": "SUUMO",
+      "reading": "すーも",
+      "sourceUrl": "https://point.recruit.co.jp/recruitid/doc/policy/service.html",
+      "sourceNote": "リクルートID公式の利用サービス一覧にSUUMOが掲載"
+    }
+  ],
   "recommendation": "passkey",
   "documentationUrl": "https://point.recruit.co.jp/recruitid/doc/announcement/passkey.html",
   "passkey": {

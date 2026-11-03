@@ -9,6 +9,20 @@
   "verifiedUrl": "https://info.eisys.co.jp/dlsite/957472154f80e60a?locale=default",
   "url": "https://vivion.jp/",
   "notes": "viviONグループの統合ID（旧DLsiteアカウント、2025年4月に名称変更）。DLsite、Ci-en、DLsiteにじGAME、comipo等のログインに使う共通基盤。2段階認証は認証アプリで確認する認証コード方式で、ログイン時に使える（2024年9月導入、初期設定はOFFで任意設定）。いずれかの連携サービスで設定すると他連携サービスにも共通して適用される。パスキーの公式案内はなし。詳細な設定手順はDLsiteヘルプ（cs.dlsite.com）へ案内されている",
+  "delegatedServices": [
+    {
+      "name": "DLsite",
+      "reading": "でぃーえるさいと",
+      "sourceUrl": "https://vivion.jp/news/293",
+      "sourceNote": "viviON公式お知らせ: DLsiteアカウントは2025年4月にviviON IDへ名称変更（同一基盤）"
+    },
+    {
+      "name": "Ci-en",
+      "reading": "しーえん",
+      "sourceUrl": "https://vivion.jp/news/293",
+      "sourceNote": "viviON公式お知らせ（DLsiteアカウント→viviON ID）およびエイシス公式情報: Ci-enはviviON ID連携サービスで、2段階認証設定は連携サービス共通"
+    }
+  ],
   "recommendation": "authenticator",
   "documentationUrl": "https://info.eisys.co.jp/dlsite/957472154f80e60a?locale=default"
 }

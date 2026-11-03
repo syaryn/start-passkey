@@ -9,6 +9,14 @@
   "verifiedUrl": "https://help.line.me/line/smartphone/?contentId=200002149&lang=ja",
   "url": "https://line.me/ja/",
   "notes": "パスキーは公開鍵暗号方式で、メールアドレスやパスワードを入力せず、生体認証や画面ロック解除でログインする代替手段。電話番号とSMS認証番号は基本的な登録・ログイン資格情報であり、パスキーを第2要素として使う公式案内はない。ログイン時のパスワード入力をオフにできる設定はあるが、パスキーがパスワード後の追加要素になる方式ではない。パソコン版の初回ログイン等でメイン端末へ認証番号を入力する本人確認は、パスキーとしての追加認証としては数えない。LINE MUSICなど、LINEアカウントを共通基盤として使うサービスがある。",
+  "delegatedServices": [
+    {
+      "name": "LINE MUSIC",
+      "reading": "らいんみゅーじっく",
+      "sourceUrl": "https://help2.line.me/LINEMusic/web/categoryId/200000156/3/pc?lang=ja",
+      "sourceNote": "LINE MUSIC公式ヘルプ「LINE MUSICはLINEアカウントでログインが可能です」"
+    }
+  ],
   "recommendation": "passkey",
   "documentationUrl": "https://help.line.me/line/smartphone/?contentId=200002149&lang=ja",
   "passkey": {
