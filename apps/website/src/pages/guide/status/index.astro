@@ -1,0 +1,96 @@
+---
+import { getCollection } from "astro:content";
+import GuideShell from "../../../components/GuideShell.astro";
+import { CATEGORIES } from "../../../data/categories.ts";
+import {
+  RECOMMENDATION_LABELS,
+  RECOMMENDATION_STATS_ORDER,
+  formatRecommendationShare,
+  summarizeEntries,
+} from "../../../data/display.ts";
+import { SITE_LAST_UPDATED } from "../../../data/navigation.ts";
+
+const collection = await getCollection("entries");
+const entries = collection.map((item) => item.data);
+const stats = summarizeEntries(entries);
+const withAdditional =
+  stats.byRecommendation.passkey + stats.byRecommendation.authenticator + stats.byRecommendation.code;
+const perCategory = CATEGORIES.map((category) => {
+  const inCategory = entries.filter((entry) => entry.categories.includes(category.slug));
+  const passkey = inCategory.filter((entry) => entry.recommendation === "passkey").length;
+  return { label: category.label, total: inCategory.length, passkey };
+}).filter((row) => row.total > 0);
+---
+
+<GuideShell
+  title="掲載データで見る対応状況｜そしてパスキーへ"
+  description="掲載中のサービス全体で、パスキーや二段階認証にどこまで対応が進んでいるかを、区分とカテゴリから読みます。"
+  h1="掲載データで見る対応状況"
+  lastUpdated={SITE_LAST_UPDATED}
+>
+  <p>
+    このページの数字はこのサイトに掲載している {stats.total.toLocaleString("ja-JP")} 件から自動で集計したものです。日本の利用者がよく使うサービスを中心に掲載しているため、社会全体の無作為な調査結果ではありません。確認日時点で公式情報から確かめられた状態を表します。
+  </p>
+
+  <h2>区分ごとの内訳</h2>
+  <div class="dads-table-wrap">
+    <table class="dads-table">
+      <thead>
+        <tr>
+          <th scope="col">いま切り替えるなら</th>
+          <th scope="col">件数</th>
+          <th scope="col">割合</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          RECOMMENDATION_STATS_ORDER.map((recommendation) => (
+            <tr>
+              <td>{RECOMMENDATION_LABELS[recommendation]}</td>
+              <td>{stats.byRecommendation[recommendation].toLocaleString("ja-JP")} 件</td>
+              <td>{formatRecommendationShare(stats.byRecommendation[recommendation], stats.total)}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+  <p>
+    何らかの追加認証（パスキー・認証アプリ・SMS・メールのいずれか）が使えるサービスは {withAdditional.toLocaleString("ja-JP")} 件で、全体の {formatRecommendationShare(withAdditional, stats.total)} です。残りは、確認時点で追加認証が公式情報から確認できなかったサービスと、区分に当てはまらない方式のサービスです。
+  </p>
+
+  <h2>カテゴリごとのパスキー対応</h2>
+  <div class="dads-table-wrap">
+    <table class="dads-table">
+      <thead>
+        <tr>
+          <th scope="col">カテゴリ</th>
+          <th scope="col">掲載数</th>
+          <th scope="col">うちパスキー</th>
+          <th scope="col">割合</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          perCategory.map((row) => (
+            <tr>
+              <td>{row.label}</td>
+              <td>{row.total.toLocaleString("ja-JP")} 件</td>
+              <td>{row.passkey.toLocaleString("ja-JP")} 件</td>
+              <td>{formatRecommendationShare(row.passkey, row.total)}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+  <p>
+    カテゴリは複数に属するサービスがあるため、カテゴリごとの合計は掲載総数と一致しません。分野によって対応の進み方に差があることと、自分の使うサービスがどのあたりにいるかを見るための目安として使ってください。
+  </p>
+
+  <p>
+    関連: <a href="/guide/priority/">どれから設定するか</a>、
+    <a href="/policy/criteria/">掲載基準・更新方針</a>、
+    <a href="/">対応一覧</a>
+  </p>
+</GuideShell>
