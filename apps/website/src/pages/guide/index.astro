@@ -1,6 +1,6 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { GUIDE_LINKS, POLICY_LINKS, SITE_LAST_UPDATED, UTILITY_LINKS } from "../../data/navigation.ts";
+import { AUTH_GUIDE_LINKS, POLICY_LINKS, SITE_GUIDE_LINKS, SITE_LAST_UPDATED, UTILITY_LINKS } from "../../data/navigation.ts";
 ---
 
 <BaseLayout
@@ -13,10 +13,23 @@ import { GUIDE_LINKS, POLICY_LINKS, SITE_LAST_UPDATED, UTILITY_LINKS } from "../
   </p>
 
   <section class="dads-section">
-    <h2 class="dads-std-20b-150" style="margin: 0 0 0.75rem;">はじめに</h2>
+    <h2 class="dads-std-20b-150" style="margin: 0 0 0.75rem;">パスキーと認証の解説</h2>
     <ul class="dads-page-list">
       {
-        GUIDE_LINKS.map((link) => (
+        AUTH_GUIDE_LINKS.map((link) => (
+          <li>
+            <a href={link.href}>{link.label}</a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+
+  <section class="dads-section">
+    <h2 class="dads-std-20b-150" style="margin: 0 0 0.75rem;">このサイトの解説</h2>
+    <ul class="dads-page-list">
+      {
+        SITE_GUIDE_LINKS.map((link) => (
           <li>
             <a href={link.href}>{link.label}</a>
           </li>

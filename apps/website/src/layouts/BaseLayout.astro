@@ -2,8 +2,9 @@
 import "../styles/global.css";
 import ThemeToggle from "../components/ThemeToggle.astro";
 import {
-  GUIDE_LINKS,
+  AUTH_GUIDE_LINKS,
   POLICY_LINKS,
+  SITE_GUIDE_LINKS,
   UTILITY_LINKS,
 } from "../data/navigation.ts";
 import { DEFAULT_DESCRIPTION, SITE_NAME } from "../data/site.ts";
@@ -66,10 +67,22 @@ const { title, description = DEFAULT_DESCRIPTION } = Astro.props;
         </p>
         <nav aria-label="フッター" class="dads-site-footer-grid">
           <div>
-            <p class="dads-site-footer-heading">ガイド</p>
+            <p class="dads-site-footer-heading">認証の解説</p>
             <ul>
               {
-                GUIDE_LINKS.map((link) => (
+                AUTH_GUIDE_LINKS.map((link) => (
+                  <li>
+                    <a href={link.href}>{link.label}</a>
+                  </li>
+                ))
+              }
+            </ul>
+          </div>
+          <div>
+            <p class="dads-site-footer-heading">サイトの解説</p>
+            <ul>
+              {
+                SITE_GUIDE_LINKS.map((link) => (
                   <li>
                     <a href={link.href}>{link.label}</a>
                   </li>
