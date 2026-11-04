@@ -52,11 +52,26 @@ if (category.slug !== primary) {
 
 const delegated = entry.delegatedServices ?? [];
 const verifiedSourceUrl = distinctVerifiedSourceUrl(entry);
-const documentTitle = pageTitle(entry.name);
+const documentTitle = pageTitle(
+  `${entry.name}のパスキー・二段階認証対応の状況と公式ヘルプのURL`,
+);
+const noteLead = (() => {
+  const first = (entry.notes ?? "").split("。")[0] ?? "";
+  if (first.length <= 80) {
+    return first;
+  }
+  const cut = first.slice(0, 80);
+  const idx = cut.lastIndexOf("、");
+  return idx > 0 ? cut.slice(0, idx) : cut;
+})();
 const documentDescription =
-  delegated.length > 0
-    ? `${entry.name}のパスキー・二段階認証の対応状況と、同じIDでログインできる委譲サービスです。`
-    : `${entry.name}のパスキー・二段階認証の対応状況です。`;
+  `${entry.name}のパスキー・二段階認証の対応状況を公式ヘルプで確認した結果です。` +
+  `いま切り替えるなら「${RECOMMENDATION_LABELS[entry.recommendation]}」です` +
+  (noteLead ? `（${noteLead}）。` : "。") +
+  (delegated.length > 0
+    ? `同じIDでログインできる委譲サービス${delegated.length}件もあわせて載せています。`
+    : "") +
+  `公式ヘルプのURLと確認日（${entry.verifiedOn}）も掲載しています。`;
 ---
 
 <BaseLayout
@@ -145,3 +160,4 @@ const documentDescription =
     ) : null
   }
 </BaseLayout>
+

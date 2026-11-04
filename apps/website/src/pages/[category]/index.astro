@@ -40,10 +40,12 @@ const rows = all
   .sort((a, b) => compareByReading(a.data, b.data));
 
 const heading = categoryTitle(slug);
-const documentTitle = pageTitle(heading);
+const documentTitle = pageTitle(
+  `${category.label}のパスキー・二段階認証対応一覧（${rows.length}件）`,
+);
 ---
 
-<BaseLayout title={documentTitle} description={`${category.label}カテゴリのパスキー・二段階認証の対応状況一覧です。`}>
+<BaseLayout title={documentTitle} description={`${category.label}の${rows.length}件のサービスについて、パスキー・二段階認証の対応状況を公式情報で確認した一覧です。`}>
   <header class="dads-page-header">
     <p style="margin: 0 0 1rem;">
       <a href="/">← トップ</a>
@@ -154,3 +156,4 @@ const documentTitle = pageTitle(heading);
     wireEntryNotePopovers();
   </script>
 </BaseLayout>
+
