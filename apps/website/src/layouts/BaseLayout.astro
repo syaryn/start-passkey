@@ -50,7 +50,7 @@ const ogImageUrl = new URL("/og/default.png", Astro.site);
           <span class="dads-std-20b-150">{SITE_NAME}</span>
         </a>
         <div class="dads-site-header-actions">
-          <nav class="dads-site-nav" aria-label="メイン">
+          <nav class="dads-site-nav" id="site-nav" aria-label="メイン">
             <ul>
               <li>
                 <a href="/sitemap/#guide">ガイド</a>
@@ -64,9 +64,76 @@ const ogImageUrl = new URL("/og/default.png", Astro.site);
             </ul>
           </nav>
           <ThemeToggle />
+          <button
+            type="button"
+            class="dads-site-menu-btn"
+            id="site-menu-button"
+            aria-expanded="false"
+            aria-controls="site-nav"
+            aria-label="メニューを開く"
+          >
+            <span class="i-lucide-menu dads-icon-inline dads-site-menu-icon" data-menu-icon aria-hidden="true"></span>
+            <span>メニュー</span>
+          </button>
         </div>
       </div>
     </header>
+
+    <noscript>
+      <style>
+        @media (max-width: 767px) {
+          .dads-site-menu-btn {
+            display: none;
+          }
+          .dads-site-nav {
+            display: block;
+            position: static;
+            padding: 0;
+            border-bottom: none;
+            box-shadow: none;
+          }
+        }
+      </style>
+    </noscript>
+
+    <script>
+      const menuButton = document.getElementById("site-menu-button");
+      const siteNav = document.getElementById("site-nav");
+      if (menuButton && siteNav) {
+        const menuIcon = menuButton.querySelector("[data-menu-icon]");
+        const setMenuOpen = (open: boolean) => {
+          menuButton.setAttribute("aria-expanded", String(open));
+          menuButton.setAttribute("aria-label", open ? "メニューを閉じる" : "メニューを開く");
+          if (open) {
+            siteNav.setAttribute("data-open", "true");
+          } else {
+            siteNav.removeAttribute("data-open");
+          }
+          if (menuIcon) {
+            menuIcon.className = `${open ? "i-lucide-x" : "i-lucide-menu"} dads-icon-inline dads-site-menu-icon`;
+          }
+        };
+        menuButton.addEventListener("click", () => {
+          setMenuOpen(menuButton.getAttribute("aria-expanded") !== "true");
+        });
+        document.addEventListener("keydown", (event) => {
+          if (event.key === "Escape" && menuButton.getAttribute("aria-expanded") === "true") {
+            setMenuOpen(false);
+            menuButton.focus();
+          }
+        });
+        siteNav.addEventListener("click", (event) => {
+          if (event.target instanceof Element && event.target.closest("a")) {
+            setMenuOpen(false);
+          }
+        });
+        window.matchMedia("(min-width: 768px)").addEventListener("change", (event) => {
+          if (event.matches) {
+            setMenuOpen(false);
+          }
+        });
+      }
+    </script>
 
     <main id="main-content" class="dads-site-main dads-content">
       <slot />
@@ -131,3 +198,4 @@ const ogImageUrl = new URL("/og/default.png", Astro.site);
     </footer>
   </body>
 </html>
+
