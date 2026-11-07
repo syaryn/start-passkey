@@ -1,0 +1,13 @@
+min_version = "2024.11.1"
+
+[tools]
+apm = "0.35.0"
+
+[tasks.sync-yomiyasu]
+description = "Fetch nanaism/yomiyasu for APM (strips .codex-plugin for project-scope install)"
+run = "vpx ./scripts/sync-yomiyasu-apm.ts"
+
+[tasks."agents:install"]
+description = "Sync yomiyasu and deploy Cursor skills via APM"
+depends = ["sync-yomiyasu"]
+run = "apm install --target cursor"
