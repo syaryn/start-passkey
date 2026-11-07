@@ -1,0 +1,18 @@
+{
+  "name": "三菱UFJ銀行（三菱UFJダイレクト）",
+  "reading": "みつびしゆーえふじぇーぎんこう（みつびしゆーえふじぇーだいれくと）",
+  "domain": "bk.mufg.jp",
+  "categories": [
+    "banking"
+  ],
+  "verifiedOn": "2026-11-06",
+  "verifiedUrl": "https://direct.bk.mufg.jp/secure/ansnps/index.html",
+  "url": "https://direct.bk.mufg.jp",
+  "notes": "「MUFGあんしんパス」で端末の生体認証を登録する方式（FIDO準拠。公式名称はパスキーではない）。アプリではパスワードを入力せずにログインでき、登録するとパソコン等のブラウザでログインする場合も登録端末での生体認証による承認が必要になる。登録できるスマートフォンは1台のみで、登録は任意。未登録の場合はご契約番号とログインパスワードでログインし、ワンタイムパスワード（アプリ／カード）は主に振込等の取引時の認証に使う",
+  "recommendation": "passkey",
+  "documentationUrl": "https://direct.bk.mufg.jp/btm/banking/sp_appli/seitai.html",
+  "passkey": {
+    "passwordless": "allowed",
+    "mfa": "allowed"
+  }
+}
