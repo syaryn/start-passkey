@@ -1,6 +1,6 @@
 import { listAllCategoryNavItems } from "./category-groups.ts";
 
-export const SITE_LAST_UPDATED = "2026-11-03";
+export const SITE_LAST_UPDATED = "2026-11-07";
 
 export const AUTH_GUIDE_LINKS = [
   { href: "/guide/passkey/", label: "パスキーとは" },

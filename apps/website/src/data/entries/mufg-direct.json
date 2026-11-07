@@ -2,9 +2,7 @@
   "name": "三菱UFJ銀行（三菱UFJダイレクト）",
   "reading": "みつびしゆーえふじぇーぎんこう（みつびしゆーえふじぇーだいれくと）",
   "domain": "bk.mufg.jp",
-  "categories": [
-    "banking"
-  ],
+  "categories": ["banking"],
   "verifiedOn": "2026-11-06",
   "verifiedUrl": "https://direct.bk.mufg.jp/secure/ansnps/index.html",
   "url": "https://direct.bk.mufg.jp",

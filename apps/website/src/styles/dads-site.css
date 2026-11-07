@@ -97,9 +97,10 @@ video {
 .dads-site-menu-btn {
   display: none;
   align-items: center;
-  gap: 0.5rem;
+  justify-content: center;
   min-height: 2.75rem;
-  padding: 0.375rem 0.75rem;
+  min-width: 2.75rem;
+  padding: 0.375rem;
   border: 1px solid var(--dads-gray-536);
   border-radius: var(--dads-radius-sm);
   background-color: var(--dads-surface-subtle);
@@ -1186,4 +1187,3 @@ video {
   margin: 0;
   line-height: 1.7;
 }
-

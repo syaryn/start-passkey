@@ -24,6 +24,7 @@ release. Add a tool name to select part of the graph. For example, run
 ## Review Checklist
 
 - [ ] Run `vp install` after pulling remote changes and before getting started.
+- [ ] 掲載データ・UI・公開ドメインなど利用者向けの変更をしたら、`apps/website/src/pages/updates/index.astro` に追記し、`apps/website/src/data/navigation.ts` の `SITE_LAST_UPDATED` を同じ日付に揃える。
 - [ ] Run `vp check` and `vp test` to format, lint, type check and test changes.
 - [ ] Check if there are `vite.config.ts` tasks or `package.json` scripts necessary for validation, run via `vp run <script>`.
 - [ ] If setup, runtime, or package-manager behavior looks wrong, run `vp env doctor` and include its output when asking for help.
