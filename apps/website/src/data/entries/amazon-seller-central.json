@@ -5,10 +5,13 @@
   "categories": [
     "developer"
   ],
-  "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://sellercentral.amazon.co.jp/gp/help/external/202153510",
+  "verifiedOn": "2026-11-07",
+  "verifiedUrl": "https://sellercentral.amazon.co.jp/help/hub/reference/external/GHBVLKJT74DS9A54",
   "url": "https://sellercentral.amazon.co.jp/",
-  "notes": "出品者アカウント専用のエントリ（消費者向けAmazonアカウントとは別）。公式FAQにより、セラーセントラルの全ユーザーに2段階認証の有効化が必須。コードの受け取り手段としてSMS・音声通話のほか認証アプリ（TOTP）を登録でき、認証アプリを第1手段にできるためauthenticatorに分類。パスキーによるサインインはセラーセントラル公式ヘルプでは案内されていない。",
-  "recommendation": "authenticator",
-  "documentationUrl": "https://sellercentral.amazon.co.jp/help/hub/reference/external/G202110780"
+  "notes": "出品者アカウント専用のエントリ（消費者向けAmazonアカウントとは別）。2026年7月から全アカウントでパスキーによるサインインが利用可能。「ログインとセキュリティ」から設定し、有効化後はパスワード入力の代わりに指紋・顔・PIN・QRコードでサインインする。2026年後半には一部アカウントで必須となる予定。パスワードでサインインする場合は、2段階認証（SMS・音声通話・認証アプリ）が引き続き必須。",
+  "recommendation": "passkey",
+  "documentationUrl": "https://sellercentral.amazon.co.jp/help/hub/reference/external/GHBVLKJT74DS9A54",
+  "passkey": {
+    "passwordless": "allowed"
+  }
 }

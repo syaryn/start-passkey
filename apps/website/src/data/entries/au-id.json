@@ -5,10 +5,10 @@
   "categories": [
     "utilities"
   ],
-  "verifiedOn": "2026-11-01",
-  "verifiedUrl": "https://www.au.com/au-id/guide/",
+  "verifiedOn": "2026-11-07",
+  "verifiedUrl": "https://id.auone.jp/id/help/fido/index.html",
   "url": "https://www.au.com",
-  "notes": "2段階認証はSMS（Cメール）のワンタイムURL、またはSMS/Eメールで届く6桁の確認コードのみ。パスキーおよび認証アプリ（TOTP）の設定は公式情報で確認できなかった。",
+  "notes": "「指紋・顔認証によるログイン」は、端末の生体認証キーを登録するFIDO方式（公式名称はパスキーではない）。登録した端末（最大10台）の生体認証でログインでき、設定するとパスワードによるログインは無効になる（パスワードによるログインは任意で一時的に有効化できる）。パソコンからは、登録済みのスマートフォンでQRコードを読み取り生体認証することでログインできる。2段階認証（SMSのワンタイムURL、SMS/Eメールで届く6桁の確認コード）も利用できる。",
   "delegatedServices": [
     {
       "name": "UQ mobile",
@@ -29,6 +29,10 @@
       "sourceNote": "公式FAQ: PontaアプリはPontaWebまたはau IDでログインできると案内"
     }
   ],
-  "recommendation": "code",
-  "documentationUrl": "https://www.au.com/au-id/auth-two-factor/"
+  "recommendation": "passkey",
+  "documentationUrl": "https://www.au.com/au-id/auth-biometric/",
+  "passkey": {
+    "passwordless": "allowed",
+    "mfa": "allowed"
+  }
 }
