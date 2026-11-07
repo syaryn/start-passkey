@@ -27,6 +27,7 @@
 
 - Node.js 26.13.0 以上
 - pnpm 12 系（Vite+ の `vp` コマンドを使います）
+- 任意: [mise](https://mise.jdx.dev/) と [APM](https://github.com/microsoft/apm)（推敲スキル yomiyasu 用）
 
 ```bash
 vp install        # 依存関係のインストール
@@ -35,6 +36,17 @@ vp check          # 整形・lint・型チェック
 vp run -r test    # テスト
 vp run ready      # チェック・テスト・ビルドをまとめて実行
 ```
+
+### エージェントスキル（yomiyasu）
+
+サイト本体には含めず、[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) v2.5.0 を [APM](https://microsoft.github.io/apm/) で管理します。取得と Cursor への展開:
+
+```bash
+mise install
+mise run agents:install
+```
+
+`apm.yml` と `apm.lock.yaml` をコミットし、`.agents/skills/yomiyasu/` と `apm-packages/yomiyasu/` は生成物のためリポジトリ外（`.gitignore`）です。上流に `.codex-plugin` があるため、プロジェクトスコープ向けに同期スクリプトが `.codex-plugin` を除いてから APM に渡します。
 
 website だけのコマンドは pnpm フィルタでも実行できます。
 

@@ -1,0 +1,9 @@
+# yomiyasu は nanaism/yomiyasu@v2.5.0 を scripts/sync-yomiyasu-apm.ts で取得し、
+# .codex-plugin を除いた ./apm-packages/yomiyasu から APM が展開する（プロジェクトスコープ）。
+name: start-passkey
+version: 0.0.0
+targets:
+  - cursor
+dependencies:
+  apm:
+    - ./apm-packages/yomiyasu

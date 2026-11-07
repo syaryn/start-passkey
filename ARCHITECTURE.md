@@ -28,7 +28,8 @@ start-passkey/
 │   └── utils/              # 共用ユーティリティ（src と tests）
 ├── scripts/                # CSV からの取り込み・整形スクリプト
 ├── docs/                   # 取り込み元 CSV（全件一覧、委譲一覧）
-├── .agents/skills/         # 執筆支援スキル（yomiyasu）
+├── apm.yml                 # エージェントスキル（yomiyasu）の APM マニフェスト
+├── mise.toml               # apm CLI と `mise run agents:install`
 ├── AGENTS.md               # Vite+ の利用規約メモ
 └── README.md
 ```

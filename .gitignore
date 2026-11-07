@@ -40,3 +40,10 @@ coverage
 
 # AI agent worktrees
 .claude/worktrees/
+
+
+# APM dependencies (see apm.yml / mise tasks agents:install)
+apm_modules/
+apm-packages/yomiyasu/
+.agents/skills/yomiyasu/
+.tmp/

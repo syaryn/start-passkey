@@ -1,0 +1,5 @@
+name: start-passkey CodeQL
+paths-ignore:
+  - .agents
+  - apm-packages
+  - apm_modules
